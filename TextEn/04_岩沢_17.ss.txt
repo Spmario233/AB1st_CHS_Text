@@ -1,0 +1,33 @@
+○000000○nothing
+●000000●nothing
+
+○000001○nothing
+●000001●nothing
+
+○000002○nothing
+●000002●nothing
+
+○000003○nothing
+●000003●nothing
+
+○000004○nothing
+●000004●nothing
+
+○000005○GirlDeMo was mid-practice.
+●000005●GDM正在练习。
+
+○000006○I watched Iwasawa sing for just a moment, then turned around and left.
+●000006●我注视了一眼岩泽歌唱着的身姿，然后转身离开了。
+
+○000007○dummy
+●000007●dummy
+
+○000008○ep03_bg015
+●000008●ep03_bg015
+
+○000009○bs2_iw0104_08
+●000009●bs2_iw0104_08
+
+○000010○bg_kuro
+●000010●bg_kuro
+

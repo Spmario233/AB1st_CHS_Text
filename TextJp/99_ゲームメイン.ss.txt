@@ -1,0 +1,135 @@
+○000000○-1st beat- タイトルメニュー
+●000000●-1st beat- タイトルメニュー
+
+○000001○-1st beat- EPISODE.11 Change the World
+●000001●-1st beat- EPISODE.11 Change the World
+
+○000002○00_AB20a_day27
+●000002●00_AB20a_day27
+
+○000004○-1st beat- EPISODE.01 Departure
+●000004●-1st beat- EPISODE.01 Departure
+
+○000005○00_AB01a_day00
+●000005●00_AB01a_day00
+
+○000006○00_AB01b_day01
+●000006●00_AB01b_day01
+
+○000007○-1st beat- EPISODE.02 Guild
+●000007●-1st beat- EPISODE.02 Guild
+
+○000008○00_AB02a_day02
+●000008●00_AB02a_day02
+
+○000009○-1st beat- EPISODE.03 My Song
+●000009●-1st beat- EPISODE.03 My Song
+
+○000010○00_AB03a_day03
+●000010●00_AB03a_day03
+
+○000011○00_AB04a_day04
+●000011●00_AB04a_day04
+
+○000012○00_AB05a_day05
+●000012●00_AB05a_day05
+
+○000013○-1st beat- EPISODE.04 Day Game
+●000013●-1st beat- EPISODE.04 Day Game
+
+○000014○00_AB06a_day06
+●000014●00_AB06a_day06
+
+○000015○00_AB06b_day06
+●000015●00_AB06b_day06
+
+○000016○00_AB07a_day07
+●000016●00_AB07a_day07
+
+○000017○-1st beat- EPISODE.05 Favorite Flavor
+●000017●-1st beat- EPISODE.05 Favorite Flavor
+
+○000018○00_AB08a_day08
+●000018●00_AB08a_day08
+
+○000019○00_AB09a_day09-15
+●000019●00_AB09a_day09-15
+
+○000020○00_AB09b_day09-15
+●000020●00_AB09b_day09-15
+
+○000021○00_AB09c_day09-15
+●000021●00_AB09c_day09-15
+
+○000022○00_AB10a_day16-17
+●000022●00_AB10a_day16-17
+
+○000023○-1st beat- EPISODE.06 Family Affair
+●000023●-1st beat- EPISODE.06 Family Affair
+
+○000024○00_AB11a_day18
+●000024●00_AB11a_day18
+
+○000025○00_AB12a_day19
+●000025●00_AB12a_day19
+
+○000026○00_AB13a_day20
+●000026●00_AB13a_day20
+
+○000027○00_AB14a_day21
+●000027●00_AB14a_day21
+
+○000028○00_AB14b_day21
+●000028●00_AB14b_day21
+
+○000029○-1st beat- EPISODE.07 Alive
+●000029●-1st beat- EPISODE.07 Alive
+
+○000030○00_AB15a_day22
+●000030●00_AB15a_day22
+
+○000031○00_AB15b_day23
+●000031●00_AB15b_day23
+
+○000032○-1st beat- EPISODE.08 Dancer in the Dark
+●000032●-1st beat- EPISODE.08 Dancer in the Dark
+
+○000033○00_AB16a_day24
+●000033●00_AB16a_day24
+
+○000034○00_AB17a_day25
+●000034●00_AB17a_day25
+
+○000035○00_AB17b_day25
+●000035●00_AB17b_day25
+
+○000036○00_AB18a_day26
+●000036●00_AB18a_day26
+
+○000037○-1st beat- EPISODE.10 Goodbye Days
+●000037●-1st beat- EPISODE.10 Goodbye Days
+
+○000038○00_AB19a_day27
+●000038●00_AB19a_day27
+
+○000039○dummy
+●000039●dummy
+
+○000040○_sys_menu_tt01
+●000040●_sys_menu_tt01
+
+○000041○bg_siro
+●000041●bg_siro
+
+○000042○sys_logo01
+●000042●sys_logo01
+
+○000043○bg_kuro
+●000043●bg_kuro
+
+○000044○bg_kuro
+●000044●bg_kuro
+
+○000045○bg_kuro
+●000045●bg_kuro
+

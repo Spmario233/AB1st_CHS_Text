@@ -1,0 +1,9990 @@
+○000000○We changed into jerseys and headed to the baseball field.
+●000000●我们换上了运动服，来到了棒球场。
+
+○000001○First, we stretched.
+●000001●首先是两个人一起进行伸展运动。
+
+○000002○nothing
+●000002●nothing
+
+○000003○nothing
+●000003●nothing
+
+○000004○nothing
+●000004●nothing
+
+○000005○nothing
+●000005●nothing
+
+○000006○nothing
+●000006●nothing
+
+○000007○Hinata
+●000007●日向
+
+○000008○Man B
+●000008●男性B
+
+○000009○Ero-Ero Brigade Commander
+●000009●老色批战队统帅
+
+○000010○Niceschlong
+●000010●长枪
+
+○000011○Homotaro
+●000011●Homotaro
+
+○000012○Hinaschlong
+●000012●日枪
+
+○000013○Hideki
+●000013●秀树
+
+○000014○Schoolboy
+●000014●男学生
+
+○000015○??
+●000015●？？
+
+○000016○"Alright, Just Another Pervy Teenager, ready to run?"
+●000016●「那么，只是个色批少年，准备好跑步了吗？」
+
+○000017○Hinata
+●000017●日向
+
+○000018○Man B
+●000018●男性B
+
+○000019○Ero-Ero Brigade Commander
+●000019●老色批战队统帅
+
+○000020○Niceschlong
+●000020●长枪
+
+○000021○Homotaro
+●000021●Homotaro
+
+○000022○Hinaschlong
+●000022●日枪
+
+○000023○Hideki
+●000023●秀树
+
+○000024○Schoolboy
+●000024●男学生
+
+○000025○??
+●000025●？？
+
+○000026○"Alright, Otonashi, ready to run?"
+●000026●「那么，音无，准备好跑步了吗？」
+
+○000027○Otonashi
+●000027●音无
+
+○000028○Damn Brat
+●000028●祖安带师
+
+○000029○Proxy
+●000029●代理人
+
+○000030○Way Too Iffy Cool Dude
+●000030●微妙的帅小伙
+
+○000031○Lolicon
+●000031●萝莉控
+
+○000032○Glasses Comrade
+●000032●眼镜之友
+
+○000033○All-Japan Mental Arithmetic Champion
+●000033●全日本珠心算记录保持者
+
+○000034○Slasher
+●000034●无差别杀人犯
+
+○000035○No-Memory Man
+●000035●没记忆的男人
+
+○000036○Onsoku
+●000036●音速
+
+○000037○Mugen
+●000037●无限
+
+○000038○Ero-Samurai
+●000038●色批武士
+
+○000039○Ero-Ero Brigade No.1
+●000039●老色批战队No.1
+
+○000040○Just Another Pervy Teenager
+●000040●只是个色批少年
+
+○000041○Yurisugly
+●000041●丑八怪由理
+
+○000042○Debussy
+●000042●Debussy
+
+○000043○CornHornDog
+●000043●美式色批狗
+
+○000044○Zeus
+●000044●宙斯
+
+○000045○Hinata Mk. 2
+●000045●日向Mk.2
+
+○000046○Dung Beetle
+●000046●屎壳郎
+
+○000047○Consumer Model Hinata
+●000047●量产型日向
+
+○000048○??
+●000048●？？
+
+○000049○"Yeah."
+●000049●「嗯」
+
+○000050○se_run_ground
+●000050●se_run_ground
+
+○000051○I followed Hinata out of the baseball field. Like before, I could barely keep up with his pace.
+●000051●我跟在日向的后面，在棒球场上奔跑着。速度还是那么快，好不容易才能跟上。
+
+○000052○Otonashi
+●000052●音无
+
+○000053○Damn Brat
+●000053●祖安带师
+
+○000054○Proxy
+●000054●代理人
+
+○000055○Way Too Iffy Cool Dude
+●000055●微妙的帅小伙
+
+○000056○Lolicon
+●000056●萝莉控
+
+○000057○Glasses Comrade
+●000057●眼镜之友
+
+○000058○All-Japan Mental Arithmetic Champion
+●000058●全日本珠心算记录保持者
+
+○000059○Slasher
+●000059●无差别杀人犯
+
+○000060○No-Memory Man
+●000060●没记忆的男人
+
+○000061○Onsoku
+●000061●音速
+
+○000062○Mugen
+●000062●无限
+
+○000063○Ero-Samurai
+●000063●色批武士
+
+○000064○Ero-Ero Brigade No.1
+●000064●老色批战队No.1
+
+○000065○Just Another Pervy Teenager
+●000065●只是个色批少年
+
+○000066○Yurisugly
+●000066●丑八怪由理
+
+○000067○Debussy
+●000067●Debussy
+
+○000068○CornHornDog
+●000068●美式色批狗
+
+○000069○Zeus
+●000069●宙斯
+
+○000070○Hinata Mk. 2
+●000070●日向Mk.2
+
+○000071○Dung Beetle
+●000071●屎壳郎
+
+○000072○Consumer Model Hinata
+●000072●量产型日向
+
+○000073○??
+●000073●？？
+
+○000074○"Haaaah... haaaah..."
+●000074●「哈啊—…哈啊—…」
+
+○000075○I quickly ran out of breath and fell away from Hinata.
+●000075●我很快就开始喘气了，渐渐地远离了日向。
+
+○000076○nothing
+●000076●nothing
+
+○000077○nothing
+●000077●nothing
+
+○000078○nothing
+●000078●nothing
+
+○000079○nothing
+●000079●nothing
+
+○000080○nothing
+●000080●nothing
+
+○000081○Hinata
+●000081●日向
+
+○000082○Man B
+●000082●男性B
+
+○000083○Ero-Ero Brigade Commander
+●000083●老色批战队统帅
+
+○000084○Niceschlong
+●000084●长枪
+
+○000085○Homotaro
+●000085●Homotaro
+
+○000086○Hinaschlong
+●000086●日枪
+
+○000087○Hideki
+●000087●秀树
+
+○000088○Schoolboy
+●000088●男学生
+
+○000089○??
+●000089●？？
+
+○000090○"Don't worry about it, Just Another Pervy Teenager! You deperv a break! I mean, deserve a break!"
+●000090●「不用担心！只是个色批少年！色批吧！不对！休息吧！」
+
+○000091○Hinata
+●000091●日向
+
+○000092○Man B
+●000092●男性B
+
+○000093○Ero-Ero Brigade Commander
+●000093●老色批战队统帅
+
+○000094○Niceschlong
+●000094●长枪
+
+○000095○Homotaro
+●000095●Homotaro
+
+○000096○Hinaschlong
+●000096●日枪
+
+○000097○Hideki
+●000097●秀树
+
+○000098○Schoolboy
+●000098●男学生
+
+○000099○??
+●000099●？？
+
+○000100○"Don't worry about it, Otonashi! You deserve a break!"
+●000100●「不用担心！音无！休息吧！」
+
+○000101○nothing
+●000101●nothing
+
+○000102○nothing
+●000102●nothing
+
+○000103○nothing
+●000103●nothing
+
+○000104○nothing
+●000104●nothing
+
+○000105○nothing
+●000105●nothing
+
+○000106○nothing
+●000106●nothing
+
+○000107○Hinata called out to me from far away.
+●000107●日向远远地呼喊着我。
+
+○000108○Otonashi
+●000108●音无
+
+○000109○Damn Brat
+●000109●祖安带师
+
+○000110○Proxy
+●000110●代理人
+
+○000111○Way Too Iffy Cool Dude
+●000111●微妙的帅小伙
+
+○000112○Lolicon
+●000112●萝莉控
+
+○000113○Glasses Comrade
+●000113●眼镜之友
+
+○000114○All-Japan Mental Arithmetic Champion
+●000114●全日本珠心算记录保持者
+
+○000115○Slasher
+●000115●无差别杀人犯
+
+○000116○No-Memory Man
+●000116●没记忆的男人
+
+○000117○Onsoku
+●000117●音速
+
+○000118○Mugen
+●000118●无限
+
+○000119○Ero-Samurai
+●000119●色批武士
+
+○000120○Ero-Ero Brigade No.1
+●000120●老色批战队No.1
+
+○000121○Just Another Pervy Teenager
+●000121●只是个色批少年
+
+○000122○Yurisugly
+●000122●丑八怪由理
+
+○000123○Debussy
+●000123●Debussy
+
+○000124○CornHornDog
+●000124●美式色批狗
+
+○000125○Zeus
+●000125●宙斯
+
+○000126○Hinata Mk. 2
+●000126●日向Mk.2
+
+○000127○Dung Beetle
+●000127●屎壳郎
+
+○000128○Consumer Model Hinata
+●000128●量产型日向
+
+○000129○??
+●000129●？？
+
+○000130○"Alright..."
+●000130●「嗯…」
+
+○000131○I stopped and decided to rest.
+●000131●我停下了脚步，决定休息。
+
+○000132○Hinata finished running.
+●000132●日向跑完了。
+
+○000133○nothing
+●000133●nothing
+
+○000134○nothing
+●000134●nothing
+
+○000135○nothing
+●000135●nothing
+
+○000136○nothing
+●000136●nothing
+
+○000137○nothing
+●000137●nothing
+
+○000138○Hinata
+●000138●日向
+
+○000139○Man B
+●000139●男性B
+
+○000140○Ero-Ero Brigade Commander
+●000140●老色批战队统帅
+
+○000141○Niceschlong
+●000141●长枪
+
+○000142○Homotaro
+●000142●Homotaro
+
+○000143○Hinaschlong
+●000143●日枪
+
+○000144○Hideki
+●000144●秀树
+
+○000145○Schoolboy
+●000145●男学生
+
+○000146○??
+●000146●？？
+
+○000147○"You alright, Just Another Pervy Teenager?"
+●000147●「没事吧？只是个色批少年？」
+
+○000148○Hinata
+●000148●日向
+
+○000149○Man B
+●000149●男性B
+
+○000150○Ero-Ero Brigade Commander
+●000150●老色批战队统帅
+
+○000151○Niceschlong
+●000151●长枪
+
+○000152○Homotaro
+●000152●Homotaro
+
+○000153○Hinaschlong
+●000153●日枪
+
+○000154○Hideki
+●000154●秀树
+
+○000155○Schoolboy
+●000155●男学生
+
+○000156○??
+●000156●？？
+
+○000157○"You alright, Otonashi?"
+●000157●「没事吧？音无？」
+
+○000158○Otonashi
+●000158●音无
+
+○000159○Damn Brat
+●000159●祖安带师
+
+○000160○Proxy
+●000160●代理人
+
+○000161○Way Too Iffy Cool Dude
+●000161●微妙的帅小伙
+
+○000162○Lolicon
+●000162●萝莉控
+
+○000163○Glasses Comrade
+●000163●眼镜之友
+
+○000164○All-Japan Mental Arithmetic Champion
+●000164●全日本珠心算记录保持者
+
+○000165○Slasher
+●000165●无差别杀人犯
+
+○000166○No-Memory Man
+●000166●没记忆的男人
+
+○000167○Onsoku
+●000167●音速
+
+○000168○Mugen
+●000168●无限
+
+○000169○Ero-Samurai
+●000169●色批武士
+
+○000170○Ero-Ero Brigade No.1
+●000170●老色批战队No.1
+
+○000171○Just Another Pervy Teenager
+●000171●只是个色批少年
+
+○000172○Yurisugly
+●000172●丑八怪由理
+
+○000173○Debussy
+●000173●Debussy
+
+○000174○CornHornDog
+●000174●美式色批狗
+
+○000175○Zeus
+●000175●宙斯
+
+○000176○Hinata Mk. 2
+●000176●日向Mk.2
+
+○000177○Dung Beetle
+●000177●屎壳郎
+
+○000178○Consumer Model Hinata
+●000178●量产型日向
+
+○000179○??
+●000179●？？
+
+○000180○"Yeah."
+●000180●「嗯」
+
+○000181○nothing
+●000181●nothing
+
+○000182○nothing
+●000182●nothing
+
+○000183○nothing
+●000183●nothing
+
+○000184○nothing
+●000184●nothing
+
+○000185○nothing
+●000185●nothing
+
+○000186○Hinata
+●000186●日向
+
+○000187○Man B
+●000187●男性B
+
+○000188○Ero-Ero Brigade Commander
+●000188●老色批战队统帅
+
+○000189○Niceschlong
+●000189●长枪
+
+○000190○Homotaro
+●000190●Homotaro
+
+○000191○Hinaschlong
+●000191●日枪
+
+○000192○Hideki
+●000192●秀树
+
+○000193○Schoolboy
+●000193●男学生
+
+○000194○??
+●000194●？？
+
+○000195○"Alright, next up is muscle training. Hold me down, Just Another Pervy Teenager."
+●000195●「好，接下来是肌肉锻炼。只是个色批少年，你先压住我的腿」
+
+○000196○Hinata
+●000196●日向
+
+○000197○Man B
+●000197●男性B
+
+○000198○Ero-Ero Brigade Commander
+●000198●老色批战队统帅
+
+○000199○Niceschlong
+●000199●长枪
+
+○000200○Homotaro
+●000200●Homotaro
+
+○000201○Hinaschlong
+●000201●日枪
+
+○000202○Hideki
+●000202●秀树
+
+○000203○Schoolboy
+●000203●男学生
+
+○000204○??
+●000204●？？
+
+○000205○"Alright, next up is muscle training. Hold me down, Otonashi."
+●000205●「好，接下来是肌肉锻炼。音无，你先压住我的腿」
+
+○000206○Otonashi
+●000206●音无
+
+○000207○Damn Brat
+●000207●祖安带师
+
+○000208○Proxy
+●000208●代理人
+
+○000209○Way Too Iffy Cool Dude
+●000209●微妙的帅小伙
+
+○000210○Lolicon
+●000210●萝莉控
+
+○000211○Glasses Comrade
+●000211●眼镜之友
+
+○000212○All-Japan Mental Arithmetic Champion
+●000212●全日本珠心算记录保持者
+
+○000213○Slasher
+●000213●无差别杀人犯
+
+○000214○No-Memory Man
+●000214●没记忆的男人
+
+○000215○Onsoku
+●000215●音速
+
+○000216○Mugen
+●000216●无限
+
+○000217○Ero-Samurai
+●000217●色批武士
+
+○000218○Ero-Ero Brigade No.1
+●000218●老色批战队No.1
+
+○000219○Just Another Pervy Teenager
+●000219●只是个色批少年
+
+○000220○Yurisugly
+●000220●丑八怪由理
+
+○000221○Debussy
+●000221●Debussy
+
+○000222○CornHornDog
+●000222●美式色批狗
+
+○000223○Zeus
+●000223●宙斯
+
+○000224○Hinata Mk. 2
+●000224●日向Mk.2
+
+○000225○Dung Beetle
+●000225●屎壳郎
+
+○000226○Consumer Model Hinata
+●000226●量产型日向
+
+○000227○??
+●000227●？？
+
+○000228○"Right."
+●000228●「嗯」
+
+○000229○nothing
+●000229●nothing
+
+○000230○nothing
+●000230●nothing
+
+○000231○nothing
+●000231●nothing
+
+○000232○nothing
+●000232●nothing
+
+○000233○nothing
+●000233●nothing
+
+○000234○nothing
+●000234●nothing
+
+○000235○Hinata laid on his back and I held down his feet.
+●000235●日向仰面躺了下来。我按住了他的双脚。
+
+○000236○Hinata
+●000236●日向
+
+○000237○Man B
+●000237●男性B
+
+○000238○Ero-Ero Brigade Commander
+●000238●老色批战队统帅
+
+○000239○Niceschlong
+●000239●长枪
+
+○000240○Homotaro
+●000240●Homotaro
+
+○000241○Hinaschlong
+●000241●日枪
+
+○000242○Hideki
+●000242●秀树
+
+○000243○Schoolboy
+●000243●男学生
+
+○000244○??
+●000244●？？
+
+○000245○"One! Two!"
+●000245●「一！二！」
+
+○000246○He started doing sit-ups.
+●000246●日向坐起了仰卧起坐。
+
+○000247○Hinata
+●000247●日向
+
+○000248○Man B
+●000248●男性B
+
+○000249○Ero-Ero Brigade Commander
+●000249●老色批战队统帅
+
+○000250○Niceschlong
+●000250●长枪
+
+○000251○Homotaro
+●000251●Homotaro
+
+○000252○Hinaschlong
+●000252●日枪
+
+○000253○Hideki
+●000253●秀树
+
+○000254○Schoolboy
+●000254●男学生
+
+○000255○??
+●000255●？？
+
+○000256○"One hundred! Haaaa, done!"
+●000256●「一百！哈啊—，结束了！」
+
+○000257○nothing
+●000257●nothing
+
+○000258○nothing
+●000258●nothing
+
+○000259○nothing
+●000259●nothing
+
+○000260○nothing
+●000260●nothing
+
+○000261○nothing
+●000261●nothing
+
+○000262○Hinata
+●000262●日向
+
+○000263○Man B
+●000263●男性B
+
+○000264○Ero-Ero Brigade Commander
+●000264●老色批战队统帅
+
+○000265○Niceschlong
+●000265●长枪
+
+○000266○Homotaro
+●000266●Homotaro
+
+○000267○Hinaschlong
+●000267●日枪
+
+○000268○Hideki
+●000268●秀树
+
+○000269○Schoolboy
+●000269●男学生
+
+○000270○??
+●000270●？？
+
+○000271○"You're up next, Just Another Pervy Teenager."
+●000271●「接下来是只是个色批少年」
+
+○000272○Hinata
+●000272●日向
+
+○000273○Man B
+●000273●男性B
+
+○000274○Ero-Ero Brigade Commander
+●000274●老色批战队统帅
+
+○000275○Niceschlong
+●000275●长枪
+
+○000276○Homotaro
+●000276●Homotaro
+
+○000277○Hinaschlong
+●000277●日枪
+
+○000278○Hideki
+●000278●秀树
+
+○000279○Schoolboy
+●000279●男学生
+
+○000280○??
+●000280●？？
+
+○000281○"You're up next."
+●000281●「接下来是你」
+
+○000282○Otonashi
+●000282●音无
+
+○000283○Damn Brat
+●000283●祖安带师
+
+○000284○Proxy
+●000284●代理人
+
+○000285○Way Too Iffy Cool Dude
+●000285●微妙的帅小伙
+
+○000286○Lolicon
+●000286●萝莉控
+
+○000287○Glasses Comrade
+●000287●眼镜之友
+
+○000288○All-Japan Mental Arithmetic Champion
+●000288●全日本珠心算记录保持者
+
+○000289○Slasher
+●000289●无差别杀人犯
+
+○000290○No-Memory Man
+●000290●没记忆的男人
+
+○000291○Onsoku
+●000291●音速
+
+○000292○Mugen
+●000292●无限
+
+○000293○Ero-Samurai
+●000293●色批武士
+
+○000294○Ero-Ero Brigade No.1
+●000294●老色批战队No.1
+
+○000295○Just Another Pervy Teenager
+●000295●只是个色批少年
+
+○000296○Yurisugly
+●000296●丑八怪由理
+
+○000297○Debussy
+●000297●Debussy
+
+○000298○CornHornDog
+●000298●美式色批狗
+
+○000299○Zeus
+●000299●宙斯
+
+○000300○Hinata Mk. 2
+●000300●日向Mk.2
+
+○000301○Dung Beetle
+●000301●屎壳郎
+
+○000302○Consumer Model Hinata
+●000302●量产型日向
+
+○000303○??
+●000303●？？
+
+○000304○"Yeah..."
+●000304●「嗯…」
+
+○000305○nothing
+●000305●nothing
+
+○000306○nothing
+●000306●nothing
+
+○000307○nothing
+●000307●nothing
+
+○000308○nothing
+●000308●nothing
+
+○000309○nothing
+●000309●nothing
+
+○000310○nothing
+●000310●nothing
+
+○000311○I called it at twenty again.
+●000311●我又是只做了20个，就宣告结束了。
+
+○000312○nothing
+●000312●nothing
+
+○000313○nothing
+●000313●nothing
+
+○000314○nothing
+●000314●nothing
+
+○000315○nothing
+●000315●nothing
+
+○000316○nothing
+●000316●nothing
+
+○000317○Hinata
+●000317●日向
+
+○000318○Man B
+●000318●男性B
+
+○000319○Ero-Ero Brigade Commander
+●000319●老色批战队统帅
+
+○000320○Niceschlong
+●000320●长枪
+
+○000321○Homotaro
+●000321●Homotaro
+
+○000322○Hinaschlong
+●000322●日枪
+
+○000323○Hideki
+●000323●秀树
+
+○000324○Schoolboy
+●000324●男学生
+
+○000325○??
+●000325●？？
+
+○000326○"Hmmmm...I would've liked you to get to thirty, but..."
+●000326●「真想让你做到30个啊…」
+
+○000327○He said the same thing as last time.
+●000327●和上次说的话一样。
+
+○000328○nothing
+●000328●nothing
+
+○000329○nothing
+●000329●nothing
+
+○000330○nothing
+●000330●nothing
+
+○000331○nothing
+●000331●nothing
+
+○000332○nothing
+●000332●nothing
+
+○000333○Hinata
+●000333●日向
+
+○000334○Man B
+●000334●男性B
+
+○000335○Ero-Ero Brigade Commander
+●000335●老色批战队统帅
+
+○000336○Niceschlong
+●000336●长枪
+
+○000337○Homotaro
+●000337●Homotaro
+
+○000338○Hinaschlong
+●000338●日枪
+
+○000339○Hideki
+●000339●秀树
+
+○000340○Schoolboy
+●000340●男学生
+
+○000341○??
+●000341●？？
+
+○000342○"Next we'll do our backs. Hold me down again, Just Another Pervy Teenager."
+●000342●「接下来是坐位体前屈。还是只是个色批少年，再压一下我」
+
+○000343○Hinata
+●000343●日向
+
+○000344○Man B
+●000344●男性B
+
+○000345○Ero-Ero Brigade Commander
+●000345●老色批战队统帅
+
+○000346○Niceschlong
+●000346●长枪
+
+○000347○Homotaro
+●000347●Homotaro
+
+○000348○Hinaschlong
+●000348●日枪
+
+○000349○Hideki
+●000349●秀树
+
+○000350○Schoolboy
+●000350●男学生
+
+○000351○??
+●000351●？？
+
+○000352○"Next we'll do our back. Hold me down again."
+●000352●「接下来是坐位体前屈。再压一下我」
+
+○000353○Otonashi
+●000353●音无
+
+○000354○Damn Brat
+●000354●祖安带师
+
+○000355○Proxy
+●000355●代理人
+
+○000356○Way Too Iffy Cool Dude
+●000356●微妙的帅小伙
+
+○000357○Lolicon
+●000357●萝莉控
+
+○000358○Glasses Comrade
+●000358●眼镜之友
+
+○000359○All-Japan Mental Arithmetic Champion
+●000359●全日本珠心算记录保持者
+
+○000360○Slasher
+●000360●无差别杀人犯
+
+○000361○No-Memory Man
+●000361●没记忆的男人
+
+○000362○Onsoku
+●000362●音速
+
+○000363○Mugen
+●000363●无限
+
+○000364○Ero-Samurai
+●000364●色批武士
+
+○000365○Ero-Ero Brigade No.1
+●000365●老色批战队No.1
+
+○000366○Just Another Pervy Teenager
+●000366●只是个色批少年
+
+○000367○Yurisugly
+●000367●丑八怪由理
+
+○000368○Debussy
+●000368●Debussy
+
+○000369○CornHornDog
+●000369●美式色批狗
+
+○000370○Zeus
+●000370●宙斯
+
+○000371○Hinata Mk. 2
+●000371●日向Mk.2
+
+○000372○Dung Beetle
+●000372●屎壳郎
+
+○000373○Consumer Model Hinata
+●000373●量产型日向
+
+○000374○??
+●000374●？？
+
+○000375○"Yeah..."
+●000375●「嗯…」
+
+○000376○Our plain workout continued...
+●000376●朴素的肌肉锻炼继续进行着…。
+
+○000377○nothing
+●000377●nothing
+
+○000378○nothing
+●000378●nothing
+
+○000379○nothing
+●000379●nothing
+
+○000380○nothing
+●000380●nothing
+
+○000381○nothing
+●000381●nothing
+
+○000382○Hinata
+●000382●日向
+
+○000383○Man B
+●000383●男性B
+
+○000384○Ero-Ero Brigade Commander
+●000384●老色批战队统帅
+
+○000385○Niceschlong
+●000385●长枪
+
+○000386○Homotaro
+●000386●Homotaro
+
+○000387○Hinaschlong
+●000387●日枪
+
+○000388○Hideki
+●000388●秀树
+
+○000389○Schoolboy
+●000389●男学生
+
+○000390○??
+●000390●？？
+
+○000391○"Wanna grab some food?"
+●000391●「差不多该去吃饭了—」
+
+○000392○Otonashi
+●000392●音无
+
+○000393○Damn Brat
+●000393●祖安带师
+
+○000394○Proxy
+●000394●代理人
+
+○000395○Way Too Iffy Cool Dude
+●000395●微妙的帅小伙
+
+○000396○Lolicon
+●000396●萝莉控
+
+○000397○Glasses Comrade
+●000397●眼镜之友
+
+○000398○All-Japan Mental Arithmetic Champion
+●000398●全日本珠心算记录保持者
+
+○000399○Slasher
+●000399●无差别杀人犯
+
+○000400○No-Memory Man
+●000400●没记忆的男人
+
+○000401○Onsoku
+●000401●音速
+
+○000402○Mugen
+●000402●无限
+
+○000403○Ero-Samurai
+●000403●色批武士
+
+○000404○Ero-Ero Brigade No.1
+●000404●老色批战队No.1
+
+○000405○Just Another Pervy Teenager
+●000405●只是个色批少年
+
+○000406○Yurisugly
+●000406●丑八怪由理
+
+○000407○Debussy
+●000407●Debussy
+
+○000408○CornHornDog
+●000408●美式色批狗
+
+○000409○Zeus
+●000409●宙斯
+
+○000410○Hinata Mk. 2
+●000410●日向Mk.2
+
+○000411○Dung Beetle
+●000411●屎壳郎
+
+○000412○Consumer Model Hinata
+●000412●量产型日向
+
+○000413○??
+●000413●？？
+
+○000414○"Yeah..."
+●000414●「嗯…」
+
+○000415○We went back to the dorm for a bit to change into our uniforms.
+●000415●我们回到了宿舍，把运动服换回了制服。
+
+○000416○Stomachs empty after our workout, we headed to the cafeteria.
+●000416●两个人带着运动之后的空腹，前往了食堂。
+
+○000417○se_gaya
+●000417●se_gaya
+
+○000418○nothing
+●000418●nothing
+
+○000419○nothing
+●000419●nothing
+
+○000420○nothing
+●000420●nothing
+
+○000421○nothing
+●000421●nothing
+
+○000422○nothing
+●000422●nothing
+
+○000423○Hinata
+●000423●日向
+
+○000424○Man B
+●000424●男性B
+
+○000425○Ero-Ero Brigade Commander
+●000425●老色批战队统帅
+
+○000426○Niceschlong
+●000426●长枪
+
+○000427○Homotaro
+●000427●Homotaro
+
+○000428○Hinaschlong
+●000428●日枪
+
+○000429○Hideki
+●000429●秀树
+
+○000430○Schoolboy
+●000430●男学生
+
+○000431○??
+●000431●？？
+
+○000432○"Alright, for me is..."
+●000432●「那么，我的是…」
+
+○000433○nothing
+●000433●nothing
+
+○000434○nothing
+●000434●nothing
+
+○000435○nothing
+●000435●nothing
+
+○000436○nothing
+●000436●nothing
+
+○000437○nothing
+●000437●nothing
+
+○000438○He stuck his hand in his pocket again and chose a ticket at random.
+●000438●他再次把手伸进了口袋，随机掏出了一张饭票。
+
+○000439○nothing
+●000439●nothing
+
+○000440○nothing
+●000440●nothing
+
+○000441○nothing
+●000441●nothing
+
+○000442○nothing
+●000442●nothing
+
+○000443○nothing
+●000443●nothing
+
+○000444○Hinata
+●000444●日向
+
+○000445○Man B
+●000445●男性B
+
+○000446○Ero-Ero Brigade Commander
+●000446●老色批战队统帅
+
+○000447○Niceschlong
+●000447●长枪
+
+○000448○Homotaro
+●000448●Homotaro
+
+○000449○Hinaschlong
+●000449●日枪
+
+○000450○Hideki
+●000450●秀树
+
+○000451○Schoolboy
+●000451●男学生
+
+○000452○??
+●000452●？？
+
+○000453○"This!"
+●000453●「我的是，这个！」
+
+○000454○nothing
+●000454●nothing
+
+○000455○nothing
+●000455●nothing
+
+○000456○nothing
+●000456●nothing
+
+○000457○nothing
+●000457●nothing
+
+○000458○nothing
+●000458●nothing
+
+○000459○Hinata
+●000459●日向
+
+○000460○Man B
+●000460●男性B
+
+○000461○Ero-Ero Brigade Commander
+●000461●老色批战队统帅
+
+○000462○Niceschlong
+●000462●长枪
+
+○000463○Homotaro
+●000463●Homotaro
+
+○000464○Hinaschlong
+●000464●日枪
+
+○000465○Hideki
+●000465●秀树
+
+○000466○Schoolboy
+●000466●男学生
+
+○000467○??
+●000467●？？
+
+○000468○"Oroshi chicken tatsuta set, obtained!!"
+●000468●「好，得到了萝卜泥龙田炸鸡套餐——！！」（注：おろしチキン竜田定食。龙田，将鱼，鸡肉等用酱油，料酒调味后，裹上淀粉油炸。注释集内有图）
+
+○000469○Another enviable meal...
+●000469●又是让人羡慕的套餐…。
+
+○000470○nothing
+●000470●nothing
+
+○000471○nothing
+●000471●nothing
+
+○000472○nothing
+●000472●nothing
+
+○000473○nothing
+●000473●nothing
+
+○000474○nothing
+●000474●nothing
+
+○000475○Hinata
+●000475●日向
+
+○000476○Man B
+●000476●男性B
+
+○000477○Ero-Ero Brigade Commander
+●000477●老色批战队统帅
+
+○000478○Niceschlong
+●000478●长枪
+
+○000479○Homotaro
+●000479●Homotaro
+
+○000480○Hinaschlong
+●000480●日枪
+
+○000481○Hideki
+●000481●秀树
+
+○000482○Schoolboy
+●000482●男学生
+
+○000483○??
+●000483●？？
+
+○000484○"You're next."
+●000484●「接下来，到你了」
+
+○000485○Otonashi
+●000485●音无
+
+○000486○Damn Brat
+●000486●祖安带师
+
+○000487○Proxy
+●000487●代理人
+
+○000488○Way Too Iffy Cool Dude
+●000488●微妙的帅小伙
+
+○000489○Lolicon
+●000489●萝莉控
+
+○000490○Glasses Comrade
+●000490●眼镜之友
+
+○000491○All-Japan Mental Arithmetic Champion
+●000491●全日本珠心算记录保持者
+
+○000492○Slasher
+●000492●无差别杀人犯
+
+○000493○No-Memory Man
+●000493●没记忆的男人
+
+○000494○Onsoku
+●000494●音速
+
+○000495○Mugen
+●000495●无限
+
+○000496○Ero-Samurai
+●000496●色批武士
+
+○000497○Ero-Ero Brigade No.1
+●000497●老色批战队No.1
+
+○000498○Just Another Pervy Teenager
+●000498●只是个色批少年
+
+○000499○Yurisugly
+●000499●丑八怪由理
+
+○000500○Debussy
+●000500●Debussy
+
+○000501○CornHornDog
+●000501●美式色批狗
+
+○000502○Zeus
+●000502●宙斯
+
+○000503○Hinata Mk. 2
+●000503●日向Mk.2
+
+○000504○Dung Beetle
+●000504●屎壳郎
+
+○000505○Consumer Model Hinata
+●000505●量产型日向
+
+○000506○??
+●000506●？？
+
+○000507○"Okay..."
+●000507●「嗯…」
+
+○000508○nothing
+●000508●nothing
+
+○000509○nothing
+●000509●nothing
+
+○000510○nothing
+●000510●nothing
+
+○000511○nothing
+●000511●nothing
+
+○000512○nothing
+●000512●nothing
+
+○000513○Once again, he dug around his pocket and pulled out a ticket.
+●000513●他又在口袋里翻找了一番，取出了一张饭票。
+
+○000514○nothing
+●000514●nothing
+
+○000515○nothing
+●000515●nothing
+
+○000516○nothing
+●000516●nothing
+
+○000517○nothing
+●000517●nothing
+
+○000518○nothing
+●000518●nothing
+
+○000519○Hinata
+●000519●日向
+
+○000520○Man B
+●000520●男性B
+
+○000521○Ero-Ero Brigade Commander
+●000521●老色批战队统帅
+
+○000522○Niceschlong
+●000522●长枪
+
+○000523○Homotaro
+●000523●Homotaro
+
+○000524○Hinaschlong
+●000524●日枪
+
+○000525○Hideki
+●000525●秀树
+
+○000526○Schoolboy
+●000526●男学生
+
+○000527○??
+●000527●？？
+
+○000528○"And for you...tom yum curry!"
+●000528●「嘿咻…你的是，冬阴功咖喱！」
+
+○000529○nothing
+●000529●nothing
+
+○000530○nothing
+●000530●nothing
+
+○000531○nothing
+●000531●nothing
+
+○000532○nothing
+●000532●nothing
+
+○000533○nothing
+●000533●nothing
+
+○000534○I'm handed the meal ticket.
+●000534●饭票被交给了我。
+
+○000535○Otonashi
+●000535●音无
+
+○000536○Damn Brat
+●000536●祖安带师
+
+○000537○Proxy
+●000537●代理人
+
+○000538○Way Too Iffy Cool Dude
+●000538●微妙的帅小伙
+
+○000539○Lolicon
+●000539●萝莉控
+
+○000540○Glasses Comrade
+●000540●眼镜之友
+
+○000541○All-Japan Mental Arithmetic Champion
+●000541●全日本珠心算记录保持者
+
+○000542○Slasher
+●000542●无差别杀人犯
+
+○000543○No-Memory Man
+●000543●没记忆的男人
+
+○000544○Onsoku
+●000544●音速
+
+○000545○Mugen
+●000545●无限
+
+○000546○Ero-Samurai
+●000546●色批武士
+
+○000547○Ero-Ero Brigade No.1
+●000547●老色批战队No.1
+
+○000548○Just Another Pervy Teenager
+●000548●只是个色批少年
+
+○000549○Yurisugly
+●000549●丑八怪由理
+
+○000550○Debussy
+●000550●Debussy
+
+○000551○CornHornDog
+●000551●美式色批狗
+
+○000552○Zeus
+●000552●宙斯
+
+○000553○Hinata Mk. 2
+●000553●日向Mk.2
+
+○000554○Dung Beetle
+●000554●屎壳郎
+
+○000555○Consumer Model Hinata
+●000555●量产型日向
+
+○000556○??
+●000556●？？
+
+○000557○"Again...?"
+●000557●「又是这个吗…？」
+
+○000558○nothing
+●000558●nothing
+
+○000559○nothing
+●000559●nothing
+
+○000560○nothing
+●000560●nothing
+
+○000561○nothing
+●000561●nothing
+
+○000562○nothing
+●000562●nothing
+
+○000563○Hinata
+●000563●日向
+
+○000564○Man B
+●000564●男性B
+
+○000565○Ero-Ero Brigade Commander
+●000565●老色批战队统帅
+
+○000566○Niceschlong
+●000566●长枪
+
+○000567○Homotaro
+●000567●Homotaro
+
+○000568○Hinaschlong
+●000568●日枪
+
+○000569○Hideki
+●000569●秀树
+
+○000570○Schoolboy
+●000570●男学生
+
+○000571○??
+●000571●？？
+
+○000572○"Well it's random and all, so you pull double sometimes."
+●000572●「嘛，也会有重复的时候。毕竟是随机的」
+
+○000573○Otonashi
+●000573●音无
+
+○000574○Damn Brat
+●000574●祖安带师
+
+○000575○Proxy
+●000575●代理人
+
+○000576○Way Too Iffy Cool Dude
+●000576●微妙的帅小伙
+
+○000577○Lolicon
+●000577●萝莉控
+
+○000578○Glasses Comrade
+●000578●眼镜之友
+
+○000579○All-Japan Mental Arithmetic Champion
+●000579●全日本珠心算记录保持者
+
+○000580○Slasher
+●000580●无差别杀人犯
+
+○000581○No-Memory Man
+●000581●没记忆的男人
+
+○000582○Onsoku
+●000582●音速
+
+○000583○Mugen
+●000583●无限
+
+○000584○Ero-Samurai
+●000584●色批武士
+
+○000585○Ero-Ero Brigade No.1
+●000585●老色批战队No.1
+
+○000586○Just Another Pervy Teenager
+●000586●只是个色批少年
+
+○000587○Yurisugly
+●000587●丑八怪由理
+
+○000588○Debussy
+●000588●Debussy
+
+○000589○CornHornDog
+●000589●美式色批狗
+
+○000590○Zeus
+●000590●宙斯
+
+○000591○Hinata Mk. 2
+●000591●日向Mk.2
+
+○000592○Dung Beetle
+●000592●屎壳郎
+
+○000593○Consumer Model Hinata
+●000593●量产型日向
+
+○000594○??
+●000594●？？
+
+○000595○"True..."
+●000595●「是啊…」
+
+○000596○nothing
+●000596●nothing
+
+○000597○nothing
+●000597●nothing
+
+○000598○nothing
+●000598●nothing
+
+○000599○nothing
+●000599●nothing
+
+○000600○nothing
+●000600●nothing
+
+○000601○nothing
+●000601●nothing
+
+○000602○I took it.
+●000602●我接了过来。
+
+○000603○nothing
+●000603●nothing
+
+○000604○nothing
+●000604●nothing
+
+○000605○nothing
+●000605●nothing
+
+○000606○nothing
+●000606●nothing
+
+○000607○nothing
+●000607●nothing
+
+○000608○Still, I couldn't help wanting to trade, seeing that chicken tatsuta in front of me.
+●000608●但是，萝卜泥龙田炸鸡就在眼前，无论如何都想去交换。
+
+○000609○It looks ridiculously good...
+●000609●看起来非常美味…。
+
+○000610○nothing
+●000610●nothing
+
+○000611○nothing
+●000611●nothing
+
+○000612○nothing
+●000612●nothing
+
+○000613○nothing
+●000613●nothing
+
+○000614○nothing
+●000614●nothing
+
+○000615○nothing
+●000615●nothing
+
+○000616○It's completely random, though, so I ate quietly.
+●000616●但是，我的菜单始终是随机的。老老实实地吃掉吧。
+
+○000617○Ask to trade
+●000617●请求交换
+
+○000618○Eat the tom yum curry
+●000618●吃掉冬阴功咖喱
+
+○000619○selbtn : 
+●000619●selbtn : 
+
+○000620○Otonashi
+●000620●音无
+
+○000621○Damn Brat
+●000621●祖安带师
+
+○000622○Proxy
+●000622●代理人
+
+○000623○Way Too Iffy Cool Dude
+●000623●微妙的帅小伙
+
+○000624○Lolicon
+●000624●萝莉控
+
+○000625○Glasses Comrade
+●000625●眼镜之友
+
+○000626○All-Japan Mental Arithmetic Champion
+●000626●全日本珠心算记录保持者
+
+○000627○Slasher
+●000627●无差别杀人犯
+
+○000628○No-Memory Man
+●000628●没记忆的男人
+
+○000629○Onsoku
+●000629●音速
+
+○000630○Mugen
+●000630●无限
+
+○000631○Ero-Samurai
+●000631●色批武士
+
+○000632○Ero-Ero Brigade No.1
+●000632●老色批战队No.1
+
+○000633○Just Another Pervy Teenager
+●000633●只是个色批少年
+
+○000634○Yurisugly
+●000634●丑八怪由理
+
+○000635○Debussy
+●000635●Debussy
+
+○000636○CornHornDog
+●000636●美式色批狗
+
+○000637○Zeus
+●000637●宙斯
+
+○000638○Hinata Mk. 2
+●000638●日向Mk.2
+
+○000639○Dung Beetle
+●000639●屎壳郎
+
+○000640○Consumer Model Hinata
+●000640●量产型日向
+
+○000641○??
+●000641●？？
+
+○000642○"Hey, um... Hinata..."
+●000642●「那个，呃…日向…」
+
+○000643○nothing
+●000643●nothing
+
+○000644○nothing
+●000644●nothing
+
+○000645○nothing
+●000645●nothing
+
+○000646○nothing
+●000646●nothing
+
+○000647○nothing
+●000647●nothing
+
+○000648○Hinata
+●000648●日向
+
+○000649○Man B
+●000649●男性B
+
+○000650○Ero-Ero Brigade Commander
+●000650●老色批战队统帅
+
+○000651○Niceschlong
+●000651●长枪
+
+○000652○Homotaro
+●000652●Homotaro
+
+○000653○Hinaschlong
+●000653●日枪
+
+○000654○Hideki
+●000654●秀树
+
+○000655○Schoolboy
+●000655●男学生
+
+○000656○??
+●000656●？？
+
+○000657○"Hm? What is it?"
+●000657●「嗯？怎么了？」
+
+○000658○Otonashi
+●000658●音无
+
+○000659○Damn Brat
+●000659●祖安带师
+
+○000660○Proxy
+●000660●代理人
+
+○000661○Way Too Iffy Cool Dude
+●000661●微妙的帅小伙
+
+○000662○Lolicon
+●000662●萝莉控
+
+○000663○Glasses Comrade
+●000663●眼镜之友
+
+○000664○All-Japan Mental Arithmetic Champion
+●000664●全日本珠心算记录保持者
+
+○000665○Slasher
+●000665●无差别杀人犯
+
+○000666○No-Memory Man
+●000666●没记忆的男人
+
+○000667○Onsoku
+●000667●音速
+
+○000668○Mugen
+●000668●无限
+
+○000669○Ero-Samurai
+●000669●色批武士
+
+○000670○Ero-Ero Brigade No.1
+●000670●老色批战队No.1
+
+○000671○Just Another Pervy Teenager
+●000671●只是个色批少年
+
+○000672○Yurisugly
+●000672●丑八怪由理
+
+○000673○Debussy
+●000673●Debussy
+
+○000674○CornHornDog
+●000674●美式色批狗
+
+○000675○Zeus
+●000675●宙斯
+
+○000676○Hinata Mk. 2
+●000676●日向Mk.2
+
+○000677○Dung Beetle
+●000677●屎壳郎
+
+○000678○Consumer Model Hinata
+●000678●量产型日向
+
+○000679○??
+●000679●？？
+
+○000680○"Um, you wouldn't trade yours with mine, would you...?"
+●000680●「那个，可以用那个和这个交换吗…」
+
+○000681○nothing
+●000681●nothing
+
+○000682○nothing
+●000682●nothing
+
+○000683○nothing
+●000683●nothing
+
+○000684○nothing
+●000684●nothing
+
+○000685○nothing
+●000685●nothing
+
+○000686○Hinata
+●000686●日向
+
+○000687○Man B
+●000687●男性B
+
+○000688○Ero-Ero Brigade Commander
+●000688●老色批战队统帅
+
+○000689○Niceschlong
+●000689●长枪
+
+○000690○Homotaro
+●000690●Homotaro
+
+○000691○Hinaschlong
+●000691●日枪
+
+○000692○Hideki
+●000692●秀树
+
+○000693○Schoolboy
+●000693●男学生
+
+○000694○??
+●000694●？？
+
+○000695○"Why?"
+●000695●「为什么？」
+
+○000696○Otonashi
+●000696●音无
+
+○000697○Damn Brat
+●000697●祖安带师
+
+○000698○Proxy
+●000698●代理人
+
+○000699○Way Too Iffy Cool Dude
+●000699●微妙的帅小伙
+
+○000700○Lolicon
+●000700●萝莉控
+
+○000701○Glasses Comrade
+●000701●眼镜之友
+
+○000702○All-Japan Mental Arithmetic Champion
+●000702●全日本珠心算记录保持者
+
+○000703○Slasher
+●000703●无差别杀人犯
+
+○000704○No-Memory Man
+●000704●没记忆的男人
+
+○000705○Onsoku
+●000705●音速
+
+○000706○Mugen
+●000706●无限
+
+○000707○Ero-Samurai
+●000707●色批武士
+
+○000708○Ero-Ero Brigade No.1
+●000708●老色批战队No.1
+
+○000709○Just Another Pervy Teenager
+●000709●只是个色批少年
+
+○000710○Yurisugly
+●000710●丑八怪由理
+
+○000711○Debussy
+●000711●Debussy
+
+○000712○CornHornDog
+●000712●美式色批狗
+
+○000713○Zeus
+●000713●宙斯
+
+○000714○Hinata Mk. 2
+●000714●日向Mk.2
+
+○000715○Dung Beetle
+●000715●屎壳郎
+
+○000716○Consumer Model Hinata
+●000716●量产型日向
+
+○000717○??
+●000717●？？
+
+○000718○"Well, I'm not good with this stuff..."
+●000718●「因为我吃不惯这个…」
+
+○000719○nothing
+●000719●nothing
+
+○000720○nothing
+●000720●nothing
+
+○000721○nothing
+●000721●nothing
+
+○000722○nothing
+●000722●nothing
+
+○000723○nothing
+●000723●nothing
+
+○000724○Hinata
+●000724●日向
+
+○000725○Man B
+●000725●男性B
+
+○000726○Ero-Ero Brigade Commander
+●000726●老色批战队统帅
+
+○000727○Niceschlong
+●000727●长枪
+
+○000728○Homotaro
+●000728●Homotaro
+
+○000729○Hinaschlong
+●000729●日枪
+
+○000730○Hideki
+●000730●秀树
+
+○000731○Schoolboy
+●000731●男学生
+
+○000732○??
+●000732●？？
+
+○000733○"Huh? What are you, a kid...?"
+●000733●「哈啊？你是小孩子吗…？」
+
+○000734○Otonashi
+●000734●音无
+
+○000735○Damn Brat
+●000735●祖安带师
+
+○000736○Proxy
+●000736●代理人
+
+○000737○Way Too Iffy Cool Dude
+●000737●微妙的帅小伙
+
+○000738○Lolicon
+●000738●萝莉控
+
+○000739○Glasses Comrade
+●000739●眼镜之友
+
+○000740○All-Japan Mental Arithmetic Champion
+●000740●全日本珠心算记录保持者
+
+○000741○Slasher
+●000741●无差别杀人犯
+
+○000742○No-Memory Man
+●000742●没记忆的男人
+
+○000743○Onsoku
+●000743●音速
+
+○000744○Mugen
+●000744●无限
+
+○000745○Ero-Samurai
+●000745●色批武士
+
+○000746○Ero-Ero Brigade No.1
+●000746●老色批战队No.1
+
+○000747○Just Another Pervy Teenager
+●000747●只是个色批少年
+
+○000748○Yurisugly
+●000748●丑八怪由理
+
+○000749○Debussy
+●000749●Debussy
+
+○000750○CornHornDog
+●000750●美式色批狗
+
+○000751○Zeus
+●000751●宙斯
+
+○000752○Hinata Mk. 2
+●000752●日向Mk.2
+
+○000753○Dung Beetle
+●000753●屎壳郎
+
+○000754○Consumer Model Hinata
+●000754●量产型日向
+
+○000755○??
+●000755●？？
+
+○000756○"I'm pretty sure I'm a normal high schooler..."
+●000756●「我觉得只是普通的高中生吧…？」
+
+○000757○nothing
+●000757●nothing
+
+○000758○nothing
+●000758●nothing
+
+○000759○nothing
+●000759●nothing
+
+○000760○nothing
+●000760●nothing
+
+○000761○nothing
+●000761●nothing
+
+○000762○Hinata
+●000762●日向
+
+○000763○Man B
+●000763●男性B
+
+○000764○Ero-Ero Brigade Commander
+●000764●老色批战队统帅
+
+○000765○Niceschlong
+●000765●长枪
+
+○000766○Homotaro
+●000766●Homotaro
+
+○000767○Hinaschlong
+●000767●日枪
+
+○000768○Hideki
+●000768●秀树
+
+○000769○Schoolboy
+●000769●男学生
+
+○000770○??
+●000770●？？
+
+○000771○"Then stop being picky and eat."
+●000771●「那就不要挑食，吃吧」
+
+○000772○I felt disappointment inside my heart.
+●000772●诶诶…心里很不乐意。
+
+○000773○Otonashi
+●000773●音无
+
+○000774○Damn Brat
+●000774●祖安带师
+
+○000775○Proxy
+●000775●代理人
+
+○000776○Way Too Iffy Cool Dude
+●000776●微妙的帅小伙
+
+○000777○Lolicon
+●000777●萝莉控
+
+○000778○Glasses Comrade
+●000778●眼镜之友
+
+○000779○All-Japan Mental Arithmetic Champion
+●000779●全日本珠心算记录保持者
+
+○000780○Slasher
+●000780●无差别杀人犯
+
+○000781○No-Memory Man
+●000781●没记忆的男人
+
+○000782○Onsoku
+●000782●音速
+
+○000783○Mugen
+●000783●无限
+
+○000784○Ero-Samurai
+●000784●色批武士
+
+○000785○Ero-Ero Brigade No.1
+●000785●老色批战队No.1
+
+○000786○Just Another Pervy Teenager
+●000786●只是个色批少年
+
+○000787○Yurisugly
+●000787●丑八怪由理
+
+○000788○Debussy
+●000788●Debussy
+
+○000789○CornHornDog
+●000789●美式色批狗
+
+○000790○Zeus
+●000790●宙斯
+
+○000791○Hinata Mk. 2
+●000791●日向Mk.2
+
+○000792○Dung Beetle
+●000792●屎壳郎
+
+○000793○Consumer Model Hinata
+●000793●量产型日向
+
+○000794○??
+●000794●？？
+
+○000795○"Thought so..."
+●000795●「是呢…」
+
+○000796○nothing
+●000796●nothing
+
+○000797○nothing
+●000797●nothing
+
+○000798○nothing
+●000798●nothing
+
+○000799○nothing
+●000799●nothing
+
+○000800○nothing
+●000800●nothing
+
+○000801○nothing
+●000801●nothing
+
+○000802○I nodded and shoveled down the peculiar curry yet again.
+●000802●我点了点头，再次吃起了相当诡异的冬阴功咖喱。
+
+○000803○I tried to wash down the smell with tea right after.
+●000803●紧接着，就用自助的茶水来除臭。
+
+○000804○nothing
+●000804●nothing
+
+○000805○nothing
+●000805●nothing
+
+○000806○nothing
+●000806●nothing
+
+○000807○nothing
+●000807●nothing
+
+○000808○nothing
+●000808●nothing
+
+○000809○Meanwhile, Hinata had cleared his plate.
+●000809●这时，日向的盘子已经空了。
+
+○000810○nothing
+●000810●nothing
+
+○000811○nothing
+●000811●nothing
+
+○000812○nothing
+●000812●nothing
+
+○000813○nothing
+●000813●nothing
+
+○000814○nothing
+●000814●nothing
+
+○000815○Hinata
+●000815●日向
+
+○000816○Man B
+●000816●男性B
+
+○000817○Ero-Ero Brigade Commander
+●000817●老色批战队统帅
+
+○000818○Niceschlong
+●000818●长枪
+
+○000819○Homotaro
+●000819●Homotaro
+
+○000820○Hinaschlong
+●000820●日枪
+
+○000821○Hideki
+●000821●秀树
+
+○000822○Schoolboy
+●000822●男学生
+
+○000823○??
+●000823●？？
+
+○000824○"Fuh... man chicken tatsuta is so awesome with oroshi sauce..."
+●000824●「呼…果然，龙田炸鸡配上萝卜泥酱汁最棒了…」
+
+○000825○He knows I wanted to eat that...!!
+●000825●他也知道我想吃那个啊…！！
+
+○000826○Otonashi
+●000826●音无
+
+○000827○Damn Brat
+●000827●祖安带师
+
+○000828○Proxy
+●000828●代理人
+
+○000829○Way Too Iffy Cool Dude
+●000829●微妙的帅小伙
+
+○000830○Lolicon
+●000830●萝莉控
+
+○000831○Glasses Comrade
+●000831●眼镜之友
+
+○000832○All-Japan Mental Arithmetic Champion
+●000832●全日本珠心算记录保持者
+
+○000833○Slasher
+●000833●无差别杀人犯
+
+○000834○No-Memory Man
+●000834●没记忆的男人
+
+○000835○Onsoku
+●000835●音速
+
+○000836○Mugen
+●000836●无限
+
+○000837○Ero-Samurai
+●000837●色批武士
+
+○000838○Ero-Ero Brigade No.1
+●000838●老色批战队No.1
+
+○000839○Just Another Pervy Teenager
+●000839●只是个色批少年
+
+○000840○Yurisugly
+●000840●丑八怪由理
+
+○000841○Debussy
+●000841●Debussy
+
+○000842○CornHornDog
+●000842●美式色批狗
+
+○000843○Zeus
+●000843●宙斯
+
+○000844○Hinata Mk. 2
+●000844●日向Mk.2
+
+○000845○Dung Beetle
+●000845●屎壳郎
+
+○000846○Consumer Model Hinata
+●000846●量产型日向
+
+○000847○??
+●000847●？？
+
+○000848○(Are you really okay with awakening the frightening power of a food grudge, Hinata...?!)
+●000848●（对于食物的怨恨可是很可怕的，你这样真的好吗，日向…！！）
+
+○000849○nothing
+●000849●nothing
+
+○000850○nothing
+●000850●nothing
+
+○000851○nothing
+●000851●nothing
+
+○000852○nothing
+●000852●nothing
+
+○000853○nothing
+●000853●nothing
+
+○000854○nothing
+●000854●nothing
+
+○000855○I shoveled down the peculiar curry in one go.
+●000855●我把味道诡异的冬阴功咖喱一口气铲进了嘴里。
+
+○000856○I took a few gulps of tea to suppress the smell from my mouth.
+●000856●然后连喝好几次茶，封住口臭。
+
+○000857○nothing
+●000857●nothing
+
+○000858○nothing
+●000858●nothing
+
+○000859○nothing
+●000859●nothing
+
+○000860○nothing
+●000860●nothing
+
+○000861○nothing
+●000861●nothing
+
+○000862○Hinata
+●000862●日向
+
+○000863○Man B
+●000863●男性B
+
+○000864○Ero-Ero Brigade Commander
+●000864●老色批战队统帅
+
+○000865○Niceschlong
+●000865●长枪
+
+○000866○Homotaro
+●000866●Homotaro
+
+○000867○Hinaschlong
+●000867●日枪
+
+○000868○Hideki
+●000868●秀树
+
+○000869○Schoolboy
+●000869●男学生
+
+○000870○??
+●000870●？？
+
+○000871○"You're a pretty fast eater."
+●000871●「你吃的很快啊」
+
+○000872○Otonashi
+●000872●音无
+
+○000873○Damn Brat
+●000873●祖安带师
+
+○000874○Proxy
+●000874●代理人
+
+○000875○Way Too Iffy Cool Dude
+●000875●微妙的帅小伙
+
+○000876○Lolicon
+●000876●萝莉控
+
+○000877○Glasses Comrade
+●000877●眼镜之友
+
+○000878○All-Japan Mental Arithmetic Champion
+●000878●全日本珠心算记录保持者
+
+○000879○Slasher
+●000879●无差别杀人犯
+
+○000880○No-Memory Man
+●000880●没记忆的男人
+
+○000881○Onsoku
+●000881●音速
+
+○000882○Mugen
+●000882●无限
+
+○000883○Ero-Samurai
+●000883●色批武士
+
+○000884○Ero-Ero Brigade No.1
+●000884●老色批战队No.1
+
+○000885○Just Another Pervy Teenager
+●000885●只是个色批少年
+
+○000886○Yurisugly
+●000886●丑八怪由理
+
+○000887○Debussy
+●000887●Debussy
+
+○000888○CornHornDog
+●000888●美式色批狗
+
+○000889○Zeus
+●000889●宙斯
+
+○000890○Hinata Mk. 2
+●000890●日向Mk.2
+
+○000891○Dung Beetle
+●000891●屎壳郎
+
+○000892○Consumer Model Hinata
+●000892●量产型日向
+
+○000893○??
+●000893●？？
+
+○000894○"Yeah, but only with this stuff."
+●000894●「嗯，只是对这道菜很快而已」
+
+○000895○nothing
+●000895●nothing
+
+○000896○nothing
+●000896●nothing
+
+○000897○nothing
+●000897●nothing
+
+○000898○nothing
+●000898●nothing
+
+○000899○nothing
+●000899●nothing
+
+○000900○Hinata
+●000900●日向
+
+○000901○Man B
+●000901●男性B
+
+○000902○Ero-Ero Brigade Commander
+●000902●老色批战队统帅
+
+○000903○Niceschlong
+●000903●长枪
+
+○000904○Homotaro
+●000904●Homotaro
+
+○000905○Hinaschlong
+●000905●日枪
+
+○000906○Hideki
+●000906●秀树
+
+○000907○Schoolboy
+●000907●男学生
+
+○000908○??
+●000908●？？
+
+○000909○"Oh, have you been charmed by its authentic flavor that much?"
+●000909●「哦嚯，已经被这正宗的气味吸引到这种地步了吗？」
+
+○000910○Exactly
+●000910●正是这样
+
+○000911○The opposite
+●000911●与此相反
+
+○000912○selbtn : 
+●000912●selbtn : 
+
+○000913○Otonashi
+●000913●音无
+
+○000914○Damn Brat
+●000914●祖安带师
+
+○000915○Proxy
+●000915●代理人
+
+○000916○Way Too Iffy Cool Dude
+●000916●微妙的帅小伙
+
+○000917○Lolicon
+●000917●萝莉控
+
+○000918○Glasses Comrade
+●000918●眼镜之友
+
+○000919○All-Japan Mental Arithmetic Champion
+●000919●全日本珠心算记录保持者
+
+○000920○Slasher
+●000920●无差别杀人犯
+
+○000921○No-Memory Man
+●000921●没记忆的男人
+
+○000922○Onsoku
+●000922●音速
+
+○000923○Mugen
+●000923●无限
+
+○000924○Ero-Samurai
+●000924●色批武士
+
+○000925○Ero-Ero Brigade No.1
+●000925●老色批战队No.1
+
+○000926○Just Another Pervy Teenager
+●000926●只是个色批少年
+
+○000927○Yurisugly
+●000927●丑八怪由理
+
+○000928○Debussy
+●000928●Debussy
+
+○000929○CornHornDog
+●000929●美式色批狗
+
+○000930○Zeus
+●000930●宙斯
+
+○000931○Hinata Mk. 2
+●000931●日向Mk.2
+
+○000932○Dung Beetle
+●000932●屎壳郎
+
+○000933○Consumer Model Hinata
+●000933●量产型日向
+
+○000934○??
+●000934●？？
+
+○000935○"Exactly."
+●000935●「正是这样」
+
+○000936○nothing
+●000936●nothing
+
+○000937○nothing
+●000937●nothing
+
+○000938○nothing
+●000938●nothing
+
+○000939○nothing
+●000939●nothing
+
+○000940○nothing
+●000940●nothing
+
+○000941○Hinata
+●000941●日向
+
+○000942○Man B
+●000942●男性B
+
+○000943○Ero-Ero Brigade Commander
+●000943●老色批战队统帅
+
+○000944○Niceschlong
+●000944●长枪
+
+○000945○Homotaro
+●000945●Homotaro
+
+○000946○Hinaschlong
+●000946●日枪
+
+○000947○Hideki
+●000947●秀树
+
+○000948○Schoolboy
+●000948●男学生
+
+○000949○??
+●000949●？？
+
+○000950○"Then I'll do without the lottery and have you eat it from now on."
+●000950●「那么，今后也不用抽卡了，直接去吃这个吧」
+
+○000951○Otonashi
+●000951●音无
+
+○000952○Damn Brat
+●000952●祖安带师
+
+○000953○Proxy
+●000953●代理人
+
+○000954○Way Too Iffy Cool Dude
+●000954●微妙的帅小伙
+
+○000955○Lolicon
+●000955●萝莉控
+
+○000956○Glasses Comrade
+●000956●眼镜之友
+
+○000957○All-Japan Mental Arithmetic Champion
+●000957●全日本珠心算记录保持者
+
+○000958○Slasher
+●000958●无差别杀人犯
+
+○000959○No-Memory Man
+●000959●没记忆的男人
+
+○000960○Onsoku
+●000960●音速
+
+○000961○Mugen
+●000961●无限
+
+○000962○Ero-Samurai
+●000962●色批武士
+
+○000963○Ero-Ero Brigade No.1
+●000963●老色批战队No.1
+
+○000964○Just Another Pervy Teenager
+●000964●只是个色批少年
+
+○000965○Yurisugly
+●000965●丑八怪由理
+
+○000966○Debussy
+●000966●Debussy
+
+○000967○CornHornDog
+●000967●美式色批狗
+
+○000968○Zeus
+●000968●宙斯
+
+○000969○Hinata Mk. 2
+●000969●日向Mk.2
+
+○000970○Dung Beetle
+●000970●屎壳郎
+
+○000971○Consumer Model Hinata
+●000971●量产型日向
+
+○000972○??
+●000972●？？
+
+○000973○"NNNNNNNNOOOOOOOOOO!!"
+●000973●「NNNNNNNNOOOOOOOOOO!!」
+
+○000974○nothing
+●000974●nothing
+
+○000975○nothing
+●000975●nothing
+
+○000976○nothing
+●000976●nothing
+
+○000977○nothing
+●000977●nothing
+
+○000978○nothing
+●000978●nothing
+
+○000979○Hinata
+●000979●日向
+
+○000980○Man B
+●000980●男性B
+
+○000981○Ero-Ero Brigade Commander
+●000981●老色批战队统帅
+
+○000982○Niceschlong
+●000982●长枪
+
+○000983○Homotaro
+●000983●Homotaro
+
+○000984○Hinaschlong
+●000984●日枪
+
+○000985○Hideki
+●000985●秀树
+
+○000986○Schoolboy
+●000986●男学生
+
+○000987○??
+●000987●？？
+
+○000988○"What's wrong?"
+●000988●「怎么了？」
+
+○000989○Otonashi
+●000989●音无
+
+○000990○Damn Brat
+●000990●祖安带师
+
+○000991○Proxy
+●000991●代理人
+
+○000992○Way Too Iffy Cool Dude
+●000992●微妙的帅小伙
+
+○000993○Lolicon
+●000993●萝莉控
+
+○000994○Glasses Comrade
+●000994●眼镜之友
+
+○000995○All-Japan Mental Arithmetic Champion
+●000995●全日本珠心算记录保持者
+
+○000996○Slasher
+●000996●无差别杀人犯
+
+○000997○No-Memory Man
+●000997●没记忆的男人
+
+○000998○Onsoku
+●000998●音速
+
+○000999○Mugen
+●000999●无限
+
+○001000○Ero-Samurai
+●001000●色批武士
+
+○001001○Ero-Ero Brigade No.1
+●001001●老色批战队No.1
+
+○001002○Just Another Pervy Teenager
+●001002●只是个色批少年
+
+○001003○Yurisugly
+●001003●丑八怪由理
+
+○001004○Debussy
+●001004●Debussy
+
+○001005○CornHornDog
+●001005●美式色批狗
+
+○001006○Zeus
+●001006●宙斯
+
+○001007○Hinata Mk. 2
+●001007●日向Mk.2
+
+○001008○Dung Beetle
+●001008●屎壳郎
+
+○001009○Consumer Model Hinata
+●001009●量产型日向
+
+○001010○??
+●001010●？？
+
+○001011○"I want to punch the me from ten seconds ago..."
+●001011●「我想把十秒钟之前的自己揍一顿…」
+
+○001012○nothing
+●001012●nothing
+
+○001013○nothing
+●001013●nothing
+
+○001014○nothing
+●001014●nothing
+
+○001015○nothing
+●001015●nothing
+
+○001016○nothing
+●001016●nothing
+
+○001017○Hinata
+●001017●日向
+
+○001018○Man B
+●001018●男性B
+
+○001019○Ero-Ero Brigade Commander
+●001019●老色批战队统帅
+
+○001020○Niceschlong
+●001020●长枪
+
+○001021○Homotaro
+●001021●Homotaro
+
+○001022○Hinaschlong
+●001022●日枪
+
+○001023○Hideki
+●001023●秀树
+
+○001024○Schoolboy
+●001024●男学生
+
+○001025○??
+●001025●？？
+
+○001026○"Whatever you say, but it's popular with the regular NPCs to the point of excess, so I'll start passing them on to you."
+●001026●「虽然不太明白你说的话，但是冬阴功咖喱在NPC之中可是有着超高人气的，所以之后就把这些交给你了」
+
+○001027○Otonashi
+●001027●音无
+
+○001028○Damn Brat
+●001028●祖安带师
+
+○001029○Proxy
+●001029●代理人
+
+○001030○Way Too Iffy Cool Dude
+●001030●微妙的帅小伙
+
+○001031○Lolicon
+●001031●萝莉控
+
+○001032○Glasses Comrade
+●001032●眼镜之友
+
+○001033○All-Japan Mental Arithmetic Champion
+●001033●全日本珠心算记录保持者
+
+○001034○Slasher
+●001034●无差别杀人犯
+
+○001035○No-Memory Man
+●001035●没记忆的男人
+
+○001036○Onsoku
+●001036●音速
+
+○001037○Mugen
+●001037●无限
+
+○001038○Ero-Samurai
+●001038●色批武士
+
+○001039○Ero-Ero Brigade No.1
+●001039●老色批战队No.1
+
+○001040○Just Another Pervy Teenager
+●001040●只是个色批少年
+
+○001041○Yurisugly
+●001041●丑八怪由理
+
+○001042○Debussy
+●001042●Debussy
+
+○001043○CornHornDog
+●001043●美式色批狗
+
+○001044○Zeus
+●001044●宙斯
+
+○001045○Hinata Mk. 2
+●001045●日向Mk.2
+
+○001046○Dung Beetle
+●001046●屎壳郎
+
+○001047○Consumer Model Hinata
+●001047●量产型日向
+
+○001048○??
+●001048●？？
+
+○001049○(How could this be happening?!)
+●001049●（为什么会这样啊——！！）
+
+○001050○Otonashi
+●001050●音无
+
+○001051○Damn Brat
+●001051●祖安带师
+
+○001052○Proxy
+●001052●代理人
+
+○001053○Way Too Iffy Cool Dude
+●001053●微妙的帅小伙
+
+○001054○Lolicon
+●001054●萝莉控
+
+○001055○Glasses Comrade
+●001055●眼镜之友
+
+○001056○All-Japan Mental Arithmetic Champion
+●001056●全日本珠心算记录保持者
+
+○001057○Slasher
+●001057●无差别杀人犯
+
+○001058○No-Memory Man
+●001058●没记忆的男人
+
+○001059○Onsoku
+●001059●音速
+
+○001060○Mugen
+●001060●无限
+
+○001061○Ero-Samurai
+●001061●色批武士
+
+○001062○Ero-Ero Brigade No.1
+●001062●老色批战队No.1
+
+○001063○Just Another Pervy Teenager
+●001063●只是个色批少年
+
+○001064○Yurisugly
+●001064●丑八怪由理
+
+○001065○Debussy
+●001065●Debussy
+
+○001066○CornHornDog
+●001066●美式色批狗
+
+○001067○Zeus
+●001067●宙斯
+
+○001068○Hinata Mk. 2
+●001068●日向Mk.2
+
+○001069○Dung Beetle
+●001069●屎壳郎
+
+○001070○Consumer Model Hinata
+●001070●量产型日向
+
+○001071○??
+●001071●？？
+
+○001072○"It's the opposite."
+●001072●「与此相反」
+
+○001073○nothing
+●001073●nothing
+
+○001074○nothing
+●001074●nothing
+
+○001075○nothing
+●001075●nothing
+
+○001076○nothing
+●001076●nothing
+
+○001077○nothing
+●001077●nothing
+
+○001078○Hinata
+●001078●日向
+
+○001079○Man B
+●001079●男性B
+
+○001080○Ero-Ero Brigade Commander
+●001080●老色批战队统帅
+
+○001081○Niceschlong
+●001081●长枪
+
+○001082○Homotaro
+●001082●Homotaro
+
+○001083○Hinaschlong
+●001083●日枪
+
+○001084○Hideki
+●001084●秀树
+
+○001085○Schoolboy
+●001085●男学生
+
+○001086○??
+●001086●？？
+
+○001087○"So you don't like it?"
+●001087●「不喜欢吗？」
+
+○001088○Otonashi
+●001088●音无
+
+○001089○Damn Brat
+●001089●祖安带师
+
+○001090○Proxy
+●001090●代理人
+
+○001091○Way Too Iffy Cool Dude
+●001091●微妙的帅小伙
+
+○001092○Lolicon
+●001092●萝莉控
+
+○001093○Glasses Comrade
+●001093●眼镜之友
+
+○001094○All-Japan Mental Arithmetic Champion
+●001094●全日本珠心算记录保持者
+
+○001095○Slasher
+●001095●无差别杀人犯
+
+○001096○No-Memory Man
+●001096●没记忆的男人
+
+○001097○Onsoku
+●001097●音速
+
+○001098○Mugen
+●001098●无限
+
+○001099○Ero-Samurai
+●001099●色批武士
+
+○001100○Ero-Ero Brigade No.1
+●001100●老色批战队No.1
+
+○001101○Just Another Pervy Teenager
+●001101●只是个色批少年
+
+○001102○Yurisugly
+●001102●丑八怪由理
+
+○001103○Debussy
+●001103●Debussy
+
+○001104○CornHornDog
+●001104●美式色批狗
+
+○001105○Zeus
+●001105●宙斯
+
+○001106○Hinata Mk. 2
+●001106●日向Mk.2
+
+○001107○Dung Beetle
+●001107●屎壳郎
+
+○001108○Consumer Model Hinata
+●001108●量产型日向
+
+○001109○??
+●001109●？？
+
+○001110○"I know you're treating me and all, but yeah..."
+●001110●「虽然是由你请客，但确实是这样…」
+
+○001111○nothing
+●001111●nothing
+
+○001112○nothing
+●001112●nothing
+
+○001113○nothing
+●001113●nothing
+
+○001114○nothing
+●001114●nothing
+
+○001115○nothing
+●001115●nothing
+
+○001116○Hinata
+●001116●日向
+
+○001117○Man B
+●001117●男性B
+
+○001118○Ero-Ero Brigade Commander
+●001118●老色批战队统帅
+
+○001119○Niceschlong
+●001119●长枪
+
+○001120○Homotaro
+●001120●Homotaro
+
+○001121○Hinaschlong
+●001121●日枪
+
+○001122○Hideki
+●001122●秀树
+
+○001123○Schoolboy
+●001123●男学生
+
+○001124○??
+●001124●？？
+
+○001125○"It's a lottery system, though, so sorry, but you'll have to eat what you get."
+●001125●「但是，因为是抽签规则，如果抽中的话，只能抱歉了，除了吃掉之外别无选择」
+
+○001126○nothing
+●001126●nothing
+
+○001127○nothing
+●001127●nothing
+
+○001128○nothing
+●001128●nothing
+
+○001129○nothing
+●001129●nothing
+
+○001130○nothing
+●001130●nothing
+
+○001131○Hinata
+●001131●日向
+
+○001132○Man B
+●001132●男性B
+
+○001133○Ero-Ero Brigade Commander
+●001133●老色批战队统帅
+
+○001134○Niceschlong
+●001134●长枪
+
+○001135○Homotaro
+●001135●Homotaro
+
+○001136○Hinaschlong
+●001136●日枪
+
+○001137○Hideki
+●001137●秀树
+
+○001138○Schoolboy
+●001138●男学生
+
+○001139○??
+●001139●？？
+
+○001140○"You don't have any money or tickets, so it's better than not eating, isn't it?"
+●001140●「对于一无饭票二无金钱的你来说，总比没得吃要好，对吧？」
+
+○001141○Otonashi
+●001141●音无
+
+○001142○Damn Brat
+●001142●祖安带师
+
+○001143○Proxy
+●001143●代理人
+
+○001144○Way Too Iffy Cool Dude
+●001144●微妙的帅小伙
+
+○001145○Lolicon
+●001145●萝莉控
+
+○001146○Glasses Comrade
+●001146●眼镜之友
+
+○001147○All-Japan Mental Arithmetic Champion
+●001147●全日本珠心算记录保持者
+
+○001148○Slasher
+●001148●无差别杀人犯
+
+○001149○No-Memory Man
+●001149●没记忆的男人
+
+○001150○Onsoku
+●001150●音速
+
+○001151○Mugen
+●001151●无限
+
+○001152○Ero-Samurai
+●001152●色批武士
+
+○001153○Ero-Ero Brigade No.1
+●001153●老色批战队No.1
+
+○001154○Just Another Pervy Teenager
+●001154●只是个色批少年
+
+○001155○Yurisugly
+●001155●丑八怪由理
+
+○001156○Debussy
+●001156●Debussy
+
+○001157○CornHornDog
+●001157●美式色批狗
+
+○001158○Zeus
+●001158●宙斯
+
+○001159○Hinata Mk. 2
+●001159●日向Mk.2
+
+○001160○Dung Beetle
+●001160●屎壳郎
+
+○001161○Consumer Model Hinata
+●001161●量产型日向
+
+○001162○??
+●001162●？？
+
+○001163○"Well...yeah, but..."
+●001163●「嘛…是的，但…」
+
+○001164○Otonashi
+●001164●音无
+
+○001165○Damn Brat
+●001165●祖安带师
+
+○001166○Proxy
+●001166●代理人
+
+○001167○Way Too Iffy Cool Dude
+●001167●微妙的帅小伙
+
+○001168○Lolicon
+●001168●萝莉控
+
+○001169○Glasses Comrade
+●001169●眼镜之友
+
+○001170○All-Japan Mental Arithmetic Champion
+●001170●全日本珠心算记录保持者
+
+○001171○Slasher
+●001171●无差别杀人犯
+
+○001172○No-Memory Man
+●001172●没记忆的男人
+
+○001173○Onsoku
+●001173●音速
+
+○001174○Mugen
+●001174●无限
+
+○001175○Ero-Samurai
+●001175●色批武士
+
+○001176○Ero-Ero Brigade No.1
+●001176●老色批战队No.1
+
+○001177○Just Another Pervy Teenager
+●001177●只是个色批少年
+
+○001178○Yurisugly
+●001178●丑八怪由理
+
+○001179○Debussy
+●001179●Debussy
+
+○001180○CornHornDog
+●001180●美式色批狗
+
+○001181○Zeus
+●001181●宙斯
+
+○001182○Hinata Mk. 2
+●001182●日向Mk.2
+
+○001183○Dung Beetle
+●001183●屎壳郎
+
+○001184○Consumer Model Hinata
+●001184●量产型日向
+
+○001185○??
+●001185●？？
+
+○001186○(This gayboy...!!)
+●001186●（这个死基佬…！！）
+
+○001187○I felt like I was being taken for a ride...
+●001187●总感觉被他的话牵着鼻子走了…。
+
+○001188○nothing
+●001188●nothing
+
+○001189○nothing
+●001189●nothing
+
+○001190○nothing
+●001190●nothing
+
+○001191○nothing
+●001191●nothing
+
+○001192○nothing
+●001192●nothing
+
+○001193○Hinata
+●001193●日向
+
+○001194○Man B
+●001194●男性B
+
+○001195○Ero-Ero Brigade Commander
+●001195●老色批战队统帅
+
+○001196○Niceschlong
+●001196●长枪
+
+○001197○Homotaro
+●001197●Homotaro
+
+○001198○Hinaschlong
+●001198●日枪
+
+○001199○Hideki
+●001199●秀树
+
+○001200○Schoolboy
+●001200●男学生
+
+○001201○??
+●001201●？？
+
+○001202○"Man that was good."
+●001202●「好—！多谢款待—！很美味哦」
+
+○001203○Hinata finished eating as well.
+●001203●日向也吃完了。
+
+○001204○Otonashi
+●001204●音无
+
+○001205○Damn Brat
+●001205●祖安带师
+
+○001206○Proxy
+●001206●代理人
+
+○001207○Way Too Iffy Cool Dude
+●001207●微妙的帅小伙
+
+○001208○Lolicon
+●001208●萝莉控
+
+○001209○Glasses Comrade
+●001209●眼镜之友
+
+○001210○All-Japan Mental Arithmetic Champion
+●001210●全日本珠心算记录保持者
+
+○001211○Slasher
+●001211●无差别杀人犯
+
+○001212○No-Memory Man
+●001212●没记忆的男人
+
+○001213○Onsoku
+●001213●音速
+
+○001214○Mugen
+●001214●无限
+
+○001215○Ero-Samurai
+●001215●色批武士
+
+○001216○Ero-Ero Brigade No.1
+●001216●老色批战队No.1
+
+○001217○Just Another Pervy Teenager
+●001217●只是个色批少年
+
+○001218○Yurisugly
+●001218●丑八怪由理
+
+○001219○Debussy
+●001219●Debussy
+
+○001220○CornHornDog
+●001220●美式色批狗
+
+○001221○Zeus
+●001221●宙斯
+
+○001222○Hinata Mk. 2
+●001222●日向Mk.2
+
+○001223○Dung Beetle
+●001223●屎壳郎
+
+○001224○Consumer Model Hinata
+●001224●量产型日向
+
+○001225○??
+●001225●？？
+
+○001226○(Kuh...I believed in you...but my faith has been shaken...)
+●001226●（咕…我一直在相信你…但是这份信任已经开始动摇了…）
+
+○001227○That expression of bliss was extremely punchable...
+●001227●看到他这幅幸福的表情，真有揍他一顿的冲动…。
+
+○001228○nothing
+●001228●nothing
+
+○001229○nothing
+●001229●nothing
+
+○001230○nothing
+●001230●nothing
+
+○001231○nothing
+●001231●nothing
+
+○001232○nothing
+●001232●nothing
+
+○001233○nothing
+●001233●nothing
+
+○001234○Otonashi
+●001234●音无
+
+○001235○Damn Brat
+●001235●祖安带师
+
+○001236○Proxy
+●001236●代理人
+
+○001237○Way Too Iffy Cool Dude
+●001237●微妙的帅小伙
+
+○001238○Lolicon
+●001238●萝莉控
+
+○001239○Glasses Comrade
+●001239●眼镜之友
+
+○001240○All-Japan Mental Arithmetic Champion
+●001240●全日本珠心算记录保持者
+
+○001241○Slasher
+●001241●无差别杀人犯
+
+○001242○No-Memory Man
+●001242●没记忆的男人
+
+○001243○Onsoku
+●001243●音速
+
+○001244○Mugen
+●001244●无限
+
+○001245○Ero-Samurai
+●001245●色批武士
+
+○001246○Ero-Ero Brigade No.1
+●001246●老色批战队No.1
+
+○001247○Just Another Pervy Teenager
+●001247●只是个色批少年
+
+○001248○Yurisugly
+●001248●丑八怪由理
+
+○001249○Debussy
+●001249●Debussy
+
+○001250○CornHornDog
+●001250●美式色批狗
+
+○001251○Zeus
+●001251●宙斯
+
+○001252○Hinata Mk. 2
+●001252●日向Mk.2
+
+○001253○Dung Beetle
+●001253●屎壳郎
+
+○001254○Consumer Model Hinata
+●001254●量产型日向
+
+○001255○??
+●001255●？？
+
+○001256○"Phew..."
+●001256●「呼…」
+
+○001257○I somehow managed to eat it all.
+●001257●我总算是吃完了。
+
+○001258○Angel
+●001258●天使
+
+○001259○Kanade
+●001259●奏
+
+○001260○Schoolgirl
+●001260●女学生
+
+○001261○??
+●001261●？？
+
+○001262○"Class is starting soon."
+●001262●「要开始上课了哦」
+
+○001263○nothing
+●001263●nothing
+
+○001264○nothing
+●001264●nothing
+
+○001265○nothing
+●001265●nothing
+
+○001266○nothing
+●001266●nothing
+
+○001267○nothing
+●001267●nothing
+
+○001268○It's her again!
+●001268●又出现了！
+
+○001269○Hinata
+●001269●日向
+
+○001270○Man B
+●001270●男性B
+
+○001271○Ero-Ero Brigade Commander
+●001271●老色批战队统帅
+
+○001272○Niceschlong
+●001272●长枪
+
+○001273○Homotaro
+●001273●Homotaro
+
+○001274○Hinaschlong
+●001274●日枪
+
+○001275○Hideki
+●001275●秀树
+
+○001276○Schoolboy
+●001276●男学生
+
+○001277○??
+●001277●？？
+
+○001278○"Book it, Just Another Pervy Teenager!"
+●001278●「快逃吧，只是个色批少年！」
+
+○001279○Hinata
+●001279●日向
+
+○001280○Man B
+●001280●男性B
+
+○001281○Ero-Ero Brigade Commander
+●001281●老色批战队统帅
+
+○001282○Niceschlong
+●001282●长枪
+
+○001283○Homotaro
+●001283●Homotaro
+
+○001284○Hinaschlong
+●001284●日枪
+
+○001285○Hideki
+●001285●秀树
+
+○001286○Schoolboy
+●001286●男学生
+
+○001287○??
+●001287●？？
+
+○001288○"Book it, Otonashi!"
+●001288●「快逃吧，音无！」
+
+○001289○Otonashi
+●001289●音无
+
+○001290○Damn Brat
+●001290●祖安带师
+
+○001291○Proxy
+●001291●代理人
+
+○001292○Way Too Iffy Cool Dude
+●001292●微妙的帅小伙
+
+○001293○Lolicon
+●001293●萝莉控
+
+○001294○Glasses Comrade
+●001294●眼镜之友
+
+○001295○All-Japan Mental Arithmetic Champion
+●001295●全日本珠心算记录保持者
+
+○001296○Slasher
+●001296●无差别杀人犯
+
+○001297○No-Memory Man
+●001297●没记忆的男人
+
+○001298○Onsoku
+●001298●音速
+
+○001299○Mugen
+●001299●无限
+
+○001300○Ero-Samurai
+●001300●色批武士
+
+○001301○Ero-Ero Brigade No.1
+●001301●老色批战队No.1
+
+○001302○Just Another Pervy Teenager
+●001302●只是个色批少年
+
+○001303○Yurisugly
+●001303●丑八怪由理
+
+○001304○Debussy
+●001304●Debussy
+
+○001305○CornHornDog
+●001305●美式色批狗
+
+○001306○Zeus
+●001306●宙斯
+
+○001307○Hinata Mk. 2
+●001307●日向Mk.2
+
+○001308○Dung Beetle
+●001308●屎壳郎
+
+○001309○Consumer Model Hinata
+●001309●量产型日向
+
+○001310○??
+●001310●？？
+
+○001311○"Yeah!"
+●001311●「嗯！」
+
+○001312○We held out for ten minutes.
+●001312●我们跑了10分钟。
+
+○001313○nothing
+●001313●nothing
+
+○001314○nothing
+●001314●nothing
+
+○001315○nothing
+●001315●nothing
+
+○001316○nothing
+●001316●nothing
+
+○001317○nothing
+●001317●nothing
+
+○001318○Hinata
+●001318●日向
+
+○001319○Man B
+●001319●男性B
+
+○001320○Ero-Ero Brigade Commander
+●001320●老色批战队统帅
+
+○001321○Niceschlong
+●001321●长枪
+
+○001322○Homotaro
+●001322●Homotaro
+
+○001323○Hinaschlong
+●001323●日枪
+
+○001324○Hideki
+●001324●秀树
+
+○001325○Schoolboy
+●001325●男学生
+
+○001326○??
+●001326●？？
+
+○001327○"Phew, we're safe now."
+●001327●「好，已经安全了」
+
+○001328○Otonashi
+●001328●音无
+
+○001329○Damn Brat
+●001329●祖安带师
+
+○001330○Proxy
+●001330●代理人
+
+○001331○Way Too Iffy Cool Dude
+●001331●微妙的帅小伙
+
+○001332○Lolicon
+●001332●萝莉控
+
+○001333○Glasses Comrade
+●001333●眼镜之友
+
+○001334○All-Japan Mental Arithmetic Champion
+●001334●全日本珠心算记录保持者
+
+○001335○Slasher
+●001335●无差别杀人犯
+
+○001336○No-Memory Man
+●001336●没记忆的男人
+
+○001337○Onsoku
+●001337●音速
+
+○001338○Mugen
+●001338●无限
+
+○001339○Ero-Samurai
+●001339●色批武士
+
+○001340○Ero-Ero Brigade No.1
+●001340●老色批战队No.1
+
+○001341○Just Another Pervy Teenager
+●001341●只是个色批少年
+
+○001342○Yurisugly
+●001342●丑八怪由理
+
+○001343○Debussy
+●001343●Debussy
+
+○001344○CornHornDog
+●001344●美式色批狗
+
+○001345○Zeus
+●001345●宙斯
+
+○001346○Hinata Mk. 2
+●001346●日向Mk.2
+
+○001347○Dung Beetle
+●001347●屎壳郎
+
+○001348○Consumer Model Hinata
+●001348●量产型日向
+
+○001349○??
+●001349●？？
+
+○001350○"Haa... haa..."
+●001350●「哈啊…哈啊…」
+
+○001351○As always, Hinata was aloof while I was exhausted.
+●001351●日向依然相当轻松，只有我一身疲惫…。
+
+○001352○nothing
+●001352●nothing
+
+○001353○nothing
+●001353●nothing
+
+○001354○nothing
+●001354●nothing
+
+○001355○nothing
+●001355●nothing
+
+○001356○nothing
+●001356●nothing
+
+○001357○Hinata
+●001357●日向
+
+○001358○Man B
+●001358●男性B
+
+○001359○Ero-Ero Brigade Commander
+●001359●老色批战队统帅
+
+○001360○Niceschlong
+●001360●长枪
+
+○001361○Homotaro
+●001361●Homotaro
+
+○001362○Hinaschlong
+●001362●日枪
+
+○001363○Hideki
+●001363●秀树
+
+○001364○Schoolboy
+●001364●男学生
+
+○001365○??
+●001365●？？
+
+○001366○"Well, let's do some afternoon shooting practice, shall we?"
+●001366●「那么，下午要进行射击训练吗？」
+
+○001367○Otonashi
+●001367●音无
+
+○001368○Damn Brat
+●001368●祖安带师
+
+○001369○Proxy
+●001369●代理人
+
+○001370○Way Too Iffy Cool Dude
+●001370●微妙的帅小伙
+
+○001371○Lolicon
+●001371●萝莉控
+
+○001372○Glasses Comrade
+●001372●眼镜之友
+
+○001373○All-Japan Mental Arithmetic Champion
+●001373●全日本珠心算记录保持者
+
+○001374○Slasher
+●001374●无差别杀人犯
+
+○001375○No-Memory Man
+●001375●没记忆的男人
+
+○001376○Onsoku
+●001376●音速
+
+○001377○Mugen
+●001377●无限
+
+○001378○Ero-Samurai
+●001378●色批武士
+
+○001379○Ero-Ero Brigade No.1
+●001379●老色批战队No.1
+
+○001380○Just Another Pervy Teenager
+●001380●只是个色批少年
+
+○001381○Yurisugly
+●001381●丑八怪由理
+
+○001382○Debussy
+●001382●Debussy
+
+○001383○CornHornDog
+●001383●美式色批狗
+
+○001384○Zeus
+●001384●宙斯
+
+○001385○Hinata Mk. 2
+●001385●日向Mk.2
+
+○001386○Dung Beetle
+●001386●屎壳郎
+
+○001387○Consumer Model Hinata
+●001387●量产型日向
+
+○001388○??
+●001388●？？
+
+○001389○"Yeah..."
+●001389●「嗯…」
+
+○001390○nothing
+●001390●nothing
+
+○001393○nothing
+●001393●nothing
+
+○001394○nothing
+●001394●nothing
+
+○001395○nothing
+●001395●nothing
+
+○001396○nothing
+●001396●nothing
+
+○001397○nothing
+●001397●nothing
+
+○001398○nothing
+●001398●nothing
+
+○001399○Takamatsu was there again.
+●001399●高松这次也还在。
+
+○001400○nothing
+●001400●nothing
+
+○001401○nothing
+●001401●nothing
+
+○001402○nothing
+●001402●nothing
+
+○001403○nothing
+●001403●nothing
+
+○001404○nothing
+●001404●nothing
+
+○001405○Takamatsu
+●001405●高松
+
+○001406○"You seem quite close."
+●001406●「看起来，关系很好呢」
+
+○001407○Hinata
+●001407●日向
+
+○001408○Man B
+●001408●男性B
+
+○001409○Ero-Ero Brigade Commander
+●001409●老色批战队统帅
+
+○001410○Niceschlong
+●001410●长枪
+
+○001411○Homotaro
+●001411●Homotaro
+
+○001412○Hinaschlong
+●001412●日枪
+
+○001413○Hideki
+●001413●秀树
+
+○001414○Schoolboy
+●001414●男学生
+
+○001415○??
+●001415●？？
+
+○001416○"And you?"
+●001416●「你呢？」
+
+○001417○nothing
+●001417●nothing
+
+○001418○nothing
+●001418●nothing
+
+○001419○nothing
+●001419●nothing
+
+○001420○nothing
+●001420●nothing
+
+○001421○nothing
+●001421●nothing
+
+○001422○Takamatsu
+●001422●高松
+
+○001423○"I'd like to save some bullets for later, so I'll finish up."
+●001423●「我想保留一点子弹，所以就到此结束吧」
+
+○001424○nothing
+●001424●nothing
+
+○001425○nothing
+●001425●nothing
+
+○001426○nothing
+●001426●nothing
+
+○001427○nothing
+●001427●nothing
+
+○001428○nothing
+●001428●nothing
+
+○001429○Takamatsu
+●001429●高松
+
+○001430○"However, this seems interesting, so I'll observe again."
+●001430●「但是，因为很有意思，请允许我再次观摩」
+
+○001431○nothing
+●001431●nothing
+
+○001432○nothing
+●001432●nothing
+
+○001433○nothing
+●001433●nothing
+
+○001434○nothing
+●001434●nothing
+
+○001435○nothing
+●001435●nothing
+
+○001436○Hinata
+●001436●日向
+
+○001437○Man B
+●001437●男性B
+
+○001438○Ero-Ero Brigade Commander
+●001438●老色批战队统帅
+
+○001439○Niceschlong
+●001439●长枪
+
+○001440○Homotaro
+●001440●Homotaro
+
+○001441○Hinaschlong
+●001441●日枪
+
+○001442○Hideki
+●001442●秀树
+
+○001443○Schoolboy
+●001443●男学生
+
+○001444○??
+●001444●？？
+
+○001445○"Yeah, go ahead."
+●001445●「嗯，请—」
+
+○001446○Otonashi
+●001446●音无
+
+○001447○Damn Brat
+●001447●祖安带师
+
+○001448○Proxy
+●001448●代理人
+
+○001449○Way Too Iffy Cool Dude
+●001449●微妙的帅小伙
+
+○001450○Lolicon
+●001450●萝莉控
+
+○001451○Glasses Comrade
+●001451●眼镜之友
+
+○001452○All-Japan Mental Arithmetic Champion
+●001452●全日本珠心算记录保持者
+
+○001453○Slasher
+●001453●无差别杀人犯
+
+○001454○No-Memory Man
+●001454●没记忆的男人
+
+○001455○Onsoku
+●001455●音速
+
+○001456○Mugen
+●001456●无限
+
+○001457○Ero-Samurai
+●001457●色批武士
+
+○001458○Ero-Ero Brigade No.1
+●001458●老色批战队No.1
+
+○001459○Just Another Pervy Teenager
+●001459●只是个色批少年
+
+○001460○Yurisugly
+●001460●丑八怪由理
+
+○001461○Debussy
+●001461●Debussy
+
+○001462○CornHornDog
+●001462●美式色批狗
+
+○001463○Zeus
+●001463●宙斯
+
+○001464○Hinata Mk. 2
+●001464●日向Mk.2
+
+○001465○Dung Beetle
+●001465●屎壳郎
+
+○001466○Consumer Model Hinata
+●001466●量产型日向
+
+○001467○??
+●001467●？？
+
+○001468○(Please don't...)
+●001468●（请别…）
+
+○001469○nothing
+●001469●nothing
+
+○001470○nothing
+●001470●nothing
+
+○001471○nothing
+●001471●nothing
+
+○001472○nothing
+●001472●nothing
+
+○001473○nothing
+●001473●nothing
+
+○001474○Hinata
+●001474●日向
+
+○001475○Man B
+●001475●男性B
+
+○001476○Ero-Ero Brigade Commander
+●001476●老色批战队统帅
+
+○001477○Niceschlong
+●001477●长枪
+
+○001478○Homotaro
+●001478●Homotaro
+
+○001479○Hinaschlong
+●001479●日枪
+
+○001480○Hideki
+●001480●秀树
+
+○001481○Schoolboy
+●001481●男学生
+
+○001482○??
+●001482●？？
+
+○001483○"Alright, I'll go first today."
+●001483●「那么，今天我先来吧」
+
+○001484○Otonashi
+●001484●音无
+
+○001485○Damn Brat
+●001485●祖安带师
+
+○001486○Proxy
+●001486●代理人
+
+○001487○Way Too Iffy Cool Dude
+●001487●微妙的帅小伙
+
+○001488○Lolicon
+●001488●萝莉控
+
+○001489○Glasses Comrade
+●001489●眼镜之友
+
+○001490○All-Japan Mental Arithmetic Champion
+●001490●全日本珠心算记录保持者
+
+○001491○Slasher
+●001491●无差别杀人犯
+
+○001492○No-Memory Man
+●001492●没记忆的男人
+
+○001493○Onsoku
+●001493●音速
+
+○001494○Mugen
+●001494●无限
+
+○001495○Ero-Samurai
+●001495●色批武士
+
+○001496○Ero-Ero Brigade No.1
+●001496●老色批战队No.1
+
+○001497○Just Another Pervy Teenager
+●001497●只是个色批少年
+
+○001498○Yurisugly
+●001498●丑八怪由理
+
+○001499○Debussy
+●001499●Debussy
+
+○001500○CornHornDog
+●001500●美式色批狗
+
+○001501○Zeus
+●001501●宙斯
+
+○001502○Hinata Mk. 2
+●001502●日向Mk.2
+
+○001503○Dung Beetle
+●001503●屎壳郎
+
+○001504○Consumer Model Hinata
+●001504●量产型日向
+
+○001505○??
+●001505●？？
+
+○001506○"Okay."
+●001506●「嗯」
+
+○001507○nothing
+●001507●nothing
+
+○001508○nothing
+●001508●nothing
+
+○001509○nothing
+●001509●nothing
+
+○001510○nothing
+●001510●nothing
+
+○001511○nothing
+●001511●nothing
+
+○001512○Hinata readied his gun and fired.
+●001512●日向准备好了，然后开枪。
+
+○001513○nothing
+●001513●nothing
+
+○001514○nothing
+●001514●nothing
+
+○001515○nothing
+●001515●nothing
+
+○001516○nothing
+●001516●nothing
+
+○001517○nothing
+●001517●nothing
+
+○001518○nothing
+●001518●nothing
+
+○001519○se_handgun
+●001519●se_handgun
+
+○001520○None
+●001520●None
+
+○001521○se_shotting_can
+●001521●se_shotting_can
+
+○001522○Clang!
+●001522●咣！
+
+○001523○se_handgun
+●001523●se_handgun
+
+○001524○None
+●001524●None
+
+○001525○se_shotting_can
+●001525●se_shotting_can
+
+○001526○Clang!
+●001526●咣！
+
+○001527○se_handgun
+●001527●se_handgun
+
+○001528○None
+●001528●None
+
+○001529○se_shotting_can
+●001529●se_shotting_can
+
+○001530○Clang!
+●001530●咣！
+
+○001531○se_handgun
+●001531●se_handgun
+
+○001532○None
+●001532●None
+
+○001533○Only the first was off, but the rest blew away the cans flawlessly.
+●001533●只有第一枪虚发，之后的全都漂亮地击飞了罐子。
+
+○001534○nothing
+●001534●nothing
+
+○001535○nothing
+●001535●nothing
+
+○001536○nothing
+●001536●nothing
+
+○001537○nothing
+●001537●nothing
+
+○001538○nothing
+●001538●nothing
+
+○001539○Hinata
+●001539●日向
+
+○001540○Man B
+●001540●男性B
+
+○001541○Ero-Ero Brigade Commander
+●001541●老色批战队统帅
+
+○001542○Niceschlong
+●001542●长枪
+
+○001543○Homotaro
+●001543●Homotaro
+
+○001544○Hinaschlong
+●001544●日枪
+
+○001545○Hideki
+●001545●秀树
+
+○001546○Schoolboy
+●001546●男学生
+
+○001547○??
+●001547●？？
+
+○001548○"I'm gonna go put them back up."
+●001548●「我去把罐子立好」
+
+○001549○nothing
+●001549●nothing
+
+○001550○nothing
+●001550●nothing
+
+○001551○nothing
+●001551●nothing
+
+○001552○nothing
+●001552●nothing
+
+○001553○nothing
+●001553●nothing
+
+○001554○nothing
+●001554●nothing
+
+○001555○I've got to show some results...
+●001555●得展示出成果才行…。
+
+○001556○Shoot
+●001556●射击
+
+○001557○Wait
+●001557●等待
+
+○001558○selbtn : 
+●001558●selbtn : 
+
+○001559○se_handgun2
+●001559●se_handgun2
+
+○001560○None
+●001560●None
+
+○001561○Bang!
+●001561●砰！
+
+○001562○Hinata
+●001562●日向
+
+○001563○Man B
+●001563●男性B
+
+○001564○Ero-Ero Brigade Commander
+●001564●老色批战队统帅
+
+○001565○Niceschlong
+●001565●长枪
+
+○001566○Homotaro
+●001566●Homotaro
+
+○001567○Hinaschlong
+●001567●日枪
+
+○001568○Hideki
+●001568●秀树
+
+○001569○Schoolboy
+●001569●男学生
+
+○001570○??
+●001570●？？
+
+○001571○"?!"
+●001571●「！？」
+
+○001572○Hinata fell over in shock.
+●001572●日向吓得摔倒了。
+
+○001573○nothing
+●001573●nothing
+
+○001574○nothing
+●001574●nothing
+
+○001575○nothing
+●001575●nothing
+
+○001576○nothing
+●001576●nothing
+
+○001577○nothing
+●001577●nothing
+
+○001578○Hinata
+●001578●日向
+
+○001579○Man B
+●001579●男性B
+
+○001580○Ero-Ero Brigade Commander
+●001580●老色批战队统帅
+
+○001581○Niceschlong
+●001581●长枪
+
+○001582○Homotaro
+●001582●Homotaro
+
+○001583○Hinaschlong
+●001583●日枪
+
+○001584○Hideki
+●001584●秀树
+
+○001585○Schoolboy
+●001585●男学生
+
+○001586○??
+●001586●？？
+
+○001587○"Wait, wait! Why are you shooting when the cans aren't even set up yet?!"
+●001587●「等一下等一下！为什么还没等罐子立好就开始射击了啊！？」
+
+○001588○Otonashi
+●001588●音无
+
+○001589○Damn Brat
+●001589●祖安带师
+
+○001590○Proxy
+●001590●代理人
+
+○001591○Way Too Iffy Cool Dude
+●001591●微妙的帅小伙
+
+○001592○Lolicon
+●001592●萝莉控
+
+○001593○Glasses Comrade
+●001593●眼镜之友
+
+○001594○All-Japan Mental Arithmetic Champion
+●001594●全日本珠心算记录保持者
+
+○001595○Slasher
+●001595●无差别杀人犯
+
+○001596○No-Memory Man
+●001596●没记忆的男人
+
+○001597○Onsoku
+●001597●音速
+
+○001598○Mugen
+●001598●无限
+
+○001599○Ero-Samurai
+●001599●色批武士
+
+○001600○Ero-Ero Brigade No.1
+●001600●老色批战队No.1
+
+○001601○Just Another Pervy Teenager
+●001601●只是个色批少年
+
+○001602○Yurisugly
+●001602●丑八怪由理
+
+○001603○Debussy
+●001603●Debussy
+
+○001604○CornHornDog
+●001604●美式色批狗
+
+○001605○Zeus
+●001605●宙斯
+
+○001606○Hinata Mk. 2
+●001606●日向Mk.2
+
+○001607○Dung Beetle
+●001607●屎壳郎
+
+○001608○Consumer Model Hinata
+●001608●量产型日向
+
+○001609○??
+●001609●？？
+
+○001610○"What can I say, I'm Just Another Pervy Teenager so I'm a quick shot..."
+●001610●「因为只是个色批少年，所以早泄了…」
+
+○001611○nothing
+●001611●nothing
+
+○001612○nothing
+●001612●nothing
+
+○001613○nothing
+●001613●nothing
+
+○001614○nothing
+●001614●nothing
+
+○001615○nothing
+●001615●nothing
+
+○001616○Hinata
+●001616●日向
+
+○001617○Man B
+●001617●男性B
+
+○001618○Ero-Ero Brigade Commander
+●001618●老色批战队统帅
+
+○001619○Niceschlong
+●001619●长枪
+
+○001620○Homotaro
+●001620●Homotaro
+
+○001621○Hinaschlong
+●001621●日枪
+
+○001622○Hideki
+●001622●秀树
+
+○001623○Schoolboy
+●001623●男学生
+
+○001624○??
+●001624●？？
+
+○001625○"Don't sound clever with such a self-depreciating joke!!"
+●001625●「不要这么快就学会这种自虐的段子啊！！」
+
+○001626○nothing
+●001626●nothing
+
+○001627○nothing
+●001627●nothing
+
+○001628○nothing
+●001628●nothing
+
+○001629○nothing
+●001629●nothing
+
+○001630○nothing
+●001630●nothing
+
+○001631○Hinata
+●001631●日向
+
+○001632○Man B
+●001632●男性B
+
+○001633○Ero-Ero Brigade Commander
+●001633●老色批战队统帅
+
+○001634○Niceschlong
+●001634●长枪
+
+○001635○Homotaro
+●001635●Homotaro
+
+○001636○Hinaschlong
+●001636●日枪
+
+○001637○Hideki
+●001637●秀树
+
+○001638○Schoolboy
+●001638●男学生
+
+○001639○??
+●001639●？？
+
+○001640○"Wait, wait! Why are you shooting when the cans aren't even set up yet?!"
+●001640●「等一下等一下！为什么还没等罐子立好就开始射击了啊！？」
+
+○001641○Otonashi
+●001641●音无
+
+○001642○Damn Brat
+●001642●祖安带师
+
+○001643○Proxy
+●001643●代理人
+
+○001644○Way Too Iffy Cool Dude
+●001644●微妙的帅小伙
+
+○001645○Lolicon
+●001645●萝莉控
+
+○001646○Glasses Comrade
+●001646●眼镜之友
+
+○001647○All-Japan Mental Arithmetic Champion
+●001647●全日本珠心算记录保持者
+
+○001648○Slasher
+●001648●无差别杀人犯
+
+○001649○No-Memory Man
+●001649●没记忆的男人
+
+○001650○Onsoku
+●001650●音速
+
+○001651○Mugen
+●001651●无限
+
+○001652○Ero-Samurai
+●001652●色批武士
+
+○001653○Ero-Ero Brigade No.1
+●001653●老色批战队No.1
+
+○001654○Just Another Pervy Teenager
+●001654●只是个色批少年
+
+○001655○Yurisugly
+●001655●丑八怪由理
+
+○001656○Debussy
+●001656●Debussy
+
+○001657○CornHornDog
+●001657●美式色批狗
+
+○001658○Zeus
+●001658●宙斯
+
+○001659○Hinata Mk. 2
+●001659●日向Mk.2
+
+○001660○Dung Beetle
+●001660●屎壳郎
+
+○001661○Consumer Model Hinata
+●001661●量产型日向
+
+○001662○??
+●001662●？？
+
+○001663○"My bad, I just kind of got impatient..."
+●001663●「不，只是有点急了，对不起…」
+
+○001664○nothing
+●001664●nothing
+
+○001665○nothing
+●001665●nothing
+
+○001666○nothing
+●001666●nothing
+
+○001667○nothing
+●001667●nothing
+
+○001668○nothing
+●001668●nothing
+
+○001669○Hinata
+●001669●日向
+
+○001670○Man B
+●001670●男性B
+
+○001671○Ero-Ero Brigade Commander
+●001671●老色批战队统帅
+
+○001672○Niceschlong
+●001672●长枪
+
+○001673○Homotaro
+●001673●Homotaro
+
+○001674○Hinaschlong
+●001674●日枪
+
+○001675○Hideki
+●001675●秀树
+
+○001676○Schoolboy
+●001676●男学生
+
+○001677○??
+●001677●？？
+
+○001678○"We may not die here, but the pain is the same, so could you give me a break?!"
+●001678●「虽然是不会死的世界，但疼痛还是
+
+○001679○おんな
+●001679●
+
+○001680○同
+●001680●一样
+
+○001681○じなんだから、勘弁してくれよなっ！」
+●001681●的，所以饶了我吧！」
+
+○001682○Otonashi
+●001682●音无
+
+○001683○Damn Brat
+●001683●祖安带师
+
+○001684○Proxy
+●001684●代理人
+
+○001685○Way Too Iffy Cool Dude
+●001685●微妙的帅小伙
+
+○001686○Lolicon
+●001686●萝莉控
+
+○001687○Glasses Comrade
+●001687●眼镜之友
+
+○001688○All-Japan Mental Arithmetic Champion
+●001688●全日本珠心算记录保持者
+
+○001689○Slasher
+●001689●无差别杀人犯
+
+○001690○No-Memory Man
+●001690●没记忆的男人
+
+○001691○Onsoku
+●001691●音速
+
+○001692○Mugen
+●001692●无限
+
+○001693○Ero-Samurai
+●001693●色批武士
+
+○001694○Ero-Ero Brigade No.1
+●001694●老色批战队No.1
+
+○001695○Just Another Pervy Teenager
+●001695●只是个色批少年
+
+○001696○Yurisugly
+●001696●丑八怪由理
+
+○001697○Debussy
+●001697●Debussy
+
+○001698○CornHornDog
+●001698●美式色批狗
+
+○001699○Zeus
+●001699●宙斯
+
+○001700○Hinata Mk. 2
+●001700●日向Mk.2
+
+○001701○Dung Beetle
+●001701●屎壳郎
+
+○001702○Consumer Model Hinata
+●001702●量产型日向
+
+○001703○??
+●001703●？？
+
+○001704○"Yeah... sorry..."
+●001704●「嗯…抱歉…」
+
+○001705○nothing
+●001705●nothing
+
+○001706○nothing
+●001706●nothing
+
+○001707○nothing
+●001707●nothing
+
+○001708○nothing
+●001708●nothing
+
+○001709○nothing
+●001709●nothing
+
+○001710○nothing
+●001710●nothing
+
+○001711○I waited.
+●001711●我等待着。
+
+○001712○Hinata reset the cans and came back.
+●001712●日向摆完了罐子之后回来了。
+
+○001713○nothing
+●001713●nothing
+
+○001714○nothing
+●001714●nothing
+
+○001715○nothing
+●001715●nothing
+
+○001716○nothing
+●001716●nothing
+
+○001717○nothing
+●001717●nothing
+
+○001718○Hinata
+●001718●日向
+
+○001719○Man B
+●001719●男性B
+
+○001720○Ero-Ero Brigade Commander
+●001720●老色批战队统帅
+
+○001721○Niceschlong
+●001721●长枪
+
+○001722○Homotaro
+●001722●Homotaro
+
+○001723○Hinaschlong
+●001723●日枪
+
+○001724○Hideki
+●001724●秀树
+
+○001725○Schoolboy
+●001725●男学生
+
+○001726○??
+●001726●？？
+
+○001727○"Go for it, Just Another Pervy Teenager."
+●001727●「上吧，只是个色批少年」
+
+○001728○Otonashi
+●001728●音无
+
+○001729○Damn Brat
+●001729●祖安带师
+
+○001730○Proxy
+●001730●代理人
+
+○001731○Way Too Iffy Cool Dude
+●001731●微妙的帅小伙
+
+○001732○Lolicon
+●001732●萝莉控
+
+○001733○Glasses Comrade
+●001733●眼镜之友
+
+○001734○All-Japan Mental Arithmetic Champion
+●001734●全日本珠心算记录保持者
+
+○001735○Slasher
+●001735●无差别杀人犯
+
+○001736○No-Memory Man
+●001736●没记忆的男人
+
+○001737○Onsoku
+●001737●音速
+
+○001738○Mugen
+●001738●无限
+
+○001739○Ero-Samurai
+●001739●色批武士
+
+○001740○Ero-Ero Brigade No.1
+●001740●老色批战队No.1
+
+○001741○Just Another Pervy Teenager
+●001741●只是个色批少年
+
+○001742○Yurisugly
+●001742●丑八怪由理
+
+○001743○Debussy
+●001743●Debussy
+
+○001744○CornHornDog
+●001744●美式色批狗
+
+○001745○Zeus
+●001745●宙斯
+
+○001746○Hinata Mk. 2
+●001746●日向Mk.2
+
+○001747○Dung Beetle
+●001747●屎壳郎
+
+○001748○Consumer Model Hinata
+●001748●量产型日向
+
+○001749○??
+●001749●？？
+
+○001750○"Just Another Pervy Teenager, going for it!"
+●001750●「只是个色批少年，上吧——！」
+
+○001751○Hinata
+●001751●日向
+
+○001752○Man B
+●001752●男性B
+
+○001753○Ero-Ero Brigade Commander
+●001753●老色批战队统帅
+
+○001754○Niceschlong
+●001754●长枪
+
+○001755○Homotaro
+●001755●Homotaro
+
+○001756○Hinaschlong
+●001756●日枪
+
+○001757○Hideki
+●001757●秀树
+
+○001758○Schoolboy
+●001758●男学生
+
+○001759○??
+●001759●？？
+
+○001760○"Go for it, Otonashi."
+●001760●「上吧，音无」
+
+○001761○nothing
+●001761●nothing
+
+○001762○nothing
+●001762●nothing
+
+○001763○nothing
+●001763●nothing
+
+○001764○nothing
+●001764●nothing
+
+○001765○nothing
+●001765●nothing
+
+○001766○nothing
+●001766●nothing
+
+○001767○Otonashi
+●001767●音无
+
+○001768○Damn Brat
+●001768●祖安带师
+
+○001769○Proxy
+●001769●代理人
+
+○001770○Way Too Iffy Cool Dude
+●001770●微妙的帅小伙
+
+○001771○Lolicon
+●001771●萝莉控
+
+○001772○Glasses Comrade
+●001772●眼镜之友
+
+○001773○All-Japan Mental Arithmetic Champion
+●001773●全日本珠心算记录保持者
+
+○001774○Slasher
+●001774●无差别杀人犯
+
+○001775○No-Memory Man
+●001775●没记忆的男人
+
+○001776○Onsoku
+●001776●音速
+
+○001777○Mugen
+●001777●无限
+
+○001778○Ero-Samurai
+●001778●色批武士
+
+○001779○Ero-Ero Brigade No.1
+●001779●老色批战队No.1
+
+○001780○Just Another Pervy Teenager
+●001780●只是个色批少年
+
+○001781○Yurisugly
+●001781●丑八怪由理
+
+○001782○Debussy
+●001782●Debussy
+
+○001783○CornHornDog
+●001783●美式色批狗
+
+○001784○Zeus
+●001784●宙斯
+
+○001785○Hinata Mk. 2
+●001785●日向Mk.2
+
+○001786○Dung Beetle
+●001786●屎壳郎
+
+○001787○Consumer Model Hinata
+●001787●量产型日向
+
+○001788○??
+●001788●？？
+
+○001789○(Don't be hasty...calm down...)
+●001789●（不能急躁…冷静一点…）
+
+○001790○se_handgun2
+●001790●se_handgun2
+
+○001791○None
+●001791●None
+
+○001792○Bang! Miss.
+●001792●砰！未击中。
+
+○001793○se_handgun2
+●001793●se_handgun2
+
+○001794○None
+●001794●None
+
+○001795○Bang! Miss.
+●001795●砰！未击中。
+
+○001796○se_handgun2
+●001796●se_handgun2
+
+○001797○None
+●001797●None
+
+○001798○Bang! Miss.
+●001798●砰！未击中。
+
+○001799○se_handgun2
+●001799●se_handgun2
+
+○001800○None
+●001800●None
+
+○001801○Bang! Miss.
+●001801●砰！未击中。
+
+○001802○se_fall2_human
+●001802●se_fall2_human
+
+○001803○I fell to my knees from the shock...
+●001803●太过震惊的我，以膝盖跪倒在了地板上…。
+
+○001804○nothing
+●001804●nothing
+
+○001805○nothing
+●001805●nothing
+
+○001806○nothing
+●001806●nothing
+
+○001807○nothing
+●001807●nothing
+
+○001808○nothing
+●001808●nothing
+
+○001809○Hinata
+●001809●日向
+
+○001810○Man B
+●001810●男性B
+
+○001811○Ero-Ero Brigade Commander
+●001811●老色批战队统帅
+
+○001812○Niceschlong
+●001812●长枪
+
+○001813○Homotaro
+●001813●Homotaro
+
+○001814○Hinaschlong
+●001814●日枪
+
+○001815○Hideki
+●001815●秀树
+
+○001816○Schoolboy
+●001816●男学生
+
+○001817○??
+●001817●？？
+
+○001818○"Just how depressed are you going to get, Just Another Pervy Teenager?! There's no way you would be able to hit it in just two days!"
+●001818●「只是个色批少年，你到底是有多失落啊！！在短短的两天之内，不可能击中罐子的吧！」
+
+○001819○Hinata
+●001819●日向
+
+○001820○Man B
+●001820●男性B
+
+○001821○Ero-Ero Brigade Commander
+●001821●老色批战队统帅
+
+○001822○Niceschlong
+●001822●长枪
+
+○001823○Homotaro
+●001823●Homotaro
+
+○001824○Hinaschlong
+●001824●日枪
+
+○001825○Hideki
+●001825●秀树
+
+○001826○Schoolboy
+●001826●男学生
+
+○001827○??
+●001827●？？
+
+○001828○"Just how depressed are you going to get, Otonashi?! There's no way you would be able hit it in just two days!"
+●001828●「音无，你到底是有多失落啊！！在短短的两天之内，不可能击中罐子的吧！」
+
+○001829○Otonashi
+●001829●音无
+
+○001830○Damn Brat
+●001830●祖安带师
+
+○001831○Proxy
+●001831●代理人
+
+○001832○Way Too Iffy Cool Dude
+●001832●微妙的帅小伙
+
+○001833○Lolicon
+●001833●萝莉控
+
+○001834○Glasses Comrade
+●001834●眼镜之友
+
+○001835○All-Japan Mental Arithmetic Champion
+●001835●全日本珠心算记录保持者
+
+○001836○Slasher
+●001836●无差别杀人犯
+
+○001837○No-Memory Man
+●001837●没记忆的男人
+
+○001838○Onsoku
+●001838●音速
+
+○001839○Mugen
+●001839●无限
+
+○001840○Ero-Samurai
+●001840●色批武士
+
+○001841○Ero-Ero Brigade No.1
+●001841●老色批战队No.1
+
+○001842○Just Another Pervy Teenager
+●001842●只是个色批少年
+
+○001843○Yurisugly
+●001843●丑八怪由理
+
+○001844○Debussy
+●001844●Debussy
+
+○001845○CornHornDog
+●001845●美式色批狗
+
+○001846○Zeus
+●001846●宙斯
+
+○001847○Hinata Mk. 2
+●001847●日向Mk.2
+
+○001848○Dung Beetle
+●001848●屎壳郎
+
+○001849○Consumer Model Hinata
+●001849●量产型日向
+
+○001850○??
+●001850●？？
+
+○001851○"...Really...?"
+●001851●「诶…是这样吗…」
+
+○001852○nothing
+●001852●nothing
+
+○001853○nothing
+●001853●nothing
+
+○001854○nothing
+●001854●nothing
+
+○001855○nothing
+●001855●nothing
+
+○001856○nothing
+●001856●nothing
+
+○001857○Hinata
+●001857●日向
+
+○001858○Man B
+●001858●男性B
+
+○001859○Ero-Ero Brigade Commander
+●001859●老色批战队统帅
+
+○001860○Niceschlong
+●001860●长枪
+
+○001861○Homotaro
+●001861●Homotaro
+
+○001862○Hinaschlong
+●001862●日枪
+
+○001863○Hideki
+●001863●秀树
+
+○001864○Schoolboy
+●001864●男学生
+
+○001865○??
+●001865●？？
+
+○001866○"Yeah. How long do you think the top brass has been here and how much do you think we've trained?"
+●001866●「嗯。你以为干部们已经在这个世界上待了多久，反复训练了多少次啊」
+
+○001867○Takamatsu
+●001867●高松
+
+○001868○"Indeed."
+●001868●「是呢」
+
+○001869○nothing
+●001869●nothing
+
+○001870○nothing
+●001870●nothing
+
+○001871○nothing
+●001871●nothing
+
+○001872○nothing
+●001872●nothing
+
+○001873○nothing
+●001873●nothing
+
+○001874○Hinata
+●001874●日向
+
+○001875○Man B
+●001875●男性B
+
+○001876○Ero-Ero Brigade Commander
+●001876●老色批战队统帅
+
+○001877○Niceschlong
+●001877●长枪
+
+○001878○Homotaro
+●001878●Homotaro
+
+○001879○Hinaschlong
+●001879●日枪
+
+○001880○Hideki
+●001880●秀树
+
+○001881○Schoolboy
+●001881●男学生
+
+○001882○??
+●001882●？？
+
+○001883○"You can't hit two birds with one stone, so relax."
+●001883●「这种东西不是一石二鸟就能学会的，所以放心吧」
+
+○001884○Otonashi
+●001884●音无
+
+○001885○Damn Brat
+●001885●祖安带师
+
+○001886○Proxy
+●001886●代理人
+
+○001887○Way Too Iffy Cool Dude
+●001887●微妙的帅小伙
+
+○001888○Lolicon
+●001888●萝莉控
+
+○001889○Glasses Comrade
+●001889●眼镜之友
+
+○001890○All-Japan Mental Arithmetic Champion
+●001890●全日本珠心算记录保持者
+
+○001891○Slasher
+●001891●无差别杀人犯
+
+○001892○No-Memory Man
+●001892●没记忆的男人
+
+○001893○Onsoku
+●001893●音速
+
+○001894○Mugen
+●001894●无限
+
+○001895○Ero-Samurai
+●001895●色批武士
+
+○001896○Ero-Ero Brigade No.1
+●001896●老色批战队No.1
+
+○001897○Just Another Pervy Teenager
+●001897●只是个色批少年
+
+○001898○Yurisugly
+●001898●丑八怪由理
+
+○001899○Debussy
+●001899●Debussy
+
+○001900○CornHornDog
+●001900●美式色批狗
+
+○001901○Zeus
+●001901●宙斯
+
+○001902○Hinata Mk. 2
+●001902●日向Mk.2
+
+○001903○Dung Beetle
+●001903●屎壳郎
+
+○001904○Consumer Model Hinata
+●001904●量产型日向
+
+○001905○??
+●001905●？？
+
+○001906○"I guess so...Also, I think what you meant to say was 'Rome wasn't built in a day'."
+●001906●「那就好…。顺便，你想说的好像是一朝一夕吧」
+
+○001907○nothing
+●001907●nothing
+
+○001908○nothing
+●001908●nothing
+
+○001909○nothing
+●001909●nothing
+
+○001910○nothing
+●001910●nothing
+
+○001911○nothing
+●001911●nothing
+
+○001912○Hinata
+●001912●日向
+
+○001913○Man B
+●001913●男性B
+
+○001914○Ero-Ero Brigade Commander
+●001914●老色批战队统帅
+
+○001915○Niceschlong
+●001915●长枪
+
+○001916○Homotaro
+●001916●Homotaro
+
+○001917○Hinaschlong
+●001917●日枪
+
+○001918○Hideki
+●001918●秀树
+
+○001919○Schoolboy
+●001919●男学生
+
+○001920○??
+●001920●？？
+
+○001921○"I just said it wrong! You understood what I meant, didn't you?!"
+●001921●「只是口误而已！你也明白了我的意思吧！？」
+
+○001922○Otonashi
+●001922●音无
+
+○001923○Damn Brat
+●001923●祖安带师
+
+○001924○Proxy
+●001924●代理人
+
+○001925○Way Too Iffy Cool Dude
+●001925●微妙的帅小伙
+
+○001926○Lolicon
+●001926●萝莉控
+
+○001927○Glasses Comrade
+●001927●眼镜之友
+
+○001928○All-Japan Mental Arithmetic Champion
+●001928●全日本珠心算记录保持者
+
+○001929○Slasher
+●001929●无差别杀人犯
+
+○001930○No-Memory Man
+●001930●没记忆的男人
+
+○001931○Onsoku
+●001931●音速
+
+○001932○Mugen
+●001932●无限
+
+○001933○Ero-Samurai
+●001933●色批武士
+
+○001934○Ero-Ero Brigade No.1
+●001934●老色批战队No.1
+
+○001935○Just Another Pervy Teenager
+●001935●只是个色批少年
+
+○001936○Yurisugly
+●001936●丑八怪由理
+
+○001937○Debussy
+●001937●Debussy
+
+○001938○CornHornDog
+●001938●美式色批狗
+
+○001939○Zeus
+●001939●宙斯
+
+○001940○Hinata Mk. 2
+●001940●日向Mk.2
+
+○001941○Dung Beetle
+●001941●屎壳郎
+
+○001942○Consumer Model Hinata
+●001942●量产型日向
+
+○001943○??
+●001943●？？
+
+○001944○"Yeah...I'll remember that..."
+●001944●「嗯…我会铭刻在心里的…」
+
+○001945○nothing
+●001945●nothing
+
+○001946○nothing
+●001946●nothing
+
+○001947○nothing
+●001947●nothing
+
+○001948○nothing
+●001948●nothing
+
+○001949○nothing
+●001949●nothing
+
+○001950○Hinata
+●001950●日向
+
+○001951○Man B
+●001951●男性B
+
+○001952○Ero-Ero Brigade Commander
+●001952●老色批战队统帅
+
+○001953○Niceschlong
+●001953●长枪
+
+○001954○Homotaro
+●001954●Homotaro
+
+○001955○Hinaschlong
+●001955●日枪
+
+○001956○Hideki
+●001956●秀树
+
+○001957○Schoolboy
+●001957●男学生
+
+○001958○??
+●001958●？？
+
+○001959○"Well, it's about dinner time."
+●001959●「差不多了，该去吃晚饭了」
+
+○001960○Otonashi
+●001960●音无
+
+○001961○Damn Brat
+●001961●祖安带师
+
+○001962○Proxy
+●001962●代理人
+
+○001963○Way Too Iffy Cool Dude
+●001963●微妙的帅小伙
+
+○001964○Lolicon
+●001964●萝莉控
+
+○001965○Glasses Comrade
+●001965●眼镜之友
+
+○001966○All-Japan Mental Arithmetic Champion
+●001966●全日本珠心算记录保持者
+
+○001967○Slasher
+●001967●无差别杀人犯
+
+○001968○No-Memory Man
+●001968●没记忆的男人
+
+○001969○Onsoku
+●001969●音速
+
+○001970○Mugen
+●001970●无限
+
+○001971○Ero-Samurai
+●001971●色批武士
+
+○001972○Ero-Ero Brigade No.1
+●001972●老色批战队No.1
+
+○001973○Just Another Pervy Teenager
+●001973●只是个色批少年
+
+○001974○Yurisugly
+●001974●丑八怪由理
+
+○001975○Debussy
+●001975●Debussy
+
+○001976○CornHornDog
+●001976●美式色批狗
+
+○001977○Zeus
+●001977●宙斯
+
+○001978○Hinata Mk. 2
+●001978●日向Mk.2
+
+○001979○Dung Beetle
+●001979●屎壳郎
+
+○001980○Consumer Model Hinata
+●001980●量产型日向
+
+○001981○??
+●001981●？？
+
+○001982○"Yeah."
+●001982●「嗯」
+
+○001983○nothing
+●001983●nothing
+
+○001984○nothing
+●001984●nothing
+
+○001985○nothing
+●001985●nothing
+
+○001986○nothing
+●001986●nothing
+
+○001987○nothing
+●001987●nothing
+
+○001988○Hinata
+●001988●日向
+
+○001989○Man B
+●001989●男性B
+
+○001990○Ero-Ero Brigade Commander
+●001990●老色批战队统帅
+
+○001991○Niceschlong
+●001991●长枪
+
+○001992○Homotaro
+●001992●Homotaro
+
+○001993○Hinaschlong
+●001993●日枪
+
+○001994○Hideki
+●001994●秀树
+
+○001995○Schoolboy
+●001995●男学生
+
+○001996○??
+●001996●？？
+
+○001997○"Alright, your dinner iiiis..."
+●001997●「那么，首先你的晚饭是——…」
+
+○001998○nothing
+●001998●nothing
+
+○001999○nothing
+●001999●nothing
+
+○002000○nothing
+●002000●nothing
+
+○002001○nothing
+●002001●nothing
+
+○002002○nothing
+●002002●nothing
+
+○002003○Hinata dug around in his pocket.
+●002003●日向在口袋里翻了翻。
+
+○002004○nothing
+●002004●nothing
+
+○002005○nothing
+●002005●nothing
+
+○002006○nothing
+●002006●nothing
+
+○002007○nothing
+●002007●nothing
+
+○002008○nothing
+●002008●nothing
+
+○002009○Hinata
+●002009●日向
+
+○002010○Man B
+●002010●男性B
+
+○002011○Ero-Ero Brigade Commander
+●002011●老色批战队统帅
+
+○002012○Niceschlong
+●002012●长枪
+
+○002013○Homotaro
+●002013●Homotaro
+
+○002014○Hinaschlong
+●002014●日枪
+
+○002015○Hideki
+●002015●秀树
+
+○002016○Schoolboy
+●002016●男学生
+
+○002017○??
+●002017●？？
+
+○002018○"Yep, tom yum curry."
+●002018●「嚯，冬阴功咖喱」
+
+○002019○Otonashi
+●002019●音无
+
+○002020○Damn Brat
+●002020●祖安带师
+
+○002021○Proxy
+●002021●代理人
+
+○002022○Way Too Iffy Cool Dude
+●002022●微妙的帅小伙
+
+○002023○Lolicon
+●002023●萝莉控
+
+○002024○Glasses Comrade
+●002024●眼镜之友
+
+○002025○All-Japan Mental Arithmetic Champion
+●002025●全日本珠心算记录保持者
+
+○002026○Slasher
+●002026●无差别杀人犯
+
+○002027○No-Memory Man
+●002027●没记忆的男人
+
+○002028○Onsoku
+●002028●音速
+
+○002029○Mugen
+●002029●无限
+
+○002030○Ero-Samurai
+●002030●色批武士
+
+○002031○Ero-Ero Brigade No.1
+●002031●老色批战队No.1
+
+○002032○Just Another Pervy Teenager
+●002032●只是个色批少年
+
+○002033○Yurisugly
+●002033●丑八怪由理
+
+○002034○Debussy
+●002034●Debussy
+
+○002035○CornHornDog
+●002035●美式色批狗
+
+○002036○Zeus
+●002036●宙斯
+
+○002037○Hinata Mk. 2
+●002037●日向Mk.2
+
+○002038○Dung Beetle
+●002038●屎壳郎
+
+○002039○Consumer Model Hinata
+●002039●量产型日向
+
+○002040○??
+●002040●？？
+
+○002041○".........."
+●002041●「………」
+
+○002042○I was dumbfounded.
+●002042●我呆呆地站着…。
+
+○002043○nothing
+●002043●nothing
+
+○002044○nothing
+●002044●nothing
+
+○002045○nothing
+●002045●nothing
+
+○002046○nothing
+●002046●nothing
+
+○002047○nothing
+●002047●nothing
+
+○002048○Hinata
+●002048●日向
+
+○002049○Man B
+●002049●男性B
+
+○002050○Ero-Ero Brigade Commander
+●002050●老色批战队统帅
+
+○002051○Niceschlong
+●002051●长枪
+
+○002052○Homotaro
+●002052●Homotaro
+
+○002053○Hinaschlong
+●002053●日枪
+
+○002054○Hideki
+●002054●秀树
+
+○002055○Schoolboy
+●002055●男学生
+
+○002056○??
+●002056●？？
+
+○002057○"What's wrong?"
+●002057●「怎么了？」
+
+○002058○Otonashi
+●002058●音无
+
+○002059○Damn Brat
+●002059●祖安带师
+
+○002060○Proxy
+●002060●代理人
+
+○002061○Way Too Iffy Cool Dude
+●002061●微妙的帅小伙
+
+○002062○Lolicon
+●002062●萝莉控
+
+○002063○Glasses Comrade
+●002063●眼镜之友
+
+○002064○All-Japan Mental Arithmetic Champion
+●002064●全日本珠心算记录保持者
+
+○002065○Slasher
+●002065●无差别杀人犯
+
+○002066○No-Memory Man
+●002066●没记忆的男人
+
+○002067○Onsoku
+●002067●音速
+
+○002068○Mugen
+●002068●无限
+
+○002069○Ero-Samurai
+●002069●色批武士
+
+○002070○Ero-Ero Brigade No.1
+●002070●老色批战队No.1
+
+○002071○Just Another Pervy Teenager
+●002071●只是个色批少年
+
+○002072○Yurisugly
+●002072●丑八怪由理
+
+○002073○Debussy
+●002073●Debussy
+
+○002074○CornHornDog
+●002074●美式色批狗
+
+○002075○Zeus
+●002075●宙斯
+
+○002076○Hinata Mk. 2
+●002076●日向Mk.2
+
+○002077○Dung Beetle
+●002077●屎壳郎
+
+○002078○Consumer Model Hinata
+●002078●量产型日向
+
+○002079○??
+●002079●？？
+
+○002080○".........."
+●002080●「………」
+
+○002081○nothing
+●002081●nothing
+
+○002082○nothing
+●002082●nothing
+
+○002083○nothing
+●002083●nothing
+
+○002084○nothing
+●002084●nothing
+
+○002085○nothing
+●002085●nothing
+
+○002086○nothing
+●002086●nothing
+
+○002087○I took the ticket in silence.
+●002087●我默默地接过了饭票。
+
+○002088○nothing
+●002088●nothing
+
+○002089○nothing
+●002089●nothing
+
+○002090○nothing
+●002090●nothing
+
+○002091○nothing
+●002091●nothing
+
+○002092○nothing
+●002092●nothing
+
+○002093○Hinata
+●002093●日向
+
+○002094○Man B
+●002094●男性B
+
+○002095○Ero-Ero Brigade Commander
+●002095●老色批战队统帅
+
+○002096○Niceschlong
+●002096●长枪
+
+○002097○Homotaro
+●002097●Homotaro
+
+○002098○Hinaschlong
+●002098●日枪
+
+○002099○Hideki
+●002099●秀树
+
+○002100○Schoolboy
+●002100●男学生
+
+○002101○??
+●002101●？？
+
+○002102○"Well then, I wonder what's for me..."
+●002102●「那么，我的是什么呢—！？」
+
+○002103○nothing
+●002103●nothing
+
+○002104○nothing
+●002104●nothing
+
+○002105○nothing
+●002105●nothing
+
+○002106○nothing
+●002106●nothing
+
+○002107○nothing
+●002107●nothing
+
+○002108○Hinata pulled a ticket from his pocket...
+●002108●日向从口袋里掏出了一张饭票…。
+
+○002109○nothing
+●002109●nothing
+
+○002110○nothing
+●002110●nothing
+
+○002111○nothing
+●002111●nothing
+
+○002112○nothing
+●002112●nothing
+
+○002113○nothing
+●002113●nothing
+
+○002114○Hinata
+●002114●日向
+
+○002115○Man B
+●002115●男性B
+
+○002116○Ero-Ero Brigade Commander
+●002116●老色批战队统帅
+
+○002117○Niceschlong
+●002117●长枪
+
+○002118○Homotaro
+●002118●Homotaro
+
+○002119○Hinaschlong
+●002119●日枪
+
+○002120○Hideki
+●002120●秀树
+
+○002121○Schoolboy
+●002121●男学生
+
+○002122○??
+●002122●？？
+
+○002123○"The cubed pork stew set! A high-class, rare meal ticket!!"
+●002123●「豚角煮套餐！高级的稀有饭票来啦———！！」（注：注释集内有图。冲绳美食。把肥瘦参半的五花腩加豉油、糖等煮两个半小时，软腍得入口即溶化，外表虽像东坡肉，但实质更甜、更香，令人回味无穷）
+
+○002124○Not good...
+●002124●不好…。
+
+○002125○If that gets eaten in front of me, I might attack Hinata...
+●002125●如果他在我眼前吃这种东西的话，我会去袭击日向的…。
+
+○002126○nothing
+●002126●nothing
+
+○002127○nothing
+●002127●nothing
+
+○002128○nothing
+●002128●nothing
+
+○002129○nothing
+●002129●nothing
+
+○002130○nothing
+●002130●nothing
+
+○002131○nothing
+●002131●nothing
+
+○002132○As we always do, we handed over our meal tickets then lined up to get our food.
+●002132●和以往一样，把饭票交给柜台，拿到副券之后，在取餐口排队。
+
+○002133○That same intense smell of cilantro... even the NPCs nearby kept their distance.
+●002133●接过来的还是那个浓郁的香菜味。连附近的NPC都开始保持距离了…。
+
+○002134○Is this stuff really popular with some of them...?
+●002134●真的在部分NPC之中很有人气吗…？
+
+○002135○I don't think this flavor matches the Japanese palate in the first place, though...
+●002135●这个味道本来就和日本人的舌尖完全不相配吧…。
+
+○002136○Lunchlady
+●002136●食堂大妈
+
+○002137○"One cubed pork stew set."
+●002137●「给，豚角煮套餐」
+
+○002138○nothing
+●002138●nothing
+
+○002139○nothing
+●002139●nothing
+
+○002140○nothing
+●002140●nothing
+
+○002141○nothing
+●002141●nothing
+
+○002142○nothing
+●002142●nothing
+
+○002143○Hinata took the tray.
+●002143●日向接过了托盘。
+
+○002144○Placed on it was a bowl of lumpy pork cubes in a stew, along with some mustard.
+●002144●上面有一碗大块的红烧猪肉。而且还有芥末。
+
+○002145○He can just eat that in front of me... as I eat tom yum curry again...?
+●002145●就在我的眼前吃这个…在吃着冬阴功咖喱的我的眼前…。
+
+○002146○I can't do it.
+●002146●不行。
+
+○002147○Otonashi
+●002147●音无
+
+○002148○Damn Brat
+●002148●祖安带师
+
+○002149○Proxy
+●002149●代理人
+
+○002150○Way Too Iffy Cool Dude
+●002150●微妙的帅小伙
+
+○002151○Lolicon
+●002151●萝莉控
+
+○002152○Glasses Comrade
+●002152●眼镜之友
+
+○002153○All-Japan Mental Arithmetic Champion
+●002153●全日本珠心算记录保持者
+
+○002154○Slasher
+●002154●无差别杀人犯
+
+○002155○No-Memory Man
+●002155●没记忆的男人
+
+○002156○Onsoku
+●002156●音速
+
+○002157○Mugen
+●002157●无限
+
+○002158○Ero-Samurai
+●002158●色批武士
+
+○002159○Ero-Ero Brigade No.1
+●002159●老色批战队No.1
+
+○002160○Just Another Pervy Teenager
+●002160●只是个色批少年
+
+○002161○Yurisugly
+●002161●丑八怪由理
+
+○002162○Debussy
+●002162●Debussy
+
+○002163○CornHornDog
+●002163●美式色批狗
+
+○002164○Zeus
+●002164●宙斯
+
+○002165○Hinata Mk. 2
+●002165●日向Mk.2
+
+○002166○Dung Beetle
+●002166●屎壳郎
+
+○002167○Consumer Model Hinata
+●002167●量产型日向
+
+○002168○??
+●002168●？？
+
+○002169○"Sorry... I'll eat by myself."
+●002169●「对不起…我一个人吃」
+
+○002170○I sat down at an empty seat after telling him that.
+●002170●说完之后，我坐到了空着的椅子上。
+
+○002171○Hinata
+●002171●日向
+
+○002172○Man B
+●002172●男性B
+
+○002173○Ero-Ero Brigade Commander
+●002173●老色批战队统帅
+
+○002174○Niceschlong
+●002174●长枪
+
+○002175○Homotaro
+●002175●Homotaro
+
+○002176○Hinaschlong
+●002176●日枪
+
+○002177○Hideki
+●002177●秀树
+
+○002178○Schoolboy
+●002178●男学生
+
+○002179○??
+●002179●？？
+
+○002180○"Hey, hey, what's wrong, Just Another Pervy Teenager?!"
+●002180●「喂喂，怎么了啊，只是个色批少年！」
+
+○002181○Hinata
+●002181●日向
+
+○002182○Man B
+●002182●男性B
+
+○002183○Ero-Ero Brigade Commander
+●002183●老色批战队统帅
+
+○002184○Niceschlong
+●002184●长枪
+
+○002185○Homotaro
+●002185●Homotaro
+
+○002186○Hinaschlong
+●002186●日枪
+
+○002187○Hideki
+●002187●秀树
+
+○002188○Schoolboy
+●002188●男学生
+
+○002189○??
+●002189●？？
+
+○002190○"Hey, hey, what's wrong, Otonashi?!"
+●002190●「喂喂，怎么了啊，音无！」
+
+○002191○nothing
+●002191●nothing
+
+○002192○nothing
+●002192●nothing
+
+○002193○nothing
+●002193●nothing
+
+○002194○nothing
+●002194●nothing
+
+○002195○nothing
+●002195●nothing
+
+○002196○Otonashi
+●002196●音无
+
+○002197○Damn Brat
+●002197●祖安带师
+
+○002198○Proxy
+●002198●代理人
+
+○002199○Way Too Iffy Cool Dude
+●002199●微妙的帅小伙
+
+○002200○Lolicon
+●002200●萝莉控
+
+○002201○Glasses Comrade
+●002201●眼镜之友
+
+○002202○All-Japan Mental Arithmetic Champion
+●002202●全日本珠心算记录保持者
+
+○002203○Slasher
+●002203●无差别杀人犯
+
+○002204○No-Memory Man
+●002204●没记忆的男人
+
+○002205○Onsoku
+●002205●音速
+
+○002206○Mugen
+●002206●无限
+
+○002207○Ero-Samurai
+●002207●色批武士
+
+○002208○Ero-Ero Brigade No.1
+●002208●老色批战队No.1
+
+○002209○Just Another Pervy Teenager
+●002209●只是个色批少年
+
+○002210○Yurisugly
+●002210●丑八怪由理
+
+○002211○Debussy
+●002211●Debussy
+
+○002212○CornHornDog
+●002212●美式色批狗
+
+○002213○Zeus
+●002213●宙斯
+
+○002214○Hinata Mk. 2
+●002214●日向Mk.2
+
+○002215○Dung Beetle
+●002215●屎壳郎
+
+○002216○Consumer Model Hinata
+●002216●量产型日向
+
+○002217○??
+●002217●？？
+
+○002218○"If we eat together, it's possible I'll attack you!"
+●002218●「一起吃的话，可能会袭击你啊！！」
+
+○002219○nothing
+●002219●nothing
+
+○002220○nothing
+●002220●nothing
+
+○002221○nothing
+●002221●nothing
+
+○002222○nothing
+●002222●nothing
+
+○002223○nothing
+●002223●nothing
+
+○002224○Hinata
+●002224●日向
+
+○002225○Man B
+●002225●男性B
+
+○002226○Ero-Ero Brigade Commander
+●002226●老色批战队统帅
+
+○002227○Niceschlong
+●002227●长枪
+
+○002228○Homotaro
+●002228●Homotaro
+
+○002229○Hinaschlong
+●002229●日枪
+
+○002230○Hideki
+●002230●秀树
+
+○002231○Schoolboy
+●002231●男学生
+
+○002232○??
+●002232●？？
+
+○002233○"Huuh? You're aware of the difference between our physical abilities, right? I won't lose to a newbie, you know."
+●002233●「诶诶？我和你身体能力的差距，你应该清楚吧？我可不会输给新人的哦？」
+
+○002234○nothing
+●002234●nothing
+
+○002235○nothing
+●002235●nothing
+
+○002236○nothing
+●002236●nothing
+
+○002237○nothing
+●002237●nothing
+
+○002238○nothing
+●002238●nothing
+
+○002239○Otonashi
+●002239●音无
+
+○002240○Damn Brat
+●002240●祖安带师
+
+○002241○Proxy
+●002241●代理人
+
+○002242○Way Too Iffy Cool Dude
+●002242●微妙的帅小伙
+
+○002243○Lolicon
+●002243●萝莉控
+
+○002244○Glasses Comrade
+●002244●眼镜之友
+
+○002245○All-Japan Mental Arithmetic Champion
+●002245●全日本珠心算记录保持者
+
+○002246○Slasher
+●002246●无差别杀人犯
+
+○002247○No-Memory Man
+●002247●没记忆的男人
+
+○002248○Onsoku
+●002248●音速
+
+○002249○Mugen
+●002249●无限
+
+○002250○Ero-Samurai
+●002250●色批武士
+
+○002251○Ero-Ero Brigade No.1
+●002251●老色批战队No.1
+
+○002252○Just Another Pervy Teenager
+●002252●只是个色批少年
+
+○002253○Yurisugly
+●002253●丑八怪由理
+
+○002254○Debussy
+●002254●Debussy
+
+○002255○CornHornDog
+●002255●美式色批狗
+
+○002256○Zeus
+●002256●宙斯
+
+○002257○Hinata Mk. 2
+●002257●日向Mk.2
+
+○002258○Dung Beetle
+●002258●屎壳郎
+
+○002259○Consumer Model Hinata
+●002259●量产型日向
+
+○002260○??
+●002260●？？
+
+○002261○"That may be true..."
+●002261●「也许会是那样…」
+
+○002262○nothing
+●002262●nothing
+
+○002263○nothing
+●002263●nothing
+
+○002264○nothing
+●002264●nothing
+
+○002265○nothing
+●002265●nothing
+
+○002266○nothing
+●002266●nothing
+
+○002267○Hinata
+●002267●日向
+
+○002268○Man B
+●002268●男性B
+
+○002269○Ero-Ero Brigade Commander
+●002269●老色批战队统帅
+
+○002270○Niceschlong
+●002270●长枪
+
+○002271○Homotaro
+●002271●Homotaro
+
+○002272○Hinaschlong
+●002272●日枪
+
+○002273○Hideki
+●002273●秀树
+
+○002274○Schoolboy
+●002274●男学生
+
+○002275○??
+●002275●？？
+
+○002276○"Well then, thanks for the food!"
+●002276●「那么，我开动了—！」
+
+○002277○With that, he placed his tray in front of me and began eating his cubed pork stew.
+●002277●说完之后，他把托盘放到了我的面前，吃起了豚角煮套餐。
+
+○002278○I got pissed looking at the tender pork separate without even biting it.
+●002278●看到这不用牙齿咀嚼，就能入口即化的豚角煮，我顿时火冒三丈。
+
+○002279○bs3_
+●002279●bs3_
+
+○002280○nothing
+●002280●nothing
+
+○002281○nothing
+●002281●nothing
+
+○002282○nothing
+●002282●nothing
+
+○002283○nothing
+●002283●nothing
+
+○002284○nothing
+●002284●nothing
+
+○002285○Otonashi
+●002285●音无
+
+○002286○Damn Brat
+●002286●祖安带师
+
+○002287○Proxy
+●002287●代理人
+
+○002288○Way Too Iffy Cool Dude
+●002288●微妙的帅小伙
+
+○002289○Lolicon
+●002289●萝莉控
+
+○002290○Glasses Comrade
+●002290●眼镜之友
+
+○002291○All-Japan Mental Arithmetic Champion
+●002291●全日本珠心算记录保持者
+
+○002292○Slasher
+●002292●无差别杀人犯
+
+○002293○No-Memory Man
+●002293●没记忆的男人
+
+○002294○Onsoku
+●002294●音速
+
+○002295○Mugen
+●002295●无限
+
+○002296○Ero-Samurai
+●002296●色批武士
+
+○002297○Ero-Ero Brigade No.1
+●002297●老色批战队No.1
+
+○002298○Just Another Pervy Teenager
+●002298●只是个色批少年
+
+○002299○Yurisugly
+●002299●丑八怪由理
+
+○002300○Debussy
+●002300●Debussy
+
+○002301○CornHornDog
+●002301●美式色批狗
+
+○002302○Zeus
+●002302●宙斯
+
+○002303○Hinata Mk. 2
+●002303●日向Mk.2
+
+○002304○Dung Beetle
+●002304●屎壳郎
+
+○002305○Consumer Model Hinata
+●002305●量产型日向
+
+○002306○??
+●002306●？？
+
+○002307○"Damn iiiiit! Give that here!!"
+●002307●「可恶啊啊啊——！把那个给我啊———！！」
+
+○002308○nothing
+●002308●nothing
+
+○002309○nothing
+●002309●nothing
+
+○002310○nothing
+●002310●nothing
+
+○002311○nothing
+●002311●nothing
+
+○002312○nothing
+●002312●nothing
+
+○002313○I leaped at Hinata.
+●002313●我扑向了日向。
+
+○002314○Even though I knew I couldn't match him head on, I couldn't hold myself back.
+●002314●就算知道自己正面迎战时并不是他的对手，依然无法控制自己。
+
+○002315○nothing
+●002315●nothing
+
+○002316○nothing
+●002316●nothing
+
+○002317○nothing
+●002317●nothing
+
+○002318○nothing
+●002318●nothing
+
+○002319○nothing
+●002319●nothing
+
+○002320○Hinata
+●002320●日向
+
+○002321○Man B
+●002321●男性B
+
+○002322○Ero-Ero Brigade Commander
+●002322●老色批战队统帅
+
+○002323○Niceschlong
+●002323●长枪
+
+○002324○Homotaro
+●002324●Homotaro
+
+○002325○Hinaschlong
+●002325●日枪
+
+○002326○Hideki
+●002326●秀树
+
+○002327○Schoolboy
+●002327●男学生
+
+○002328○??
+●002328●？？
+
+○002329○"Excuse me?!"
+●002329●「哈啊啊啊啊啊啊——！？」
+
+○002330○Otonashi
+●002330●音无
+
+○002331○Damn Brat
+●002331●祖安带师
+
+○002332○Proxy
+●002332●代理人
+
+○002333○Way Too Iffy Cool Dude
+●002333●微妙的帅小伙
+
+○002334○Lolicon
+●002334●萝莉控
+
+○002335○Glasses Comrade
+●002335●眼镜之友
+
+○002336○All-Japan Mental Arithmetic Champion
+●002336●全日本珠心算记录保持者
+
+○002337○Slasher
+●002337●无差别杀人犯
+
+○002338○No-Memory Man
+●002338●没记忆的男人
+
+○002339○Onsoku
+●002339●音速
+
+○002340○Mugen
+●002340●无限
+
+○002341○Ero-Samurai
+●002341●色批武士
+
+○002342○Ero-Ero Brigade No.1
+●002342●老色批战队No.1
+
+○002343○Just Another Pervy Teenager
+●002343●只是个色批少年
+
+○002344○Yurisugly
+●002344●丑八怪由理
+
+○002345○Debussy
+●002345●Debussy
+
+○002346○CornHornDog
+●002346●美式色批狗
+
+○002347○Zeus
+●002347●宙斯
+
+○002348○Hinata Mk. 2
+●002348●日向Mk.2
+
+○002349○Dung Beetle
+●002349●屎壳郎
+
+○002350○Consumer Model Hinata
+●002350●量产型日向
+
+○002351○??
+●002351●？？
+
+○002352○"I told you not to eat that in front of me, didn't I?!"
+●002352●「我已经说过，不要在我的眼前吃这个了吧！！」
+
+○002353○nothing
+●002353●nothing
+
+○002354○nothing
+●002354●nothing
+
+○002355○nothing
+●002355●nothing
+
+○002356○nothing
+●002356●nothing
+
+○002357○nothing
+●002357●nothing
+
+○002358○Hinata
+●002358●日向
+
+○002359○Man B
+●002359●男性B
+
+○002360○Ero-Ero Brigade Commander
+●002360●老色批战队统帅
+
+○002361○Niceschlong
+●002361●长枪
+
+○002362○Homotaro
+●002362●Homotaro
+
+○002363○Hinaschlong
+●002363●日枪
+
+○002364○Hideki
+●002364●秀树
+
+○002365○Schoolboy
+●002365●男学生
+
+○002366○??
+●002366●？？
+
+○002367○"Ooowwww!!"
+●002367●「好痛——！！」
+
+○002368○Although I frantically clung to him, I was easily torn off.
+●002368●虽然我疯狂地抓抱住了他，但还是被他轻松甩开了。
+
+○002370○nothing
+●002370●nothing
+
+○002371○nothing
+●002371●nothing
+
+○002372○nothing
+●002372●nothing
+
+○002373○nothing
+●002373●nothing
+
+○002374○nothing
+●002374●nothing
+
+○002375○Hinata
+●002375●日向
+
+○002376○Man B
+●002376●男性B
+
+○002377○Ero-Ero Brigade Commander
+●002377●老色批战队统帅
+
+○002378○Niceschlong
+●002378●长枪
+
+○002379○Homotaro
+●002379●Homotaro
+
+○002380○Hinaschlong
+●002380●日枪
+
+○002381○Hideki
+●002381●秀树
+
+○002382○Schoolboy
+●002382●男学生
+
+○002383○??
+●002383●？？
+
+○002384○"Thanks for the food."
+●002384●「多谢款待」
+
+○002385○Otonashi
+●002385●音无
+
+○002386○Damn Brat
+●002386●祖安带师
+
+○002387○Proxy
+●002387●代理人
+
+○002388○Way Too Iffy Cool Dude
+●002388●微妙的帅小伙
+
+○002389○Lolicon
+●002389●萝莉控
+
+○002390○Glasses Comrade
+●002390●眼镜之友
+
+○002391○All-Japan Mental Arithmetic Champion
+●002391●全日本珠心算记录保持者
+
+○002392○Slasher
+●002392●无差别杀人犯
+
+○002393○No-Memory Man
+●002393●没记忆的男人
+
+○002394○Onsoku
+●002394●音速
+
+○002395○Mugen
+●002395●无限
+
+○002396○Ero-Samurai
+●002396●色批武士
+
+○002397○Ero-Ero Brigade No.1
+●002397●老色批战队No.1
+
+○002398○Just Another Pervy Teenager
+●002398●只是个色批少年
+
+○002399○Yurisugly
+●002399●丑八怪由理
+
+○002400○Debussy
+●002400●Debussy
+
+○002401○CornHornDog
+●002401●美式色批狗
+
+○002402○Zeus
+●002402●宙斯
+
+○002403○Hinata Mk. 2
+●002403●日向Mk.2
+
+○002404○Dung Beetle
+●002404●屎壳郎
+
+○002405○Consumer Model Hinata
+●002405●量产型日向
+
+○002406○??
+●002406●？？
+
+○002407○"...Thanks for the food."
+●002407●「…多谢款待」
+
+○002408○In the end, I couldn't win against Hinata.
+●002408●结果，还是胜不过日向。
+
+○002409○With only the smell of the cubed pork stew to drown out the cilantro, I filled my stomach with the tom yum curry.
+●002409●我以散发着足以消去豚角煮香味的，满分的香菜味的冬阴功咖喱，塞满了自己的肚子。
+
+○002410○nothing
+●002410●nothing
+
+○002411○nothing
+●002411●nothing
+
+○002412○nothing
+●002412●nothing
+
+○002413○nothing
+●002413●nothing
+
+○002414○nothing
+●002414●nothing
+
+○002415○Hinata
+●002415●日向
+
+○002416○Man B
+●002416●男性B
+
+○002417○Ero-Ero Brigade Commander
+●002417●老色批战队统帅
+
+○002418○Niceschlong
+●002418●长枪
+
+○002419○Homotaro
+●002419●Homotaro
+
+○002420○Hinaschlong
+●002420●日枪
+
+○002421○Hideki
+●002421●秀树
+
+○002422○Schoolboy
+●002422●男学生
+
+○002423○??
+●002423●？？
+
+○002424○"Alright, your dinner iiiis..."
+●002424●「那么，首先你的晚饭是——…」
+
+○002425○nothing
+●002425●nothing
+
+○002426○nothing
+●002426●nothing
+
+○002427○nothing
+●002427●nothing
+
+○002428○nothing
+●002428●nothing
+
+○002429○nothing
+●002429●nothing
+
+○002430○Hinata dug around in his pocket.
+●002430●日向在口袋里翻了翻。
+
+○002431○nothing
+●002431●nothing
+
+○002432○nothing
+●002432●nothing
+
+○002433○nothing
+●002433●nothing
+
+○002434○nothing
+●002434●nothing
+
+○002435○nothing
+●002435●nothing
+
+○002436○Hinata
+●002436●日向
+
+○002437○Man B
+●002437●男性B
+
+○002438○Ero-Ero Brigade Commander
+●002438●老色批战队统帅
+
+○002439○Niceschlong
+●002439●长枪
+
+○002440○Homotaro
+●002440●Homotaro
+
+○002441○Hinaschlong
+●002441●日枪
+
+○002442○Hideki
+●002442●秀树
+
+○002443○Schoolboy
+●002443●男学生
+
+○002444○??
+●002444●？？
+
+○002445○"This!"
+●002445●「这个！」
+
+○002446○nothing
+●002446●nothing
+
+○002447○nothing
+●002447●nothing
+
+○002448○nothing
+●002448●nothing
+
+○002449○nothing
+●002449●nothing
+
+○002450○nothing
+●002450●nothing
+
+○002451○Hinata
+●002451●日向
+
+○002452○Man B
+●002452●男性B
+
+○002453○Ero-Ero Brigade Commander
+●002453●老色批战队统帅
+
+○002454○Niceschlong
+●002454●长枪
+
+○002455○Homotaro
+●002455●Homotaro
+
+○002456○Hinaschlong
+●002456●日枪
+
+○002457○Hideki
+●002457●秀树
+
+○002458○Schoolboy
+●002458●男学生
+
+○002459○??
+●002459●？？
+
+○002460○"Ehh?! I screwed up..."
+●002460●「诶诶！？搞错了…」
+
+○002461○nothing
+●002461●nothing
+
+○002462○nothing
+●002462●nothing
+
+○002463○nothing
+●002463●nothing
+
+○002464○nothing
+●002464●nothing
+
+○002465○nothing
+●002465●nothing
+
+○002466○Otonashi
+●002466●音无
+
+○002467○Damn Brat
+●002467●祖安带师
+
+○002468○Proxy
+●002468●代理人
+
+○002469○Way Too Iffy Cool Dude
+●002469●微妙的帅小伙
+
+○002470○Lolicon
+●002470●萝莉控
+
+○002471○Glasses Comrade
+●002471●眼镜之友
+
+○002472○All-Japan Mental Arithmetic Champion
+●002472●全日本珠心算记录保持者
+
+○002473○Slasher
+●002473●无差别杀人犯
+
+○002474○No-Memory Man
+●002474●没记忆的男人
+
+○002475○Onsoku
+●002475●音速
+
+○002476○Mugen
+●002476●无限
+
+○002477○Ero-Samurai
+●002477●色批武士
+
+○002478○Ero-Ero Brigade No.1
+●002478●老色批战队No.1
+
+○002479○Just Another Pervy Teenager
+●002479●只是个色批少年
+
+○002480○Yurisugly
+●002480●丑八怪由理
+
+○002481○Debussy
+●002481●Debussy
+
+○002482○CornHornDog
+●002482●美式色批狗
+
+○002483○Zeus
+●002483●宙斯
+
+○002484○Hinata Mk. 2
+●002484●日向Mk.2
+
+○002485○Dung Beetle
+●002485●屎壳郎
+
+○002486○Consumer Model Hinata
+●002486●量产型日向
+
+○002487○??
+●002487●？？
+
+○002488○"Huh? Screwed up? It's random, right?"
+●002488●「诶？搞错了？是随机的吧？」
+
+○002489○nothing
+●002489●nothing
+
+○002490○nothing
+●002490●nothing
+
+○002491○nothing
+●002491●nothing
+
+○002492○nothing
+●002492●nothing
+
+○002493○nothing
+●002493●nothing
+
+○002494○Hinata
+●002494●日向
+
+○002495○Man B
+●002495●男性B
+
+○002496○Ero-Ero Brigade Commander
+●002496●老色批战队统帅
+
+○002497○Niceschlong
+●002497●长枪
+
+○002498○Homotaro
+●002498●Homotaro
+
+○002499○Hinaschlong
+●002499●日枪
+
+○002500○Hideki
+●002500●秀树
+
+○002501○Schoolboy
+●002501●男学生
+
+○002502○??
+●002502●？？
+
+○002503○"Yeah...exactly. No problem. This kind of thing happens sometimes."
+●002503●「啊—…没错。没问题。这种事情当然也会发生的」
+
+○002504○Otonashi
+●002504●音无
+
+○002505○Damn Brat
+●002505●祖安带师
+
+○002506○Proxy
+●002506●代理人
+
+○002507○Way Too Iffy Cool Dude
+●002507●微妙的帅小伙
+
+○002508○Lolicon
+●002508●萝莉控
+
+○002509○Glasses Comrade
+●002509●眼镜之友
+
+○002510○All-Japan Mental Arithmetic Champion
+●002510●全日本珠心算记录保持者
+
+○002511○Slasher
+●002511●无差别杀人犯
+
+○002512○No-Memory Man
+●002512●没记忆的男人
+
+○002513○Onsoku
+●002513●音速
+
+○002514○Mugen
+●002514●无限
+
+○002515○Ero-Samurai
+●002515●色批武士
+
+○002516○Ero-Ero Brigade No.1
+●002516●老色批战队No.1
+
+○002517○Just Another Pervy Teenager
+●002517●只是个色批少年
+
+○002518○Yurisugly
+●002518●丑八怪由理
+
+○002519○Debussy
+●002519●Debussy
+
+○002520○CornHornDog
+●002520●美式色批狗
+
+○002521○Zeus
+●002521●宙斯
+
+○002522○Hinata Mk. 2
+●002522●日向Mk.2
+
+○002523○Dung Beetle
+●002523●屎壳郎
+
+○002524○Consumer Model Hinata
+●002524●量产型日向
+
+○002525○??
+●002525●？？
+
+○002526○"So?"
+●002526●「所以是？」
+
+○002527○nothing
+●002527●nothing
+
+○002528○nothing
+●002528●nothing
+
+○002529○nothing
+●002529●nothing
+
+○002530○nothing
+●002530●nothing
+
+○002531○nothing
+●002531●nothing
+
+○002532○Hinata
+●002532●日向
+
+○002533○Man B
+●002533●男性B
+
+○002534○Ero-Ero Brigade Commander
+●002534●老色批战队统帅
+
+○002535○Niceschlong
+●002535●长枪
+
+○002536○Homotaro
+●002536●Homotaro
+
+○002537○Hinaschlong
+●002537●日枪
+
+○002538○Hideki
+●002538●秀树
+
+○002539○Schoolboy
+●002539●男学生
+
+○002540○??
+●002540●？？
+
+○002541○"Here."
+●002541●「给你」
+
+○002542○nothing
+●002542●nothing
+
+○002543○nothing
+●002543●nothing
+
+○002544○nothing
+●002544●nothing
+
+○002545○nothing
+●002545●nothing
+
+○002546○nothing
+●002546●nothing
+
+○002547○nothing
+●002547●nothing
+
+○002548○I'm handed the ticket.
+●002548●我接过了饭票。
+
+○002549○'Cubed pork stew set' was written on it.
+●002549●上面写着『豚角煮套餐』。（注：注释集内有图。冲绳美食。把肥瘦参半的五花腩加豉油、糖等煮两个半小时，软腍得入口即溶化，外表虽像东坡肉，但实质更甜、更香，令人回味无穷）
+
+○002550○Otonashi
+●002550●音无
+
+○002551○Damn Brat
+●002551●祖安带师
+
+○002552○Proxy
+●002552●代理人
+
+○002553○Way Too Iffy Cool Dude
+●002553●微妙的帅小伙
+
+○002554○Lolicon
+●002554●萝莉控
+
+○002555○Glasses Comrade
+●002555●眼镜之友
+
+○002556○All-Japan Mental Arithmetic Champion
+●002556●全日本珠心算记录保持者
+
+○002557○Slasher
+●002557●无差别杀人犯
+
+○002558○No-Memory Man
+●002558●没记忆的男人
+
+○002559○Onsoku
+●002559●音速
+
+○002560○Mugen
+●002560●无限
+
+○002561○Ero-Samurai
+●002561●色批武士
+
+○002562○Ero-Ero Brigade No.1
+●002562●老色批战队No.1
+
+○002563○Just Another Pervy Teenager
+●002563●只是个色批少年
+
+○002564○Yurisugly
+●002564●丑八怪由理
+
+○002565○Debussy
+●002565●Debussy
+
+○002566○CornHornDog
+●002566●美式色批狗
+
+○002567○Zeus
+●002567●宙斯
+
+○002568○Hinata Mk. 2
+●002568●日向Mk.2
+
+○002569○Dung Beetle
+●002569●屎壳郎
+
+○002570○Consumer Model Hinata
+●002570●量产型日向
+
+○002571○??
+●002571●？？
+
+○002572○"Yes! I can put my hope in this!!"
+●002572●「好，这次值得期待！！」
+
+○002573○nothing
+●002573●nothing
+
+○002574○nothing
+●002574●nothing
+
+○002575○nothing
+●002575●nothing
+
+○002576○nothing
+●002576●nothing
+
+○002577○nothing
+●002577●nothing
+
+○002578○Hinata
+●002578●日向
+
+○002579○Man B
+●002579●男性B
+
+○002580○Ero-Ero Brigade Commander
+●002580●老色批战队统帅
+
+○002581○Niceschlong
+●002581●长枪
+
+○002582○Homotaro
+●002582●Homotaro
+
+○002583○Hinaschlong
+●002583●日枪
+
+○002584○Hideki
+●002584●秀树
+
+○002585○Schoolboy
+●002585●男学生
+
+○002586○??
+●002586●？？
+
+○002587○"Mine is...cream croquette set. How plain..."
+●002587●「我的是…奶油可乐饼套餐。好普通…」（注：クリームコロッケ定食。图片见注释集）
+
+○002588○nothing
+●002588●nothing
+
+○002589○nothing
+●002589●nothing
+
+○002590○nothing
+●002590●nothing
+
+○002591○nothing
+●002591●nothing
+
+○002592○nothing
+●002592●nothing
+
+○002593○nothing
+●002593●nothing
+
+○002594○We waited to get our food.
+●002594●我们在取餐口等待着。
+
+○002595○Lunchlady
+●002595●食堂大妈
+
+○002596○"One cubed pork stew set."
+●002596●「给，豚角煮套餐—」
+
+○002597○I shouted with joy inside my heart.
+●002597●太好了————！！我在心中呼喊着。
+
+○002598○Lumps of cubed pork were grandly placed on the dish along with some mustard. I couldn't control my appetite!
+●002598●软绵绵的红烧猪肉摆在盘子里。还附带着芥末。完全无法控制大增的食欲。
+
+○002599○Facing Hinata, I started to eat.
+●002599●我和日向面对面，开吃了起来。
+
+○002600○No teeth needed...the tender pork broke apart with my lips alone. Sucking up some juice, the flavor was also top quality.
+●002600●完全不需要牙齿…这是只用嘴唇就能切开的柔软红烧肉。吸入的汤汁，味道也是绝品。
+
+○002601○Otonashi
+●002601●音无
+
+○002602○Damn Brat
+●002602●祖安带师
+
+○002603○Proxy
+●002603●代理人
+
+○002604○Way Too Iffy Cool Dude
+●002604●微妙的帅小伙
+
+○002605○Lolicon
+●002605●萝莉控
+
+○002606○Glasses Comrade
+●002606●眼镜之友
+
+○002607○All-Japan Mental Arithmetic Champion
+●002607●全日本珠心算记录保持者
+
+○002608○Slasher
+●002608●无差别杀人犯
+
+○002609○No-Memory Man
+●002609●没记忆的男人
+
+○002610○Onsoku
+●002610●音速
+
+○002611○Mugen
+●002611●无限
+
+○002612○Ero-Samurai
+●002612●色批武士
+
+○002613○Ero-Ero Brigade No.1
+●002613●老色批战队No.1
+
+○002614○Just Another Pervy Teenager
+●002614●只是个色批少年
+
+○002615○Yurisugly
+●002615●丑八怪由理
+
+○002616○Debussy
+●002616●Debussy
+
+○002617○CornHornDog
+●002617●美式色批狗
+
+○002618○Zeus
+●002618●宙斯
+
+○002619○Hinata Mk. 2
+●002619●日向Mk.2
+
+○002620○Dung Beetle
+●002620●屎壳郎
+
+○002621○Consumer Model Hinata
+●002621●量产型日向
+
+○002622○??
+●002622●？？
+
+○002623○"This deliciousness! It's incredible!!"
+●002623●「太好了———！！这也太美味了吧！」
+
+○002624○I let out my thoughts, unable to hold back the urge.
+●002624●这次没能抑制住冲动，喊了出来。
+
+○002625○nothing
+●002625●nothing
+
+○002626○nothing
+●002626●nothing
+
+○002627○nothing
+●002627●nothing
+
+○002628○nothing
+●002628●nothing
+
+○002629○nothing
+●002629●nothing
+
+○002630○Hinata
+●002630●日向
+
+○002631○Man B
+●002631●男性B
+
+○002632○Ero-Ero Brigade Commander
+●002632●老色批战队统帅
+
+○002633○Niceschlong
+●002633●长枪
+
+○002634○Homotaro
+●002634●Homotaro
+
+○002635○Hinaschlong
+●002635●日枪
+
+○002636○Hideki
+●002636●秀树
+
+○002637○Schoolboy
+●002637●男学生
+
+○002638○??
+●002638●？？
+
+○002639○"Good for you, huh."
+●002639●「那就太好了呢」
+
+○002640○Something felt off about his cold words.
+●002640●如此冷淡的发言，让我感到了一丝违和感。
+
+○002641○And that was...
+●002641●那就是…。
+
+○002642○Doesn't Hinata hate cream croquettes?
+●002642●你应该不喜欢奶油可乐饼吧
+
+○002643○Don't I hate cream croquettes?
+●002643●我不喜欢奶油可乐饼
+
+○002644○Are the tickets really random?
+●002644●真的是随机的吗
+
+○002645○selbtn : 
+●002645●selbtn : 
+
+○002646○Otonashi
+●002646●音无
+
+○002647○Damn Brat
+●002647●祖安带师
+
+○002648○Proxy
+●002648●代理人
+
+○002649○Way Too Iffy Cool Dude
+●002649●微妙的帅小伙
+
+○002650○Lolicon
+●002650●萝莉控
+
+○002651○Glasses Comrade
+●002651●眼镜之友
+
+○002652○All-Japan Mental Arithmetic Champion
+●002652●全日本珠心算记录保持者
+
+○002653○Slasher
+●002653●无差别杀人犯
+
+○002654○No-Memory Man
+●002654●没记忆的男人
+
+○002655○Onsoku
+●002655●音速
+
+○002656○Mugen
+●002656●无限
+
+○002657○Ero-Samurai
+●002657●色批武士
+
+○002658○Ero-Ero Brigade No.1
+●002658●老色批战队No.1
+
+○002659○Just Another Pervy Teenager
+●002659●只是个色批少年
+
+○002660○Yurisugly
+●002660●丑八怪由理
+
+○002661○Debussy
+●002661●Debussy
+
+○002662○CornHornDog
+●002662●美式色批狗
+
+○002663○Zeus
+●002663●宙斯
+
+○002664○Hinata Mk. 2
+●002664●日向Mk.2
+
+○002665○Dung Beetle
+●002665●屎壳郎
+
+○002666○Consumer Model Hinata
+●002666●量产型日向
+
+○002667○??
+●002667●？？
+
+○002668○"Wait, didn't you hate cream croquettes?"
+●002668●「你应该不喜欢奶油可乐饼吧」
+
+○002669○nothing
+●002669●nothing
+
+○002670○nothing
+●002670●nothing
+
+○002671○nothing
+●002671●nothing
+
+○002672○nothing
+●002672●nothing
+
+○002673○nothing
+●002673●nothing
+
+○002674○Hinata
+●002674●日向
+
+○002675○Man B
+●002675●男性B
+
+○002676○Ero-Ero Brigade Commander
+●002676●老色批战队统帅
+
+○002677○Niceschlong
+●002677●长枪
+
+○002678○Homotaro
+●002678●Homotaro
+
+○002679○Hinaschlong
+●002679●日枪
+
+○002680○Hideki
+●002680●秀树
+
+○002681○Schoolboy
+●002681●男学生
+
+○002682○??
+●002682●？？
+
+○002683○"Eh? Nah, I love them, actually."
+●002683●「诶？我很喜欢的哦？」
+
+○002684○Otonashi
+●002684●音无
+
+○002685○Damn Brat
+●002685●祖安带师
+
+○002686○Proxy
+●002686●代理人
+
+○002687○Way Too Iffy Cool Dude
+●002687●微妙的帅小伙
+
+○002688○Lolicon
+●002688●萝莉控
+
+○002689○Glasses Comrade
+●002689●眼镜之友
+
+○002690○All-Japan Mental Arithmetic Champion
+●002690●全日本珠心算记录保持者
+
+○002691○Slasher
+●002691●无差别杀人犯
+
+○002692○No-Memory Man
+●002692●没记忆的男人
+
+○002693○Onsoku
+●002693●音速
+
+○002694○Mugen
+●002694●无限
+
+○002695○Ero-Samurai
+●002695●色批武士
+
+○002696○Ero-Ero Brigade No.1
+●002696●老色批战队No.1
+
+○002697○Just Another Pervy Teenager
+●002697●只是个色批少年
+
+○002698○Yurisugly
+●002698●丑八怪由理
+
+○002699○Debussy
+●002699●Debussy
+
+○002700○CornHornDog
+●002700●美式色批狗
+
+○002701○Zeus
+●002701●宙斯
+
+○002702○Hinata Mk. 2
+●002702●日向Mk.2
+
+○002703○Dung Beetle
+●002703●屎壳郎
+
+○002704○Consumer Model Hinata
+●002704●量产型日向
+
+○002705○??
+●002705●？？
+
+○002706○"Really..."
+●002706●「这样啊…」
+
+○002707○nothing
+●002707●nothing
+
+○002708○nothing
+●002708●nothing
+
+○002709○nothing
+●002709●nothing
+
+○002710○nothing
+●002710●nothing
+
+○002711○nothing
+●002711●nothing
+
+○002712○Hinata
+●002712●日向
+
+○002713○Man B
+●002713●男性B
+
+○002714○Ero-Ero Brigade Commander
+●002714●老色批战队统帅
+
+○002715○Niceschlong
+●002715●长枪
+
+○002716○Homotaro
+●002716●Homotaro
+
+○002717○Hinaschlong
+●002717●日枪
+
+○002718○Hideki
+●002718●秀树
+
+○002719○Schoolboy
+●002719●男学生
+
+○002720○??
+●002720●？？
+
+○002721○"We've only been eating together for a few days and all, so no surprise you don't know what foods I hate yet."
+●002721●「还有，我们一起吃饭也就几天而已，你当然不会知道我的口味的」
+
+○002722○He's exactly right...
+●002722●说的完全没错…。
+
+○002723○Otonashi
+●002723●音无
+
+○002724○Damn Brat
+●002724●祖安带师
+
+○002725○Proxy
+●002725●代理人
+
+○002726○Way Too Iffy Cool Dude
+●002726●微妙的帅小伙
+
+○002727○Lolicon
+●002727●萝莉控
+
+○002728○Glasses Comrade
+●002728●眼镜之友
+
+○002729○All-Japan Mental Arithmetic Champion
+●002729●全日本珠心算记录保持者
+
+○002730○Slasher
+●002730●无差别杀人犯
+
+○002731○No-Memory Man
+●002731●没记忆的男人
+
+○002732○Onsoku
+●002732●音速
+
+○002733○Mugen
+●002733●无限
+
+○002734○Ero-Samurai
+●002734●色批武士
+
+○002735○Ero-Ero Brigade No.1
+●002735●老色批战队No.1
+
+○002736○Just Another Pervy Teenager
+●002736●只是个色批少年
+
+○002737○Yurisugly
+●002737●丑八怪由理
+
+○002738○Debussy
+●002738●Debussy
+
+○002739○CornHornDog
+●002739●美式色批狗
+
+○002740○Zeus
+●002740●宙斯
+
+○002741○Hinata Mk. 2
+●002741●日向Mk.2
+
+○002742○Dung Beetle
+●002742●屎壳郎
+
+○002743○Consumer Model Hinata
+●002743●量产型日向
+
+○002744○??
+●002744●？？
+
+○002745○"Yeah, true..."
+●002745●「是啊…」
+
+○002746○Otonashi
+●002746●音无
+
+○002747○Damn Brat
+●002747●祖安带师
+
+○002748○Proxy
+●002748●代理人
+
+○002749○Way Too Iffy Cool Dude
+●002749●微妙的帅小伙
+
+○002750○Lolicon
+●002750●萝莉控
+
+○002751○Glasses Comrade
+●002751●眼镜之友
+
+○002752○All-Japan Mental Arithmetic Champion
+●002752●全日本珠心算记录保持者
+
+○002753○Slasher
+●002753●无差别杀人犯
+
+○002754○No-Memory Man
+●002754●没记忆的男人
+
+○002755○Onsoku
+●002755●音速
+
+○002756○Mugen
+●002756●无限
+
+○002757○Ero-Samurai
+●002757●色批武士
+
+○002758○Ero-Ero Brigade No.1
+●002758●老色批战队No.1
+
+○002759○Just Another Pervy Teenager
+●002759●只是个色批少年
+
+○002760○Yurisugly
+●002760●丑八怪由理
+
+○002761○Debussy
+●002761●Debussy
+
+○002762○CornHornDog
+●002762●美式色批狗
+
+○002763○Zeus
+●002763●宙斯
+
+○002764○Hinata Mk. 2
+●002764●日向Mk.2
+
+○002765○Dung Beetle
+●002765●屎壳郎
+
+○002766○Consumer Model Hinata
+●002766●量产型日向
+
+○002767○??
+●002767●？？
+
+○002768○"I hate cream croquettes!"
+●002768●「我不喜欢奶油可乐饼」
+
+○002769○nothing
+●002769●nothing
+
+○002770○nothing
+●002770●nothing
+
+○002771○nothing
+●002771●nothing
+
+○002772○nothing
+●002772●nothing
+
+○002773○nothing
+●002773●nothing
+
+○002774○Hinata
+●002774●日向
+
+○002775○Man B
+●002775●男性B
+
+○002776○Ero-Ero Brigade Commander
+●002776●老色批战队统帅
+
+○002777○Niceschlong
+●002777●长枪
+
+○002778○Homotaro
+●002778●Homotaro
+
+○002779○Hinaschlong
+●002779●日枪
+
+○002780○Hideki
+●002780●秀树
+
+○002781○Schoolboy
+●002781●男学生
+
+○002782○??
+●002782●？？
+
+○002783○"Eh? Really? I love them, so I'll make sure I don't pass those to you."
+●002783●「诶？是这样吗。我很喜欢的，之后就不交给你了」
+
+○002784○Otonashi
+●002784●音无
+
+○002785○Damn Brat
+●002785●祖安带师
+
+○002786○Proxy
+●002786●代理人
+
+○002787○Way Too Iffy Cool Dude
+●002787●微妙的帅小伙
+
+○002788○Lolicon
+●002788●萝莉控
+
+○002789○Glasses Comrade
+●002789●眼镜之友
+
+○002790○All-Japan Mental Arithmetic Champion
+●002790●全日本珠心算记录保持者
+
+○002791○Slasher
+●002791●无差别杀人犯
+
+○002792○No-Memory Man
+●002792●没记忆的男人
+
+○002793○Onsoku
+●002793●音速
+
+○002794○Mugen
+●002794●无限
+
+○002795○Ero-Samurai
+●002795●色批武士
+
+○002796○Ero-Ero Brigade No.1
+●002796●老色批战队No.1
+
+○002797○Just Another Pervy Teenager
+●002797●只是个色批少年
+
+○002798○Yurisugly
+●002798●丑八怪由理
+
+○002799○Debussy
+●002799●Debussy
+
+○002800○CornHornDog
+●002800●美式色批狗
+
+○002801○Zeus
+●002801●宙斯
+
+○002802○Hinata Mk. 2
+●002802●日向Mk.2
+
+○002803○Dung Beetle
+●002803●屎壳郎
+
+○002804○Consumer Model Hinata
+●002804●量产型日向
+
+○002805○??
+●002805●？？
+
+○002806○"Sorry to always be such a bother..."
+●002806●「抱歉麻烦你了…」
+
+○002807○nothing
+●002807●nothing
+
+○002808○nothing
+●002808●nothing
+
+○002809○nothing
+●002809●nothing
+
+○002810○nothing
+●002810●nothing
+
+○002811○nothing
+●002811●nothing
+
+○002812○Hinata
+●002812●日向
+
+○002813○Man B
+●002813●男性B
+
+○002814○Ero-Ero Brigade Commander
+●002814●老色批战队统帅
+
+○002815○Niceschlong
+●002815●长枪
+
+○002816○Homotaro
+●002816●Homotaro
+
+○002817○Hinaschlong
+●002817●日枪
+
+○002818○Hideki
+●002818●秀树
+
+○002819○Schoolboy
+●002819●男学生
+
+○002820○??
+●002820●？？
+
+○002821○"Nah, don't worry about it!"
+●002821●「不用那么介意」
+
+○002822○There was something oddly charming about Hinata happily taking big bites out of his cream croquette.
+●002822●日向一脸开心，大口地吃着奶油可乐饼的样子，真的很可爱。
+
+○002823○Otonashi
+●002823●音无
+
+○002824○Damn Brat
+●002824●祖安带师
+
+○002825○Proxy
+●002825●代理人
+
+○002826○Way Too Iffy Cool Dude
+●002826●微妙的帅小伙
+
+○002827○Lolicon
+●002827●萝莉控
+
+○002828○Glasses Comrade
+●002828●眼镜之友
+
+○002829○All-Japan Mental Arithmetic Champion
+●002829●全日本珠心算记录保持者
+
+○002830○Slasher
+●002830●无差别杀人犯
+
+○002831○No-Memory Man
+●002831●没记忆的男人
+
+○002832○Onsoku
+●002832●音速
+
+○002833○Mugen
+●002833●无限
+
+○002834○Ero-Samurai
+●002834●色批武士
+
+○002835○Ero-Ero Brigade No.1
+●002835●老色批战队No.1
+
+○002836○Just Another Pervy Teenager
+●002836●只是个色批少年
+
+○002837○Yurisugly
+●002837●丑八怪由理
+
+○002838○Debussy
+●002838●Debussy
+
+○002839○CornHornDog
+●002839●美式色批狗
+
+○002840○Zeus
+●002840●宙斯
+
+○002841○Hinata Mk. 2
+●002841●日向Mk.2
+
+○002842○Dung Beetle
+●002842●屎壳郎
+
+○002843○Consumer Model Hinata
+●002843●量产型日向
+
+○002844○??
+●002844●？？
+
+○002845○"Alright..."
+●002845●「嗯…」
+
+○002846○Otonashi
+●002846●音无
+
+○002847○Damn Brat
+●002847●祖安带师
+
+○002848○Proxy
+●002848●代理人
+
+○002849○Way Too Iffy Cool Dude
+●002849●微妙的帅小伙
+
+○002850○Lolicon
+●002850●萝莉控
+
+○002851○Glasses Comrade
+●002851●眼镜之友
+
+○002852○All-Japan Mental Arithmetic Champion
+●002852●全日本珠心算记录保持者
+
+○002853○Slasher
+●002853●无差别杀人犯
+
+○002854○No-Memory Man
+●002854●没记忆的男人
+
+○002855○Onsoku
+●002855●音速
+
+○002856○Mugen
+●002856●无限
+
+○002857○Ero-Samurai
+●002857●色批武士
+
+○002858○Ero-Ero Brigade No.1
+●002858●老色批战队No.1
+
+○002859○Just Another Pervy Teenager
+●002859●只是个色批少年
+
+○002860○Yurisugly
+●002860●丑八怪由理
+
+○002861○Debussy
+●002861●Debussy
+
+○002862○CornHornDog
+●002862●美式色批狗
+
+○002863○Zeus
+●002863●宙斯
+
+○002864○Hinata Mk. 2
+●002864●日向Mk.2
+
+○002865○Dung Beetle
+●002865●屎壳郎
+
+○002866○Consumer Model Hinata
+●002866●量产型日向
+
+○002867○??
+●002867●？？
+
+○002868○"Are they really random?"
+●002868●「真的是随机的吗？」
+
+○002869○nothing
+●002869●nothing
+
+○002870○nothing
+●002870●nothing
+
+○002871○nothing
+●002871●nothing
+
+○002872○nothing
+●002872●nothing
+
+○002873○nothing
+●002873●nothing
+
+○002874○Hinata
+●002874●日向
+
+○002875○Man B
+●002875●男性B
+
+○002876○Ero-Ero Brigade Commander
+●002876●老色批战队统帅
+
+○002877○Niceschlong
+●002877●长枪
+
+○002878○Homotaro
+●002878●Homotaro
+
+○002879○Hinaschlong
+●002879●日枪
+
+○002880○Hideki
+●002880●秀树
+
+○002881○Schoolboy
+●002881●男学生
+
+○002882○??
+●002882●？？
+
+○002883○"Eh? What?"
+●002883●「诶？什么？」
+
+○002884○Otonashi
+●002884●音无
+
+○002885○Damn Brat
+●002885●祖安带师
+
+○002886○Proxy
+●002886●代理人
+
+○002887○Way Too Iffy Cool Dude
+●002887●微妙的帅小伙
+
+○002888○Lolicon
+●002888●萝莉控
+
+○002889○Glasses Comrade
+●002889●眼镜之友
+
+○002890○All-Japan Mental Arithmetic Champion
+●002890●全日本珠心算记录保持者
+
+○002891○Slasher
+●002891●无差别杀人犯
+
+○002892○No-Memory Man
+●002892●没记忆的男人
+
+○002893○Onsoku
+●002893●音速
+
+○002894○Mugen
+●002894●无限
+
+○002895○Ero-Samurai
+●002895●色批武士
+
+○002896○Ero-Ero Brigade No.1
+●002896●老色批战队No.1
+
+○002897○Just Another Pervy Teenager
+●002897●只是个色批少年
+
+○002898○Yurisugly
+●002898●丑八怪由理
+
+○002899○Debussy
+●002899●Debussy
+
+○002900○CornHornDog
+●002900●美式色批狗
+
+○002901○Zeus
+●002901●宙斯
+
+○002902○Hinata Mk. 2
+●002902●日向Mk.2
+
+○002903○Dung Beetle
+●002903●屎壳郎
+
+○002904○Consumer Model Hinata
+●002904●量产型日向
+
+○002905○??
+●002905●？？
+
+○002906○"The meal tickets you pick."
+●002906●「你选择的饭票」
+
+○002907○Otonashi
+●002907●音无
+
+○002908○Damn Brat
+●002908●祖安带师
+
+○002909○Proxy
+●002909●代理人
+
+○002910○Way Too Iffy Cool Dude
+●002910●微妙的帅小伙
+
+○002911○Lolicon
+●002911●萝莉控
+
+○002912○Glasses Comrade
+●002912●眼镜之友
+
+○002913○All-Japan Mental Arithmetic Champion
+●002913●全日本珠心算记录保持者
+
+○002914○Slasher
+●002914●无差别杀人犯
+
+○002915○No-Memory Man
+●002915●没记忆的男人
+
+○002916○Onsoku
+●002916●音速
+
+○002917○Mugen
+●002917●无限
+
+○002918○Ero-Samurai
+●002918●色批武士
+
+○002919○Ero-Ero Brigade No.1
+●002919●老色批战队No.1
+
+○002920○Just Another Pervy Teenager
+●002920●只是个色批少年
+
+○002921○Yurisugly
+●002921●丑八怪由理
+
+○002922○Debussy
+●002922●Debussy
+
+○002923○CornHornDog
+●002923●美式色批狗
+
+○002924○Zeus
+●002924●宙斯
+
+○002925○Hinata Mk. 2
+●002925●日向Mk.2
+
+○002926○Dung Beetle
+●002926●屎壳郎
+
+○002927○Consumer Model Hinata
+●002927●量产型日向
+
+○002928○??
+●002928●？？
+
+○002929○"It's only been a few days, sure, but I still kinda get the feeling you haven't had a single miss so far..."
+●002929●「已经过了好几天了，但我总是觉得，你在选择饭票的时候从来就没有失手过…」
+
+○002930○nothing
+●002930●nothing
+
+○002931○nothing
+●002931●nothing
+
+○002932○nothing
+●002932●nothing
+
+○002933○nothing
+●002933●nothing
+
+○002934○nothing
+●002934●nothing
+
+○002935○Hinata
+●002935●日向
+
+○002936○Man B
+●002936●男性B
+
+○002937○Ero-Ero Brigade Commander
+●002937●老色批战队统帅
+
+○002938○Niceschlong
+●002938●长枪
+
+○002939○Homotaro
+●002939●Homotaro
+
+○002940○Hinaschlong
+●002940●日枪
+
+○002941○Hideki
+●002941●秀树
+
+○002942○Schoolboy
+●002942●男学生
+
+○002943○??
+●002943●？？
+
+○002944○"I wouldn't do something so petty to a newbie."
+●002944●「我可不会对新人这么小气哦—」
+
+○002945○Otonashi
+●002945●音无
+
+○002946○Damn Brat
+●002946●祖安带师
+
+○002947○Proxy
+●002947●代理人
+
+○002948○Way Too Iffy Cool Dude
+●002948●微妙的帅小伙
+
+○002949○Lolicon
+●002949●萝莉控
+
+○002950○Glasses Comrade
+●002950●眼镜之友
+
+○002951○All-Japan Mental Arithmetic Champion
+●002951●全日本珠心算记录保持者
+
+○002952○Slasher
+●002952●无差别杀人犯
+
+○002953○No-Memory Man
+●002953●没记忆的男人
+
+○002954○Onsoku
+●002954●音速
+
+○002955○Mugen
+●002955●无限
+
+○002956○Ero-Samurai
+●002956●色批武士
+
+○002957○Ero-Ero Brigade No.1
+●002957●老色批战队No.1
+
+○002958○Just Another Pervy Teenager
+●002958●只是个色批少年
+
+○002959○Yurisugly
+●002959●丑八怪由理
+
+○002960○Debussy
+●002960●Debussy
+
+○002961○CornHornDog
+●002961●美式色批狗
+
+○002962○Zeus
+●002962●宙斯
+
+○002963○Hinata Mk. 2
+●002963●日向Mk.2
+
+○002964○Dung Beetle
+●002964●屎壳郎
+
+○002965○Consumer Model Hinata
+●002965●量产型日向
+
+○002966○??
+●002966●？？
+
+○002967○"So it was a coincidence...?"
+●002967●「偶然吗…」
+
+○002968○nothing
+●002968●nothing
+
+○002969○nothing
+●002969●nothing
+
+○002970○nothing
+●002970●nothing
+
+○002971○nothing
+●002971●nothing
+
+○002972○nothing
+●002972●nothing
+
+○002973○Hinata
+●002973●日向
+
+○002974○Man B
+●002974●男性B
+
+○002975○Ero-Ero Brigade Commander
+●002975●老色批战队统帅
+
+○002976○Niceschlong
+●002976●长枪
+
+○002977○Homotaro
+●002977●Homotaro
+
+○002978○Hinaschlong
+●002978●日枪
+
+○002979○Hideki
+●002979●秀树
+
+○002980○Schoolboy
+●002980●男学生
+
+○002981○??
+●002981●？？
+
+○002982○"Yeah."
+●002982●「嗯」
+
+○002983○Otonashi
+●002983●音无
+
+○002984○Damn Brat
+●002984●祖安带师
+
+○002985○Proxy
+●002985●代理人
+
+○002986○Way Too Iffy Cool Dude
+●002986●微妙的帅小伙
+
+○002987○Lolicon
+●002987●萝莉控
+
+○002988○Glasses Comrade
+●002988●眼镜之友
+
+○002989○All-Japan Mental Arithmetic Champion
+●002989●全日本珠心算记录保持者
+
+○002990○Slasher
+●002990●无差别杀人犯
+
+○002991○No-Memory Man
+●002991●没记忆的男人
+
+○002992○Onsoku
+●002992●音速
+
+○002993○Mugen
+●002993●无限
+
+○002994○Ero-Samurai
+●002994●色批武士
+
+○002995○Ero-Ero Brigade No.1
+●002995●老色批战队No.1
+
+○002996○Just Another Pervy Teenager
+●002996●只是个色批少年
+
+○002997○Yurisugly
+●002997●丑八怪由理
+
+○002998○Debussy
+●002998●Debussy
+
+○002999○CornHornDog
+●002999●美式色批狗
+
+○003000○Zeus
+●003000●宙斯
+
+○003001○Hinata Mk. 2
+●003001●日向Mk.2
+
+○003002○Dung Beetle
+●003002●屎壳郎
+
+○003003○Consumer Model Hinata
+●003003●量产型日向
+
+○003004○??
+●003004●？？
+
+○003005○"Sorry I doubted you..."
+●003005●「抱歉，怀疑你了…」
+
+○003006○nothing
+●003006●nothing
+
+○003007○nothing
+●003007●nothing
+
+○003008○nothing
+●003008●nothing
+
+○003009○nothing
+●003009●nothing
+
+○003010○nothing
+●003010●nothing
+
+○003011○Hinata
+●003011●日向
+
+○003012○Man B
+●003012●男性B
+
+○003013○Ero-Ero Brigade Commander
+●003013●老色批战队统帅
+
+○003014○Niceschlong
+●003014●长枪
+
+○003015○Homotaro
+●003015●Homotaro
+
+○003016○Hinaschlong
+●003016●日枪
+
+○003017○Hideki
+●003017●秀树
+
+○003018○Schoolboy
+●003018●男学生
+
+○003019○??
+●003019●？？
+
+○003020○"No problem, doesn't bother me at all, y'know?"
+●003020●「没有没有，我可一点都不在意哦？」
+
+○003021○Otonashi
+●003021●音无
+
+○003022○Damn Brat
+●003022●祖安带师
+
+○003023○Proxy
+●003023●代理人
+
+○003024○Way Too Iffy Cool Dude
+●003024●微妙的帅小伙
+
+○003025○Lolicon
+●003025●萝莉控
+
+○003026○Glasses Comrade
+●003026●眼镜之友
+
+○003027○All-Japan Mental Arithmetic Champion
+●003027●全日本珠心算记录保持者
+
+○003028○Slasher
+●003028●无差别杀人犯
+
+○003029○No-Memory Man
+●003029●没记忆的男人
+
+○003030○Onsoku
+●003030●音速
+
+○003031○Mugen
+●003031●无限
+
+○003032○Ero-Samurai
+●003032●色批武士
+
+○003033○Ero-Ero Brigade No.1
+●003033●老色批战队No.1
+
+○003034○Just Another Pervy Teenager
+●003034●只是个色批少年
+
+○003035○Yurisugly
+●003035●丑八怪由理
+
+○003036○Debussy
+●003036●Debussy
+
+○003037○CornHornDog
+●003037●美式色批狗
+
+○003038○Zeus
+●003038●宙斯
+
+○003039○Hinata Mk. 2
+●003039●日向Mk.2
+
+○003040○Dung Beetle
+●003040●屎壳郎
+
+○003041○Consumer Model Hinata
+●003041●量产型日向
+
+○003042○??
+●003042●？？
+
+○003043○"Are you serious?!"
+●003043●「真的吗！？」
+
+○003044○nothing
+●003044●nothing
+
+○003045○nothing
+●003045●nothing
+
+○003046○nothing
+●003046●nothing
+
+○003047○nothing
+●003047●nothing
+
+○003048○nothing
+●003048●nothing
+
+○003049○Hinata
+●003049●日向
+
+○003050○Man B
+●003050●男性B
+
+○003051○Ero-Ero Brigade Commander
+●003051●老色批战队统帅
+
+○003052○Niceschlong
+●003052●长枪
+
+○003053○Homotaro
+●003053●Homotaro
+
+○003054○Hinaschlong
+●003054●日枪
+
+○003055○Hideki
+●003055●秀树
+
+○003056○Schoolboy
+●003056●男学生
+
+○003057○??
+●003057●？？
+
+○003058○"Yeah, I believe in you that much."
+●003058●「嗯，我也这么相信你」
+
+○003059○Otonashi
+●003059●音无
+
+○003060○Damn Brat
+●003060●祖安带师
+
+○003061○Proxy
+●003061●代理人
+
+○003062○Way Too Iffy Cool Dude
+●003062●微妙的帅小伙
+
+○003063○Lolicon
+●003063●萝莉控
+
+○003064○Glasses Comrade
+●003064●眼镜之友
+
+○003065○All-Japan Mental Arithmetic Champion
+●003065●全日本珠心算记录保持者
+
+○003066○Slasher
+●003066●无差别杀人犯
+
+○003067○No-Memory Man
+●003067●没记忆的男人
+
+○003068○Onsoku
+●003068●音速
+
+○003069○Mugen
+●003069●无限
+
+○003070○Ero-Samurai
+●003070●色批武士
+
+○003071○Ero-Ero Brigade No.1
+●003071●老色批战队No.1
+
+○003072○Just Another Pervy Teenager
+●003072●只是个色批少年
+
+○003073○Yurisugly
+●003073●丑八怪由理
+
+○003074○Debussy
+●003074●Debussy
+
+○003075○CornHornDog
+●003075●美式色批狗
+
+○003076○Zeus
+●003076●宙斯
+
+○003077○Hinata Mk. 2
+●003077●日向Mk.2
+
+○003078○Dung Beetle
+●003078●屎壳郎
+
+○003079○Consumer Model Hinata
+●003079●量产型日向
+
+○003080○??
+●003080●？？
+
+○003081○"Dammit, how could I have ever doubted you?!"
+●003081●「可恶，我居然会怀疑你啊！」
+
+○003082○nothing
+●003082●nothing
+
+○003083○nothing
+●003083●nothing
+
+○003084○nothing
+●003084●nothing
+
+○003085○nothing
+●003085●nothing
+
+○003086○nothing
+●003086●nothing
+
+○003087○Hinata
+●003087●日向
+
+○003088○Man B
+●003088●男性B
+
+○003089○Ero-Ero Brigade Commander
+●003089●老色批战队统帅
+
+○003090○Niceschlong
+●003090●长枪
+
+○003091○Homotaro
+●003091●Homotaro
+
+○003092○Hinaschlong
+●003092●日枪
+
+○003093○Hideki
+●003093●秀树
+
+○003094○Schoolboy
+●003094●男学生
+
+○003095○??
+●003095●？？
+
+○003096○"Hey, really, don't worry about it! It's fine, it's fine!"
+●003096●「所以，不用在意啊！没事的，没事的—！」
+
+○003097○Otonashi
+●003097●音无
+
+○003098○Damn Brat
+●003098●祖安带师
+
+○003099○Proxy
+●003099●代理人
+
+○003100○Way Too Iffy Cool Dude
+●003100●微妙的帅小伙
+
+○003101○Lolicon
+●003101●萝莉控
+
+○003102○Glasses Comrade
+●003102●眼镜之友
+
+○003103○All-Japan Mental Arithmetic Champion
+●003103●全日本珠心算记录保持者
+
+○003104○Slasher
+●003104●无差别杀人犯
+
+○003105○No-Memory Man
+●003105●没记忆的男人
+
+○003106○Onsoku
+●003106●音速
+
+○003107○Mugen
+●003107●无限
+
+○003108○Ero-Samurai
+●003108●色批武士
+
+○003109○Ero-Ero Brigade No.1
+●003109●老色批战队No.1
+
+○003110○Just Another Pervy Teenager
+●003110●只是个色批少年
+
+○003111○Yurisugly
+●003111●丑八怪由理
+
+○003112○Debussy
+●003112●Debussy
+
+○003113○CornHornDog
+●003113●美式色批狗
+
+○003114○Zeus
+●003114●宙斯
+
+○003115○Hinata Mk. 2
+●003115●日向Mk.2
+
+○003116○Dung Beetle
+●003116●屎壳郎
+
+○003117○Consumer Model Hinata
+●003117●量产型日向
+
+○003118○??
+●003118●？？
+
+○003119○"Hinata, you're seriously the most broad minded guy I know!"
+●003119●「日向啊，你的胸怀真的很宽广啊！」
+
+○003120○nothing
+●003120●nothing
+
+○003121○nothing
+●003121●nothing
+
+○003122○nothing
+●003122●nothing
+
+○003123○nothing
+●003123●nothing
+
+○003124○nothing
+●003124●nothing
+
+○003125○Hinata
+●003125●日向
+
+○003126○Man B
+●003126●男性B
+
+○003127○Ero-Ero Brigade Commander
+●003127●老色批战队统帅
+
+○003128○Niceschlong
+●003128●长枪
+
+○003129○Homotaro
+●003129●Homotaro
+
+○003130○Hinaschlong
+●003130●日枪
+
+○003131○Hideki
+●003131●秀树
+
+○003132○Schoolboy
+●003132●男学生
+
+○003133○??
+●003133●？？
+
+○003134○"Not sure what that means, but it's a good thing, right...?"
+●003134●「虽然不知道是什么意思，但应该是褒义的吧…」
+
+○003135○Otonashi
+●003135●音无
+
+○003136○Damn Brat
+●003136●祖安带师
+
+○003137○Proxy
+●003137●代理人
+
+○003138○Way Too Iffy Cool Dude
+●003138●微妙的帅小伙
+
+○003139○Lolicon
+●003139●萝莉控
+
+○003140○Glasses Comrade
+●003140●眼镜之友
+
+○003141○All-Japan Mental Arithmetic Champion
+●003141●全日本珠心算记录保持者
+
+○003142○Slasher
+●003142●无差别杀人犯
+
+○003143○No-Memory Man
+●003143●没记忆的男人
+
+○003144○Onsoku
+●003144●音速
+
+○003145○Mugen
+●003145●无限
+
+○003146○Ero-Samurai
+●003146●色批武士
+
+○003147○Ero-Ero Brigade No.1
+●003147●老色批战队No.1
+
+○003148○Just Another Pervy Teenager
+●003148●只是个色批少年
+
+○003149○Yurisugly
+●003149●丑八怪由理
+
+○003150○Debussy
+●003150●Debussy
+
+○003151○CornHornDog
+●003151●美式色批狗
+
+○003152○Zeus
+●003152●宙斯
+
+○003153○Hinata Mk. 2
+●003153●日向Mk.2
+
+○003154○Dung Beetle
+●003154●屎壳郎
+
+○003155○Consumer Model Hinata
+●003155●量产型日向
+
+○003156○??
+●003156●？？
+
+○003157○"Yeah!"
+●003157●「嗯！」
+
+○003158○nothing
+●003158●nothing
+
+○003159○nothing
+●003159●nothing
+
+○003160○nothing
+●003160●nothing
+
+○003161○nothing
+●003161●nothing
+
+○003162○nothing
+●003162●nothing
+
+○003163○Hinata
+●003163●日向
+
+○003164○Man B
+●003164●男性B
+
+○003165○Ero-Ero Brigade Commander
+●003165●老色批战队统帅
+
+○003166○Niceschlong
+●003166●长枪
+
+○003167○Homotaro
+●003167●Homotaro
+
+○003168○Hinaschlong
+●003168●日枪
+
+○003169○Hideki
+●003169●秀树
+
+○003170○Schoolboy
+●003170●男学生
+
+○003171○??
+●003171●？？
+
+○003172○"Woah, it's almost time for the regular meeting. Let's get to headquarters."
+●003172●「哦豁，差不多已经到例行会议的时间了。去作战本部吧」
+
+○003173○Otonashi
+●003173●音无
+
+○003174○Damn Brat
+●003174●祖安带师
+
+○003175○Proxy
+●003175●代理人
+
+○003176○Way Too Iffy Cool Dude
+●003176●微妙的帅小伙
+
+○003177○Lolicon
+●003177●萝莉控
+
+○003178○Glasses Comrade
+●003178●眼镜之友
+
+○003179○All-Japan Mental Arithmetic Champion
+●003179●全日本珠心算记录保持者
+
+○003180○Slasher
+●003180●无差别杀人犯
+
+○003181○No-Memory Man
+●003181●没记忆的男人
+
+○003182○Onsoku
+●003182●音速
+
+○003183○Mugen
+●003183●无限
+
+○003184○Ero-Samurai
+●003184●色批武士
+
+○003185○Ero-Ero Brigade No.1
+●003185●老色批战队No.1
+
+○003186○Just Another Pervy Teenager
+●003186●只是个色批少年
+
+○003187○Yurisugly
+●003187●丑八怪由理
+
+○003188○Debussy
+●003188●Debussy
+
+○003189○CornHornDog
+●003189●美式色批狗
+
+○003190○Zeus
+●003190●宙斯
+
+○003191○Hinata Mk. 2
+●003191●日向Mk.2
+
+○003192○Dung Beetle
+●003192●屎壳郎
+
+○003193○Consumer Model Hinata
+●003193●量产型日向
+
+○003194○??
+●003194●？？
+
+○003195○"Yeah."
+●003195●「嗯」
+
+○003196○dummy
+●003196●dummy
+
+○003197○bg_kuro
+●003197●bg_kuro
+
+○003198○ep04_bg033
+●003198●ep04_bg033
+
+○003199○hn0102
+●003199●hn0102
+
+○003200○bg_kuro
+●003200●bg_kuro
+
+○003201○bs1_hn0102_05
+●003201●bs1_hn0102_05
+
+○003202○hn0109_01
+●003202●hn0109_01
+
+○003203○hn0102
+●003203●hn0102
+
+○003204○hn0105
+●003204●hn0105
+
+○003205○hn0110_02
+●003205●hn0110_02
+
+○003206○hn0101
+●003206●hn0101
+
+○003207○hn0109_01
+●003207●hn0109_01
+
+○003208○hn0101
+●003208●hn0101
+
+○003209○ep04_bg047
+●003209●ep04_bg047
+
+○003210○bg_kuro
+●003210●bg_kuro
+
+○003211○ep04_bg033
+●003211●ep04_bg033
+
+○003212○hn0102
+●003212●hn0102
+
+○003213○bg_kuro
+●003213●bg_kuro
+
+○003214○ep99_bg001
+●003214●ep99_bg001
+
+○003215○bg_kuro
+●003215●bg_kuro
+
+○003216○bg_kuro
+●003216●bg_kuro
+
+○003217○ep05_bg047
+●003217●ep05_bg047
+
+○003218○m119
+●003218●m119
+
+○003219○hn0404
+●003219●hn0404
+
+○003220○hn0402
+●003220●hn0402
+
+○003221○hn0405
+●003221●hn0405
+
+○003222○hn0302
+●003222●hn0302
+
+○003223○hn0404
+●003223●hn0404
+
+○003224○hn0408
+●003224●hn0408
+
+○003225○hn0104
+●003225●hn0104
+
+○003226○hn0302
+●003226●hn0302
+
+○003227○hn0104
+●003227●hn0104
+
+○003228○ep06_bg015
+●003228●ep06_bg015
+
+○003229○hn0102
+●003229●hn0102
+
+○003230○sys_bk_selline00
+●003230●sys_bk_selline00
+
+○003231○hn0107
+●003231●hn0107
+
+○003232○hn0105_09
+●003232●hn0105_09
+
+○003233○hn0208
+●003233●hn0208
+
+○003234○hn0408
+●003234●hn0408
+
+○003235○hn0101
+●003235●hn0101
+
+○003236○hn0102
+●003236●hn0102
+
+○003237○hn0107
+●003237●hn0107
+
+○003238○hn0202
+●003238●hn0202
+
+○003239○sys_bk_selline00
+●003239●sys_bk_selline00
+
+○003240○hn0104
+●003240●hn0104
+
+○003241○hn0107
+●003241●hn0107
+
+○003242○hn0101
+●003242●hn0101
+
+○003243○hn0207
+●003243●hn0207
+
+○003244○hn0408
+●003244●hn0408
+
+○003245○hn0402
+●003245●hn0402
+
+○003246○hn0102
+●003246●hn0102
+
+○003247○bg_kuro
+●003247●bg_kuro
+
+○003248○ep03_bg013
+●003248●ep03_bg013
+
+○003249○kn0901
+●003249●kn0901
+
+○003250○kn0901
+●003250●kn0901
+
+○003251○m114
+●003251●m114
+
+○003252○hn0105
+●003252●hn0105
+
+○003253○bg_kuro
+●003253●bg_kuro
+
+○003254○ep10_bg007
+●003254●ep10_bg007
+
+○003255○m106
+●003255●m106
+
+○003256○hn0101
+●003256●hn0101
+
+○003257○hn0102
+●003257●hn0102
+
+○003258○bg_kuro
+●003258●bg_kuro
+
+○003259○ep03_bg006
+●003259●ep03_bg006
+
+○003260○tm0101
+●003260●tm0101
+
+○003261○tm0303
+●003261●tm0303
+
+○003262○hn0102
+●003262●hn0102
+
+○003263○tm0102
+●003263●tm0102
+
+○003264○tm0201
+●003264●tm0201
+
+○003265○hn0101
+●003265●hn0101
+
+○003266○hn0401_03
+●003266●hn0401_03
+
+○003267○hn0710
+●003267●hn0710
+
+○003268○hn0403
+●003268●hn0403
+
+○003269○sys_bk_selline00
+●003269●sys_bk_selline00
+
+○003270○hn0106
+●003270●hn0106
+
+○003271○bs3_hn030600r3
+●003271●bs3_hn030600r3
+
+○003272○hn0105
+●003272●hn0105
+
+○003273○bs3_hn030600r3
+●003273●bs3_hn030600r3
+
+○003274○bs2_hn010800a0
+●003274●bs2_hn010800a0
+
+○003275○hn0405
+●003275●hn0405
+
+○003276○hn0305
+●003276●hn0305
+
+○003277○hn0408
+●003277●hn0408
+
+○003278○tm0102
+●003278●tm0102
+
+○003279○hn0404
+●003279●hn0404
+
+○003280○hn0306
+●003280●hn0306
+
+○003281○bg_kuro
+●003281●bg_kuro
+
+○003282○hn0102
+●003282●hn0102
+
+○003283○bg_kuro
+●003283●bg_kuro
+
+○003284○ep05_bg047
+●003284●ep05_bg047
+
+○003285○m119
+●003285●m119
+
+○003286○hn0404
+●003286●hn0404
+
+○003287○hn0408
+●003287●hn0408
+
+○003288○hn0302
+●003288●hn0302
+
+○003289○hn0107
+●003289●hn0107
+
+○003290○hn0402
+●003290●hn0402
+
+○003291○hn0403
+●003291●hn0403
+
+○003292○hn0310
+●003292●hn0310
+
+○003293○hn0102
+●003293●hn0102
+
+○003294○ep05_bg052
+●003294●ep05_bg052
+
+○003295○hn0107
+●003295●hn0107
+
+○003296○hn0109
+●003296●hn0109
+
+○003297○hn0209_07
+●003297●hn0209_07
+
+○003298○hn0204
+●003298●hn0204
+
+○003299○hn0102
+●003299●hn0102
+
+○003300○m114
+●003300●m114
+
+○003301○hn0102
+●003301●hn0102
+
+○003302○hn0107
+●003302●hn0107
+
+○003303○hn0106
+●003303●hn0106
+
+○003304○hn0606
+●003304●hn0606
+
+○003305○bg_kuro
+●003305●bg_kuro
+
+○003306○ep05_bg052
+●003306●ep05_bg052
+
+○003307○bs2_hn0101
+●003307●bs2_hn0101
+
+○003308○hn0404
+●003308●hn0404
+
+○003309○hn0408
+●003309●hn0408
+
+○003310○hn0405
+●003310●hn0405
+
+○003311○hn0106
+●003311●hn0106
+
+○003312○hn0108
+●003312●hn0108
+
+○003313○hn0408
+●003313●hn0408
+
+○003314○hn0402
+●003314●hn0402
+
+○003315○hn0101
+●003315●hn0101
+
+○003316○ep05_bg052
+●003316●ep05_bg052
+
+○003317○hn0108
+●003317●hn0108
+
+○003318○sys_bk_selline00
+●003318●sys_bk_selline00
+
+○003319○hn0107
+●003319●hn0107
+
+○003320○hn0101
+●003320●hn0101
+
+○003321○hn0107
+●003321●hn0107
+
+○003322○hn0102
+●003322●hn0102
+
+○003323○hn0109_07
+●003323●hn0109_07
+
+○003324○hn0208
+●003324●hn0208
+
+○003325○hn0102
+●003325●hn0102
+
+○003326○hn0404
+●003326●hn0404
+
+○003327○hn0402
+●003327●hn0402
+
+○003328○hn0202
+●003328●hn0202
+
+○003329○hn0104
+●003329●hn0104
+
+○003330○bg_kuro
+●003330●bg_kuro
+
+○003331○hn0402
+●003331●hn0402
+
+○003332○bg_kuro
+●003332●bg_kuro
+

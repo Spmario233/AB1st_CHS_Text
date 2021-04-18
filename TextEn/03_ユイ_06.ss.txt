@@ -1,0 +1,3336 @@
+○000000○白
+●000000●白
+
+○000001○nothing
+●000001●nothing
+
+○000002○nothing
+●000002●nothing
+
+○000003○nothing
+●000003●nothing
+
+○000004○nothing
+●000004●nothing
+
+○000005○nothing
+●000005●nothing
+
+○000006○Yui
+●000006●由依
+
+○000007○"In that case, I guess I'll have to teach you! GirlDeMo's a four member, all girl, crazy awesome high spectacle rock band!"
+●000007●「没办法了，让我教你吧！GDM是由四名女生组成的，超奇观级的全女性摇滚乐队的说！」
+
+○000008○nothing
+●000008●nothing
+
+○000009○nothing
+●000009●nothing
+
+○000010○nothing
+●000010●nothing
+
+○000011○nothing
+●000011●nothing
+
+○000012○nothing
+●000012●nothing
+
+○000013○Yui
+●000013●由依
+
+○000014○"Each one of them has honed their sound to a razor sharp edge, and the all-penetrating arrow of music they form when they all come together in perfect harmony is Girls Dead Monster, or GirlDeMo!"
+●000014●「每个人都是十分锐利的箭支，但却能完全调和，成为一根完美的箭！这就是
+
+○000015○Girls Dead Monster
+●000015●Girls Dead Monster
+
+○000016○、ガルデモなんです！」
+●000016●，简称为GDM！」
+
+○000017○白
+●000017●白
+
+○000018○nothing
+●000018●nothing
+
+○000019○nothing
+●000019●nothing
+
+○000020○nothing
+●000020●nothing
+
+○000021○nothing
+●000021●nothing
+
+○000022○nothing
+●000022●nothing
+
+○000023○Yui
+●000023●由依
+
+○000024○"Their formal name's Girls Dead Monster, or GirlDeMo for short! They're incredible! If I had to pin it down, it's all thanks to the incredible presence and quality of Iwasawa-san's vocals and guitar!"
+●000024●「正式名称是，
+
+○000025○Girls Dead Monster
+●000025●Girls Dead Monster
+
+○000026○。略してガルデモです！　ガルデモは凄いんですよ！　なんと言っても、ボーカル＆ギターの岩沢さんの存在感！」
+●000026●。简称为GDM！GDM很厉害的哦！之所以这么说，都是多亏了身为主唱和吉他手的岩泽同学的存在感！」
+
+○000027○nothing
+●000027●nothing
+
+○000030○nothing
+●000030●nothing
+
+○000031○There weren't any NPCs around in the parking lot today.
+●000031●今天并没有NPC出现在停车场。
+
+○000032○Yui, however, was there.
+●000032●但是，由依在这里。
+
+○000033○She was clutching the guitar she'd usually be playing, her head hung low.
+●000033●她抱着平时一直弹奏着的原声吉他，低垂着头。
+
+○000034○Otonashi
+●000034●音无
+
+○000035○Damn Brat
+●000035●祖安带师
+
+○000036○Proxy
+●000036●代理人
+
+○000037○Way Too Iffy Cool Dude
+●000037●微妙的帅小伙
+
+○000038○Lolicon
+●000038●萝莉控
+
+○000039○Glasses Comrade
+●000039●眼镜之友
+
+○000040○All-Japan Mental Arithmetic Champion
+●000040●全日本珠心算记录保持者
+
+○000041○Slasher
+●000041●无差别杀人犯
+
+○000042○No-Memory Man
+●000042●没记忆的男人
+
+○000043○Onsoku
+●000043●音速
+
+○000044○Mugen
+●000044●无限
+
+○000045○Ero-Samurai
+●000045●色批武士
+
+○000046○Ero-Ero Brigade No.1
+●000046●老色批战队No.1
+
+○000047○Just Another Pervy Teenager
+●000047●只是个色批少年
+
+○000048○Yurisugly
+●000048●丑八怪由理
+
+○000049○Debussy
+●000049●Debussy
+
+○000050○CornHornDog
+●000050●美式色批狗
+
+○000051○Zeus
+●000051●宙斯
+
+○000052○Hinata Mk. 2
+●000052●日向Mk.2
+
+○000053○Dung Beetle
+●000053●屎壳郎
+
+○000054○Consumer Model Hinata
+●000054●量产型日向
+
+○000055○??
+●000055●？？
+
+○000056○"Yui...?"
+●000056●「由依…？」
+
+○000057○Yui
+●000057●由依
+
+○000058○"Ah... Senpai."
+●000058●「啊…前辈」
+
+○000059○Otonashi
+●000059●音无
+
+○000060○Damn Brat
+●000060●祖安带师
+
+○000061○Proxy
+●000061●代理人
+
+○000062○Way Too Iffy Cool Dude
+●000062●微妙的帅小伙
+
+○000063○Lolicon
+●000063●萝莉控
+
+○000064○Glasses Comrade
+●000064●眼镜之友
+
+○000065○All-Japan Mental Arithmetic Champion
+●000065●全日本珠心算记录保持者
+
+○000066○Slasher
+●000066●无差别杀人犯
+
+○000067○No-Memory Man
+●000067●没记忆的男人
+
+○000068○Onsoku
+●000068●音速
+
+○000069○Mugen
+●000069●无限
+
+○000070○Ero-Samurai
+●000070●色批武士
+
+○000071○Ero-Ero Brigade No.1
+●000071●老色批战队No.1
+
+○000072○Just Another Pervy Teenager
+●000072●只是个色批少年
+
+○000073○Yurisugly
+●000073●丑八怪由理
+
+○000074○Debussy
+●000074●Debussy
+
+○000075○CornHornDog
+●000075●美式色批狗
+
+○000076○Zeus
+●000076●宙斯
+
+○000077○Hinata Mk. 2
+●000077●日向Mk.2
+
+○000078○Dung Beetle
+●000078●屎壳郎
+
+○000079○Consumer Model Hinata
+●000079●量产型日向
+
+○000080○??
+●000080●？？
+
+○000081○"You're not performing today?"
+●000081●「今天不做街头演唱吗？」
+
+○000082○Yui
+●000082●由依
+
+○000083○"...I kinda can't get in the mood for it."
+●000083●「…感觉没有那种心情」
+
+○000084○She glanced down at her guitar, but immediately returned her gaze to the ground.
+●000084●她瞥了一眼吉他，然后马上将视线投向了地面。
+
+○000085○Considering how she'd looked up to Iwasawa, having her suddenly disappear must have been a major shock.
+●000085●一直憧憬着的岩泽突然消失了，对她的打击一定很大吧。
+
+○000086○Yui
+●000086●由依
+
+○000087○"...Why would Iwasawa-san disappear...?"
+●000087●「…岩泽同学，为什么会消失呢…」
+
+○000088○Otonashi
+●000088●音无
+
+○000089○Damn Brat
+●000089●祖安带师
+
+○000090○Proxy
+●000090●代理人
+
+○000091○Way Too Iffy Cool Dude
+●000091●微妙的帅小伙
+
+○000092○Lolicon
+●000092●萝莉控
+
+○000093○Glasses Comrade
+●000093●眼镜之友
+
+○000094○All-Japan Mental Arithmetic Champion
+●000094●全日本珠心算记录保持者
+
+○000095○Slasher
+●000095●无差别杀人犯
+
+○000096○No-Memory Man
+●000096●没记忆的男人
+
+○000097○Onsoku
+●000097●音速
+
+○000098○Mugen
+●000098●无限
+
+○000099○Ero-Samurai
+●000099●色批武士
+
+○000100○Ero-Ero Brigade No.1
+●000100●老色批战队No.1
+
+○000101○Just Another Pervy Teenager
+●000101●只是个色批少年
+
+○000102○Yurisugly
+●000102●丑八怪由理
+
+○000103○Debussy
+●000103●Debussy
+
+○000104○CornHornDog
+●000104●美式色批狗
+
+○000105○Zeus
+●000105●宙斯
+
+○000106○Hinata Mk. 2
+●000106●日向Mk.2
+
+○000107○Dung Beetle
+●000107●屎壳郎
+
+○000108○Consumer Model Hinata
+●000108●量产型日向
+
+○000109○??
+●000109●？？
+
+○000110○"Yeah, I wonder..."
+●000110●「到底是为什么呢…」
+
+○000111○Otonashi
+●000111●音无
+
+○000112○Damn Brat
+●000112●祖安带师
+
+○000113○Proxy
+●000113●代理人
+
+○000114○Way Too Iffy Cool Dude
+●000114●微妙的帅小伙
+
+○000115○Lolicon
+●000115●萝莉控
+
+○000116○Glasses Comrade
+●000116●眼镜之友
+
+○000117○All-Japan Mental Arithmetic Champion
+●000117●全日本珠心算记录保持者
+
+○000118○Slasher
+●000118●无差别杀人犯
+
+○000119○No-Memory Man
+●000119●没记忆的男人
+
+○000120○Onsoku
+●000120●音速
+
+○000121○Mugen
+●000121●无限
+
+○000122○Ero-Samurai
+●000122●色批武士
+
+○000123○Ero-Ero Brigade No.1
+●000123●老色批战队No.1
+
+○000124○Just Another Pervy Teenager
+●000124●只是个色批少年
+
+○000125○Yurisugly
+●000125●丑八怪由理
+
+○000126○Debussy
+●000126●Debussy
+
+○000127○CornHornDog
+●000127●美式色批狗
+
+○000128○Zeus
+●000128●宙斯
+
+○000129○Hinata Mk. 2
+●000129●日向Mk.2
+
+○000130○Dung Beetle
+●000130●屎壳郎
+
+○000131○Consumer Model Hinata
+●000131●量产型日向
+
+○000132○??
+●000132●？？
+
+○000133○"Yuri said it was because she was satisfied, but to be honest, I don't really understand what she meant by that."
+●000133●「由理说，岩泽得到了满足，但是说实话，我并不明白她的意思」
+
+○000134○Yui
+●000134●由依
+
+○000135○"She was... satisfied?"
+●000135●「满足…了吗」
+
+○000136○Yui
+●000136●由依
+
+○000137○"Maybe she meant that Iwasawa-san was satisfied with the song she sang?"
+●000137●「岩泽同学，因为唱出了那首歌，而得到了满足吗？」
+
+○000138○Otonashi
+●000138●音无
+
+○000139○Damn Brat
+●000139●祖安带师
+
+○000140○Proxy
+●000140●代理人
+
+○000141○Way Too Iffy Cool Dude
+●000141●微妙的帅小伙
+
+○000142○Lolicon
+●000142●萝莉控
+
+○000143○Glasses Comrade
+●000143●眼镜之友
+
+○000144○All-Japan Mental Arithmetic Champion
+●000144●全日本珠心算记录保持者
+
+○000145○Slasher
+●000145●无差别杀人犯
+
+○000146○No-Memory Man
+●000146●没记忆的男人
+
+○000147○Onsoku
+●000147●音速
+
+○000148○Mugen
+●000148●无限
+
+○000149○Ero-Samurai
+●000149●色批武士
+
+○000150○Ero-Ero Brigade No.1
+●000150●老色批战队No.1
+
+○000151○Just Another Pervy Teenager
+●000151●只是个色批少年
+
+○000152○Yurisugly
+●000152●丑八怪由理
+
+○000153○Debussy
+●000153●Debussy
+
+○000154○CornHornDog
+●000154●美式色批狗
+
+○000155○Zeus
+●000155●宙斯
+
+○000156○Hinata Mk. 2
+●000156●日向Mk.2
+
+○000157○Dung Beetle
+●000157●屎壳郎
+
+○000158○Consumer Model Hinata
+●000158●量产型日向
+
+○000159○??
+●000159●？？
+
+○000160○"Not really sure..."
+●000160●「不太确定…」
+
+○000161○It would seem that there are more ways to disappear than doing Angel's bidding and living out a proper school life.
+●000161●看来除了听从天使，好好度过校园生活之外，还有其他的条件会导致消失。
+
+○000162○If that's true, then it's totally possible the rest of us could disappear at any moment, too.
+●000162●如果这样的话，我们也随时有可能会消失吧。
+
+○000163○...Could it be that Iwasawa's disappearance has even more significance than I'd thought at first...?
+●000163●…难道岩泽的消失，比我最初所想象的还要重要…？
+
+○000164○It seemed like all those various worries had Yui pretty depressed.
+●000164●各种各样的不安，似乎也让由依的心情消沉了下来。
+
+○000165○Yui
+●000165●由依
+
+○000166○"I wonder what's gonna happen to GirlDeMo from now on?"
+●000166●「不知道今后的GDM会怎么样」
+
+○000167○Otonashi
+●000167●音无
+
+○000168○Damn Brat
+●000168●祖安带师
+
+○000169○Proxy
+●000169●代理人
+
+○000170○Way Too Iffy Cool Dude
+●000170●微妙的帅小伙
+
+○000171○Lolicon
+●000171●萝莉控
+
+○000172○Glasses Comrade
+●000172●眼镜之友
+
+○000173○All-Japan Mental Arithmetic Champion
+●000173●全日本珠心算记录保持者
+
+○000174○Slasher
+●000174●无差别杀人犯
+
+○000175○No-Memory Man
+●000175●没记忆的男人
+
+○000176○Onsoku
+●000176●音速
+
+○000177○Mugen
+●000177●无限
+
+○000178○Ero-Samurai
+●000178●色批武士
+
+○000179○Ero-Ero Brigade No.1
+●000179●老色批战队No.1
+
+○000180○Just Another Pervy Teenager
+●000180●只是个色批少年
+
+○000181○Yurisugly
+●000181●丑八怪由理
+
+○000182○Debussy
+●000182●Debussy
+
+○000183○CornHornDog
+●000183●美式色批狗
+
+○000184○Zeus
+●000184●宙斯
+
+○000185○Hinata Mk. 2
+●000185●日向Mk.2
+
+○000186○Dung Beetle
+●000186●屎壳郎
+
+○000187○Consumer Model Hinata
+●000187●量产型日向
+
+○000188○??
+●000188●？？
+
+○000189○"Hmm?"
+●000189●「嗯？」
+
+○000190○She'd been worried about GirlDeMo this morning, too.
+●000190●她上午的时候也对GDM十分在意。
+
+○000191○It must really be eating away at her.
+●000191●她一定是一直在挂念着吧。
+
+○000192○I decided to hear her out.
+●000192●我决定听听她的想法。
+
+○000193○nothing
+●000193●nothing
+
+○000194○nothing
+●000194●nothing
+
+○000195○nothing
+●000195●nothing
+
+○000196○nothing
+●000196●nothing
+
+○000197○nothing
+●000197●nothing
+
+○000198○nothing
+●000198●nothing
+
+○000201○nothing
+●000201●nothing
+
+○000202○Yui
+●000202●由依
+
+○000203○"It was always so much fun."
+●000203●「一直都很开心」
+
+○000204○nothing
+●000204●nothing
+
+○000205○nothing
+●000205●nothing
+
+○000206○nothing
+●000206●nothing
+
+○000207○nothing
+●000207●nothing
+
+○000208○nothing
+●000208●nothing
+
+○000209○Yui
+●000209●由依
+
+○000210○"Before I came to this world, I only ever saw concerts on TV. My first time seeing one live was here."
+●000210●「在来到这个世界之后，是我第一次不通过电视，听到现场的演唱会…」
+
+○000211○nothing
+●000211●nothing
+
+○000212○nothing
+●000212●nothing
+
+○000213○nothing
+●000213●nothing
+
+○000214○nothing
+●000214●nothing
+
+○000215○nothing
+●000215●nothing
+
+○000216○Yui
+●000216●由依
+
+○000217○"I got to feel their music, right up close... It was electrifying..."
+●000217●「就像是电流流过身体深处一样，近距离感受着音乐…」
+
+○000218○nothing
+●000218●nothing
+
+○000219○nothing
+●000219●nothing
+
+○000220○nothing
+●000220●nothing
+
+○000221○nothing
+●000221●nothing
+
+○000222○nothing
+●000222●nothing
+
+○000223○Yui
+●000223●由依
+
+○000224○"I thought that I wanted to sing like that, too... And I've been practicing with that in mind ever since, but..."
+●000224●「我也想像那样去歌唱…并且一直练习到了现在，但是…」
+
+○000225○nothing
+●000225●nothing
+
+○000226○nothing
+●000226●nothing
+
+○000227○nothing
+●000227●nothing
+
+○000228○nothing
+●000228●nothing
+
+○000229○nothing
+●000229●nothing
+
+○000230○Yui
+●000230●由依
+
+○000231○"The person who sang those songs, Iwasawa-san, disappeared..."
+●000231●「歌唱着那些歌的岩泽同学消失了…」
+
+○000232○nothing
+●000232●nothing
+
+○000233○nothing
+●000233●nothing
+
+○000234○nothing
+●000234●nothing
+
+○000235○nothing
+●000235●nothing
+
+○000236○nothing
+●000236●nothing
+
+○000237○Yui
+●000237●由依
+
+○000238○"And now I don't know what I should do..."
+●000238●「我不知道，到底该怎么办才好…」
+
+○000239○Otonashi
+●000239●音无
+
+○000240○Damn Brat
+●000240●祖安带师
+
+○000241○Proxy
+●000241●代理人
+
+○000242○Way Too Iffy Cool Dude
+●000242●微妙的帅小伙
+
+○000243○Lolicon
+●000243●萝莉控
+
+○000244○Glasses Comrade
+●000244●眼镜之友
+
+○000245○All-Japan Mental Arithmetic Champion
+●000245●全日本珠心算记录保持者
+
+○000246○Slasher
+●000246●无差别杀人犯
+
+○000247○No-Memory Man
+●000247●没记忆的男人
+
+○000248○Onsoku
+●000248●音速
+
+○000249○Mugen
+●000249●无限
+
+○000250○Ero-Samurai
+●000250●色批武士
+
+○000251○Ero-Ero Brigade No.1
+●000251●老色批战队No.1
+
+○000252○Just Another Pervy Teenager
+●000252●只是个色批少年
+
+○000253○Yurisugly
+●000253●丑八怪由理
+
+○000254○Debussy
+●000254●Debussy
+
+○000255○CornHornDog
+●000255●美式色批狗
+
+○000256○Zeus
+●000256●宙斯
+
+○000257○Hinata Mk. 2
+●000257●日向Mk.2
+
+○000258○Dung Beetle
+●000258●屎壳郎
+
+○000259○Consumer Model Hinata
+●000259●量产型日向
+
+○000260○??
+●000260●？？
+
+○000261○"Y'know, I still say you'd be a good fit to follow in Iwasawa's footsteps and be their second vocalist. Don't you think?"
+●000261●「就由由依来继承岩泽，成为第二代的主唱不就好了吗？」
+
+○000262○Otonashi
+●000262●音无
+
+○000263○Damn Brat
+●000263●祖安带师
+
+○000264○Proxy
+●000264●代理人
+
+○000265○Way Too Iffy Cool Dude
+●000265●微妙的帅小伙
+
+○000266○Lolicon
+●000266●萝莉控
+
+○000267○Glasses Comrade
+●000267●眼镜之友
+
+○000268○All-Japan Mental Arithmetic Champion
+●000268●全日本珠心算记录保持者
+
+○000269○Slasher
+●000269●无差别杀人犯
+
+○000270○No-Memory Man
+●000270●没记忆的男人
+
+○000271○Onsoku
+●000271●音速
+
+○000272○Mugen
+●000272●无限
+
+○000273○Ero-Samurai
+●000273●色批武士
+
+○000274○Ero-Ero Brigade No.1
+●000274●老色批战队No.1
+
+○000275○Just Another Pervy Teenager
+●000275●只是个色批少年
+
+○000276○Yurisugly
+●000276●丑八怪由理
+
+○000277○Debussy
+●000277●Debussy
+
+○000278○CornHornDog
+●000278●美式色批狗
+
+○000279○Zeus
+●000279●宙斯
+
+○000280○Hinata Mk. 2
+●000280●日向Mk.2
+
+○000281○Dung Beetle
+●000281●屎壳郎
+
+○000282○Consumer Model Hinata
+●000282●量产型日向
+
+○000283○??
+●000283●？？
+
+○000284○"Okay, then how about you become GirlDeMo's second generation vocalist?"
+●000284●「那么，由依来成为GDM的第二代主唱不就好了吗？」
+
+○000285○nothing
+●000285●nothing
+
+○000286○nothing
+●000286●nothing
+
+○000287○nothing
+●000287●nothing
+
+○000288○nothing
+●000288●nothing
+
+○000289○nothing
+●000289●nothing
+
+○000290○Yui
+●000290●由依
+
+○000291○"I can't, no way..."
+●000291●「不可能的说…」
+
+○000292○nothing
+●000292●nothing
+
+○000293○nothing
+●000293●nothing
+
+○000294○nothing
+●000294●nothing
+
+○000295○nothing
+●000295●nothing
+
+○000296○nothing
+●000296●nothing
+
+○000297○Yui
+●000297●由依
+
+○000298○"There's no way I could be like Iwasawa-san."
+●000298●「我是不可能成为岩泽同学的」
+
+○000299○Otonashi
+●000299●音无
+
+○000300○Damn Brat
+●000300●祖安带师
+
+○000301○Proxy
+●000301●代理人
+
+○000302○Way Too Iffy Cool Dude
+●000302●微妙的帅小伙
+
+○000303○Lolicon
+●000303●萝莉控
+
+○000304○Glasses Comrade
+●000304●眼镜之友
+
+○000305○All-Japan Mental Arithmetic Champion
+●000305●全日本珠心算记录保持者
+
+○000306○Slasher
+●000306●无差别杀人犯
+
+○000307○No-Memory Man
+●000307●没记忆的男人
+
+○000308○Onsoku
+●000308●音速
+
+○000309○Mugen
+●000309●无限
+
+○000310○Ero-Samurai
+●000310●色批武士
+
+○000311○Ero-Ero Brigade No.1
+●000311●老色批战队No.1
+
+○000312○Just Another Pervy Teenager
+●000312●只是个色批少年
+
+○000313○Yurisugly
+●000313●丑八怪由理
+
+○000314○Debussy
+●000314●Debussy
+
+○000315○CornHornDog
+●000315●美式色批狗
+
+○000316○Zeus
+●000316●宙斯
+
+○000317○Hinata Mk. 2
+●000317●日向Mk.2
+
+○000318○Dung Beetle
+●000318●屎壳郎
+
+○000319○Consumer Model Hinata
+●000319●量产型日向
+
+○000320○??
+●000320●？？
+
+○000321○"Instead of trying to be her, why not reinvent GirlDeMo with you in it?"
+●000321●「不用成为岩泽，重新塑造GDM不就好了吗？」
+
+○000322○nothing
+●000322●nothing
+
+○000323○nothing
+●000323●nothing
+
+○000324○nothing
+●000324●nothing
+
+○000325○nothing
+●000325●nothing
+
+○000326○nothing
+●000326●nothing
+
+○000327○Yui
+●000327●由依
+
+○000328○"That'd be way too disrespectful to Iwasawa-san!"
+●000328●「那对岩泽同学来说太失礼了！」
+
+○000329○Otonashi
+●000329●音无
+
+○000330○Damn Brat
+●000330●祖安带师
+
+○000331○Proxy
+●000331●代理人
+
+○000332○Way Too Iffy Cool Dude
+●000332●微妙的帅小伙
+
+○000333○Lolicon
+●000333●萝莉控
+
+○000334○Glasses Comrade
+●000334●眼镜之友
+
+○000335○All-Japan Mental Arithmetic Champion
+●000335●全日本珠心算记录保持者
+
+○000336○Slasher
+●000336●无差别杀人犯
+
+○000337○No-Memory Man
+●000337●没记忆的男人
+
+○000338○Onsoku
+●000338●音速
+
+○000339○Mugen
+●000339●无限
+
+○000340○Ero-Samurai
+●000340●色批武士
+
+○000341○Ero-Ero Brigade No.1
+●000341●老色批战队No.1
+
+○000342○Just Another Pervy Teenager
+●000342●只是个色批少年
+
+○000343○Yurisugly
+●000343●丑八怪由理
+
+○000344○Debussy
+●000344●Debussy
+
+○000345○CornHornDog
+●000345●美式色批狗
+
+○000346○Zeus
+●000346●宙斯
+
+○000347○Hinata Mk. 2
+●000347●日向Mk.2
+
+○000348○Dung Beetle
+●000348●屎壳郎
+
+○000349○Consumer Model Hinata
+●000349●量产型日向
+
+○000350○??
+●000350●？？
+
+○000351○"Err, I guess..."
+●000351●「那个，是啊…」
+
+○000352○I hesitated for a moment, unsure of whether or not to tell her what Iwasawa said about her. She'd told me that she'd rather Yui not know, after all.
+●000352●我犹豫了一下，不知道要不要把岩泽的话告诉她。因为她说还是不要让由依知道比较好。
+
+○000353○But now that Iwasawa's gone, I really think that I should tell her.
+●000353●但是，岩泽已经不在了，所以有必要告诉她。
+
+○000354○Otonashi
+●000354●音无
+
+○000355○Damn Brat
+●000355●祖安带师
+
+○000356○Proxy
+●000356●代理人
+
+○000357○Way Too Iffy Cool Dude
+●000357●微妙的帅小伙
+
+○000358○Lolicon
+●000358●萝莉控
+
+○000359○Glasses Comrade
+●000359●眼镜之友
+
+○000360○All-Japan Mental Arithmetic Champion
+●000360●全日本珠心算记录保持者
+
+○000361○Slasher
+●000361●无差别杀人犯
+
+○000362○No-Memory Man
+●000362●没记忆的男人
+
+○000363○Onsoku
+●000363●音速
+
+○000364○Mugen
+●000364●无限
+
+○000365○Ero-Samurai
+●000365●色批武士
+
+○000366○Ero-Ero Brigade No.1
+●000366●老色批战队No.1
+
+○000367○Just Another Pervy Teenager
+●000367●只是个色批少年
+
+○000368○Yurisugly
+●000368●丑八怪由理
+
+○000369○Debussy
+●000369●Debussy
+
+○000370○CornHornDog
+●000370●美式色批狗
+
+○000371○Zeus
+●000371●宙斯
+
+○000372○Hinata Mk. 2
+●000372●日向Mk.2
+
+○000373○Dung Beetle
+●000373●屎壳郎
+
+○000374○Consumer Model Hinata
+●000374●量产型日向
+
+○000375○??
+●000375●？？
+
+○000376○"About Iwasawa... The truth is, she knew you've been doing these performances out here. She learned about it ages ago."
+●000376●「岩泽啊…她早就已经知道你在这里进行街头演唱的事情了」
+
+○000377○nothing
+●000377●nothing
+
+○000378○nothing
+●000378●nothing
+
+○000379○nothing
+●000379●nothing
+
+○000380○nothing
+●000380●nothing
+
+○000381○nothing
+●000381●nothing
+
+○000382○Yui
+●000382●由依
+
+○000383○"...Huh? Iwasawa-san knew about me?"
+●000383●「…诶？岩泽同学知道我吗？」
+
+○000384○Otonashi
+●000384●音无
+
+○000385○Damn Brat
+●000385●祖安带师
+
+○000386○Proxy
+●000386●代理人
+
+○000387○Way Too Iffy Cool Dude
+●000387●微妙的帅小伙
+
+○000388○Lolicon
+●000388●萝莉控
+
+○000389○Glasses Comrade
+●000389●眼镜之友
+
+○000390○All-Japan Mental Arithmetic Champion
+●000390●全日本珠心算记录保持者
+
+○000391○Slasher
+●000391●无差别杀人犯
+
+○000392○No-Memory Man
+●000392●没记忆的男人
+
+○000393○Onsoku
+●000393●音速
+
+○000394○Mugen
+●000394●无限
+
+○000395○Ero-Samurai
+●000395●色批武士
+
+○000396○Ero-Ero Brigade No.1
+●000396●老色批战队No.1
+
+○000397○Just Another Pervy Teenager
+●000397●只是个色批少年
+
+○000398○Yurisugly
+●000398●丑八怪由理
+
+○000399○Debussy
+●000399●Debussy
+
+○000400○CornHornDog
+●000400●美式色批狗
+
+○000401○Zeus
+●000401●宙斯
+
+○000402○Hinata Mk. 2
+●000402●日向Mk.2
+
+○000403○Dung Beetle
+●000403●屎壳郎
+
+○000404○Consumer Model Hinata
+●000404●量产型日向
+
+○000405○??
+●000405●？？
+
+○000406○"Yeah, she said that when she felt like she was forgetting her resolve from back when she sang on the streets like you, listening to you perform brought it all back to her."
+●000406●「嗯，她说自己每次在快要忘记自己在路边歌唱时的初心的时候，都会来听你的歌，找回那些感觉」
+
+○000407○nothing
+●000407●nothing
+
+○000408○nothing
+●000408●nothing
+
+○000409○nothing
+●000409●nothing
+
+○000410○nothing
+●000410●nothing
+
+○000411○nothing
+●000411●nothing
+
+○000412○Yui
+●000412●由依
+
+○000413○"Eeeh...!?"
+●000413●「诶诶…！」
+
+○000414○The news was beyond shocking, and she was struck speechless.
+●000414●也许是因为事实太具有冲击性了，她变得哑口无言了。
+
+○000415○nothing
+●000415●nothing
+
+○000416○nothing
+●000416●nothing
+
+○000417○nothing
+●000417●nothing
+
+○000418○nothing
+●000418●nothing
+
+○000419○nothing
+●000419●nothing
+
+○000420○Yui
+●000420●由依
+
+○000421○"I-Is... is that really true!?"
+●000421●「真…真的是这样吗！？」
+
+○000422○Otonashi
+●000422●音无
+
+○000423○Damn Brat
+●000423●祖安带师
+
+○000424○Proxy
+●000424●代理人
+
+○000425○Way Too Iffy Cool Dude
+●000425●微妙的帅小伙
+
+○000426○Lolicon
+●000426●萝莉控
+
+○000427○Glasses Comrade
+●000427●眼镜之友
+
+○000428○All-Japan Mental Arithmetic Champion
+●000428●全日本珠心算记录保持者
+
+○000429○Slasher
+●000429●无差别杀人犯
+
+○000430○No-Memory Man
+●000430●没记忆的男人
+
+○000431○Onsoku
+●000431●音速
+
+○000432○Mugen
+●000432●无限
+
+○000433○Ero-Samurai
+●000433●色批武士
+
+○000434○Ero-Ero Brigade No.1
+●000434●老色批战队No.1
+
+○000435○Just Another Pervy Teenager
+●000435●只是个色批少年
+
+○000436○Yurisugly
+●000436●丑八怪由理
+
+○000437○Debussy
+●000437●Debussy
+
+○000438○CornHornDog
+●000438●美式色批狗
+
+○000439○Zeus
+●000439●宙斯
+
+○000440○Hinata Mk. 2
+●000440●日向Mk.2
+
+○000441○Dung Beetle
+●000441●屎壳郎
+
+○000442○Consumer Model Hinata
+●000442●量产型日向
+
+○000443○??
+●000443●？？
+
+○000444○"Yeah, it's true. Apparently she'd always come to watch before particularly important diversions to help psych herself up."
+●000444●「嗯，真的。特别是在大的行动之前，都会为了鼓足干劲而来到这里…」
+
+○000445○nothing
+●000445●nothing
+
+○000446○nothing
+●000446●nothing
+
+○000447○nothing
+●000447●nothing
+
+○000448○nothing
+●000448●nothing
+
+○000449○nothing
+●000449●nothing
+
+○000450○Yui
+●000450●由依
+
+○000451○"Really...? I wish we could've talked at least a little before she disappeared, then..."
+●000451●「原来是这样啊…要是在消失之前能够说上几句话就好了…」
+
+○000452○Otonashi
+●000452●音无
+
+○000453○Damn Brat
+●000453●祖安带师
+
+○000454○Proxy
+●000454●代理人
+
+○000455○Way Too Iffy Cool Dude
+●000455●微妙的帅小伙
+
+○000456○Lolicon
+●000456●萝莉控
+
+○000457○Glasses Comrade
+●000457●眼镜之友
+
+○000458○All-Japan Mental Arithmetic Champion
+●000458●全日本珠心算记录保持者
+
+○000459○Slasher
+●000459●无差别杀人犯
+
+○000460○No-Memory Man
+●000460●没记忆的男人
+
+○000461○Onsoku
+●000461●音速
+
+○000462○Mugen
+●000462●无限
+
+○000463○Ero-Samurai
+●000463●色批武士
+
+○000464○Ero-Ero Brigade No.1
+●000464●老色批战队No.1
+
+○000465○Just Another Pervy Teenager
+●000465●只是个色批少年
+
+○000466○Yurisugly
+●000466●丑八怪由理
+
+○000467○Debussy
+●000467●Debussy
+
+○000468○CornHornDog
+●000468●美式色批狗
+
+○000469○Zeus
+●000469●宙斯
+
+○000470○Hinata Mk. 2
+●000470●日向Mk.2
+
+○000471○Dung Beetle
+●000471●屎壳郎
+
+○000472○Consumer Model Hinata
+●000472●量产型日向
+
+○000473○??
+●000473●？？
+
+○000474○"But she said that if you knew about it, you'd fixate on her and lose what makes your music special, so she always made sure to come in secret, apparently."
+●000474●「但是，如果让你知道了的话，你就会对此产生意识，从而丧失现在的特点。所以，她都是偷偷地来到这里」
+
+○000475○nothing
+●000475●nothing
+
+○000476○nothing
+●000476●nothing
+
+○000477○nothing
+●000477●nothing
+
+○000478○nothing
+●000478●nothing
+
+○000479○nothing
+●000479●nothing
+
+○000480○Yui
+●000480●由依
+
+○000481○"........."
+●000481●「………」
+
+○000482○Otonashi
+●000482●音无
+
+○000483○Damn Brat
+●000483●祖安带师
+
+○000484○Proxy
+●000484●代理人
+
+○000485○Way Too Iffy Cool Dude
+●000485●微妙的帅小伙
+
+○000486○Lolicon
+●000486●萝莉控
+
+○000487○Glasses Comrade
+●000487●眼镜之友
+
+○000488○All-Japan Mental Arithmetic Champion
+●000488●全日本珠心算记录保持者
+
+○000489○Slasher
+●000489●无差别杀人犯
+
+○000490○No-Memory Man
+●000490●没记忆的男人
+
+○000491○Onsoku
+●000491●音速
+
+○000492○Mugen
+●000492●无限
+
+○000493○Ero-Samurai
+●000493●色批武士
+
+○000494○Ero-Ero Brigade No.1
+●000494●老色批战队No.1
+
+○000495○Just Another Pervy Teenager
+●000495●只是个色批少年
+
+○000496○Yurisugly
+●000496●丑八怪由理
+
+○000497○Debussy
+●000497●Debussy
+
+○000498○CornHornDog
+●000498●美式色批狗
+
+○000499○Zeus
+●000499●宙斯
+
+○000500○Hinata Mk. 2
+●000500●日向Mk.2
+
+○000501○Dung Beetle
+●000501●屎壳郎
+
+○000502○Consumer Model Hinata
+●000502●量产型日向
+
+○000503○??
+●000503●？？
+
+○000504○"And... what else did she say...?"
+●000504●「然后…她还说了什么来着…」
+
+○000505○Otonashi
+●000505●音无
+
+○000506○Damn Brat
+●000506●祖安带师
+
+○000507○Proxy
+●000507●代理人
+
+○000508○Way Too Iffy Cool Dude
+●000508●微妙的帅小伙
+
+○000509○Lolicon
+●000509●萝莉控
+
+○000510○Glasses Comrade
+●000510●眼镜之友
+
+○000511○All-Japan Mental Arithmetic Champion
+●000511●全日本珠心算记录保持者
+
+○000512○Slasher
+●000512●无差别杀人犯
+
+○000513○No-Memory Man
+●000513●没记忆的男人
+
+○000514○Onsoku
+●000514●音速
+
+○000515○Mugen
+●000515●无限
+
+○000516○Ero-Samurai
+●000516●色批武士
+
+○000517○Ero-Ero Brigade No.1
+●000517●老色批战队No.1
+
+○000518○Just Another Pervy Teenager
+●000518●只是个色批少年
+
+○000519○Yurisugly
+●000519●丑八怪由理
+
+○000520○Debussy
+●000520●Debussy
+
+○000521○CornHornDog
+●000521●美式色批狗
+
+○000522○Zeus
+●000522●宙斯
+
+○000523○Hinata Mk. 2
+●000523●日向Mk.2
+
+○000524○Dung Beetle
+●000524●屎壳郎
+
+○000525○Consumer Model Hinata
+●000525●量产型日向
+
+○000526○??
+●000526●？？
+
+○000527○"The Crow Song that Iwasawa sang was her Crow Song, but when you sing it, it's your Crow Song."
+●000527●「岩泽所唱的
+
+○000528○Crow Song
+●000528●Crow Song
+
+○000529○は、岩沢の
+●000529●，是岩泽的
+
+○000530○Crow Song
+●000530●Crow Song
+
+○000531○。ユイが歌えば、それはユイの
+●000531●。而由依所唱的，是由依的
+
+○000532○Crow Song
+●000532●Crow Song
+
+○000533○」
+●000533●」
+
+○000534○Otonashi
+●000534●音无
+
+○000535○Damn Brat
+●000535●祖安带师
+
+○000536○Proxy
+●000536●代理人
+
+○000537○Way Too Iffy Cool Dude
+●000537●微妙的帅小伙
+
+○000538○Lolicon
+●000538●萝莉控
+
+○000539○Glasses Comrade
+●000539●眼镜之友
+
+○000540○All-Japan Mental Arithmetic Champion
+●000540●全日本珠心算记录保持者
+
+○000541○Slasher
+●000541●无差别杀人犯
+
+○000542○No-Memory Man
+●000542●没记忆的男人
+
+○000543○Onsoku
+●000543●音速
+
+○000544○Mugen
+●000544●无限
+
+○000545○Ero-Samurai
+●000545●色批武士
+
+○000546○Ero-Ero Brigade No.1
+●000546●老色批战队No.1
+
+○000547○Just Another Pervy Teenager
+●000547●只是个色批少年
+
+○000548○Yurisugly
+●000548●丑八怪由理
+
+○000549○Debussy
+●000549●Debussy
+
+○000550○CornHornDog
+●000550●美式色批狗
+
+○000551○Zeus
+●000551●宙斯
+
+○000552○Hinata Mk. 2
+●000552●日向Mk.2
+
+○000553○Dung Beetle
+●000553●屎壳郎
+
+○000554○Consumer Model Hinata
+●000554●量产型日向
+
+○000555○??
+●000555●？？
+
+○000556○"Nobody has the right to get in the way of your song or your freedom... she said."
+●000556●「谁也没有权力阻挡你的
+
+○000557○うた
+●000557●歌唱
+
+○000558○自由
+●000558●自由
+
+○000559○を邪魔する権利なんて誰にもないんだ…って」
+●000559●…就是这样」
+
+○000560○nothing
+●000560●nothing
+
+○000561○nothing
+●000561●nothing
+
+○000562○nothing
+●000562●nothing
+
+○000563○nothing
+●000563●nothing
+
+○000564○nothing
+●000564●nothing
+
+○000565○Yui
+●000565●由依
+
+○000566○"...Did she...?"
+●000566●「…是这样，的说吗…」
+
+○000567○nothing
+●000567●nothing
+
+○000568○nothing
+●000568●nothing
+
+○000569○nothing
+●000569●nothing
+
+○000570○nothing
+●000570●nothing
+
+○000571○nothing
+●000571●nothing
+
+○000572○Yui
+●000572●由依
+
+○000573○"Iwasawa-san said something like that about me...?"
+●000573●「岩泽同学说过那样的话吗…」
+
+○000574○nothing
+●000574●nothing
+
+○000575○nothing
+●000575●nothing
+
+○000576○nothing
+●000576●nothing
+
+○000577○nothing
+●000577●nothing
+
+○000578○nothing
+●000578●nothing
+
+○000579○Yui
+●000579●由依
+
+○000580○"........."
+●000580●「………」
+
+○000581○nothing
+●000581●nothing
+
+○000582○nothing
+●000582●nothing
+
+○000583○nothing
+●000583●nothing
+
+○000584○nothing
+●000584●nothing
+
+○000585○nothing
+●000585●nothing
+
+○000586○Yui
+●000586●由依
+
+○000587○"All right!"
+●000587●「好！」
+
+○000588○se_binta
+●000588●se_binta
+
+○000589○none
+●000589●none
+
+○000590○nothing
+●000590●nothing
+
+○000593○nothing
+●000593●nothing
+
+○000594○bs
+●000594●bs
+
+○000595○_
+●000595●_
+
+○000596○nothing
+●000596●nothing
+
+○000597○nothing
+●000597●nothing
+
+○000598○nothing
+●000598●nothing
+
+○000599○nothing
+●000599●nothing
+
+○000600○nothing
+●000600●nothing
+
+○000601○Yui slapped her own cheeks with both hands, then took up her guitar.
+●000601●由依用双手拍了拍自己的脸颊，然后拿起了吉他。
+
+○000602○nothing
+●000602●nothing
+
+○000603○nothing
+●000603●nothing
+
+○000604○nothing
+●000604●nothing
+
+○000605○nothing
+●000605●nothing
+
+○000606○nothing
+●000606●nothing
+
+○000607○Yui
+●000607●由依
+
+○000608○"Crow Song! Lyrics and composition: Iwasawa Masami! Vocals: me!"
+●000608●「
+
+○000609○Crow Song
+●000609●Crow Song
+
+○000610○！　作詞·作曲、岩沢雅美！　唄、あたし！」
+●000610●！作词&作曲：岩泽雅美！演唱：我！」
+
+○000611○se_yui_Crowsong_Gt
+●000611●se_yui_Crowsong_Gt
+
+○000612○She let out a powerful shout, and strummed away at her guitar.
+●000612●她用力地大喊了一声，拨动起了吉他的弦。
+
+○000613○Smiling the whole while.
+●000613●带着笑容。
+
+○000614○The familiar song resounded across the parking lot.
+●000614●熟悉的歌曲在周围回响着。
+
+○000615○Her song was absolutely packed full of her earnest, straightforward love of music.
+●000615●一心一意，简单率直，充满了对音乐的热爱。
+
+○000616○I wonder if that song will be passed down to someone else, some day?
+●000616●也许有一天，这首歌会被下一个人传承下去吧？
+
+○000617○It felt like Iwasawa had left it behind as proof that she'd lived in this world.
+●000617●这是岩泽在这个世界上存在过的确凿证明。
+
+○000618○none
+●000618●none
+
+○000619○nothing
+●000619●nothing
+
+○000622○nothing
+●000622●nothing
+
+○000623○bs
+●000623●bs
+
+○000624○_
+●000624●_
+
+○000625○nothing
+●000625●nothing
+
+○000626○nothing
+●000626●nothing
+
+○000627○nothing
+●000627●nothing
+
+○000628○nothing
+●000628●nothing
+
+○000629○nothing
+●000629●nothing
+
+○000630○At that point, Yui hung her head and sighed.
+●000630●由依说到这里，低头叹气了一口气。
+
+○000631○nothing
+●000631●nothing
+
+○000632○nothing
+●000632●nothing
+
+○000633○nothing
+●000633●nothing
+
+○000634○nothing
+●000634●nothing
+
+○000635○nothing
+●000635●nothing
+
+○000636○Yui
+●000636●由依
+
+○000637○"...But, someone has to carry on her music for her, right?"
+●000637●「…但是，总有人要继续唱下去的吧？」
+
+○000638○Otonashi
+●000638●音无
+
+○000639○Damn Brat
+●000639●祖安带师
+
+○000640○Proxy
+●000640●代理人
+
+○000641○Way Too Iffy Cool Dude
+●000641●微妙的帅小伙
+
+○000642○Lolicon
+●000642●萝莉控
+
+○000643○Glasses Comrade
+●000643●眼镜之友
+
+○000644○All-Japan Mental Arithmetic Champion
+●000644●全日本珠心算记录保持者
+
+○000645○Slasher
+●000645●无差别杀人犯
+
+○000646○No-Memory Man
+●000646●没记忆的男人
+
+○000647○Onsoku
+●000647●音速
+
+○000648○Mugen
+●000648●无限
+
+○000649○Ero-Samurai
+●000649●色批武士
+
+○000650○Ero-Ero Brigade No.1
+●000650●老色批战队No.1
+
+○000651○Just Another Pervy Teenager
+●000651●只是个色批少年
+
+○000652○Yurisugly
+●000652●丑八怪由理
+
+○000653○Debussy
+●000653●Debussy
+
+○000654○CornHornDog
+●000654●美式色批狗
+
+○000655○Zeus
+●000655●宙斯
+
+○000656○Hinata Mk. 2
+●000656●日向Mk.2
+
+○000657○Dung Beetle
+●000657●屎壳郎
+
+○000658○Consumer Model Hinata
+●000658●量产型日向
+
+○000659○??
+●000659●？？
+
+○000660○"Huh?"
+●000660●「诶？」
+
+○000661○nothing
+●000661●nothing
+
+○000662○nothing
+●000662●nothing
+
+○000663○nothing
+●000663●nothing
+
+○000664○nothing
+●000664●nothing
+
+○000665○nothing
+●000665●nothing
+
+○000666○Yui
+●000666●由依
+
+○000667○"Iwasawa-san wrote all this music, so somebody has to keep singing it."
+●000667●「岩泽同学创作了这些歌曲，一定要有人继续唱下去才行」
+
+○000668○Otonashi
+●000668●音无
+
+○000669○Damn Brat
+●000669●祖安带师
+
+○000670○Proxy
+●000670●代理人
+
+○000671○Way Too Iffy Cool Dude
+●000671●微妙的帅小伙
+
+○000672○Lolicon
+●000672●萝莉控
+
+○000673○Glasses Comrade
+●000673●眼镜之友
+
+○000674○All-Japan Mental Arithmetic Champion
+●000674●全日本珠心算记录保持者
+
+○000675○Slasher
+●000675●无差别杀人犯
+
+○000676○No-Memory Man
+●000676●没记忆的男人
+
+○000677○Onsoku
+●000677●音速
+
+○000678○Mugen
+●000678●无限
+
+○000679○Ero-Samurai
+●000679●色批武士
+
+○000680○Ero-Ero Brigade No.1
+●000680●老色批战队No.1
+
+○000681○Just Another Pervy Teenager
+●000681●只是个色批少年
+
+○000682○Yurisugly
+●000682●丑八怪由理
+
+○000683○Debussy
+●000683●Debussy
+
+○000684○CornHornDog
+●000684●美式色批狗
+
+○000685○Zeus
+●000685●宙斯
+
+○000686○Hinata Mk. 2
+●000686●日向Mk.2
+
+○000687○Dung Beetle
+●000687●屎壳郎
+
+○000688○Consumer Model Hinata
+●000688●量产型日向
+
+○000689○??
+●000689●？？
+
+○000690○"Yeah, that's right."
+●000690●「是啊」
+
+○000691○Her songs were the proof that Iwasawa left behind to show she'd lived in this world.
+●000691●这是岩泽在这个世界上存在过的确凿证明。
+
+○000692○Yui
+●000692●由依
+
+○000693○"I'm gonna make my own songs, too!"
+●000693●「我会创作出自己的歌曲的—」
+
+○000694○And now, that determination had been passed down to Yui.
+●000694●然后，这份意志被由依继承了。
+
+○000695○Yui was sitting on the side of the parking lot by some thick bushes.
+●000695●由依正坐在停车场的树丛旁。
+
+○000696○She gripped her guitar, her head hung low.
+●000696●抱着原声吉他，一动不动地低着头。
+
+○000697○Otonashi
+●000697●音无
+
+○000698○Damn Brat
+●000698●祖安带师
+
+○000699○Proxy
+●000699●代理人
+
+○000700○Way Too Iffy Cool Dude
+●000700●微妙的帅小伙
+
+○000701○Lolicon
+●000701●萝莉控
+
+○000702○Glasses Comrade
+●000702●眼镜之友
+
+○000703○All-Japan Mental Arithmetic Champion
+●000703●全日本珠心算记录保持者
+
+○000704○Slasher
+●000704●无差别杀人犯
+
+○000705○No-Memory Man
+●000705●没记忆的男人
+
+○000706○Onsoku
+●000706●音速
+
+○000707○Mugen
+●000707●无限
+
+○000708○Ero-Samurai
+●000708●色批武士
+
+○000709○Ero-Ero Brigade No.1
+●000709●老色批战队No.1
+
+○000710○Just Another Pervy Teenager
+●000710●只是个色批少年
+
+○000711○Yurisugly
+●000711●丑八怪由理
+
+○000712○Debussy
+●000712●Debussy
+
+○000713○CornHornDog
+●000713●美式色批狗
+
+○000714○Zeus
+●000714●宙斯
+
+○000715○Hinata Mk. 2
+●000715●日向Mk.2
+
+○000716○Dung Beetle
+●000716●屎壳郎
+
+○000717○Consumer Model Hinata
+●000717●量产型日向
+
+○000718○??
+●000718●？？
+
+○000719○"Yui...?"
+●000719●「由依…？」
+
+○000720○Yui
+●000720●由依
+
+○000721○"Ah... Senpai."
+●000721●「啊…前辈」
+
+○000722○Otonashi
+●000722●音无
+
+○000723○Damn Brat
+●000723●祖安带师
+
+○000724○Proxy
+●000724●代理人
+
+○000725○Way Too Iffy Cool Dude
+●000725●微妙的帅小伙
+
+○000726○Lolicon
+●000726●萝莉控
+
+○000727○Glasses Comrade
+●000727●眼镜之友
+
+○000728○All-Japan Mental Arithmetic Champion
+●000728●全日本珠心算记录保持者
+
+○000729○Slasher
+●000729●无差别杀人犯
+
+○000730○No-Memory Man
+●000730●没记忆的男人
+
+○000731○Onsoku
+●000731●音速
+
+○000732○Mugen
+●000732●无限
+
+○000733○Ero-Samurai
+●000733●色批武士
+
+○000734○Ero-Ero Brigade No.1
+●000734●老色批战队No.1
+
+○000735○Just Another Pervy Teenager
+●000735●只是个色批少年
+
+○000736○Yurisugly
+●000736●丑八怪由理
+
+○000737○Debussy
+●000737●Debussy
+
+○000738○CornHornDog
+●000738●美式色批狗
+
+○000739○Zeus
+●000739●宙斯
+
+○000740○Hinata Mk. 2
+●000740●日向Mk.2
+
+○000741○Dung Beetle
+●000741●屎壳郎
+
+○000742○Consumer Model Hinata
+●000742●量产型日向
+
+○000743○??
+●000743●？？
+
+○000744○"What're you doing in a place like this?"
+●000744●「你在这里做什么呢？」
+
+○000745○Yui
+●000745●由依
+
+○000746○"I thought I'd practice my singing, but... I just can't seem to get it right."
+●000746●「我想要练习一下歌唱…但总觉得自己唱得不好」
+
+○000747○Otonashi
+●000747●音无
+
+○000748○Damn Brat
+●000748●祖安带师
+
+○000749○Proxy
+●000749●代理人
+
+○000750○Way Too Iffy Cool Dude
+●000750●微妙的帅小伙
+
+○000751○Lolicon
+●000751●萝莉控
+
+○000752○Glasses Comrade
+●000752●眼镜之友
+
+○000753○All-Japan Mental Arithmetic Champion
+●000753●全日本珠心算记录保持者
+
+○000754○Slasher
+●000754●无差别杀人犯
+
+○000755○No-Memory Man
+●000755●没记忆的男人
+
+○000756○Onsoku
+●000756●音速
+
+○000757○Mugen
+●000757●无限
+
+○000758○Ero-Samurai
+●000758●色批武士
+
+○000759○Ero-Ero Brigade No.1
+●000759●老色批战队No.1
+
+○000760○Just Another Pervy Teenager
+●000760●只是个色批少年
+
+○000761○Yurisugly
+●000761●丑八怪由理
+
+○000762○Debussy
+●000762●Debussy
+
+○000763○CornHornDog
+●000763●美式色批狗
+
+○000764○Zeus
+●000764●宙斯
+
+○000765○Hinata Mk. 2
+●000765●日向Mk.2
+
+○000766○Dung Beetle
+●000766●屎壳郎
+
+○000767○Consumer Model Hinata
+●000767●量产型日向
+
+○000768○??
+●000768●？？
+
+○000769○"I didn't know you sang."
+●000769●「我还不知道你会唱歌呢」
+
+○000770○Yui
+●000770●由依
+
+○000771○"I wanted to become at least a little bit like Iwasawa-san, though I've just been imitating her, really."
+●000771●「想稍微变得和岩泽同学一样，虽然只是简单的模仿而已」
+
+○000772○Yui muttered, plucking at the guitar's thickest string just lightly enough to not make a noise.
+●000772●由依低声说着，手指轻轻地拨弄着最粗的一根弦，轻到了根本发不出声音的地步。
+
+○000773○Yui
+●000773●由依
+
+○000774○"...Why would Iwasawa-san disappear...?"
+●000774●「…岩泽同学，为什么会消失呢…」
+
+○000775○Otonashi
+●000775●音无
+
+○000776○Damn Brat
+●000776●祖安带师
+
+○000777○Proxy
+●000777●代理人
+
+○000778○Way Too Iffy Cool Dude
+●000778●微妙的帅小伙
+
+○000779○Lolicon
+●000779●萝莉控
+
+○000780○Glasses Comrade
+●000780●眼镜之友
+
+○000781○All-Japan Mental Arithmetic Champion
+●000781●全日本珠心算记录保持者
+
+○000782○Slasher
+●000782●无差别杀人犯
+
+○000783○No-Memory Man
+●000783●没记忆的男人
+
+○000784○Onsoku
+●000784●音速
+
+○000785○Mugen
+●000785●无限
+
+○000786○Ero-Samurai
+●000786●色批武士
+
+○000787○Ero-Ero Brigade No.1
+●000787●老色批战队No.1
+
+○000788○Just Another Pervy Teenager
+●000788●只是个色批少年
+
+○000789○Yurisugly
+●000789●丑八怪由理
+
+○000790○Debussy
+●000790●Debussy
+
+○000791○CornHornDog
+●000791●美式色批狗
+
+○000792○Zeus
+●000792●宙斯
+
+○000793○Hinata Mk. 2
+●000793●日向Mk.2
+
+○000794○Dung Beetle
+●000794●屎壳郎
+
+○000795○Consumer Model Hinata
+●000795●量产型日向
+
+○000796○??
+●000796●？？
+
+○000797○"Yeah, I wonder..."
+●000797●「到底是为什么呢…」
+
+○000798○Yuri told us it was because she was satisfied, but honestly, I didn't really know what she meant by that.
+●000798●由理对我们说是岩泽得到了满足，但是说实话，我并不明白她的意思。
+
+○000799○nothing
+●000799●nothing
+
+○000800○nothing
+●000800●nothing
+
+○000801○nothing
+●000801●nothing
+
+○000802○nothing
+●000802●nothing
+
+○000803○nothing
+●000803●nothing
+
+○000804○nothing
+●000804●nothing
+
+○000807○nothing
+●000807●nothing
+
+○000808○Otonashi
+●000808●音无
+
+○000809○Damn Brat
+●000809●祖安带师
+
+○000810○Proxy
+●000810●代理人
+
+○000811○Way Too Iffy Cool Dude
+●000811●微妙的帅小伙
+
+○000812○Lolicon
+●000812●萝莉控
+
+○000813○Glasses Comrade
+●000813●眼镜之友
+
+○000814○All-Japan Mental Arithmetic Champion
+●000814●全日本珠心算记录保持者
+
+○000815○Slasher
+●000815●无差别杀人犯
+
+○000816○No-Memory Man
+●000816●没记忆的男人
+
+○000817○Onsoku
+●000817●音速
+
+○000818○Mugen
+●000818●无限
+
+○000819○Ero-Samurai
+●000819●色批武士
+
+○000820○Ero-Ero Brigade No.1
+●000820●老色批战队No.1
+
+○000821○Just Another Pervy Teenager
+●000821●只是个色批少年
+
+○000822○Yurisugly
+●000822●丑八怪由理
+
+○000823○Debussy
+●000823●Debussy
+
+○000824○CornHornDog
+●000824●美式色批狗
+
+○000825○Zeus
+●000825●宙斯
+
+○000826○Hinata Mk. 2
+●000826●日向Mk.2
+
+○000827○Dung Beetle
+●000827●屎壳郎
+
+○000828○Consumer Model Hinata
+●000828●量产型日向
+
+○000829○??
+●000829●？？
+
+○000830○"Can you sing GirlDeMo's songs, Yui?"
+●000830●「由依会唱GDM的歌吗？」
+
+○000831○nothing
+●000831●nothing
+
+○000832○nothing
+●000832●nothing
+
+○000833○nothing
+●000833●nothing
+
+○000834○nothing
+●000834●nothing
+
+○000835○nothing
+●000835●nothing
+
+○000836○Yui
+●000836●由依
+
+○000837○"I can. I'm confident in that, at least."
+●000837●「会的，至少在这方面还是有自信的」
+
+○000838○Otonashi
+●000838●音无
+
+○000839○Damn Brat
+●000839●祖安带师
+
+○000840○Proxy
+●000840●代理人
+
+○000841○Way Too Iffy Cool Dude
+●000841●微妙的帅小伙
+
+○000842○Lolicon
+●000842●萝莉控
+
+○000843○Glasses Comrade
+●000843●眼镜之友
+
+○000844○All-Japan Mental Arithmetic Champion
+●000844●全日本珠心算记录保持者
+
+○000845○Slasher
+●000845●无差别杀人犯
+
+○000846○No-Memory Man
+●000846●没记忆的男人
+
+○000847○Onsoku
+●000847●音速
+
+○000848○Mugen
+●000848●无限
+
+○000849○Ero-Samurai
+●000849●色批武士
+
+○000850○Ero-Ero Brigade No.1
+●000850●老色批战队No.1
+
+○000851○Just Another Pervy Teenager
+●000851●只是个色批少年
+
+○000852○Yurisugly
+●000852●丑八怪由理
+
+○000853○Debussy
+●000853●Debussy
+
+○000854○CornHornDog
+●000854●美式色批狗
+
+○000855○Zeus
+●000855●宙斯
+
+○000856○Hinata Mk. 2
+●000856●日向Mk.2
+
+○000857○Dung Beetle
+●000857●屎壳郎
+
+○000858○Consumer Model Hinata
+●000858●量产型日向
+
+○000859○??
+●000859●？？
+
+○000860○"Then, could you play one for me?"
+●000860●「那么，能让我听听吗？」
+
+○000861○nothing
+●000861●nothing
+
+○000862○nothing
+●000862●nothing
+
+○000863○nothing
+●000863●nothing
+
+○000864○nothing
+●000864●nothing
+
+○000865○nothing
+●000865●nothing
+
+○000866○Yui
+●000866●由依
+
+○000867○"I really don't feel up for that right now. I mean, if I did, I'd probably end up crying..."
+●000867●「没有那个心情。很可能会在唱的时候哭出来…」
+
+○000868○Otonashi
+●000868●音无
+
+○000869○Damn Brat
+●000869●祖安带师
+
+○000870○Proxy
+●000870●代理人
+
+○000871○Way Too Iffy Cool Dude
+●000871●微妙的帅小伙
+
+○000872○Lolicon
+●000872●萝莉控
+
+○000873○Glasses Comrade
+●000873●眼镜之友
+
+○000874○All-Japan Mental Arithmetic Champion
+●000874●全日本珠心算记录保持者
+
+○000875○Slasher
+●000875●无差别杀人犯
+
+○000876○No-Memory Man
+●000876●没记忆的男人
+
+○000877○Onsoku
+●000877●音速
+
+○000878○Mugen
+●000878●无限
+
+○000879○Ero-Samurai
+●000879●色批武士
+
+○000880○Ero-Ero Brigade No.1
+●000880●老色批战队No.1
+
+○000881○Just Another Pervy Teenager
+●000881●只是个色批少年
+
+○000882○Yurisugly
+●000882●丑八怪由理
+
+○000883○Debussy
+●000883●Debussy
+
+○000884○CornHornDog
+●000884●美式色批狗
+
+○000885○Zeus
+●000885●宙斯
+
+○000886○Hinata Mk. 2
+●000886●日向Mk.2
+
+○000887○Dung Beetle
+●000887●屎壳郎
+
+○000888○Consumer Model Hinata
+●000888●量产型日向
+
+○000889○??
+●000889●？？
+
+○000890○"Then, please do. I don't mind if you cry through the whole song."
+●000890●「那么，一边哭一边唱也没问题」
+
+○000891○nothing
+●000891●nothing
+
+○000892○nothing
+●000892●nothing
+
+○000893○nothing
+●000893●nothing
+
+○000894○nothing
+●000894●nothing
+
+○000895○nothing
+●000895●nothing
+
+○000896○Yui
+●000896●由依
+
+○000897○"I'm really not in the mood to play along with your jokes, y'know..."
+●000897●「我可没有心情和你开这种玩笑…」
+
+○000898○Otonashi
+●000898●音无
+
+○000899○Damn Brat
+●000899●祖安带师
+
+○000900○Proxy
+●000900●代理人
+
+○000901○Way Too Iffy Cool Dude
+●000901●微妙的帅小伙
+
+○000902○Lolicon
+●000902●萝莉控
+
+○000903○Glasses Comrade
+●000903●眼镜之友
+
+○000904○All-Japan Mental Arithmetic Champion
+●000904●全日本珠心算记录保持者
+
+○000905○Slasher
+●000905●无差别杀人犯
+
+○000906○No-Memory Man
+●000906●没记忆的男人
+
+○000907○Onsoku
+●000907●音速
+
+○000908○Mugen
+●000908●无限
+
+○000909○Ero-Samurai
+●000909●色批武士
+
+○000910○Ero-Ero Brigade No.1
+●000910●老色批战队No.1
+
+○000911○Just Another Pervy Teenager
+●000911●只是个色批少年
+
+○000912○Yurisugly
+●000912●丑八怪由理
+
+○000913○Debussy
+●000913●Debussy
+
+○000914○CornHornDog
+●000914●美式色批狗
+
+○000915○Zeus
+●000915●宙斯
+
+○000916○Hinata Mk. 2
+●000916●日向Mk.2
+
+○000917○Dung Beetle
+●000917●屎壳郎
+
+○000918○Consumer Model Hinata
+●000918●量产型日向
+
+○000919○??
+●000919●？？
+
+○000920○"I never actually got to listen to any of GirlDeMo's songs properly."
+●000920●「我还没有好好地听过GDM的歌」
+
+○000921○Otonashi
+●000921●音无
+
+○000922○Damn Brat
+●000922●祖安带师
+
+○000923○Proxy
+●000923●代理人
+
+○000924○Way Too Iffy Cool Dude
+●000924●微妙的帅小伙
+
+○000925○Lolicon
+●000925●萝莉控
+
+○000926○Glasses Comrade
+●000926●眼镜之友
+
+○000927○All-Japan Mental Arithmetic Champion
+●000927●全日本珠心算记录保持者
+
+○000928○Slasher
+●000928●无差别杀人犯
+
+○000929○No-Memory Man
+●000929●没记忆的男人
+
+○000930○Onsoku
+●000930●音速
+
+○000931○Mugen
+●000931●无限
+
+○000932○Ero-Samurai
+●000932●色批武士
+
+○000933○Ero-Ero Brigade No.1
+●000933●老色批战队No.1
+
+○000934○Just Another Pervy Teenager
+●000934●只是个色批少年
+
+○000935○Yurisugly
+●000935●丑八怪由理
+
+○000936○Debussy
+●000936●Debussy
+
+○000937○CornHornDog
+●000937●美式色批狗
+
+○000938○Zeus
+●000938●宙斯
+
+○000939○Hinata Mk. 2
+●000939●日向Mk.2
+
+○000940○Dung Beetle
+●000940●屎壳郎
+
+○000941○Consumer Model Hinata
+●000941●量产型日向
+
+○000942○??
+●000942●？？
+
+○000943○"So, I'd like to hear one now."
+●000943●「所以，我想听一听」
+
+○000944○Otonashi
+●000944●音无
+
+○000945○Damn Brat
+●000945●祖安带师
+
+○000946○Proxy
+●000946●代理人
+
+○000947○Way Too Iffy Cool Dude
+●000947●微妙的帅小伙
+
+○000948○Lolicon
+●000948●萝莉控
+
+○000949○Glasses Comrade
+●000949●眼镜之友
+
+○000950○All-Japan Mental Arithmetic Champion
+●000950●全日本珠心算记录保持者
+
+○000951○Slasher
+●000951●无差别杀人犯
+
+○000952○No-Memory Man
+●000952●没记忆的男人
+
+○000953○Onsoku
+●000953●音速
+
+○000954○Mugen
+●000954●无限
+
+○000955○Ero-Samurai
+●000955●色批武士
+
+○000956○Ero-Ero Brigade No.1
+●000956●老色批战队No.1
+
+○000957○Just Another Pervy Teenager
+●000957●只是个色批少年
+
+○000958○Yurisugly
+●000958●丑八怪由理
+
+○000959○Debussy
+●000959●Debussy
+
+○000960○CornHornDog
+●000960●美式色批狗
+
+○000961○Zeus
+●000961●宙斯
+
+○000962○Hinata Mk. 2
+●000962●日向Mk.2
+
+○000963○Dung Beetle
+●000963●屎壳郎
+
+○000964○Consumer Model Hinata
+●000964●量产型日向
+
+○000965○??
+●000965●？？
+
+○000966○"Plus, if you feel like crying it's best to just let it out, right?"
+●000966●「而且，如果想哭的话，不要勉强自己，直接哭出来不是更好吗？」
+
+○000967○Otonashi
+●000967●音无
+
+○000968○Damn Brat
+●000968●祖安带师
+
+○000969○Proxy
+●000969●代理人
+
+○000970○Way Too Iffy Cool Dude
+●000970●微妙的帅小伙
+
+○000971○Lolicon
+●000971●萝莉控
+
+○000972○Glasses Comrade
+●000972●眼镜之友
+
+○000973○All-Japan Mental Arithmetic Champion
+●000973●全日本珠心算记录保持者
+
+○000974○Slasher
+●000974●无差别杀人犯
+
+○000975○No-Memory Man
+●000975●没记忆的男人
+
+○000976○Onsoku
+●000976●音速
+
+○000977○Mugen
+●000977●无限
+
+○000978○Ero-Samurai
+●000978●色批武士
+
+○000979○Ero-Ero Brigade No.1
+●000979●老色批战队No.1
+
+○000980○Just Another Pervy Teenager
+●000980●只是个色批少年
+
+○000981○Yurisugly
+●000981●丑八怪由理
+
+○000982○Debussy
+●000982●Debussy
+
+○000983○CornHornDog
+●000983●美式色批狗
+
+○000984○Zeus
+●000984●宙斯
+
+○000985○Hinata Mk. 2
+●000985●日向Mk.2
+
+○000986○Dung Beetle
+●000986●屎壳郎
+
+○000987○Consumer Model Hinata
+●000987●量产型日向
+
+○000988○??
+●000988●？？
+
+○000989○"You lost a person you admired, so I think feeling lonely right now's totally natural."
+●000989●「失去了自己憧憬的人，会感到寂寞是理所当然的吧」
+
+○000990○nothing
+●000990●nothing
+
+○000991○nothing
+●000991●nothing
+
+○000992○nothing
+●000992●nothing
+
+○000993○nothing
+●000993●nothing
+
+○000994○nothing
+●000994●nothing
+
+○000995○Yui
+●000995●由依
+
+○000996○"...Haaaah... don't blame me for what happens. If anybody else sees this, I'm gonna tell them you forced me to do it and made me cry."
+●000996●「…哈啊—…可不要怪我啊。如果被谁看到的话，我就说是前辈强迫我这么做，把我弄哭了」
+
+○000997○Otonashi
+●000997●音无
+
+○000998○Damn Brat
+●000998●祖安带师
+
+○000999○Proxy
+●000999●代理人
+
+○001000○Way Too Iffy Cool Dude
+●001000●微妙的帅小伙
+
+○001001○Lolicon
+●001001●萝莉控
+
+○001002○Glasses Comrade
+●001002●眼镜之友
+
+○001003○All-Japan Mental Arithmetic Champion
+●001003●全日本珠心算记录保持者
+
+○001004○Slasher
+●001004●无差别杀人犯
+
+○001005○No-Memory Man
+●001005●没记忆的男人
+
+○001006○Onsoku
+●001006●音速
+
+○001007○Mugen
+●001007●无限
+
+○001008○Ero-Samurai
+●001008●色批武士
+
+○001009○Ero-Ero Brigade No.1
+●001009●老色批战队No.1
+
+○001010○Just Another Pervy Teenager
+●001010●只是个色批少年
+
+○001011○Yurisugly
+●001011●丑八怪由理
+
+○001012○Debussy
+●001012●Debussy
+
+○001013○CornHornDog
+●001013●美式色批狗
+
+○001014○Zeus
+●001014●宙斯
+
+○001015○Hinata Mk. 2
+●001015●日向Mk.2
+
+○001016○Dung Beetle
+●001016●屎壳郎
+
+○001017○Consumer Model Hinata
+●001017●量产型日向
+
+○001018○??
+●001018●？？
+
+○001019○"Quit making ominous excuses and focus on singing, please."
+●001019●「不要再找各种借口了，好好唱歌吧」
+
+○001020○nothing
+●001020●nothing
+
+○001021○nothing
+●001021●nothing
+
+○001022○nothing
+●001022●nothing
+
+○001023○nothing
+●001023●nothing
+
+○001024○nothing
+●001024●nothing
+
+○001025○Yui
+●001025●由依
+
+○001026○"Okay, here I go."
+●001026●「那么，要唱了」
+
+○001027○none
+●001027●none
+
+○001028○nothing
+●001028●nothing
+
+○001031○nothing
+●001031●nothing
+
+○001032○bs
+●001032●bs
+
+○001033○_
+●001033●_
+
+○001034○nothing
+●001034●nothing
+
+○001035○nothing
+●001035●nothing
+
+○001036○nothing
+●001036●nothing
+
+○001037○nothing
+●001037●nothing
+
+○001038○nothing
+●001038●nothing
+
+○001039○Yui took a deep breath, and strummed her guitar powerfully.
+●001039●由依做了一次深呼吸，然后用力地弹起了吉他。
+
+○001040○nothing
+●001040●nothing
+
+○001041○nothing
+●001041●nothing
+
+○001042○nothing
+●001042●nothing
+
+○001043○nothing
+●001043●nothing
+
+○001044○nothing
+●001044●nothing
+
+○001045○Yui
+●001045●由依
+
+○001046○"Alchemy! Lyrics and composition: Iwasawa Masami! Vocals: me!"
+●001046●「
+
+○001047○Alchemy
+●001047●Alchemy
+
+○001048○！　作詞·作曲、岩沢雅美！　唄、あたし！」
+●001048●！作词&作曲：岩泽雅美！演唱：我！」
+
+○001049○se_yui_Alchemy_Gt
+●001049●se_yui_Alchemy_Gt
+
+○001050○Yui took my request and sang one of GirlDeMo's songs for me.
+●001050●由依回应了我的要求，唱了一首GDM的歌。
+
+○001051○I could see the tears pooling in the corners of her eyes.//音无你他妈的是人吗
+●001051●她的眼角流出了泪水。
+
+○001052○But she looked up to the sky to keep them from spilling, and kept on singing.
+●001052●但是，为了不让泪水洒出来，她望向了天空，继续歌唱着。
+
+○001053○It almost felt like she was playing in the hopes her song would reach Iwasawa, wherever she'd gone off to.
+●001053●就好像是要将这首歌传达给已经消失了的岩泽一样。
+
+○001054○dummy
+●001054●dummy
+
+○001055○ep04_bg047
+●001055●ep04_bg047
+
+○001056○bg_siro
+●001056●bg_siro
+
+○001057○ep99_bg011
+●001057●ep99_bg011
+
+○001058○yi0703
+●001058●yi0703
+
+○001059○yi0611_03
+●001059●yi0611_03
+
+○001060○bg_siro
+●001060●bg_siro
+
+○001061○bg_siro
+●001061●bg_siro
+
+○001062○ep99_bg011
+●001062●ep99_bg011
+
+○001063○yi0113
+●001063●yi0113
+
+○001064○bg_siro
+●001064●bg_siro
+
+○001065○bg_siro
+●001065●bg_siro
+
+○001066○m107
+●001066●m107
+
+○001067○evyi_0104
+●001067●evyi_0104
+
+○001068○evyi_0104
+●001068●evyi_0104
+
+○001069○evyi_0101
+●001069●evyi_0101
+
+○001070○evyi_0104
+●001070●evyi_0104
+
+○001071○ep99_bg011
+●001071●ep99_bg011
+
+○001072○bs3_yi0105
+●001072●bs3_yi0105
+
+○001073○bs3_yi0105
+●001073●bs3_yi0105
+
+○001074○bs3_yi0105
+●001074●bs3_yi0105
+
+○001075○bs3_yi0105
+●001075●bs3_yi0105
+
+○001076○bs3_yi0105
+●001076●bs3_yi0105
+
+○001077○bs3_yi0105
+●001077●bs3_yi0105
+
+○001078○yi0115
+●001078●yi0115
+
+○001079○yi0115_12
+●001079●yi0115_12
+
+○001080○yi0105
+●001080●yi0105
+
+○001081○yi0112
+●001081●yi0112
+
+○001082○yi0105_11
+●001082●yi0105_11
+
+○001083○yi0112
+●001083●yi0112
+
+○001084○yi0115_12
+●001084●yi0115_12
+
+○001085○yi0114_01
+●001085●yi0114_01
+
+○001086○yi0101_08
+●001086●yi0101_08
+
+○001087○yi0114
+●001087●yi0114
+
+○001088○yi0112
+●001088●yi0112
+
+○001089○yi0105_12
+●001089●yi0105_12
+
+○001090○yi0101_08
+●001090●yi0101_08
+
+○001091○yi0105
+●001091●yi0105
+
+○001092○yi0115
+●001092●yi0115
+
+○001093○yi0114_11
+●001093●yi0114_11
+
+○001094○yi010300a0
+●001094●yi010300a0
+
+○001095○yi0109_02
+●001095●yi0109_02
+
+○001096○yi0109_02
+●001096●yi0109_02
+
+○001097○yi0114_03
+●001097●yi0114_03
+
+○001098○ep04_bg047
+●001098●ep04_bg047
+
+○001099○yi0115_12
+●001099●yi0115_12
+
+○001100○yi0115_12
+●001100●yi0115_12
+
+○001101○yi0102
+●001101●yi0102
+
+○001102○yi0103
+●001102●yi0103
+
+○001103○ep04_bg047
+●001103●ep04_bg047
+
+○001104○yi0114_03
+●001104●yi0114_03
+
+○001105○evyi_0101
+●001105●evyi_0101
+
+○001106○evyi_0104
+●001106●evyi_0104
+
+○001107○ep99_bg011
+●001107●ep99_bg011
+
+○001108○bs3_yi0105_01
+●001108●bs3_yi0105_01
+
+○001109○bs3_yi0105_01
+●001109●bs3_yi0105_01
+
+○001110○bs3_yi0105_01
+●001110●bs3_yi0105_01
+
+○001111○bs3_yi0105_01
+●001111●bs3_yi0105_01
+
+○001112○bs3_yi0105_01
+●001112●bs3_yi0105_01
+
+○001113○bs3_yi0105_01
+●001113●bs3_yi0105_01
+
+○001114○yi0103
+●001114●yi0103
+
+○001115○yi0112_05
+●001115●yi0112_05
+
+○001116○yi0112
+●001116●yi0112
+
+○001117○yi0115
+●001117●yi0115
+
+○001118○yi0114_11
+●001118●yi0114_11
+
+○001119○yi0111
+●001119●yi0111
+
+○001120○yi0111
+●001120●yi0111
+
+○001121○yi0102_03
+●001121●yi0102_03
+
+○001122○ep04_bg047
+●001122●ep04_bg047
+
+○001123○bg_siro
+●001123●bg_siro
+

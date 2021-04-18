@@ -1,0 +1,336 @@
+○000000○se_wooddoor_open2
+●000000●se_wooddoor_open2
+
+○000001○Otonashi
+●000001●音无
+
+○000002○Damn Brat
+●000002●祖安带师
+
+○000003○Proxy
+●000003●代理人
+
+○000004○Way Too Iffy Cool Dude
+●000004●微妙的帅小伙
+
+○000005○Lolicon
+●000005●萝莉控
+
+○000006○Glasses Comrade
+●000006●眼镜之友
+
+○000007○All-Japan Mental Arithmetic Champion
+●000007●全日本珠心算记录保持者
+
+○000008○Slasher
+●000008●无差别杀人犯
+
+○000009○No-Memory Man
+●000009●没记忆的男人
+
+○000010○Onsoku
+●000010●音速
+
+○000011○Mugen
+●000011●无限
+
+○000012○Ero-Samurai
+●000012●色批武士
+
+○000013○Ero-Ero Brigade No.1
+●000013●老色批战队No.1
+
+○000014○Just Another Pervy Teenager
+●000014●只是个色批少年
+
+○000015○Yurisugly
+●000015●丑八怪由理
+
+○000016○Debussy
+●000016●Debussy
+
+○000017○CornHornDog
+●000017●美式色批狗
+
+○000018○Zeus
+●000018●宙斯
+
+○000019○Hinata Mk. 2
+●000019●日向Mk.2
+
+○000020○Dung Beetle
+●000020●屎壳郎
+
+○000021○Consumer Model Hinata
+●000021●量产型日向
+
+○000022○??
+●000022●？？
+
+○000023○"Hey."
+●000023●「哟」
+
+○000024○nothing
+●000024●nothing
+
+○000025○nothing
+●000025●nothing
+
+○000026○nothing
+●000026●nothing
+
+○000027○nothing
+●000027●nothing
+
+○000028○nothing
+●000028●nothing
+
+○000029○Iwasawa
+●000029●岩泽
+
+○000030○"You again?"
+●000030●「又是你吗？」
+
+○000031○Otonashi
+●000031●音无
+
+○000032○Damn Brat
+●000032●祖安带师
+
+○000033○Proxy
+●000033●代理人
+
+○000034○Way Too Iffy Cool Dude
+●000034●微妙的帅小伙
+
+○000035○Lolicon
+●000035●萝莉控
+
+○000036○Glasses Comrade
+●000036●眼镜之友
+
+○000037○All-Japan Mental Arithmetic Champion
+●000037●全日本珠心算记录保持者
+
+○000038○Slasher
+●000038●无差别杀人犯
+
+○000039○No-Memory Man
+●000039●没记忆的男人
+
+○000040○Onsoku
+●000040●音速
+
+○000041○Mugen
+●000041●无限
+
+○000042○Ero-Samurai
+●000042●色批武士
+
+○000043○Ero-Ero Brigade No.1
+●000043●老色批战队No.1
+
+○000044○Just Another Pervy Teenager
+●000044●只是个色批少年
+
+○000045○Yurisugly
+●000045●丑八怪由理
+
+○000046○Debussy
+●000046●Debussy
+
+○000047○CornHornDog
+●000047●美式色批狗
+
+○000048○Zeus
+●000048●宙斯
+
+○000049○Hinata Mk. 2
+●000049●日向Mk.2
+
+○000050○Dung Beetle
+●000050●屎壳郎
+
+○000051○Consumer Model Hinata
+●000051●量产型日向
+
+○000052○??
+●000052●？？
+
+○000053○"Am I getting in the way?"
+●000053●「打扰到你了吗？」
+
+○000054○nothing
+●000054●nothing
+
+○000055○nothing
+●000055●nothing
+
+○000056○nothing
+●000056●nothing
+
+○000057○nothing
+●000057●nothing
+
+○000058○nothing
+●000058●nothing
+
+○000059○Iwasawa
+●000059●岩泽
+
+○000060○"No, as long as you have something interesting to talk about, I'd love to hear it."
+●000060●「没有，如果你能发起有趣的话题的话，我还是很乐意去听的」
+
+○000061○04_岩沢の興味のある話題探し
+●000061●04_岩沢の興味のある話題探し
+
+○000062○nothing
+●000062●nothing
+
+○000063○nothing
+●000063●nothing
+
+○000064○nothing
+●000064●nothing
+
+○000065○nothing
+●000065●nothing
+
+○000066○nothing
+●000066●nothing
+
+○000067○Iwasawa
+●000067●岩泽
+
+○000068○"You really are."
+●000068●「打扰到了」
+
+○000069○nothing
+●000069●nothing
+
+○000070○nothing
+●000070●nothing
+
+○000071○nothing
+●000071●nothing
+
+○000072○nothing
+●000072●nothing
+
+○000073○nothing
+●000073●nothing
+
+○000074○nothing
+●000074●nothing
+
+○000075○She certainly didn't hold back with that reply.
+●000075●直截了当的回答。
+
+○000076○All I could do was hang my head.
+●000076●我能做的只有垂头丧气。
+
+○000077○Otonashi
+●000077●音无
+
+○000078○Damn Brat
+●000078●祖安带师
+
+○000079○Proxy
+●000079●代理人
+
+○000080○Way Too Iffy Cool Dude
+●000080●微妙的帅小伙
+
+○000081○Lolicon
+●000081●萝莉控
+
+○000082○Glasses Comrade
+●000082●眼镜之友
+
+○000083○All-Japan Mental Arithmetic Champion
+●000083●全日本珠心算记录保持者
+
+○000084○Slasher
+●000084●无差别杀人犯
+
+○000085○No-Memory Man
+●000085●没记忆的男人
+
+○000086○Onsoku
+●000086●音速
+
+○000087○Mugen
+●000087●无限
+
+○000088○Ero-Samurai
+●000088●色批武士
+
+○000089○Ero-Ero Brigade No.1
+●000089●老色批战队No.1
+
+○000090○Just Another Pervy Teenager
+●000090●只是个色批少年
+
+○000091○Yurisugly
+●000091●丑八怪由理
+
+○000092○Debussy
+●000092●Debussy
+
+○000093○CornHornDog
+●000093●美式色批狗
+
+○000094○Zeus
+●000094●宙斯
+
+○000095○Hinata Mk. 2
+●000095●日向Mk.2
+
+○000096○Dung Beetle
+●000096●屎壳郎
+
+○000097○Consumer Model Hinata
+●000097●量产型日向
+
+○000098○??
+●000098●？？
+
+○000099○"Okay, I won't come again, then..."
+●000099●「那么，我以后不会再来了…」
+
+○000100○Iwasawa
+●000100●岩泽
+
+○000101○"Hmmm, hmm hmm hmmmm..."
+●000101●「哼嗯嗯嗯～」
+
+○000102○Iwasawa had already gone back to strumming her guitar and composing her music.
+●000102●岩泽已经开始弹奏起了吉他，继续作曲了。
+
+○000103○My heart was aching...
+●000103●感觉心好痛…
+
+○000104○I wonder if this sort of pain will disappear by tomorrow morning, too...?
+●000104●这种疼痛到了明天早上会减轻吗…
+
+○000105○dummy
+●000105●dummy
+
+○000106○ep03_bg015
+●000106●ep03_bg015
+
+○000107○iw0108
+●000107●iw0108
+
+○000108○iw0109_01
+●000108●iw0109_01
+
+○000109○iw0109_08
+●000109●iw0109_08
+
+○000110○iw0309_01
+●000110●iw0309_01
+
+○000111○bg_kuro
+●000111●bg_kuro
+

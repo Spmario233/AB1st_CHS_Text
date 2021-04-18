@@ -1,0 +1,36 @@
+○000000○nothing
+●000000●nothing
+
+○000001○nothing
+●000001●nothing
+
+○000002○nothing
+●000002●nothing
+
+○000003○nothing
+●000003●nothing
+
+○000004○nothing
+●000004●nothing
+
+○000005○nothing
+●000005●nothing
+
+○000006○_sys_com_mwnd
+●000006●_sys_com_mwnd
+
+○000007○$msg_btn_watch
+●000007●$msg_btn_watch
+
+○000008○現在の@Days = 
+●000008●現在の@Days = 
+
+○000009○dummy
+●000009●dummy
+
+○000010○sys_day_num02
+●000010●sys_day_num02
+
+○000011○sys_mw01_btnpos00
+●000011●sys_mw01_btnpos00
+

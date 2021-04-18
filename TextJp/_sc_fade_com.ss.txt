@@ -1,0 +1,9 @@
+○000000○nothing
+●000000●nothing
+
+○000001○nothing
+●000001●nothing
+
+○000004○dummy
+●000004●dummy
+

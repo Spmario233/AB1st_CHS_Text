@@ -1,0 +1,147 @@
+○000000○se_gaya2
+●000000●se_gaya2
+
+○000001○As I passed by the bulletin board, I noticed a crowd forming in front of it.
+●000001●走过公告栏，发现前面已经聚集起了人山人海。
+
+○000002○The NPCs looked like they were making a fuss about something.
+●000002●NPC们好像正在吵闹的样子。
+
+○000003○I peeked through the crowd to figure out what was going on...
+●000003●我往人群里瞅了瞅，试图搞清楚状况…。
+
+○000004○nothing
+●000004●nothing
+
+○000005○nothing
+●000005●nothing
+
+○000006○nothing
+●000006●nothing
+
+○000007○nothing
+●000007●nothing
+
+○000008○nothing
+●000008●nothing
+
+○000009○Angel was tearing down the fliers that Yui had worked so hard to hang one after another, without hesitation.
+●000009●天使正一张接着一张，毫不犹豫地撕下了由依努力贴上了的传单。
+
+○000010○Schoolboy A
+●000010●男学生A
+
+○000011○"C'mon, just let it slide, pres!"
+●000011●「学生会长，就放过这次吧！」
+
+○000012○Schoolgirl A
+●000012●女学生A
+
+○000013○"Yeah, GirlDeMo's concerts are the only thing we have to look forward to, you know!?"
+●000013●「是啊，GDM的演唱会，可是我们唯一的娱乐啊！？」
+
+○000014○The NPCs were denouncing her actions.
+●000014●NPC们正在试图阻止她的行为。
+
+○000015○The NPCs were begging Angel to stop as she tore down the fliers.
+●000015●NPC们拼命地恳求着正在撕下传单的天使。
+
+○000016○I'd figured the NPCs would largely lack individuality, but I guess they can get pretty heated after all...
+●000016●我本以为NPC们都缺少个性，想不到居然还会如此的狂热啊…。
+
+○000017○If Yuri hadn't told me about them, I really might've mistaken them for real humans right after arriving in this world.
+●000017●确实，要不是之前听由理说了的话，对于刚刚来到世界的我而言，可能就会把他们当作是人类了。
+
+○000018○Schoolboy B
+●000018●男学生B
+
+○000019○"Don't take that from us!"
+●000019●「不要连这都夺走啊！」
+
+○000020○Schoolgirl B
+●000020●女学生B
+
+○000021○"Yeah!"
+●000021●「没错！」
+
+○000022○Schoolboy C
+●000022●男学生C
+
+○000023○"That's right, that's right!"
+●000023●「是啊！是啊！」
+
+○000024○The NPCs formed a ring around Angel, trapping her within, and got even more heated than before.
+●000024●NPC们为了不让天使逃走，围成了一个圆圈，甚至比之前更加狂热了。
+
+○000025○nothing
+●000025●nothing
+
+○000026○nothing
+●000026●nothing
+
+○000027○nothing
+●000027●nothing
+
+○000028○nothing
+●000028●nothing
+
+○000029○nothing
+●000029●nothing
+
+○000030○nothing
+●000030●nothing
+
+○000031○But...
+●000031●但是…。
+
+○000032○Schoolboy A
+●000032●男学生A
+
+○000033○"Wait, huh? Where'd she go?"
+●000033●「哎？她去哪了？」
+
+○000034○He sounded sort of let down.
+●000034●相当失望的声音。
+
+○000035○Glancing around, Angel had already escaped the ring they'd formed, and was leaving the scene.
+●000035●往周围一看，天使已经走从圈子里走了出去，离开了现场。
+
+○000036○Angel
+●000036●天使
+
+○000037○Kanade
+●000037●奏
+
+○000038○Schoolgirl
+●000038●女学生
+
+○000039○??
+●000039●？？
+
+○000040○"...It's almost like I'm the bad guy."
+●000040●「…就好像是坏人一样啊」
+
+○000041○She muttered as she left.
+●000041●说完之后，她已经离开了。
+
+○000042○dummy
+●000042●dummy
+
+○000043○bg_kuro
+●000043●bg_kuro
+
+○000044○ep03_bg010
+●000044●ep03_bg010
+
+○000045○m204
+●000045●m204
+
+○000046○kn0901
+●000046●kn0901
+
+○000047○kn0109
+●000047●kn0109
+
+○000048○bg_kuro
+●000048●bg_kuro
+

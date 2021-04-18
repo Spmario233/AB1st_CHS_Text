@@ -1,0 +1,15 @@
+○000000○dummy
+●000000●dummy
+
+○000001○hidechin_kyuff
+●000001●hidechin_kyuff
+
+○000002○99_ゲームメイン
+●000002●99_ゲームメイン
+
+○000003○dummy
+●000003●dummy
+
+○000004○sys_tm_war00
+●000004●sys_tm_war00
+

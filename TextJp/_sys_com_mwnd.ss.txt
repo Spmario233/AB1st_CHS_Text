@@ -1,0 +1,6 @@
+○000000○dummy
+●000000●dummy
+
+○000001○sys_mw_info00
+●000001●sys_mw_info00
+
