@@ -2,7 +2,7 @@
 ●000000●音无
 
 ○000001○Damn Brat
-●000001●祖安带师
+●000001●祖安带师 改成小逼崽子
 
 ○000002○Proxy
 ●000002●代理人
@@ -137,10 +137,10 @@
 ●000045●？？
 
 ○000046○"Where... am I...?"
-●000046●「我…在哪…」
+●000046●「这…是哪…」
 
 ○000047○Above me was an unfamiliar ceiling, and all around me the smell of antiseptic.
-●000047●头顶上是陌生的天花板，空气中充满了消毒水的味道。
+●000047●头顶是陌生的天花板，空气中充满了消毒水的味道。
 
 ○000048○se_bird
 ●000048●se_bird
@@ -161,7 +161,7 @@
 ●000053●se_window_open
 
 ○000054○I slid my legs off the bed and threw open the also pure white curtains covering up a nearby window.
-●000054●我将双腿从床上滑了下来，然后拉开了旁边的窗户上同样是纯白色的窗帘。
+●000054●我从床上滑了下来，拉开了旁边的窗户上同样是纯白色的窗帘。
 
 ○000055○For a moment I thought this was a hospital, but hearing the voices of students busy with their club activities outside, I realized it must be the school nurse's office.
 ●000055●我一开始以为这里是医院，但是听到了外面的学生进行社团活动的声音之后，才意识到这里是学校的保健室。
@@ -182,10 +182,10 @@
 ●000060●se_memory1
 
 ○000061○Back then... there's no doubt that I was stabbed straight through my heart.
-●000061●当时的话…我的心脏毫无疑问地吃到了一记突刺。
+●000061●当时…我的心脏毫无疑问地吃了一记突刺。
 
 ○000062○I can still remember the blinding pain in my chest.
-●000062●胸口的疼痛感仍然非常清晰。
+●000062●胸口仿佛还在隐隐作痛。
 
 ○000063○But now...
 ●000063●但是现在…
@@ -260,22 +260,22 @@
 ●000086●「…我还活着」
 
 ○000087○I inspected my currently bare upper body, but there wasn't a single scratch to be found on it.
-●000087●我在裸露的上半身上四处寻找着，但是找不到半点伤痕。
+●000087●我在裸露的上半身上四处找着，却找不到半点伤痕。
 
 ○000088○...Where're my clothes?
 ●000088●…我的衣服呢？
 
 ○000089○Searching around, I noticed a hamper near the bed, within which I found them neatly folded. 
-●000089●我在周围找了找，发现了一个篮子，衣服正叠的整整齐齐地放在里面。
+●000089●我在周围找了找，发现了一个篮子，衣服叠得整整齐齐地放在里面。
 
 ○000090○I started getting dressed, but when I grabbed my shirt I reflexively flung it away in horror. 
-●000090●总之我打算把衣服穿好，但是当我抓起衬衫的时候，立刻条件反射般地，带着恐惧将它扔到了一边。
+●000090●总之我打算把衣服穿上，但是当我抓起衬衫的时候，立刻条件反射般地，恐惧地把它扔到了一边。
 
 ○000091○It was completely drenched in blood.
 ●000091●上面已经沾满了血迹。
 
 ○000092○Am I on some kind of hidden camera prank show?
-●000092●难道是什么惊吓节目吗？
+●000092●这是什么惊吓节目吗？
 
 ○000093○It's all way too realistic for that, though...
 ●000093●但是这也太真实了吧…
@@ -359,16 +359,16 @@
 ●000119●（不管怎样，这也太糟糕了…）
 
 ○000120○My instincts took over before I had time to think things through.
-●000120●在我开始思考之前，本能已经行动了起来。
+●000120●在我开始思考之前，本能已经让我行动了起来。
 
 ○000121○They told me to get as far away from this place as I could, as quickly as possible.
 ●000121●必须趁早离开这个地方，走的越远越好。
 
 ○000122○Leaving the bloodstained shirt behind, I threw on my coat, stood up from the bed and made my way towards the exit.
-●000122●我扔掉了沾满血迹的衬衫，只披上了校服的外套，从床上站了起来，向出口的方向移动了过去。
+●000122●我扔掉沾满血迹的衬衫，只披上了校服的外套，从床上站了起来，往门的方向走了过去。
 
 ○000123○But before I could get there, it was opened from the outside.
-●000123●但在我到达之前，大门就从外面被打开了。
+●000123●还没走到门口，大门就从外面被打开了。
 
 ○000124○I looked at the man who had opened it.
 ●000124●我望向那个把门打开的男性。
@@ -410,7 +410,7 @@
 ●000138●这家伙想干啥？
 
 ○000139○He was holding a lethal weapon the likes of which I'd only ever seen in video games.
-●000139●他的手里那个看起来能一刀秒人的武器，只有在电子游戏里才能见得到吧，
+●000139●他手里那个看起来能一刀秒人的武器，只有在电子游戏里才见得到吧，
 
 ○000140○Assuming it's real, that thing's in flagrant violation of Japan's Swords and Firearms Control Law.
 ●000140●如果这玩意儿是真的，已经违反了日本的刀枪管制法吧。
@@ -419,13 +419,13 @@
 ●000141●刃尖上散发着的钝重的光芒，证明了这个东西根本不是假的。
 
 ○000142○It looked pretty darn heavy, too. I could see the handle pressing into the shoulder he was resting it on.
-●000142●从他肩膀上被压出来的凹陷来看，好像相当沉重的样子。
+●000142●从他肩膀上被压出来的凹陷来看，好像相当沉的样子。
 
 ○000143○He scowled, and stalked towards me.
 ●000143●他狠狠地瞪着我，然后向我走了过来。
 
 ○000144○I have to say something, or he's going to murder me.
-●000144●得赶紧说点什么才行，要不然我人就没了。
+●000144●得赶紧说点什么，要不然我人就没了。
 
 ○000145○Otonashi
 ●000145●音无
@@ -584,7 +584,7 @@
 ●000196●？？
 
 ○000197○"Huh? A girl with a rifle told me..."
-●000197●「哈？是一个拿着步枪的女生告诉我的…」
+●000197●「诶？是一个拿着步枪的女生告诉我的…」
 
 ○000198○Noda
 ●000198●野田
@@ -620,7 +620,7 @@
 ●000208●nothing
 
 ○000209○He readied his weapon and loomed over me.
-●000209●他准备好了自己的武器，向我逼近了过来。
+●000209●他用那个武器对着我，朝我逼了过来。
 
 ○000210○Otonashi
 ●000210●音无
@@ -791,10 +791,10 @@
 ●000265●？？
 
 ○000266○"O-Oh, right, ha ha ha, that's a good one! A joke for a world you can't die in, ha ha, you're a real kidder!"
-●000266●「啊，对了，哈哈哈，这笑话真好笑！在这么一个死不掉的世界里，哈哈，您会说话就多说点！」
+●000266●「啊啊，是那个对吧，哈哈哈，这是死不掉的世界里的笑话对吧，哈哈，您会说话就多说点！」
 
 ○000267○I said anything and everything I could think of that might avert the imminent crisis. 
-●000267●我将自己此刻能够想到的语言全都吐了出来，试图扭转当前的局面。
+●000267●我将自己此刻能够想到的话全都吐了出来，试图挽回现在的局面。
 
 ○000268○However, the man was not moved.
 ●000268●但是，这个男人并没有改变心意。
@@ -830,7 +830,7 @@
 ●000278●？？
 
 ○000279○"Die a hundred times."
-●000279●「去死个一百次吧」
+●000279●「去死个一百回吧」
 
 ○000280○nothing
 ●000280●nothing
@@ -881,7 +881,7 @@
 ●000295●？？
 
 ○000296○"We'll dance again next time you try anything funny."
-●000296●「等你下一次再整什么花活的时候再说吧」
+●000296●「再搞这一出就让你再死一百回」
 
 ○000297○se_blood
 ●000297●se_blood
@@ -983,7 +983,7 @@
 ●000329●？？
 
 ○000330○"You tryin' to kill me or something!?!"
-●000330●「你是想杀了我吗！？！」
+●000330●「你想杀了我吗！？！」
 
 ○000331○Such were my first words the moment I woke up.
 ●000331●这是我醒来之后的第一句话。
@@ -1127,7 +1127,7 @@
 ●000377●？？
 
 ○000378○"Sure winner of a joke in this world, my ass... What kind of torture is this...?"
-●000378●「这个世界的笑话啊…这种拷问到底是怎么回事啊…」
+●000378●「这算什么这个世界的笑话啊…这是什么折磨吗…」
 
 ○000379○Otonashi
 ●000379●音无
@@ -1196,10 +1196,10 @@
 ●000400●？？
 
 ○000401○"All the pain of dying without any of the actual death...? This totally sucks... Dying for real would be way better than this..."
-●000401●「有着死亡的疼痛但并不会真的死掉…？再糟糕不过了…还是真的死掉比较好…」
+●000401●「疼得要死又死不掉…？糟透了…还不如真死了…」
 
 ○000402○The sooner I say goodbye to this place, the better.
-●000402●总之还是尽早离开这个地方比较好。
+●000402●总之还是趁早离开这个地方比较好。
 
 ○000403○白
 ●000403●白
@@ -1256,10 +1256,10 @@
 ●000420●？？
 
 ○000421○"You'll die for real, you know?"
-●000421●「这样的话真的会死哦？」
+●000421●「这样的话你会真正意义上地死掉哦？」
 
 ○000422○Her expression back then... I can't imagine she was lying, at least about that part.
-●000422●她当时的话语，还有当时的表情，至少这部分绝对不是在说谎。
+●000422●她当时的话，当时的表情，看起来至少这部分绝对不是在说谎。
 
 ○000423○That's how I can free myself from this world.
 ●000423●这样就能从这个世界里解放出来了吧。
@@ -1340,10 +1340,10 @@
 ●000448●好嘞！我打起了精神，离开了保健室。
 
 ○000449○Where should I go from here?
-●000449●下一步往哪去呢？
+●000449●接下来往哪走呢？
 
 ○000450○First thing's first: I need an adult. I set out in search of a teacher.
-●000450●首先：我需要找到大人们。于是我开始寻找起了教师们。
+●000450●首先，我需要找到大人。于是我开始寻找起了教师们。
 
 ○000451○Otonashi
 ●000451●音无
@@ -1412,7 +1412,7 @@
 ●000472●？？
 
 ○000473○"There it is..."
-●000473●「是这里了…」
+●000473●「到了…」
 
 ○000474○I looked up, and found 'Principal's Office' written on a plate above a door.
 ●000474●我向上看去，大门上「校长室」的牌子清晰可见。
@@ -1484,7 +1484,7 @@
 ●000496●？？
 
 ○000497○"Since I'm basically transferring in, talking with the Principal's probably the easiest place to start..."
-●000497●「既然是突然入学的，先和校长进行一些对话比较好…
+●000497●「既然是突然入学的，先和校长说一下比较好…
 
 ○000498○se_trapattack
 ●000498●se_trapattack
@@ -1682,7 +1682,7 @@
 ●000562●男性A
 
 ○000563○"All right, how about this... the 'No-You're-Gonna-Die Battlefront'."
-●000563●「那么，这个怎样…『该死的人是你战线』」
+●000563●「那么，这个怎么样…『该死的人是你战线』」
 
 ○000564○An apathetic sounding voice.
 ●000564●一个沙哑的嗓音。
@@ -1727,7 +1727,7 @@
 ●000577●男性A
 
 ○000578○"No, it's about Angel, of course."
-●000578●「不对，这个指的是天使」
+●000578●「不不，这个当然说的是天使」
 
 ○000579○nothing
 ●000579●nothing
@@ -1811,7 +1811,7 @@
 ●000605●？？
 
 ○000606○"Hey, how about 'Flashback Battlefront'? Cool, right?"
-●000606●「那么，『走马灯战线』怎么样？听起来很酷吧？」
+●000606●「那，『走马灯战线』怎么样？听起来很酷吧？」
 
 ○000607○nothing
 ●000607●nothing
@@ -1922,7 +1922,7 @@
 ●000642●？？
 
 ○000643○"...Absolute despair? Seriously?"
-●000643●「…绝对绝望？你是认真的？」
+●000643●「…已经绝对绝望了吗？」
 
 ○000644○It looked like there was another woman in the room.
 ●000644●房间里好像还有另一位女性。
@@ -2240,7 +2240,7 @@
 ●000748●？？
 
 ○000749○"Eh? Aaah, you're up? That's right, I asked him to think about it, too."
-●000749●「诶？啊，你醒了吗？对了，之前我也让他去思考了来着。」
+●000749●「诶？啊，你醒了吗？对了，之前我也让他去想了来着。」
 
 ○000750○nothing
 ●000750●nothing
@@ -2258,7 +2258,7 @@
 ●000754●nothing
 
 ○000755○She walked over and brought her face so close to mine I could feel her breath.
-●000755●她向这边走了过来，贴近了我的脸，以至于我可以清晰地感觉到她的呼吸。
+●000755●她向这边走了过来，贴近了我的脸，我可以清晰地感觉到她的呼吸。
 
 ○000756○nothing
 ●000756●nothing
@@ -2450,7 +2450,7 @@
 ●000818●？？
 
 ○000819○"Then, 'Do-Whatever-The-Hell-You-Want Battlefront'."
-●000819●「那么，『随你们怎么整都成』战线」
+●000819●「那么，『随你们怎么整都成战线』」
 
 ○000820○nothing
 ●000820●nothing
@@ -2468,7 +2468,7 @@
 ●000824●nothing
 
 ○000825○Struck by their arbitrary, one-sided behavior, I spit out an answer.
-●000825●对方的单方面行为让我很恼火，于是我吐出了这么一个答案。
+●000825●对方的单方面行为让我很恼火，于是我这么答道。
 
 ○000826○se_woodensword
 ●000826●se_woodensword
@@ -2585,7 +2585,7 @@
 ●000863●男性E
 
 ○000864○"Disappearing, you said? Even though right now, you still exist here?"
-●000864●「…消失，是吗？就算你现在依然在这里好好地存在着？」
+●000864●「…消失，是吗？就算你现在依然好好地存在于此？」
 
 ○000865○nothing
 ●000865●nothing
@@ -2603,7 +2603,7 @@
 ●000869●nothing
 
 ○000870○An intellectual-looking guy wearing glasses spoke up.
-●000870●一个看起来相当智慧的眼镜男这么说道。
+●000870●一个看起来相当聪明的眼镜男这么说道。
 
 ○000871○Otonashi
 ●000871●音无
@@ -2672,7 +2672,7 @@
 ●000892●？？
 
 ○000893○"Yeah."
-●000893●「嗯」
+●000893●「是啊」
 
 ○000894○nothing
 ●000894●nothing
@@ -2696,7 +2696,7 @@
 ●000900●？？
 
 ○000901○"I already explained all that to him."
-●000901●「我已经全部和他解释过了」
+●000901●「我已经全都和他解释过了」
 
 ○000902○nothing
 ●000902●nothing
@@ -2714,7 +2714,7 @@
 ●000906●男性E
 
 ○000907○"You want to be erased without putting up a fight?"
-●000907●「你想不战而败地被消除掉吗？」
+●000907●「你想毫不反抗地被消除掉吗？」
 
 ○000908○Otonashi
 ●000908●音无
@@ -2801,7 +2801,7 @@
 ●000935●男性E
 
 ○000936○"You'll turn into a water flea without even putting up a fight?"
-●000936●「你想不战而败地变成水蚤吗？」
+●000936●「你想毫不反抗地变成水蚤吗？」
 
 ○000937○Otonashi
 ●000937●音无
@@ -2873,7 +2873,7 @@
 ●000959●「没错」
 
 ○000960○I realized what he'd said after I'd already answered.
-●000960●等我说完之后，我才意识到他刚才说的话。
+●000960●说完之后，我才意识到他刚才说的话。
 
 ○000961○Otonashi
 ●000961●音无
@@ -2999,10 +2999,10 @@
 ●001001●感到惊讶
 
 ○001002○Question his focus on seaside creatures
-●001002●为什么都是海岸上的生物
+●001002●为什么都是海岸上的生物啊？
 
 ○001003○Get sidetracked asking about parasites
-●001003●为什么都是寄生生物
+●001003●为什么都是寄生生物啊？
 
 ○001004○selbtn : 
 ●001004●selbtn : 
@@ -3161,7 +3161,7 @@
 ●001055●男性E
 
 ○001056○"There are edible varieties. It's in the dictionary, so it must be true."
-●001056●「有可以食用的物种的。书上是这么说的，肯定是真的」
+●001056●「有可以食用的物种的。字典上是这么说的，肯定是真的」
 
 ○001057○nothing
 ●001057●nothing
@@ -3212,7 +3212,7 @@
 ●001072●？？
 
 ○001073○"C'mon, everyone. You're making me feel bad for him, driving him away like that. My... err, wait, what are we called now again?"
-●001073●「嘛，大家注意点，别让他可怜巴巴地被吓跑了。我们…呃，那个，现在是叫什么来着？」
+●001073●「嘛，大家注意点，怪可怜的别把他给吓跑了。我们…呃，那个，现在是叫什么来着？」
 
 ○001074○nothing
 ●001074●nothing
@@ -3338,7 +3338,7 @@
 ●001114●？？
 
 ○001115○"No, hold on, why are you only talking about seaside animals here?!"
-●001115●「喂喂，为什么我们一直在讨论海边的生物啊？！」
+●001115●「喂喂，为什么都是海边的生物啊？！」
 
 ○001116○nothing
 ●001116●nothing
@@ -3428,7 +3428,7 @@
 ●001144●？？
 
 ○001145○"So, a dung beetle, or an ant, or a cicada, those kinds of creatures are all on the table too?"
-●001145●「所以，屎壳郎、蚂蚁、或者知了，这些生物都是可以搬上餐桌的吗？」
+●001145●「所以，屎壳郎、蚂蚁，或者知了，这些生物都是可以搬上餐桌的吗？」
 
 ○001146○nothing
 ●001146●nothing
@@ -3620,7 +3620,7 @@
 ●001208●？？
 
 ○001209○"C'mon, everyone. You're making me feel bad for him, driving him away like that. My... err, wait, what are we called now again?"
-●001209●「嘛，大家注意点，别让他可怜巴巴地被吓跑了。我们…呃，那个，现在是叫什么来着？」
+●001209●「嘛，大家注意点，怪可怜的别把他给吓跑了。我们…呃，那个，现在是叫什么来着？」
 
 ○001210○nothing
 ●001210●nothing
@@ -3785,7 +3785,7 @@
 ●001263●nothing
 
 ○001264○The guy with the glasses furrowed his brow and shivered.
-●001264●戴着眼镜的男子皱起了眉头，一幅动摇着的样子。
+●001264●戴着眼镜的男子皱起了眉头，一副动摇着的样子。
 
 ○001265○nothing
 ●001265●nothing
@@ -3806,7 +3806,7 @@
 ●001270●男性E
 
 ○001271○"Normally this is the part where Fujimaki-san would say something like, 'Go on, get the hell outta here. Go be a good little Angel yes-man and pass on,' by the usual pattern..."
-●001271●「正常情况下，按照他一般的习惯，藤卷同学会在这里说出『那么，赶紧滚蛋吧。去成为天使的俘虏，然后立地成佛吧』之类的话…」
+●001271●「正常情况下，藤卷同学会在这里说出『那么，赶紧滚蛋吧。去成为天使的俘虏，然后立地成佛吧』之类的话…」
 
 ○001272○nothing
 ●001272●nothing
@@ -3842,7 +3842,7 @@
 ●001282●男性E
 
 ○001283○"As far as I'm aware, to the contrary, you absolutely shouldn't eat any of them..."
-●001283●「根据我所了解的知识…倒不如说，根本不应该有想去吃它们的想法…」
+●001283●「根据我了解的知识…倒不如说，根本不应该有想去吃它们的想法…」
 
 ○001284○nothing
 ●001284●nothing
@@ -3857,7 +3857,7 @@
 ●001287●男性A
 
 ○001288○"Well dammit, that completely throws off the script here, doesn't it!?"
-●001288●「妈的，也就是说，没法在这一点上说服他了是吧！？」
+●001288●「也就是说，没法在这一点上说服他了是吧！？」
 
 ○001289○nothing
 ●001289●nothing
@@ -3872,7 +3872,7 @@
 ●001292●男性D
 
 ○001293○"He's right! What'll we do, Takamatsu-kun!?"
-●001293●「是啊！该怎么办呢，高松同学！？」
+●001293●「是啊！怎么办呢，高松同学！？」
 
 ○001294○My tricky line of questioning seemed to have pushed the glasses guy into something of a corner.
 ●001294●我的发言似乎将那个眼镜男逼到了死角。
@@ -3956,7 +3956,7 @@
 ●001320●男性E
 
 ○001321○"Indeed, once more, from the top! The stage is yours, Fujimaki-san."
-●001321●「那么，重新开始吧！拜托了，藤卷同学！」
+●001321●「嗯，重新开始吧！拜托了，藤卷同学！」
 
 ○001322○They turned around to face me again.
 ●001322●他们再次转过身来面向了我。
@@ -4109,7 +4109,7 @@
 ●001371●男性A
 
 ○001372○"Nailed it..."
-●001372●「决定了…」
+●001372●「成功了…」
 
 ○001373○What on Earth are these people trying to accomplish here?
 ●001373●这些人到底是想要达成什么啊？
@@ -4139,7 +4139,7 @@
 ●001381●？？
 
 ○001382○"C'mon, everyone. You're making me feel bad for him, driving him away like that. My... err, wait, what are we called now again?"
-●001382●「嘛，大家注意点，别让他可怜巴巴地被吓跑了。我们…呃，那个，现在是叫什么来着？」
+●001382●「嘛，大家注意点，怪可怜的别把他给吓跑了。我们…呃，那个，现在是叫什么来着？」
 
 ○001383○nothing
 ●001383●nothing
@@ -4181,7 +4181,7 @@
 ●001395●？？
 
 ○001396○"Right, my Tapeworm Battlefront isn't... Wait, the flow of this conversation's way too messy!!"
-●001396●「没错，我们绦虫战线…去你丫的！！」
+●001396●「没错，我们绦虫战线…去你丫的这也太恶心了吧！！」
 
 ○001397○nothing
 ●001397●nothing
@@ -4271,7 +4271,7 @@
 ●001425●？？
 
 ○001426○"He'll be safe as long as he's here in the Afterlife Battlefront's headquarters, so knowing that he must've come here to take shelter."
-●001426●「只要在死后世界战线的作战总部就能保证安全，所以他一定是为了寻求庇护才来到这里的」
+●001426●「只要在死后世界战线的作战总部就能保证安全，所以他肯定是为了寻求庇护才来这里的」
 
 ○001427○Otonashi
 ●001427●音无
@@ -4427,7 +4427,7 @@
 ●001477●？？
 
 ○001478○"I mean, you can't prove it, can you? Did you send someone to go check or something!?"
-●001478●「我的意思是，这种事情没办法证明的吧？你们有派人去确认过这种事情吗！？」
+●001478●「不是，这种事情没法证明的吧？你们有人确认过吗！？」
 
 ○001479○nothing
 ●001479●nothing
@@ -4451,7 +4451,7 @@
 ●001485●？？
 
 ○001486○"We can't check, no. But in Buddhist theology at least humans aren't guaranteed to be reincarnated as humans."
-●001486●「我们没有确认的方法，但是按照佛教的理论，至少人类不只会转生成人类」
+●001486●「这个确实确认不了。但是按照佛教的说法，至少人类不只会转生成人类」
 
 ○001487○nothing
 ●001487●nothing
@@ -4643,7 +4643,7 @@
 ●001549●？？
 
 ○001550○"Stop talking about gross stuff, dammit!"
-●001550●「够了，不要再说这种恶心的东西了——！」
+●001550●「够了！不要再提这么恶心的东西了——！」
 
 ○001551○se_kick
 ●001551●se_kick
@@ -4751,7 +4751,7 @@
 ●001585●？？
 
 ○001586○"In the world we used to live in, death came randomly and indiscriminately. There was no resisting it."
-●001586●「在我们曾经生活过的世界里，人的死亡是会无差别地随机到来的，完全没有抵抗的余地」
+●001586●「在我们曾经生活过的世界里，人的死亡是会无差别地、不可避免地到来的，对此人类完全没有抵抗的余地」
 
 ○001587○nothing
 ●001587●nothing
@@ -4877,7 +4877,7 @@
 ●001627●？？
 
 ○001628○"But wait... what comes next? What are you people trying to accomplish?"
-●001628●「等一下…在那之后，又会怎么样呢？你们的目的到底是什么…？」
+●001628●「等一下…在那之后呢？你们到底想干什么…？」
 
 ○001629○nothing
 ●001629●nothing
@@ -4973,7 +4973,7 @@
 ●001659●？？
 
 ○001660○"Is something like that... even possible...?"
-●001660●「这种事情…真的可能吗…」
+●001660●「这种事…真的有可能吗…」
 
 ○001661○nothing
 ●001661●nothing
@@ -5000,7 +5000,7 @@
 ●001668●？？
 
 ○001669○"It is, in a manner of speaking. We're at least antagonizing their divine servant, Angel."
-●001669●「至少，我们能够和天使，和神的使者进行对抗」
+●001669●「至少，我们能和天使，和神的使者进行对抗」
 
 ○001670○I shiver, thinking back to that glowing blade from last night.
 ●001670●一想到昨天晚上的光剑，我仍然战栗不已。
@@ -5072,7 +5072,7 @@
 ●001692●？？
 
 ○001693○(That unnatural power... She really must not be human... Is that what angels are like...?)
-●001693●（那种超自然的能力…绝对不是人类力所能及的…这就是天使吗…？）
+●001693●（那种超自然的能力…绝对不是人类能有的…这就是天使吗…？）
 
 ○001694○nothing
 ●001694●nothing
@@ -5099,7 +5099,7 @@
 ●001701●？？
 
 ○001702○"No helping it if you're confused; you've only just arrived after all. Try to be more flexible. Accept things as they are, and roll with it."
-●001702●「感到迷惑也是没有办法的事情，毕竟你才刚刚来到这里。尽量变得灵活一点吧。接受这一切，然后顺应其中吧」
+●001702●「毕竟你才刚来，理解不了很正常。多适应适应，然后接受现实吧」
 
 ○001703○Otonashi
 ●001703●音无
@@ -5168,7 +5168,7 @@
 ●001724●？？
 
 ○001725○"And then fight, right...? Against Angel."
-●001725●「然后去战斗，对吧…？和天使战斗」
+●001725●「然后…去战斗，对吧…？和天使」
 
 ○001726○nothing
 ●001726●nothing
@@ -5195,7 +5195,7 @@
 ●001733●？？
 
 ○001734○"That's right. Together, with us."
-●001734●「没错。和我们，一起」
+●001734●「没错。和我们一起」
 
 ○001735○bs3_
 ●001735●bs3_
@@ -5219,13 +5219,13 @@
 ●001741●眼前的女生向我伸出了手。
 
 ○001742○I hesitated.
-●001742●我感到了犹豫。
+●001742●我有点犹豫。
 
 ○001743○se_wooddoor_open
 ●001743●se_wooddoor_open
 
 ○001744○And at that very moment, I heard the door open behind me.
-●001744●此时此刻，身后的门发出了被打开的声音。
+●001744●就在这时，背后传来了开门声。
 
 ○001745○nothing
 ●001745●nothing
@@ -5309,7 +5309,7 @@
 ●001773●哗啦！！
 
 ○001774○He vanished an instant later.
-●001774●很快他便消失了。
+●001774●一瞬间他就消失了。
 
 ○001775○$$ef_trap_rot_eve
 ●001775●$$ef_trap_rot_eve
@@ -5348,7 +5348,7 @@
 ●001786●男性A
 
 ○001787○"Can't believe he'd get caught by a trap he set up himself..."
-●001787●「想不到他居然被自己设置的陷阱撞飞了…」
+●001787●「居然中了自己设置的陷阱…」
 
 ○001788○se_shiina
 ●001788●se_shiina
@@ -5468,13 +5468,13 @@
 ●001826●？？
 
 ○001827○"Here aside, there's nowhere in this world where you can be safe to speak freely."
-●001827●「除了这里以外，这个世界上已经没有其他的能够安全而自由地交谈的地方了」
+●001827●「除了这里以外，这个世界上已经没有其他能够安全交谈的地方了」
 
 ○001828○Her expression told me that I'd always be welcome here.
-●001828●她的表情告诉我，这里随时欢迎我的光临。
+●001828●她的表情告诉我，这里随时欢迎我的到来。
 
 ○001829○I still couldn't bring myself to give her an answer.
-●001829●我仍然无法对她做出回答。
+●001829●我目前仍然无法回答她。
 
 ○001830○Otonashi
 ●001830●音无
@@ -5600,7 +5600,7 @@
 ●001870●我回想起了昨天被刺穿心脏的剧痛。
 
 ○001871○I'd rather not feel that a second time, thank you very much.
-●001871●拜她所赐，我可不想再经历一遍这种事情了。
+●001871●我可不想再经历一遍这种事情了。
 
 ○001872○nothing
 ●001872●nothing
@@ -5687,7 +5687,7 @@
 ●001899●「呃…」
 
 ○001900○I guess I have to decide right here, right now...
-●001900●也就是说要在这里立刻做出决定了…
+●001900●看来得在这里立刻做出决定了…
 
 ○001901○Join them
 ●001901●加入他们
@@ -5834,7 +5834,7 @@
 ●001948●？？
 
 ○001949○"I don't really mind if I get eaten after that..."
-●001949●「就算被吃掉也不要紧…」
+●001949●「就算被吃掉也无所谓…」
 
 ○001950○nothing
 ●001950●nothing
@@ -5888,7 +5888,7 @@
 ●001966●？？
 
 ○001967○"Are you seriously okay with a next life like that!!?"
-●001967●「这样的来生对你而言真的没问题吗！！？」
+●001967●「这样的来生你也能接受吗！！？」
 
 ○001968○nothing
 ●001968●nothing
@@ -6110,7 +6110,7 @@
 ●002040●？？
 
 ○002041○"I don't really mind if I get eaten after that..."
-●002041●「就算被吃掉也不要紧…」
+●002041●「就算被吃掉也无所谓…」
 
 ○002042○nothing
 ●002042●nothing
@@ -6164,7 +6164,7 @@
 ●002058●？？
 
 ○002059○"Are you seriously okay with a next life like that!!?"
-●002059●「这样的来生对你而言真的没问题吗！！？」
+●002059●「这样的来生你也能接受吗！！？」
 
 ○002060○nothing
 ●002060●nothing
@@ -6386,7 +6386,7 @@
 ●002132●？？
 
 ○002133○"I don't really mind if I get eaten after that..."
-●002133●「就算被吃掉也不要紧…」 
+●002133●「就算被吃掉也无所谓…」 
 
 ○002134○nothing
 ●002134●nothing
@@ -6440,7 +6440,7 @@
 ●002150●？？
 
 ○002151○"Are you seriously okay with a next life like that!!?"
-●002151●「这样的来生对你而言真的没问题吗！！？」
+●002151●「这样的来生你也能接受吗！！？」
 
 ○002152○nothing
 ●002152●nothing
@@ -6524,7 +6524,7 @@
 ●002178●？？
 
 ○002179○"I can't remember anything, so who knows what kind of tapeworm-grade boring life I had before anyhow."
-●002179●「我现在什么都想不起来，也许生前的生活比知了还要枯燥。」
+●002179●「我现在什么都想不起来，也许生前的生活比绦虫还要枯燥。」
 
 ○002180○nothing
 ●002180●nothing
@@ -6647,7 +6647,7 @@
 ●002219●？？
 
 ○002220○"Oh, is that all?"
-●002220●「啊，是吗？」
+●002220●「啊，这样吗」
 
 ○002221○nothing
 ●002221●nothing
@@ -6788,7 +6788,7 @@
 ●002266●？？
 
 ○002267○"Ten minutes...?"
-●002267●「十分钟…？」
+●002267●「十分钟吗…」
 
 ○002268○nothing
 ●002268●nothing
@@ -6884,7 +6884,7 @@
 ●002298●？？
 
 ○002299○"That so... I'll think about it for a half hour, then."
-●002299●「也就是说…我有半个小时的思考时间」
+●002299●「这样…那我花三十分钟考虑考虑」
 
 ○002300○nothing
 ●002300●nothing
@@ -6905,7 +6905,7 @@
 ●002305●nothing
 
 ○002306○I said that and all, but really I have no clue whether my memory will return in thirty minutes or not.
-●002306●话是这么说，但是我的记忆真的能在三十分钟之后恢复吗？
+●002306●话是这么说，但是我的记忆真的能在三十分钟之内恢复吗？
 
 ○002307○nothing
 ●002307●nothing
@@ -6953,7 +6953,7 @@
 ●002321●nothing
 
 ○002322○Making a 'hmmmmm' noise the entire time, I thought about it for a solid thirty minutes.
-●002322●我全程发出着「唔嗯嗯嗯」的声音，思考了整整三十分钟。
+●002322●我全程发着「唔嗯嗯嗯」的声音，思考了整整三十分钟。
 
 ○002323○nothing
 ●002323●nothing
@@ -6983,7 +6983,7 @@
 ●002331●selbtn : 
 
 ○002332○Since my memories didn't come back and all, I didn't change my mind in the end.
-●002332●由于我的记忆还没有恢复，因此我还是没有改变自己的想法。
+●002332●我的记忆还是没有恢复，所以我没有改变自己的想法。
 
 ○002333○Otonashi
 ●002333●音无
@@ -7157,7 +7157,7 @@
 ●002389●？？
 
 ○002390○"You, do you have the slightest clue how important a decision you're making right now? Do you have any self awareness!?"
-●002390●「你知道这是一个多么重要的决定吗？你有这个自知之明吗！？」
+●002390●「你知道这个决定有多重要吗？你有点自知之明吗！？」
 
 ○002391○Otonashi
 ●002391●音无
@@ -7310,7 +7310,7 @@
 ●002442●nothing
 
 ○002443○Everyone there was staring at me with a weird look in their eyes, but I didn't pay them any mind. I was in the right.
-●002443●所有人都用异样的眼神看着我，但我并没有在意。我是正确的。
+●002443●在场的所有人都用异样的眼神看着我，但我并没有在意。我是正确的。
 
 ○002444○se_wooddoor_open
 ●002444●se_wooddoor_open
@@ -7385,10 +7385,10 @@
 ●002467●？？
 
 ○002468○"Thanks for everything! Smell you later!"
-●002468●「感谢照顾！拜拜您嘞！」
+●002468●「感谢照顾！拜拜了您呐！」
 
 ○002469○I left the room with a spring in my step.
-●002469●我以飒爽的脚步离开了房间。
+●002469●我飒爽地离开了房间。
 
 ○002470○Yuri
 ●002470●由理
@@ -7403,10 +7403,10 @@
 ●002473●「诶诶诶诶！！！！」
 
 ○002474○I could hear quite the commotion behind me, but I ignored it and took my leave.
-●002474●虽然能够听到喊声，但我根本没有在意，还是离开了这里。
+●002474●虽然听到了叫声，但我根本没有在意，离开了这里。
 
 ○002475○I set out in search of that self-proclaimed student council president.
-●002475●我开始寻找起了自称是学生会长的女生。
+●002475●我开始寻找起了那个自称是学生会长的女生。
 
 ○002476○...However.
 ●002476●…但是。
@@ -7481,22 +7481,22 @@
 ●002499●（这学校也太大了吧！）
 
 ○002500○The hallways were long, and the classrooms seemed to stretch on forever.
-●002500●走廊长的离谱，教室也连绵不绝。
+●002500●走廊长得离谱，教室也连绵不绝。
 
 ○002501○se_chime
 ●002501●se_chime
 
 ○002502○A chime rang. It looked like break time had just begun.
-●002502●铃声响了。看来是到了休息时间了。
+●002502●铃声响了。看来到休息时间了。
 
 ○002503○I poked my head into a nearby classroom and asked a couple students about her, eventually learning which class she was in.
-●002503●我钻进了最近的一个教室，打听了好几个学生，知道了她所在的班级。
+●002503●我钻进了最近的一个教室，打听了好几个学生，得知了她所在的班级。
 
 ○002504○I then headed off in that class's direction.
-●002504●然后我前往了这个方向。
+●002504●我朝着那里走了过去。
 
 ○002505○Entering her classroom, I found Angel seated in the back row by the windows. I walked over and stood next to her.
-●002505●进入教室之后，天使就坐在后排靠窗的位置上。我走了过去，坐到了她的身旁。
+●002505●进入了教室。天使就坐在后排靠窗的位置上，我走了过去，站在她旁边。
 
 ○002506○nothing
 ●002506●nothing
@@ -7514,7 +7514,7 @@
 ●002510●nothing
 
 ○002511○Even after seeing my face, she stayed calm and collected.
-●002511●尽管看到了我的脸，但她依然保持着沉着冷静。
+●002511●尽管看到了我的脸，她依然保持着沉着冷静。
 
 ○002512○nothing
 ●002512●nothing
@@ -7613,7 +7613,7 @@
 ●002543●？？
 
 ○002544○"Where is my class, then?"
-●002544●「那么我的班级在哪里呢？」
+●002544●「那，我是哪个班的呢？」
 
 ○002545○nothing
 ●002545●nothing
@@ -7643,7 +7643,7 @@
 ●002553●？？
 
 ○002554○"Your class is 3-A."
-●002554●「你的班级在高三A班」
+●002554●「高三A班」
 
 ○002555○Otonashi
 ●002555●音无
@@ -7712,7 +7712,7 @@
 ●002576●？？
 
 ○002577○"They have classes all the way to S, but I still ended up in the first one, huh...?"
-●002577●「他们全都在S班，但我却在第一个班级吗…？」
+●002577●「他们全都在S班，我却在第一个班级吗…？」
 
 ○002578○nothing
 ●002578●nothing
@@ -7742,7 +7742,7 @@
 ●002586●？？
 
 ○002587○"It's nice to be first, isn't it?"
-●002587●「在第一个班级，不也很不错吗？」
+●002587●「在第一个班级，不也挺好吗？」
 
 ○002588○Otonashi
 ●002588●音无
@@ -7811,7 +7811,7 @@
 ●002609●？？
 
 ○002610○"I see... So there's a desk there for me...?"
-●002610●「这样啊…所以那里会有我的座位吗…？」
+●002610●「这样啊…那儿会有我的座位吗…？」
 
 ○002611○nothing
 ●002611●nothing
@@ -7841,10 +7841,10 @@
 ●002619●？？
 
 ○002620○"There is. But first, you should change out of that beat up uniform."
-●002620●「嗯，但首先，最好把身上的破校服换掉」
+●002620●「有啊。但首先，你最好把身上的破校服换掉」
 
 ○002621○Now that she mentioned it, that crazy guy from earlier had torn it to shreds.
-●002621●经她一提我才发现，身上的校服早就被那个家伙撕成碎片了。
+●002621●她一说我才发现，身上的校服早就被那个家伙撕成碎片了。
 
 ○002622○Otonashi
 ●002622●音无
@@ -7913,7 +7913,7 @@
 ●002643●？？
 
 ○002644○"Where can I get a new one?"
-●002644●「在哪里可以找到新的校服呢？」
+●002644●「哪里有新的校服呢？」
 
 ○002645○nothing
 ●002645●nothing
@@ -7943,7 +7943,7 @@
 ●002653●？？
 
 ○002654○"Wait here. I'll go get one for you."
-●002654●「稍等一下。我会帮你解决的」
+●002654●「在这里稍等一下。我这就去拿一件来」
 
 ○002655○Otonashi
 ●002655●音无
@@ -8045,13 +8045,13 @@
 ●002687●？？
 
 ○002688○"Here."
-●002688●「这里」
+●002688●「给你」
 
 ○002689○She handed me a fresh, new school uniform, sealed in a plastic bag as if it just came from the dry cleaners.
-●002689●她将一套装在塑料袋里的崭新的校服递了过来，就好像是刚从干洗机里掏出来的一样。
+●002689●递过来的是一套装在塑料袋里的崭新的校服，干净得就像是刚从干洗机里掏出来的一样。
 
 ○002690○I took it from her and went to change in a nearby toilet stall.
-●002690●我从她手中接过了校服，在最近的洗手间中穿上了它。
+●002690●我从她手中接过了校服，去洗手间穿上了它。
 
 ○002691○nothing
 ●002691●nothing
@@ -8168,7 +8168,7 @@
 ●002728●？？
 
 ○002729○"Yeah... thanks..."
-●002729●「嗯…谢谢…」
+●002729●「嗯…麻烦你了…」
 
 ○002730○nothing
 ●002730●nothing
@@ -8228,7 +8228,7 @@
 ●002748●她停了下来。
 
 ○002749○It was so sudden I almost walked right into her, barely stopping at the last second, albeit not especially gracefully.
-●002749●突然的停顿导致我差点撞到了她的身上。幸好刹车及时，没有真的撞上。
+●002749●由于她停得过于突然，我差点撞到她身上。幸好刹车及时，没有真的撞上。
 
 ○002750○nothing
 ●002750●nothing
@@ -8330,7 +8330,7 @@
 ●002782●？？
 
 ○002783○"But I don't have any textbooks, or notebooks, or even a pencil."
-●002783●「但是我没有课本，也没有笔记，甚至连笔都没有」
+●002783●「但是我没有课本，没有笔记，甚至连文具都没有啊」
 
 ○002784○nothing
 ●002784●nothing
@@ -8462,7 +8462,7 @@
 ●002826●？？
 
 ○002827○"Are you okay?"
-●002827●「可以了吗？」
+●002827●「怎么了吗？」
 
 ○002828○Otonashi
 ●002828●音无
@@ -8537,7 +8537,7 @@
 ●002851●这是最后一次后悔的机会了…
 
 ○002852○I'm okay
-●002852●没问题
+●002852●这样就好
 
 ○002853○Reconsider
 ●002853●再考虑考虑
@@ -8546,10 +8546,10 @@
 ●002854●selbtn : 
 
 ○002855○Should I go back to those people after all?
-●002855●该不该回到他们那边呢？
+●002855●果然，我还是应该回到他们那边吗？
 
 ○002856○Go back to them
-●002856●回到他们那边
+●002856●返回校长室
 
 ○002857○Go to class
 ●002857●去上课
@@ -8753,7 +8753,7 @@
 ●002923●？？
 
 ○002924○"Those people are a group of rule breaking delinquents. Did you know?"
-●002924●「他们可是破坏规则的集团组织哦？」
+●002924●「但那里的人经常破坏规矩哦？」
 
 ○002925○Otonashi
 ●002925●音无
@@ -8822,7 +8822,7 @@
 ●002946●？？
 
 ○002947○"But without my memories, I can't know which side is in the right."
-●002947●「但是我没有记忆，没办法判断哪边是正确的」
+●002947●「但是我没有记忆，没办法判断哪边才是正确的」
 
 ○002948○nothing
 ●002948●nothing
@@ -8852,7 +8852,7 @@
 ●002956●？？
 
 ○002957○"Of course, going to class is the right thing to do."
-●002957●「那么，上课当然是正确的选择啊」
+●002957●「去上课当然是正确的选择啊」
 
 ○002958○Otonashi
 ●002958●音无
@@ -8969,16 +8969,16 @@
 ●002995●nothing
 
 ○002996○Her tone of voice changed just a little, and it seemed to me her expression turned stern.
-●002996●她的声音稍稍发生了变化，表情也变得紧张了起来。
+●002996●她的声音稍稍发生了变化，表情也变得严厉了起来。
 
 ○002997○I shuddered as I remembered.
-●002997●之前的回忆使我不禁战栗。
+●002997●我不禁战栗起来。
 
 ○002998○黒
 ●002998●黒
 
 ○002999○That memory... I never want to experience that again...
-●002999●绝对不想再经历第二次的记忆…
+●002999●那是我绝对不想再经历第二次的记忆…
 
 ○003000○nothing
 ●003000●nothing
@@ -9083,7 +9083,7 @@
 ●003035●？？
 
 ○003036○"You're very sensible. Bye."
-●003036●「真明智。那么，再见」
+●003036●「很明智呢。那么，再见」
 
 ○003037○Otonashi
 ●003037●音无
@@ -9158,7 +9158,7 @@
 ●003060●我走进了教室。
 
 ○003061○Nobody seemed to pay my sudden first appearance in the classroom any mind, as my classmates each spent their break period in their own ways.
-●003061●没有人对我的突然出现感到惊讶，全都按照自己的方式度过着课余休息的时间。
+●003061●谁也没有注意到我的突然出现，每个人都在各自度过着课余休息的时间。
 
 ○003062○Otonashi
 ●003062●音无
@@ -9233,10 +9233,10 @@
 ●003085●我来到了座位上。
 
 ○003086○I took a look inside, and just like she'd said, a stack of textbooks, a notebook, a pencil case and a variety of assorted stationary were neatly arranged within. It felt almost uncanny.
-●003086●向课桌里望去，正如她所言，里面有一堆课本，一本笔记，一个装满了文具的笔盒，让人不禁毛骨悚然。
+●003086●向课桌里望去，正如她所言，里面有一堆课本，一本笔记，和一个装满了文具的笔盒，让人不禁毛骨悚然。
 
 ○003087○Naturally, I had no intention to actually take the class. I was just biding my time.
-●003087●当然，我可没有认真上课的打算，只是在等待时机罢了。
+●003087●当然，我可没有老实上课的打算，只是在等待时机罢了。
 
 ○003088○.........
 ●003088●………
@@ -9251,7 +9251,7 @@
 ●003091●在老师进来之前，我冲出了教室。
 
 ○003092○I rethought rethinking my decision.
-●003092●我改变了自己改变想法的想法。
+●003092●我再次改变了想法。
 
 ○003093○I'll go to class.
 ●003093●我决定去上课。
@@ -9326,7 +9326,7 @@
 ●003116●？？
 
 ○003117○"Yeah, I'm okay."
-●003117●「嗯，没问题」
+●003117●「没什么，这样就好」
 
 ○003118○nothing
 ●003118●nothing
@@ -9461,7 +9461,7 @@
 ●003161●我和学生会长道了别，进入了自己的教室，
 
 ○003162○I'd thought that everyone would be staring at the stranger who had suddenly appeared, but the atmosphere remained as calm and peaceful as it had looked from outside. It was almost as if I'd been there all along.
-●003162●我本来以为大家会对一个突然出现的陌生人感到惊讶，但是屋里的气氛依然和睦如初，就好像我已经在这里很久了一样。
+●003162●我本来以为大家会对一个突然出现的陌生人感到惊讶，但是教室里的气氛却依然很和睦，就好像我已经在这里很久了一样。
 
 ○003163○It was sort of frightening, in a way...
 ●003163●感觉还是有点恐怖…
@@ -9560,7 +9560,7 @@
 ●003194●课堂上教的东西，我都已经了如指掌了。
 
 ○003195○It gave me an almost uncanny feeling.
-●003195●我不禁感到毛骨悚然。
+●003195●这也让我不禁毛骨悚然。
 
 ○003196○Soon enough, the first period had ended.
 ●003196●很快，第一节课就结束了。
@@ -9578,10 +9578,10 @@
 ●003200●教师
 
 ○003201○"All right, for this one... Otonashi, come up to the front and try to solve it."
-●003201●「那么…音无，上来板演一下这道题」
+●003201●「那么…音无，上黑板来答一下这道题」
 
 ○003202○Silence. No one stood up.
-●003202●寂静，没一个人站起来。
+●003202●一片寂静，没有一个人站起来。
 
 ○003203○A moment later, the boy sitting beside me looked over and whispered, 'Hey, you're up! Stop spacing out!'
 ●003203●过了一小会儿，坐在我旁边的男生看了看我，小声地说道：「老师叫你呢！别发呆了」。
@@ -9659,7 +9659,7 @@
 ●003227●男生一脸不知所措的样子。
 
 ○003228○Well, I suppose that's only natural after being asked a question like that.
-●003228●嘛，被问起这种问题的话，一般人都会是这种反应吧。
+●003228●嘛，被问到这种问题的话，一般人都会是这种反应吧。
 
 ○003229○Otonashi
 ●003229●音无
@@ -9728,10 +9728,10 @@
 ●003250●？？
 
 ○003251○(So my name was Otonashi... This world certainly is something...)
-●003251●（所以我的名字是『音无』…这个世界真的…）
+●003251●（所以我的名字是『音无』…但是这个世界真的…）
 
 ○003252○In the end I sat through all five periods' worth of classes, but nothing about me personally changed whatsoever.
-●003252●于是我就这么傻坐了五节课，但是我自己没有发生任何变化。
+●003252●于是我就这么傻坐了五节课，我自己却没有发生任何变化。
 
 ○003253○nothing
 ●003253●nothing
@@ -9848,7 +9848,7 @@
 ●003290●？？
 
 ○003291○"I sat through all the classes nice and proper, but is there any point to all this?"
-●003291●「我认认真真端端正正的上完了所有课，但是有什么意义吗？」
+●003291●「我认认真真地上完了所有课，但是这有什么意义吗？」
 
 ○003292○nothing
 ●003292●nothing
@@ -9878,7 +9878,7 @@
 ●003300●？？
 
 ○003301○"It's your first day today, right? You need to give it some time."
-●003301●「这只是你在这里的第一天吧？积累是很重要的」
+●003301●「今天只是你来的第一天吧？日积月累是很重要的」
 
 ○003302○Otonashi
 ●003302●音无
@@ -9947,7 +9947,7 @@
 ●003323●？？
 
 ○003324○"I want to disappear from this world as quickly as possible! Feeling all the pain of death without dying... I can't take any more!"
-●003324●「我只想赶紧从这个世界上消失！忍受着死亡的痛苦但却无法死亡…我受不了了！」
+●003324●「我只想赶紧从这个世界上消失！忍受着死亡的痛苦却无法死亡…我受不了！」
 
 ○003325○Otonashi
 ●003325●音无
@@ -10046,7 +10046,7 @@
 ●003356●？？
 
 ○003357○"It's okay, calm down."
-●003357●「没关系的，冷静一点」
+●003357●「嘛，冷静一点」
 
 ○003358○Otonashi
 ●003358●音无
@@ -10115,7 +10115,7 @@
 ●003379●？？
 
 ○003380○"As if I could!"
-●003380●「怎么可能啊！」
+●003380●「怎么冷静啊！」
 
 ○003381○nothing
 ●003381●nothing
@@ -10214,7 +10214,7 @@
 ●003412●？？
 
 ○003413○"No, they're not. I only know my name because the teacher called on me."
-●003413●「还没有。仅仅是因为老师叫我的原因才知道了名字」
+●003413●「还没有。只是因为老师叫了我才知道了名字」
 
 ○003414○nothing
 ●003414●nothing
@@ -10244,7 +10244,7 @@
 ●003422●？？
 
 ○003423○"Try to be patient and go to class for just a bit longer. Also, what sports are you good at?"
-●003423●「争取变得耐心一点，多上一段时间的课吧。对了，你有什么擅长的运动吗？」
+●003423●「再稍微耐心一点，多上一段时间的课吧。对了，你有什么擅长的运动吗？」
 
 ○003424○Otonashi
 ●003424●音无
@@ -10412,7 +10412,7 @@
 ●003478●？？
 
 ○003479○"What are you planning on making me do?"
-●003479●「你想让我做什么？」
+●003479●「你想让我干什么？」
 
 ○003480○nothing
 ●003480●nothing
@@ -10442,7 +10442,7 @@
 ●003488●？？
 
 ○003489○"We'll search for the club you belonged to when you were alive."
-●003489●「寻找你生前所在的社团」
+●003489●「看看你生前所在的社团是什么」
 
 ○003490○Otonashi
 ●003490●音无
@@ -10511,7 +10511,7 @@
 ●003511●？？
 
 ○003512○"Somehow, all of this sounds totally absurd to me... Is there really a point to this...?"
-●003512●「什么啊，听起来这么离谱…这样做有什么意义吗…？」
+●003512●「什么啊，听起来这么离谱…再说这样做有什么意义吗…？」
 
 ○003513○nothing
 ●003513●nothing
@@ -10541,7 +10541,7 @@
 ●003521●？？
 
 ○003522○"There is. It'll help relieve you of your regrets from when you were a student."
-●003522●「有的。这样能够帮助你消除学生时代的遗憾」
+●003522●「有的。这样可以帮助你消除学生时代的遗憾」
 
 ○003523○Otonashi
 ●003523●音无
@@ -10661,7 +10661,7 @@
 ●003561●nothing
 
 ○003562○Grabbing her bag, she pushed herself out from the desk and stood up.
-●003562●她抓起了书包，站起身来，离开了自己的座位。
+●003562●她拿起了书包，站起身来，离开了自己的座位。
 
 ○003563○Otonashi
 ●003563●音无
@@ -10859,10 +10859,10 @@
 ●003627●？？
 
 ○003628○"Let's give it a try. Go change into your jersey."
-●003628●「总是先试试吧。去换上你的运动服」
+●003628●「总之先试试吧。去换上你的运动衫」
 
 ○003629○Once again, even though I had shown up all of a sudden out of nowhere, the basketball club accepted my presence as if I'd always been there.
-●003629●再一次地，整个篮球部像是对待老部员一样接纳了突然出现的我。
+●003629●和之前在教室一样，整个篮球部像是对待老部员一样接纳了突然出现的我。
 
 ○003630○After a workout and some shooting practice, we moved on to a training match.
 ●003630●在体能训练和投篮训练之后，训练赛开始了。
@@ -10949,16 +10949,16 @@
 ●003657●？？
 
 ○003658○(Seriously, why do you know my name when we've never met before...?)
-●003658●（说真的，我们根本就没见过面，你是怎么知道我的名字的…？）
+●003658●（所以说，为什么一个根本就没见过面的人会知道我的名字…？）
 
 ○003659○se_whistle
 ●003659●se_whistle
 
 ○003660○Even when I did manage to catch a pass, I couldn't really dribble properly and got slammed with a foul. 
-●003660●尽管我设法接到了球，但依然不能正确地去运球，吃到了一记犯规处罚。
+●003660●尽管我设法接到了球，但我连好好运球都做不到，吃到了一记犯规处罚。
 
 ○003661○Finally, we mopped up the gymnasium and it was over.
-●003661●最后，我们打扫了体育馆，结束了这一切。
+●003661●最后，我们打扫了体育馆，结束了这次篮球部的活动。
 
 ○003662○nothing
 ●003662●nothing
@@ -10991,10 +10991,10 @@
 ●003671●「怎么样？玩的开心吗？」
 
 ○003672○She had to be kidding me.
-●003672●她这绝对是在拿我找乐子。
+●003672●…您认真的？
 
 ○003673○I shook my head.
-●003673●我摇了摇头。
+●003673●我无奈地摇了摇头。
 
 ○003674○Otonashi
 ●003674●音无
@@ -11063,7 +11063,7 @@
 ●003695●？？
 
 ○003696○"Well, it looks like my reflexes are pretty terrible, at least..."
-●003696●「不管怎样，我的反应神经是真的差到可怕…」
+●003696●「看来我的运动神经不怎么好啊…」
 
 ○003697○nothing
 ●003697●nothing
@@ -11162,7 +11162,7 @@
 ●003728●？？
 
 ○003729○"What should I do for the rest of today?"
-●003729●「今天剩下的时间里，我该做些什么呢？」
+●003729●「今天剩下的时间里，我该做什么呢？」
 
 ○003730○nothing
 ●003730●nothing
@@ -11192,7 +11192,7 @@
 ●003738●？？
 
 ○003739○"You can eat dinner at the dining hall, but you should do that with your friends."
-●003739●「你可以去食堂吃晚饭，但最好是和朋友一起」
+●003739●「你可以和朋友一起，去食堂吃晚饭」
 
 ○003740○Otonashi
 ●003740●音无
@@ -11261,7 +11261,7 @@
 ●003761●？？
 
 ○003762○"Friends...? Do you seriously think I have any in this world!?"
-●003762●「朋友…？你真的觉得我在这个世界里有这种东西吗！？」
+●003762●「朋友…？你觉得在这个世界里我有朋友吗！？」
 
 ○003763○nothing
 ●003763●nothing
@@ -11291,7 +11291,7 @@
 ●003771●？？
 
 ○003772○"You do, yes. I'll show you to the dormitory, so follow me."
-●003772●「有的。我会带你去宿舍，请跟着我」
+●003772●「有的。请跟着我，我带你去宿舍楼」
 
 ○003773○Otonashi
 ●003773●音无
@@ -11363,7 +11363,7 @@
 ●003795●「啊，好的…」
 
 ○003796○I followed after her, dormitory bound.
-●003796●我跟在天使身后，来到了宿舍。
+●003796●我跟在天使身后，来到了宿舍楼。
 
 ○003797○Otonashi
 ●003797●音无
@@ -11432,7 +11432,7 @@
 ●003818●？？
 
 ○003819○(It's friggin' huge...)
-●003819●（这玩意真的很大啊…）
+●003819●（好大啊…）
 
 ○003820○Angel
 ●003820●天使
@@ -11447,7 +11447,7 @@
 ●003823●？？
 
 ○003824○"The boys' dormitory is on the right. This is as far as I can take you. The school regulations say you can't enter the other sex's building."
-●003824●「男生宿舍就在右边。我只能把你带到这里了。按照学校的规定，是不能进入异性的宿舍的」
+●003824●「男生宿舍在右手边。我只能带你走到这里了。按照学校的规定，是不能进入异性的宿舍的」
 
 ○003825○nothing
 ●003825●nothing
@@ -11531,7 +11531,7 @@
 ●003851●？？
 
 ○003852○"Then, what should I do from here on?"
-●003852●「那么，我接下来该做什么？」
+●003852●「我接下来该做什么？」
 
 ○003853○nothing
 ●003853●nothing
@@ -11561,7 +11561,7 @@
 ●003861●？？
 
 ○003862○"Your room is the one with your name written on the nameplate. Your roommate will be there. He's your friend."
-●003862●「你的房间的门牌上写了你的名字。你的室友会在里面。他是你的朋友」
+●003862●「你房间的门牌上写着你的名字。你的室友会在里面。他就是你的朋友」
 
 ○003863○Otonashi
 ●003863●音无
@@ -11630,7 +11630,7 @@
 ●003884●？？
 
 ○003885○"Got it. Thanks for taking me here, then. See you later!"
-●003885●「好的。谢谢你带路。之后再见！」
+●003885●「知道了。谢谢你带路。之后再见！」
 
 ○003886○nothing
 ●003886●nothing
@@ -11750,25 +11750,25 @@
 ●003924●？？
 
 ○003925○(All right, let's do this!)
-●003925●（那么，开始吧！）
+●003925●（那么，打起精神去寝室吧）
 
 ○003926○I do as Angel told me and searched around for a nameplate with my name on it.
-●003926●我按照天使所说的，开始寻找起了自己的门牌。
+●003926●我按照天使所说的，开始找起了自己的门牌。
 
 ○003927○Pretty soon, I found one that read "Abe / Otonashi".
-●003927●很快，我便找到了一块写着『阿部/音无』的门牌。
+●003927●很快，我找到了一块写着『阿部/音无』的门牌。
 
 ○003928○se_irondoor_open2
 ●003928●se_irondoor_open2
 
 ○003929○I opened the door and walked inside. A boy who I assumed to be Abe was sitting at a desk, scribbling away at his homework or something. He looked over and noticed me.
-●003929●我打开了门，走了进去。一个男生正坐在桌子前写着作业，他应该就是阿部了。
+●003929●我打开了门，走了进去。一个男生坐在桌子前写着作业，他应该就是阿部了。
 
 ○003930○Abe
 ●003930●阿部
 
 ○003931○"Hey, what happened? Were you busy or something?"
-●003931●「喂，怎么了？你是不是有什么事啊？」
+●003931●「喂，你怎么回事啊？」
 
 ○003932○Otonashi
 ●003932●音无
@@ -11837,13 +11837,13 @@
 ●003953●？？
 
 ○003954○"Huh? What are you talking about?"
-●003954●「哈？你在说什么？」
+●003954●「哈？什么怎么回事？」
 
 ○003955○Abe
 ●003955●阿部
 
 ○003956○"You ate dinner alone, right?"
-●003956●「你是不是一个人去吃晚餐了？」
+●003956●「你是不是自己跑去吃晚餐了？」
 
 ○003957○Otonashi
 ●003957●音无
@@ -11918,7 +11918,7 @@
 ●003980●阿部
 
 ○003981○"Man, tell me in advance if you're gonna be late like that! You know I always wait for you."
-●003981●「唉，要来得晚的话就早点说一声啊，害得我等了这么长时间」
+●003981●「要是有事你就先跟我说一声啊，每次不都一起吃饭吗」
 
 ○003982○He reacted as if we'd been living together for ages.
 ●003982●他的反应就像是我们已经相处了好多年一样。
@@ -12059,7 +12059,7 @@
 ●004027●？？
 
 ○004028○"So, umm... Did you already eat?"
-●004028●「所以，呃…你吃饭了没？」
+●004028●「呃…那你吃饭了没？」
 
 ○004029○Abe
 ●004029●阿部
@@ -12140,13 +12140,13 @@
 ●004054●阿部
 
 ○004055○"My homework's only half done, but eh, whatever. Let's go!"
-●004055●「我的作业才刚做一半呢。算了，不管了。尅饭去！」
+●004055●「虽然作业刚做到一半…管他呢。恰饭去！」
 
 ○004056○44_バッドエンド
 ●004056●44_バッドエンド
 
 ○004057○Once again, I found myself in front of the principal's office. Or rather, the gathering place for Class 3-S.
-●004057●于是，我再一次站到了校长室，或者说是高三S班的聚集地的门前。
+●004057●于是，我再次站到了校长室的门前。
 
 ○004058○But, I don't actually know the password...
 ●004058●但是我根本不知道密码…
@@ -12350,7 +12350,7 @@
 ●004124●我向他道了谢，然后走了进去。
 
 ○004125○There's only one option in situations like this. No way this could go wrong.
-●004125●现在只有一个选项了。绝对不会错的。
+●004125●说起开门的密码就是它了。绝对不会错的。
 
 ○004126○Otonashi
 ●004126●音无
@@ -12635,7 +12635,7 @@
 ●004219●「芝麻——————开门————————！」
 
 ○004220○I called out over and over again.
-●004220●我不断地大声呼喊着。
+●004220●我不断大声呼喊着。
 
 ○004221○Otonashi
 ●004221●音无
@@ -12713,7 +12713,7 @@
 ●004245●se_key_open
 
 ○004246○Just then, I heard a click from the lock and the door finally opened.
-●004246●就在这时，我听到了门锁转动的声音，门终于打开了。
+●004246●这时，我听到了门锁转动的声音，门终于打开了。
 
 ○004247○se_wooddoor_open3
 ●004247●se_wooddoor_open3
@@ -12755,7 +12755,7 @@
 ●004259●se_trapattack
 
 ○004260○With an airy 'thwump', my consciousness was blown away from me.
-●004260●我失去了意识，只听到了一阵切开空气的声音。
+●004260●随着一声巨响，我失去了意识，。
 
 ○004261○se_window_break
 ●004261●se_window_break
@@ -13031,7 +13031,7 @@
 ●004351●？？
 
 ○004352○"You think I'd trust someone who already bailed on us once before?"
-●004352●「你觉得我会信任你这样的墙头草吗？」
+●004352●「你觉得我会信任你这种墙头草吗？」
 
 ○004353○Hinata
 ●004353●日向
@@ -13061,7 +13061,7 @@
 ●004361●？？
 
 ○004362○"C'mon, that's precious manpower you're talking about! I'll look after him, don't worry."
-●004362●「嘛，这可是珍贵的人力啊。接下来的交给我就好」
+●004362●「嘛，这可是珍贵的战力啊。接下来的交给我就好」
 
 ○004363○nothing
 ●004363●nothing
@@ -13091,7 +13091,7 @@
 ●004371●「哈啊…行吧行吧」
 
 ○004372○A group this big wants me to join up with them. I can't think of any downsides, in the moment...
-●004372●这么大的一个组织却想让我加入他们，应该不会有什么问题吧…
+●004372●这么大的组织却非得让我加入…不过也没什么坏处吧。
 
 ○004373○Otonashi
 ●004373●音无
@@ -13208,7 +13208,7 @@
 ●004410●？？
 
 ○004411○"It's nothing half-assed like 'open sesameeeeeeeee', that's for sure."
-●004411●「可不是什么类似于『芝麻开门』的弱智内容啊」
+●004411●「谁会用『芝麻开门』这么弱智的密码啊」
 
 ○004412○nothing
 ●004412●nothing
@@ -13226,7 +13226,7 @@
 ●004416●nothing
 
 ○004417○Yeah, figures... What was I thinking, screaming that at the top of my lungs...?
-●004417●没错…我当时拼命地呐喊究竟是为了什么啊…？
+●004417●…是啊，我当时拼命地喊这个究竟是为了什么啊…？
 
 ○004418○nothing
 ●004418●nothing
@@ -13325,7 +13325,7 @@
 ●004449●「…既无神佛，亦无天使」
 
 ○004450○Talk about an ironic password. They all exist here, after all, minus the Buddha.
-●004450●相当讽刺的密码。这里除了没有佛以外，什么都有吧。
+●004450●相当讽刺的密码啊。这里除了没有佛以外，那两个都有吧。
 
 ○004451○none
 ●004451●none
@@ -13388,7 +13388,7 @@
 ●004474●？？
 
 ○004475○"This girl's Yusa-san. She's our radio operator, and keeps me and all of you in touch."
-●004475●「这边的是游佐同学。她是战线的无线电操作员，同时负责保持我和你们之间的联系」
+●004475●「这位是游佐同学。她是战线的无线电操作员，负责维持我和你们之间的联系」
 
 ○004476○bs2_
 ●004476●bs2_
@@ -13412,7 +13412,7 @@
 ●004482●游佐
 
 ○004483○"Glad to work with you."
-●004483●「很荣幸能够和你共事」
+●004483●「请多关照」
 
 ○004484○nothing
 ●004484●nothing
@@ -13430,7 +13430,7 @@
 ●004488●nothing
 
 ○004489○She had such astonishingly little presence, I hadn't even noticed that she was in the room...
-●004489●她的存在感真的低到可怕。我甚至没有注意到她就在房间里…
+●004489●她的存在感真的低到可怕。我甚至之前都没有注意到她在房间里…
 
 ○004490○nothing
 ●004490●nothing
@@ -13466,7 +13466,7 @@
 ●004502●？？
 
 ○004503○"Looks like you're finally one of us now, huh?"
-●004503●「看来你也终于成为我们的一员了啊？」
+●004503●「你终于也成为我们的一员了啊」
 
 ○004504○Yuri
 ●004504●由理
@@ -13526,7 +13526,7 @@
 ●004522●？？
 
 ○004523○"You know it! ...Wait no, what kind of intro was that!?"
-●004523●「嗯嗯，没错……喂喂，这算个哪门子的介绍啊！？」
+●004523●「嗯嗯，没错……等会，这算哪门子的介绍啊！？」
 
 ○004524○nothing
 ●004524●nothing
@@ -13544,10 +13544,10 @@
 ●004528●nothing
 
 ○004529○He gave the worst possible first impression before, but looking at him now I feel like I could actually get along with him.
-●004529●他先前给我的印象并不是很好，但是现在看着他的话，感觉能和他相处得很好的样子。
+●004529●初次见面的时候他给我的印象并不是很好，但现在看来，他人还不错的样子。
 
 ○004530○I guess he'll be looking after me. He gave the worst possible first impression before, but looking at him now I feel like I could actually get along with him.
-●004530●看来今后要多受他照顾了。他先前给我的印象并不是很好，但是现在看着他的话，感觉能和他相处得很好的样子。
+●004530●看来今后要多受他照顾了。初次见面的时候他给我的印象并不是很好，但现在我能感觉到他的好意。
 
 ○004531○nothing
 ●004531●nothing
@@ -13565,7 +13565,7 @@
 ●004537●？？
 
 ○004538○"That's Matsushita-kun. He has a fifth degree black belt in judo, so we call him by his full rank, Matsushita Godan, out of respect."
-●004538●「那边的是松下君。因为他是柔道五段的黑带，所以我们都尊称他为松下五段」
+●004538●「那边的是松下君。因为他是柔道五段，所以我们都尊称他为松下五段」
 
 ○004539○Hinata
 ●004539●日向
@@ -13622,7 +13622,7 @@
 ●004556●「请多关照」
 
 ○004557○He's a giant. If he's a fifth degree in judo with that body, he must be incredibly strong.
-●004557●他的体型相当庞大。凭借着这副身体达到柔道五段的黑带的话，他应该很强大吧。
+●004557●他的体型相当庞大。这样的体型也能到柔道五段，相当厉害啊。
 
 ○004558○nothing
 ●004558●nothing
@@ -13667,7 +13667,7 @@
 ●004573●「诶嘿嘿，欢迎来到战线！」
 
 ○004574○His special trait is not having any... How am I supposed to remember him? It's true that he doesn't look like anything special, though.
-●004574●最大的特点就是没有特点…那我该怎么才能记住他呢？虽然他看起来也并没有什么特别之处就是了。
+●004574●最大的特点就是没有特点…那我要怎么才能记住他呢？虽然他看起来确实也没有什么特别之处就是了。
 
 ○004575○nothing
 ●004575●nothing
@@ -13685,7 +13685,7 @@
 ●004579●nothing
 
 ○004580○Suddenly, an athletic-looking guy cut in front of him.
-●004580●突然之间，一个身材健美的男人闯到了他的面前。
+●004580●突然，一个身材很好的男人凑了过来。
 
 ○004581○nothing
 ●004581●nothing
@@ -13775,7 +13775,7 @@
 ●004609●？？
 
 ○004610○"Not really a dancer, thanks..."
-●004610●「谢了，我真的不会跳舞…」
+●004610●「不了，我不会跳舞…」
 
 ○004611○nothing
 ●004611●nothing
@@ -13793,7 +13793,7 @@
 ●004617●？？
 
 ○004618○"That's just his way of greeting people. We all call him TK, but no one knows his real name and he's a total mystery."
-●004618●「这是他向别人问好的方式啦。我们都叫他TK，但是没人知道他的真实姓名，整个人浑身上下都是谜团」
+●004618●「这是他跟别人问好的方式啦。我们都叫他TK，但没人知道他的本名。他是个浑身上下都是谜的人」
 
 ○004619○Is it really okay to have someone like that on the team? I wonder...
 ●004619●队伍里带着这种人真的好吗…？
@@ -13814,7 +13814,7 @@
 ●004626●？？
 
 ○004627○"The smart looking guy who keeps pushing up his glasses when he talks is Takamatsu-kun. He's actually an idiot."
-●004627●「那个看起来很博学，说话的时候一直摆弄着眼镜的是高松君。实际上是个笨蛋」
+●004627●「那个看起来很博学，说话的时候一直摆弄眼镜的是高松君。实际上是个笨蛋」
 
 ○004628○bs2_
 ●004628●bs2_
@@ -13910,7 +13910,7 @@
 ●004658●「嗯…请多关照…」
 
 ○004659○Keeping his cool after an introduction like that... He really must be an idiot.
-●004659●做过自我介绍之后依然装出一幅高冷样，绝对是笨蛋没跑了。
+●004659●被那样介绍了也不反驳一下，绝对是笨蛋没跑了。
 
 ○004660○nothing
 ●004660●nothing
@@ -13928,7 +13928,7 @@
 ●004666●？？
 
 ○004667○"The guy who always walks around carrying a lethal polearm's Noda-kun."
-●004667●「那个整天拿着一把致命凶器到处乱跑的是野田君」
+●004667●「那个整天拿着致命凶器到处乱跑的是野田君」
 
 ○004668○bs2_
 ●004668●bs2_
@@ -13964,7 +13964,7 @@
 ●004678●？？
 
 ○004679○"This guy here's a part of my body. All for the sake of protecting Yurippe, of course."
-●004679●「此即是吾身。当然，一切只是为了保护游离子」
+●004679●「此即是吾身。当然，一切都是为了保护游离子」
 
 ○004680○nothing
 ●004680●nothing
@@ -13991,7 +13991,7 @@
 ●004687●？？
 
 ○004688○"Don't care."
-●004688●「不知道」
+●004688●「跟我没关系」
 
 ○004689○nothing
 ●004689●nothing
@@ -14042,7 +14042,7 @@
 ●004706●？？
 
 ○004707○"Next up, the girl who keeps saying 'such foolishness' from the shadows over there is Shiina-san. She's the only girl in our operations team, me aside, and the strongest in a fight."
-●004707●「接下来，这位一直在阴影之中说着『肤浅至极』的女生是椎名同学，是作战执行部队里除了我之外唯一的女生，也是最强的战力」
+●004707●「继续，这位一直在阴影里说着『肤浅至极』的女生是椎名同学，是作战执行部队里除了我之外唯一的女生，也是最强的战力」
 
 ○004708○Noda
 ●004708●野田
@@ -14108,7 +14108,7 @@
 ●004730●？？
 
 ○004731○"Next up, the girl who keeps saying 'such foolishness' from the shadows over there is Shiina-san. She's the only girl in our Operations team, me aside, and the strongest in a fight."
-●004731●「接下来，这位一直在阴影之中说着『肤浅至极』的女生是椎名同学，是作战执行部队里除了我之外唯一的女生，也是最强的战力」
+●004731●「继续，这位一直在阴影里说着『肤浅至极』的女生是椎名同学，是作战执行部队里除了我之外唯一的女生，也是最强的战力」
 
 ○004732○bs2_
 ●004732●bs2_
@@ -14195,7 +14195,7 @@
 ●004759●？？
 
 ○004760○(For a girl to be the strongest, she must really be something...)
-●004760●（最强的战力竟然是女生，看来实力不容小觑啊…）
+●004760●（身为女生竟然是最强战力，好厉害啊…）
 
 ○004761○se_shiina
 ●004761●se_shiina
@@ -14276,7 +14276,7 @@
 ●004788●？？
 
 ○004789○"You'll get to hear her contribution pretty soon, most likely."
-●004789●「我想你很快就能用双耳见识到她的活跃了」
+●004789●「你很快就能亲耳见证到她的活跃了」
 
 ○004790○Otonashi
 ●004790●音无
@@ -14345,7 +14345,7 @@
 ●004811●？？
 
 ○004812○"Hear...?"
-●004812●「双耳…？」
+●004812●「亲耳见证…？」
 
 ○004813○nothing
 ●004813●nothing
@@ -14372,7 +14372,7 @@
 ●004820●？？
 
 ○004821○"They're not here right now, but we have tens of other Battlefront members hiding on standby throughout the school. Who's left over... Right, Fujimaki-kun."
-●004821●「还有几十名现在不在这里，但是隐藏在学校各处的战线成员。还有谁没介绍来着…哦对了，藤卷君」
+●004821●「还有几十名现在不在这里，但潜伏在学校各处的战线成员。还有谁没介绍来着…哦，藤卷君」
 
 ○004822○nothing
 ●004822●nothing
@@ -14417,7 +14417,7 @@
 ●004839●nothing
 
 ○004840○The apathetic sounding guy with the wooden sword immediately started talking down to me.
-●004840●嗓音沙哑的木刀剑士开始用祖安带师的称呼和我交谈了。
+●004840●被嗓音沙哑的拿着木刀的男子用祖安带师称呼了。
 
 ○004841○Otonashi
 ●004841●音无
@@ -14531,16 +14531,16 @@
 ●004877●？？
 
 ○004878○"That's right. What's your name?"
-●004878●「对了。你的名字是？」
+●004878●「对啊，你叫什么？」
 
 ○004879○When they put it that way, I finally noticed. I'd even forgotten my own name.
-●004879●经他们一说，我才终于发现自己连名字都已经忘掉了。
+●004879●他们一问，我才发现我连自己的名字都忘了。
 
 ○004880○I searched my memories, hoping to somehow figure it out.
-●004880●我开始搜寻起了自己的记忆，试图寻找相关的线索。
+●004880●我开始搜寻起了自己的记忆，试图找到什么线索。
 
 ○004881○All I could remember was the vaguest echo of a sound.
-●004881●结果只能想起短暂而缥缈的回声。
+●004881●脑海中却只有缥缈的回声。
 
 ○004882○Otonashi
 ●004882●音无
@@ -14609,7 +14609,7 @@
 ●004903●？？
 
 ○004904○"Err... What was it...?"
-●004904●「…诶…是什么来着」
+●004904●「…叫…什么来着」
 
 ○004905○........
 ●004905●………
@@ -14702,7 +14702,7 @@
 ●004934●藤卷
 
 ○004935○"No memories, huh? Same deal as I had."
-●004935●「没有记忆吗？俺也一样」
+●004935●「没有记忆吗？和我一样呢」
 
 ○004936○nothing
 ●004936●nothing
@@ -14720,7 +14720,7 @@
 ●004940●松下
 
 ○004941○"Don't worry. They'll come back, in time."
-●004941●「不用担心，会回来的」
+●004941●「不用担心，会想起来的」
 
 ○004942○nothing
 ●004942●nothing
@@ -14741,7 +14741,7 @@
 ●004947●藤卷
 
 ○004948○"Welp, looks like you'll be a Damn Brat for a while longer, then."
-●004948●「那么，你得继续叫一段时间的祖安带师了」
+●004948●「那，就先叫你祖安带师了」
 
 ○004949○nothing
 ●004949●nothing
@@ -14783,7 +14783,7 @@
 ●004961●？？
 
 ○004962○"You're terrible, dude. I'll be calling him Proxy, myself!"
-●004962●「那么，我就叫他代理人了！」
+●004962●「过分呐。我就叫你代理人了！」
 
 ○004963○nothing
 ●004963●nothing
@@ -14858,7 +14858,7 @@
 ●004986●？？
 
 ○004987○"It means it's a proxy for his actual name, duh."
-●004987●「用来代理他的真实姓名」
+●004987●「用来代理他的名字呗」
 
 ○004988○nothing
 ●004988●nothing
@@ -14900,7 +14900,7 @@
 ●005000●？？
 
 ○005001○"Yo, Proxy! See, sounds kinda cool, right!"
-●005001●「哟，代理人！哇，听起来好像还挺帅的！」
+●005001●「哟，代理人！嚯，听起来好像还挺帅的！」
 
 ○005002○Otonashi
 ●005002●音无
@@ -14969,7 +14969,7 @@
 ●005023●？？
 
 ○005024○(You're using that word totally wrong, though!)
-●005024●（你这用法完全是错误的啊！）
+●005024●（你这用法完全不对吧！）
 
 ○005025○nothing
 ●005025●nothing
@@ -14984,7 +14984,7 @@
 ●005028●大山
 
 ○005029○"I'll call him Cool Dude! Cool Dude! Wooo!"
-●005029●「那我就叫他帅小伙了！帅小伙！哟！」
+●005029●「那我就叫你帅小伙了！帅小伙！哟！」
 
 ○005030○nothing
 ●005030●nothing
@@ -15005,7 +15005,7 @@
 ●005035●藤卷
 
 ○005036○"Pah, this guy, cool? That's way too iffy."
-●005036●「你管这叫帅小伙？这也太微妙了吧」
+●005036●「你管这叫帅小伙？太微妙了吧」
 
 ○005037○nothing
 ●005037●nothing
@@ -15026,7 +15026,7 @@
 ●005042●大山
 
 ○005043○"Okay, then I'll put them together and call him Way Too Iffy Cool Dude!"
-●005043●「那么，把它们组合在一起，就叫他微妙的帅小伙了！」
+●005043●「那就组合一下，叫他微妙的帅小伙吧！」
 
 ○005044○nothing
 ●005044●nothing
@@ -15062,7 +15062,7 @@
 ●005054●松下
 
 ○005055○"I think I'll call him Lolicon."
-●005055●「我觉得叫他萝莉控比较好」
+●005055●「我的话，就叫你萝莉控好了」
 
 ○005056○nothing
 ●005056●nothing
@@ -15128,7 +15128,7 @@
 ●005076●松下
 
 ○005077○"I just get that feeling, looking at him. If his memories come back and it turns out he actually is a lolicon, I'd feel pretty good about getting it right!"
-●005077●「只是直觉而已。这小子看上去就给人一种萝莉控的感觉，等他的记忆恢复之后，八成会是这样」
+●005077●「直觉。要是他恢复了记忆，还真是个萝莉控，那就完美了」
 
 ○005078○nothing
 ●005078●nothing
@@ -15149,7 +15149,7 @@
 ●005083●大山
 
 ○005084○"Aah, that does sound really fun!"
-●005084●「啊，听起来好像很有趣的样子！」
+●005084●「原来是这样啊，不愧是你！」
 
 ○005085○nothing
 ●005085●nothing
@@ -15164,7 +15164,7 @@
 ●005088●高松
 
 ○005089○"In that case, I'll call him... Let's see... Glasses Comrade."
-●005089●「这样的话，我就叫他…嗯…眼镜之友吧」
+●005089●「我的话，就叫你…嗯…眼镜之友吧」
 
 ○005090○nothing
 ●005090●nothing
@@ -15185,7 +15185,7 @@
 ●005095●大山
 
 ○005096○"Even though he's not even wearing glasses!?"
-●005096●「即使他实际上并没有戴眼镜！？」
+●005096●「尽管他实际上并没戴眼镜！？」
 
 ○005097○nothing
 ●005097●nothing
@@ -15206,7 +15206,7 @@
 ●005102●高松
 
 ○005103○"That's the feeling I get from him. At the same time his memories return, he'll take notice of his poor eyesight and start wearing glasses."
-●005103●「这是我从他身上得到的直觉。等他的记忆恢复之后，他一定会发现自己视力很差的事实，然后戴上眼镜的」
+●005103●「我也是，直觉。等他恢复了记忆，肯定会发现自己视力很差，然后戴上眼镜的」
 
 ○005104○nothing
 ●005104●nothing
@@ -15251,7 +15251,7 @@
 ●005117●？？
 
 ○005118○"Even without memories he'd know if his eyes were bad, y'know?"
-●005118●「就算没有记忆，他也能知道自己的视力是个什么水平啊？」
+●005118●「不是，就算没有记忆，他也能知道自己的视力怎么样吧？」
 
 ○005119○Otonashi
 ●005119●音无
@@ -15347,7 +15347,7 @@
 ●005149●？？
 
 ○005150○"The feeling you get, huh. Then I'll go with All-Japan Mental Arithmetic Champion!"
-●005150●「直觉吗。那么，我就叫他全日本珠心算记录保持者了！」
+●005150●「直觉吗。那，我就叫你全日本珠心算记录保持者了！」
 
 ○005151○nothing
 ●005151●nothing
@@ -15380,7 +15380,7 @@
 ●005160●藤卷
 
 ○005161○"Now that's one hell of a guess..."
-●005161●「有点意思哈…」
+●005161●「这是什么脑洞…」
 
 ○005162○nothing
 ●005162●nothing
@@ -15407,7 +15407,7 @@
 ●005169●？？
 
 ○005170○"It's not completely impossible. Just think how sweet victory will taste if it turns out I'm right!"
-●005170●「也不是完全不可能啊。如果是真的话，那可是最高级的快感啊！」
+●005170●「也不是完全不可能啊。要是说中了，那就真的爽到爆炸了啊！」
 
 ○005171○nothing
 ●005171●nothing
@@ -15449,7 +15449,7 @@
 ●005183●？？
 
 ○005184○"Don't think anyone can top that one..."
-●005184●「可别以为什么人都能达到这个水平啊…」
+●005184●「这可真是不得了啊…」
 
 ○005185○nothing
 ●005185●nothing
@@ -15539,7 +15539,7 @@
 ●005213●？？
 
 ○005214○"All right, we've got a pretty good list here!"
-●005214●「好，这就有了一个相当不错的候补列表了！」
+●005214●「好，这样就有不少候补了！」
 
 ○005215○nothing
 ●005215●nothing
@@ -15566,7 +15566,7 @@
 ●005222●？？
 
 ○005223○"Time for you to choose the nickname you'll use 'till your memories come back. Go ahead, take your pick!"
-●005223●「那么，在记忆恢复之前，先选一个你喜欢的昵称吧。」
+●005223●「来，在你恢复记忆之前，先选一个你喜欢的叫法吧。」
 
 ○005224○Damn Brat
 ●005224●祖安带师
@@ -15683,7 +15683,7 @@
 ●005261●大山
 
 ○005262○"He went with it, even though he rejected it just a moment ago!!"
-●005262●「虽然他之前拒绝了，但是现在却又接受了！！」
+●005262●「之前拒绝了，现在却又接受了！！」
 
 ○005263○Otonashi
 ●005263●音无
@@ -15752,7 +15752,7 @@
 ●005284●？？
 
 ○005285○"Yeah, but it managed to be less awful than all the other ones, somehow..."
-●005285●「是的，但至少比其他的正常一点…」
+●005285●「是的，至少比其他的正常一点…」
 
 ○005286○nothing
 ●005286●nothing
@@ -15842,7 +15842,7 @@
 ●005314●？？
 
 ○005315○"No, it's 'lot in life'."
-●005315●「不，是『身份』」
+●005315●「不，是『身份』才对吧」
 
 ○005316○nothing
 ●005316●nothing
@@ -15863,10 +15863,10 @@
 ●005321●藤卷
 
 ○005322○"Yeah, right, that's it, lotsa life or whatever."
-●005322●「嗯，是的，是森份来着」
+●005322●「啊啊，对对，是森份来着」
 
 ○005323○I get the feeling he's not the brightest bulb in the box.
-●005323●这家伙的脑子好像不太好用。
+●005323●这家伙看起来脑子不太灵光啊。
 
 ○005324○nothing
 ●005324●nothing
@@ -16085,7 +16085,7 @@
 ●005395●？？
 
 ○005396○"Hell yeah!"
-●005396●「耶，好！」
+●005396●「好耶！」
 
 ○005397○nothing
 ●005397●nothing
@@ -16280,7 +16280,7 @@
 ●005460●大山
 
 ○005461○"All right, it's mine!"
-●005461●「太好了！是我的那个！」
+●005461●「太好了！是我那个！」
 
 ○005462○nothing
 ●005462●nothing
@@ -16499,7 +16499,7 @@
 ●005533●？？
 
 ○005534○"You really went straight for a pretty out there option, huh..."
-●005534●「上来就选了一个最厉害的选项吗…」
+●005534●「选了一个不得了的选项啊…」
 
 ○005535○nothing
 ●005535●nothing
@@ -16895,7 +16895,7 @@
 ●005665●？？
 
 ○005666○"Yes! Nailed it!"
-●005666●「太好了！中了！」
+●005666●「好！我中了！」
 
 ○005667○nothing
 ●005667●nothing
@@ -17096,7 +17096,7 @@
 ●005732●？？
 
 ○005733○"You really went straight for a pretty out there option, huh...?"
-●005733●「上来就选了个挺厉害的呢…」
+●005733●「选了一个不得了的选项啊…」
 
 ○005734○nothing
 ●005734●nothing
@@ -17594,7 +17594,7 @@
 ●005898●（不对不对不对！怎么可能没问题啊！）
 
 ○005899○I buried my head in my hands.
-●005899●我做出了双手抱头的姿态。
+●005899●我用双手抱住了头。
 
 ○005900○nothing
 ●005900●nothing
@@ -17621,7 +17621,7 @@
 ●005907●？？
 
 ○005908○"What's up? Not happy with it?"
-●005908●「怎么了？感觉不满意吗？」
+●005908●「怎么了？不满意吗？」
 
 ○005909○Otonashi
 ●005909●音无
@@ -17690,7 +17690,7 @@
 ●005930●？？
 
 ○005931○"Obviously, yeah."
-●005931●「显然」
+●005931●「当然了」
 
 ○005932○I try to remember...
 ●005932●我开始尝试着进行回忆…
@@ -17789,7 +17789,7 @@
 ●005963●？？
 
 ○005964○"Wait... It'll come to me... I'll try to remember, so give me just a minute!"
-●005964●「等一下…好像有点思路…给我点时间，让我再想一下！」
+●005964●「等一下…好像有点印象了…给我点时间，让我再想一下！」
 
 ○005965○Everyone
 ●005965●所有人
@@ -17864,7 +17864,7 @@
 ●005988●？？
 
 ○005989○(You jerks were enjoying this, weren't you!? Dammit, now I have to remember no matter what...)
-●005989●（你们这帮人纯粹是拿我找乐子的吧！？可恶，不管怎样都得赶紧想起来…）
+●005989●（你们这帮人纯粹是拿我找乐子的吧！？可恶，得赶紧回想起来…）
 
 ○005990○nothing
 ●005990●nothing
@@ -17954,7 +17954,7 @@
 ●006018●？？
 
 ○006019○"Oto... That's it, it's got the character for 'sound' in it... It's my last name, and it has that character..."
-●006019●「音…没错，我的姓里面里面有这个字…」
+●006019●「『音』…没错，我的姓里面有『音』这个字…」
 
 ○006020○nothing
 ●006020●nothing
@@ -17975,13 +17975,13 @@
 ●006025●藤卷
 
 ○006026○"'Sound'? You had some kinda fancy pants name like that? Doesn't suit you at all."
-●006026●「『音』字？感觉像是个挺华丽的名字，和你完全无缘的样子啊」
+●006026●「『音』字？感觉像是个挺华丽的名字，和你完全无缘吧」
 
 ○006027○Huh? Somehow, the way he phrased that flipped a switch in my mind.
 ●006027●嗯？他的吐槽就好像开启了我大脑里的某个开关一样。
 
 ○006028○That's right... My last name was...
-●006028●没错…我的姓是…
+●006028●对了…我的姓是…
 
 ○006029○Onsoku
 ●006029●音速
@@ -18203,7 +18203,7 @@
 ●006101●？？
 
 ○006102○"Is that seriously a real last name?"
-●006102●「这东西真的能当姓氏吗？」
+●006102●「这种姓氏真的存在吗？」
 
 ○006103○Otonashi
 ●006103●音无
@@ -18272,7 +18272,7 @@
 ●006124●？？
 
 ○006125○"It's mine, so it must be, right?"
-●006125●「既然是我的姓，那就肯定可以吧？」
+●006125●「既然是我的姓，那肯定存在吧？」
 
 ○006126○nothing
 ●006126●nothing
@@ -18299,7 +18299,7 @@
 ●006133●？？
 
 ○006134○"I guess, but, well... Anyway, can you remember your first name, too?"
-●006134●「那倒是…名字呢？能想起来吗？」
+●006134●「话是这么说…名字呢？能想起来吗？」
 
 ○006135○Otonashi
 ●006135●音无
@@ -18494,7 +18494,7 @@
 ●006198●藤卷
 
 ○006199○"I knew it, if your name's written 'no sound', that means 'sound' really doesn't suit you after all!"
-●006199●「我就知道，没有声音什么的，不就是和声音无缘的意思嘛」
+●006199●「我就知道，音无，不就是和声音无缘的意思嘛」
 
 ○006200○nothing
 ●006200●nothing
@@ -18659,7 +18659,7 @@
 ●006253●？？
 
 ○006254○"Mugen! That's it, I remembered, my name's Mugen!"
-●006254●「无限！想起来了，是无限！」
+●006254●「无限！对了！想起来了，是无限！」
 
 ○006255○nothing
 ●006255●nothing
@@ -18704,7 +18704,7 @@
 ●006268●？？
 
 ○006269○"Like, as in, infinity? How on Earth is that written?"
-●006269●「汉字是怎么写的？」
+●006269●「那个，汉字是怎么写的啊？？」
 
 ○006270○Otonashi
 ●006270●音无
@@ -18773,7 +18773,7 @@
 ●006291●？？
 
 ○006292○"Just like you'd imagine. The character for 'none', and the character for 'limit', making infinity, Mugen."
-●006292●「就是那个『没有限界』，合起来就是无限」
+●006292●「就是那个『没有界限』，合起来就是无限」
 
 ○006293○nothing
 ●006293●nothing
@@ -18800,7 +18800,7 @@
 ●006300●？？
 
 ○006301○"Is that seriously a real last name?"
-●006301●「这东西真的能当姓氏吗？」
+●006301●「这种姓氏真的存在吗？」
 
 ○006302○Otonashi
 ●006302●音无
@@ -18869,7 +18869,7 @@
 ●006323●？？
 
 ○006324○"It's mine, so it must be, right?"
-●006324●「既然是我的姓，那就肯定可以吧？」
+●006324●「既然是我的姓，那肯定存在吧？」
 
 ○006325○nothing
 ●006325●nothing
@@ -18896,7 +18896,7 @@
 ●006332●？？
 
 ○006333○"I guess, but, well... Anyway, can you remember your first name, too?"
-●006333●「说的也是，但是…你能顺带着想起来你的名字吗？」
+●006333●「话是这么说…名字呢？能想起来吗？」
 
 ○006334○Otonashi
 ●006334●音无
@@ -19046,7 +19046,7 @@
 ●006382●？？
 
 ○006383○"...I can't remember. But, a last name's plenty for now, right?"
-●006383●「…我想不起来。不过，现在有一个姓氏已经完全够用了吧？」
+●006383●「…我想不起来。不过，现在有一个姓氏，已经够用了吧？」
 
 ○006384○nothing
 ●006384●nothing
@@ -19073,7 +19073,7 @@
 ●006391●？？
 
 ○006392○"Well, yeaaaah, I gueeeeess."
-●006392●「嘛，是这样没错啦——」
+●006392●「嘛，话是这么说——」
 
 ○006393○You're still trying to make this a game, aren't you?
 ●006393●你们是不是还没玩够啊？
@@ -19100,7 +19100,7 @@
 ●006400●「对了，既然他已经是我们的成员了，是不是该给他发一套制服了？」
 
 ○006401○When he put it that way, I noticed that my uniform really was different from everyone else's.
-●006401●他不说我还没注意到，我的制服和其他人的制服完全不一样。
+●006401●他一说我才注意到，我的制服和其他人的完全不一样。
 
 ○006402○nothing
 ●006402●nothing
@@ -19127,7 +19127,7 @@
 ●006409●？？
 
 ○006410○"That's right, I'd almost forgotten. We're flying the flag of rebellion against god and all; it's important to look the part."
-●006410●「是啊，我差点忘了。要撑起反抗神明的大旗的话，制服可是非常重要的」
+●006410●「对啊，我差点忘了。作为一个反抗神明的组织，制服可是很重要的」
 
 ○006411○Otonashi
 ●006411●音无
@@ -19223,7 +19223,7 @@
 ●006441●？？
 
 ○006442○"That's right, I'd almost forgotten. I'm sure you don't want to keep those beat up old rags on forever."
-●006442●「是啊，我差点忘了。总不能让他一直穿着这身破烂吧」
+●006442●「对啊，我差点忘了。总不能让他一直穿着这身破烂吧」
 
 ○006443○Otonashi
 ●006443●音无
@@ -19292,7 +19292,7 @@
 ●006464●？？
 
 ○006465○"Why's my uniform... I mean, aside from being beaten up... Why's it different from all of yours?"
-●006465●「为什么我的制服…不是说被破坏的事情…和你们的不一样呢？」
+●006465●「为什么我的制服…啊，不是说烂了的事…和你们的不一样呢？」
 
 ○006466○nothing
 ●006466●nothing
@@ -19337,7 +19337,7 @@
 ●006479●nothing
 
 ○006480○Yuri circled around to the other side of the desk and pulled something out of a drawer. 
-●006480●由理转到了桌子的另一边，从抽屉里掏出了什么东西。
+●006480●由理转到了桌子的另一边，从抽屉里拿出了什么东西。
 
 ○006481○nothing
 ●006481●nothing
@@ -19364,10 +19364,10 @@
 ●006488●？？
 
 ○006489○"And this is the uniform of the Afterlife Battlefront."
-●006489●「然后，这个是死后世界战线的制服」
+●006489●「这个，就是我们死后世界战线的制服」
 
 ○006490○It was a neatly folded school uniform.
-●006490●制服被折叠得整整齐齐的。
+●006490●那是一套叠好的制服。
 
 ○006491○nothing
 ●006491●nothing
@@ -19559,7 +19559,7 @@
 ●006553●？？
 
 ○006554○"Feel like trying it on? I hope it's the right size..."
-●006554●「要不要穿上试试看？希望尺码没问题…」
+●006554●「要不要先穿上试试？希望尺码没问题…」
 
 ○006555○nothing
 ●006555●nothing
@@ -19580,10 +19580,10 @@
 ●006560●nothing
 
 ○006561○Everyone turned their backs to me, and I changed on the spot.
-●006561●所有人全都转过了身去，然后我在角落里换好了衣服。
+●006561●所有人都转过了身去，然后我就地换上了衣服。
 
 ○006562○I was in a hurry to get out of the mangled uniform I'd been wearing as well. Everyone turned their backs to me, and I changed on the spot.
-●006562●我正愁着什么时候能换掉身上的破衣服呢。所有人全都转过了身去，然后我在角落里换好了衣服。
+●006562●我正愁着什么时候能换掉身上的破衣服呢。所有人都转过了身去，然后我就地换上了衣服。
 
 ○006563○nothing
 ●006563●nothing
@@ -19604,37 +19604,37 @@
 ●006568●大山
 
 ○006569○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Otonashi-kun!"
-●006569●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，音无君！」
+●006569●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，音无君！」
 
 ○006570○Ooyama
 ●006570●大山
 
 ○006571○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Onsoku-kun!"
-●006571●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，音速君！」
+●006571●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，音速君！」
 
 ○006572○Ooyama
 ●006572●大山
 
 ○006573○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Mugen-kun!"
-●006573●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，无限君！」
+●006573●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，无限君！」
 
 ○006574○Ooyama
 ●006574●大山
 
 ○006575○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Damn Brat-kun!"
-●006575●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，祖安带师君！」
+●006575●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，祖安带师君！」
 
 ○006576○Ooyama
 ●006576●大山
 
 ○006577○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Proxy!"
-●006577●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，代理人！」
+●006577●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，代理人！」
 
 ○006578○Ooyama
 ●006578●大山
 
 ○006579○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Way Too Iffy Cool Dude!
-●006579●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，微妙的帅小伙！
+●006579●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，微妙的帅小伙！
 
 ○006580○Woooo!"
 ●006580●哇哦！」
@@ -19643,31 +19643,31 @@
 ●006581●大山
 
 ○006582○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Lolicon!"
-●006582●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，萝莉控！」
+●006582●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，萝莉控！」
 
 ○006583○Ooyama
 ●006583●大山
 
 ○006584○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Glasses Comrade-kun!"
-●006584●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，眼镜之友君！」
+●006584●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，眼镜之友君！」
 
 ○006585○Ooyama
 ●006585●大山
 
 ○006586○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, All-Japan Mental Arithmetic Champion! Nice!"
-●006586●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，全日本珠心算记录保持者！哟！」
+●006586●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，全日本珠心算记录保持者！哟！」
 
 ○006587○Ooyama
 ●006587●大山
 
 ○006588○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, Slasher!"
-●006588●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，无差别杀人犯！」
+●006588●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，无差别杀人犯！」
 
 ○006589○Ooyama
 ●006589●大山
 
 ○006590○"Wow, it really suits you! I'm jealous! I knew you'd look good in it, No-Memory Man-kun!"
-●006590●「哇，真的很合身啊！我都有点嫉妒了！果然很适合你呢，没记忆的男人君！」
+●006590●「哇，真的很合身啊！我都有点嫉妒了！不愧是你，没记忆的男人君！」
 
 ○006591○nothing
 ●006591●nothing
@@ -19709,7 +19709,7 @@
 ●006603●？？
 
 ○006604○"Yeah, not bad at all."
-●006604●「嗯，挺不错呢」
+●006604●「嗯，挺不错的」
 
 ○006605○nothing
 ●006605●nothing
@@ -19793,7 +19793,7 @@
 ●006631●？？
 
 ○006632○"So, I joined your team. I have a bunch of questions I need you to answer now."
-●006632●「所以，既然已经加入了队伍，那我就有不少要问的问题了」
+●006632●「既然已经加入了队伍，那我就有不少要问的问题了」
 
 ○006633○bs3_
 ●006633●bs3_
@@ -19814,7 +19814,7 @@
 ●006638●nothing
 
 ○006639○I stood directly in front of Yuri and stared her down until she broke the silence.
-●006639●我站在由理的正前方，紧紧地盯着她，直到她打破了沉默为止。
+●006639●我站在由理的正前方，紧紧地盯着她，直到她开口打破了沉默。
 
 ○006640○nothing
 ●006640●nothing
@@ -20036,7 +20036,7 @@
 ●006712●她带着我来到了学校的屋顶上。
 
 ○006713○Looking out over the sports ground, I saw a panorama of students diligently exercising. They must be on their PE period.
-●006713●往操场的方向望去，正在努力锻炼的学生们尽收眼底。肯定是正在上体育课。
+●006713●往操场的方向望去，正在努力锻炼的学生们尽收眼底。应该是在上体育课。
 
 ○006714○nothing
 ●006714●nothing
@@ -20126,7 +20126,7 @@
 ●006742●我想问的问题和愚公门前的山一样多。
 
 ○006743○Now was the chance to ask everything I could think of.
-●006743●现在只能想到哪里问哪里了。
+●006743●现在只能想到哪问到哪了。
 
 ○006744○nothing
 ●006744●nothing
@@ -20306,7 +20306,7 @@
 ●006802●关于其他学生
 
 ○006803○About Angel's violent nature
-●006803●关于天使的凶恶
+●006803●关于天使的残暴本性
 
 ○006804○About God
 ●006804●关于神
@@ -20390,7 +20390,7 @@
 ●006830●？？
 
 ○006831○"How about all the students who aren't in the Brigade with us?"
-●006831●「那些除了我们部队成员之外的学生呢？」
+●006831●「那些不是我们战线成员的学生呢？」
 
 ○006832○Otonashi
 ●006832●音无
@@ -20585,7 +20585,7 @@
 ●006895●「你不知道这个词吗？Non-Player Characters。」
 
 ○006896○I feel like I've heard the term before. If I'm right, that's what people call the characters in video games that are controlled by the game itself rather than by players.
-●006896●我记得自己好像在哪里听说过这个词。没记错的话，应该是用来称呼电子游戏里的那些由游戏本身而不是玩家操纵的角色的。
+●006896●我记得我听说过这个词。应该是用来称呼电子游戏里的那些由系统而不是玩家操纵的角色的。
 
 ○006897○Otonashi
 ●006897●音无
@@ -20654,7 +20654,7 @@
 ●006918●？？
 
 ○006919○"Is this world some kind of game, then?"
-●006919●「所以，这个世界是类似于电子游戏一样的存在咯？」
+●006919●「所以，这个世界是类似电子游戏一样的存在吗？」
 
 ○006920○nothing
 ●006920●nothing
@@ -20681,7 +20681,7 @@
 ●006927●？？
 
 ○006928○"It's just an expression. They're pawns of god who've been here since the very beginning. This is the afterlife, nothing more, nothing less."
-●006928●「这个只是比喻啦。这些家伙是神从一开始就准备好了的棋子。不管怎样，这里可是死后的世界啊」
+●006928●「只是比喻而已。这些家伙是神从一开始就准备好了的棋子。不管怎样，这里可是死后的世界啊」
 
 ○006929○Otonashi
 ●006929●音无
@@ -20753,7 +20753,7 @@
 ●006951●「这样啊…」
 
 ○006952○If this world had really been that game-like, I'd start thinking I was stuck in some kind of virtual reality that erased my memories deliberately or something.
-●006952●如果这个世界真的是像游戏一样的话，那我可能是被困在了某种虚拟现实游戏里面，被人故意消除了记忆之类的。
+●006952●如果真的是游戏世界的话，那我可能是被扔进了某种虚拟现实游戏里面，被人故意消除了记忆之类的。
 
 ○006953○Otonashi
 ●006953●音无
@@ -20822,7 +20822,7 @@
 ●006974●？？
 
 ○006975○"So, do the NPCs have self consciousness? Or is it like in a game where they just repeat the same canned lines every time you talk to them?"
-●006975●「所以，这些NPC们有自我意识吗？还是说像游戏里一样，和他们交谈的话，只会重复特定的几段编写好的对话？」
+●006975●「所以，这些NPC们有自我意识吗？还是说像游戏里一样，和他们交谈的话，只会回复特定的几段话？」
 
 ○006976○nothing
 ●006976●nothing
@@ -20849,7 +20849,7 @@
 ●006983●？？
 
 ○006984○"Why not try talking to them yourself? Since you just arrived here, I think you'd have a pretty hard time telling them apart from real humans like us."
-●006984●「你自己为什么不去试一下呢？对于一个刚刚来到这里的人来说，想和我们一样把他们和普通人类分离开来还是很困难的」
+●006984●「自己去试试怎么样？你刚来到这里，想看出他们和我们的区别还是很困难的」
 
 ○006985○Otonashi
 ●006985●音无
@@ -20945,7 +20945,7 @@
 ●007015●？？
 
 ○007016○"Try slapping one of the girls on the ass. She'll either run away or punch you."
-●007016●「你可以去试试给女生灌肠。不是直接逃跑就是给你来一拳」
+●007016●「你可以去试试给女生灌肠。不是直接逃跑就是给你一脚」
 
 ○007017○Otonashi
 ●007017●音无
@@ -21014,7 +21014,7 @@
 ●007038●？？
 
 ○007039○"They're well made then, huh... Are the teachers the same way?"
-●007039●「制作得很精密啊…老师们也是一样的吗？」
+●007039●「做得很真实啊…老师们也是一样的吗？」
 
 ○007040○nothing
 ●007040●nothing
@@ -21110,7 +21110,7 @@
 ●007070●？？
 
 ○007071○"...How about why Angel's so violent? We'd only just met a moment ago when she up and stabbed me."
-●007071●「为什么天使会如此凶恶呢？我们才刚刚见面没多久，她就给我的心脏来了一刀」
+●007071●「为什么天使这么暴力？刚一见面我就被刺了」
 
 ○007072○nothing
 ●007072●nothing
@@ -21137,7 +21137,7 @@
 ●007079●？？
 
 ○007080○"I was watching, and that one was completely on you."
-●007080●「当时我在看着呢，完全是你自己的问题吧」
+●007080●「我看到了，那完全是你自讨苦吃吧」
 
 ○007081○nothing
 ●007081●nothing
@@ -21164,7 +21164,7 @@
 ●007088●？？
 
 ○007089○"If you ask Angel to prove that you can't die or whatever, getting stabbed in the heart's pretty much a given." 
-●007089●「如果你让天使证明你不会死的话，给心脏来一刀是最快的方法了」 
+●007089●「要求天使证明你死不了这种事，也只能给你心脏来一刀了吧」 
 
 ○007090○nothing
 ●007090●nothing
@@ -21191,7 +21191,7 @@
 ●007097●？？
 
 ○007098○"As far as she's concerned, it's the same as giving you directions to the teachers' office."
-●007098●「这种事情对于她来说，和告诉你去校长室的路是一样的」
+●007098●「对她来说，这种事就像回答你去办公室怎么走一样」
 
 ○007099○Otonashi
 ●007099●音无
@@ -21260,7 +21260,7 @@
 ●007120●？？
 
 ○007121○"So you're saying she follows the rules of this world to the letter, huh...?"
-●007121●「也就是说，天使也顺从着这个世界的规则吗…」
+●007121●「所以说，天使遵守着这个世界的规则吗…」
 
 ○007122○nothing
 ●007122●nothing
@@ -21287,7 +21287,7 @@
 ●007129●？？
 
 ○007130○"Nah, she's just super awkward."
-●007130●「嘛，这丫头只是太笨拙了」
+●007130●「嗯，就是笨了点」
 
 ○007131○Otonashi
 ●007131●音无
@@ -21356,7 +21356,7 @@
 ●007152●？？
 
 ○007153○"So... does she have self consciousness?"
-●007153●「所以…她有自我意识吗？」
+●007153●「那…她有自我意识吗？」
 
 ○007154○nothing
 ●007154●nothing
@@ -21383,7 +21383,7 @@
 ●007161●？？
 
 ○007162○"Who knows, it's a mystery. She's emotionless, unsociable, and if you ask her about how this world works you'll get a 'no comment' in return. She's more idiosyncratic than the NPCs in that way at least."
-●007162●「谁知道呢，一直是个谜团。她从来都是面无表情，难以交往，问她关于世界的问题的时候只会回答『无可奉告』，比那些NPC们还要呆板。」
+●007162●「谁知道呢，一直是个谜。无感情、无表情，问她关于这个世界规则的问题的时候只会回答『无可奉告』，从这几点看倒是比那些NPC们要有个性。」
 
 ○007163○Otonashi
 ●007163●音无
@@ -21452,7 +21452,7 @@
 ●007184●？？
 
 ○007185○"So normally, she wouldn't kill... I mean, do you in that easily, then?"
-●007185●「所以，她不会轻易地杀掉…击败掉我的吧？」
+●007185●「那，一般不会那么简单就被杀掉…呃，被打倒的吧？」
 
 ○007186○nothing
 ●007186●nothing
@@ -21479,7 +21479,7 @@
 ●007193●？？
 
 ○007194○"As far as folks who don't behave like model students go, first she'll give you a verbal warning. If you run, she'll chase after you, cut you off and corner you."
-●007194●「对于那些不和模范生们一样遵守规则的学生，首先她会给予口头警告。如果你试图逃跑的话，她就会在后面追赶你，然后绕到你的前面，挡住你的去路」
+●007194●「对于那些不像模范生们一样进行校内活动的学生，首先是口头警告。如果你想逃跑的话，她就会追上你，绕到前面拦住你的去路」
 
 ○007195○Otonashi
 ●007195●音无
@@ -21548,7 +21548,7 @@
 ●007216●？？
 
 ○007217○"And if you resist?"
-●007217●「如果反抗呢？」
+●007217●「会动用武力吗？」
 
 ○007218○nothing
 ●007218●nothing
@@ -21575,7 +21575,7 @@
 ●007225●？？
 
 ○007226○"An eye for an eye. At least that's how it's been when we've picked fights with her."
-●007226●「以眼还眼呗。至少我们和她的战斗都是这么展开的」
+●007226●「轮到我们发起进攻的时候，就以眼还眼！」
 
 ○007227○Otonashi
 ●007227●音无
@@ -21644,7 +21644,7 @@
 ●007248●？？
 
 ○007249○"So you've all been done in by her too, then?"
-●007249●「所以，你们也和我一样被她击败过吗…」
+●007249●「就是说，你们也和我一样被她打倒过吗…」
 
 ○007250○nothing
 ●007250●nothing
@@ -21671,7 +21671,7 @@
 ●007257●？？
 
 ○007258○"Of course. She's taken everyone in the Battlefront down more times than I care to think about."
-●007258●「当然啊。每一个战线成员都不知道被她击败过多少次了」
+●007258●「当然啊。每一个战线成员都不知道被她打倒过多少次了」
 
 ○007259○nothing
 ●007259●nothing
@@ -21698,10 +21698,10 @@
 ●007266●？？
 
 ○007267○"Lastly, as far as being a model student goes, you can't even put on an act of it. We've had people disappear from just that much."
-●007267●「最后，绝对不能表现的和模范生一样，哪怕只是做做样子。我们就曾经有人因为这个原因消失过」
+●007267●「还有，绝对不能表现得和模范生一样，装装样子也不行。有人就因此消失了」
 
 ○007268○I felt a sudden chill.
-●007268●我突然感到了一阵恶寒。
+●007268●我突然感到一阵恶寒。
 
 ○007269○Otonashi
 ●007269●音无
@@ -21839,7 +21839,7 @@
 ●007313●？？
 
 ○007314○"Cutting to the chase, how about God? Are you sure they exist?"
-●007314●「直接说核心话题吧。关于神明，它们真的存在吗？」
+●007314●「直接说最关键的吧。关于神明，它真的存在吗？」
 
 ○007315○nothing
 ●007315●nothing
@@ -21962,7 +21962,7 @@
 ●007354●？？
 
 ○007355○"Well, someone's dense. It's the same as our next lives. As in, there's no real way to be sure."
-●007355●「好迟钝啊。和我们的来生是一样的。因为没有办法去确认」
+●007355●「太迟钝了吧。和我们的来生一样，都是没法去确认的」
 
 ○007356○Otonashi
 ●007356●音无
@@ -22031,7 +22031,7 @@
 ●007377●？？
 
 ○007378○"Have you ever asked Angel about it?"
-●007378●「你们有问过天使吗？」
+●007378●「问过天使吗？」
 
 ○007379○nothing
 ●007379●nothing
@@ -22058,10 +22058,10 @@
 ●007386●？？
 
 ○007387○"Questions about this world's structure like that just get 'no comment' in reply."
-●007387●「像这种关于世界的结构的话题只会收到『无可奉告』的回答的」
+●007387●「这种关于这个世界规则的问题只会回答『无可奉告』的」
 
 ○007388○So Angel's not the type to blithely answer everything we ask her, then... I'm sure Yuri'd have pinned down God's location ages ago, otherwise.
-●007388●所以天使不是那种有问必答的类型，也就是说…由理她们很可能早就已经找到了神的所在之处了。
+●007388●看来从天使口中问出什么没那么容易。由此看来，由理她们可能早就找到了神的所在之处了。
 
 ○007389○Otonashi
 ●007389●音无
@@ -22130,7 +22130,7 @@
 ●007410●？？
 
 ○007411○"What are things like outside of the school grounds?"
-●007411●「学校外面是什么样子呢？」
+●007411●「这个学校的外面有什么？」
 
 ○007412○nothing
 ●007412●nothing
@@ -22157,7 +22157,7 @@
 ●007419●？？
 
 ○007420○"There isn't a front or back entry to the grounds. The whole place is surrounded by woods, and if you walk deep enough into them there's a tall wall shutting everything in."
-●007420●「方圆前后什么都没有，整个学校周围都是无边无际的森林。如果走的足够深的话，就能够看到一堵高大的围墙，把所有的东西都包裹在了里面」
+●007420●「这个学校没有出入的门。周围都是无边无际的森林，如果一直往深处走，就会看到一堵高大的围墙，把所有东西都封在了里面」
 
 ○007421○Otonashi
 ●007421●音无
@@ -22253,7 +22253,7 @@
 ●007451●？？
 
 ○007452○"That's right. It'd take everything you have to just scratch the wall, even with a hammer or something. There's no way to make footholds so climbing it's impossible, too."
-●007452●「是的。仅仅是在墙壁上留下痕迹就已经很困难了，哪怕你有锤子之类的东西。因为没有办法找到落脚点，所以攀爬也是不可能的」
+●007452●「是的。想用锤子全力在那个墙壁上留下哪怕一点痕迹都很困难。没有落脚点，做脚手架爬上去自然也是不可能的」
 
 ○007453○Otonashi
 ●007453●音无
@@ -22322,7 +22322,7 @@
 ●007474●？？
 
 ○007475○"So how does all the food and stuff get delivered?"
-●007475●「所以食物和其他物资是怎么运输进来的呢？」
+●007475●「那食物之类的是从哪搞来的呢？」
 
 ○007476○nothing
 ●007476●nothing
@@ -22349,7 +22349,7 @@
 ●007483●？？
 
 ○007484○"It doesn't get delivered at all. It just appears out of nowhere in the kitchens at sunrise."
-●007484●「根本不需要运输。每当太阳升起的时候，这些东西就会凭空出现在厨房之类的地方」
+●007484●「不需要人去搞。太阳升起的时候，这些东西就会凭空出现在食堂的厨房里」
 
 ○007485○Otonashi
 ●007485●音无
@@ -22418,7 +22418,7 @@
 ●007506●？？
 
 ○007507○"You've seen it yourself?"
-●007507●「那个，你真的亲眼见过吗…」
+●007507●「那个，你是看到过吗…」
 
 ○007508○nothing
 ●007508●nothing
@@ -22445,7 +22445,7 @@
 ●007515●？？
 
 ○007516○"Yup. Any escape method you could come up with now, we've already thought of and tested. Just how many decades do you think we've been living here?"
-●007516●「嗯呢。你能想到的所有逃脱方法，我们也都想到并且尝试过了。你怕是不知道我们已经在这里待了多少年了」
+●007516●「嗯呢。所有你能想到的逃出这个世界的方法，我们早都尝试过了。你以为我们在这里待了几十年了？」
 
 ○007517○Otonashi
 ●007517●音无
@@ -22514,7 +22514,7 @@
 ●007538●？？
 
 ○007539○"Woah... You've really been here for that long?"
-●007539●「哇啊…你们真的在这里待了很久吗？」
+●007539●「欸…你们待了那么久吗？」
 
 ○007540○nothing
 ●007540●nothing
@@ -22541,7 +22541,7 @@
 ●007547●？？
 
 ○007548○"It's been a few decades for me, but Shiina could very well have been here for over a hundred years."
-●007548●「我大概是几十年左右，但是椎名少说也得有上百年了」
+●007548●「我大概是几十年，但是椎名少说也得有上百年了」
 
 ○007549○Otonashi
 ●007549●音无
@@ -22610,7 +22610,7 @@
 ●007570●？？
 
 ○007571○"Wouldn't it drive you crazy, being stuck here for that long?"
-●007571●「被困在这里这么长时间的话，不会变得精神失常吗？」
+●007571●「困在这里这么久，精神上不会出问题吗？」
 
 ○007572○nothing
 ●007572●nothing
@@ -22637,7 +22637,7 @@
 ●007579●？？
 
 ○007580○"Nobody ever gets sick in this world. Apparently, that covers mental illness as well."
-●007580●「这里没有人会生病的。对于心理疾病也一样」
+●007580●「这里没有人会生病的。心理疾病也一样」
 
 ○007581○Otonashi
 ●007581●音无
@@ -22706,7 +22706,7 @@
 ●007602●？？
 
 ○007603○"Is that how it works...?"
-●007603●「这就是世界的机制吗…？」
+●007603●「这样的吗…」
 
 ○007604○nothing
 ●007604●nothing
@@ -22733,7 +22733,7 @@
 ●007611●？？
 
 ○007612○"In a sense, this world is so well put together it's almost frustrating."
-●007612●「某种意义上说，这个过于精致的世界，反而让人很恼火呢」
+●007612●「某种意义上说，这个世界做得这么精致，反而让人很恼火呢」
 
 ○007613○Otonashi
 ●007613●音无
@@ -22802,7 +22802,7 @@
 ●007634●？？
 
 ○007635○"Now that I think about it... Do the seasons change here? It looks like it's spring now, right?"
-●007635●「这么说来…这里的季节会变化吗？现在应该是春天吧」
+●007635●「啊，对了…这里的季节会变化吗？现在应该是春天吧」
 
 ○007636○nothing
 ●007636●nothing
@@ -22829,7 +22829,7 @@
 ●007643●？？
 
 ○007644○"You got it. They change, just like normal. It's spring now. It rains in the summer and snows in the winter."
-●007644●「不错。会变化的，和正常的世界一样。现在是春天。夏天的时候会下雨，冬天的时候也会下雪」
+●007644●「没错。季节会像现实世界那样变化的。现在是春天。夏天的时候会下雨，冬天的时候也会下雪」
 
 ○007645○Otonashi
 ●007645●音无
@@ -22898,7 +22898,7 @@
 ●007666●？？
 
 ○007667○"It even snows here, huh..."
-●007667●「这里甚至会下雪吗…」
+●007667●「竟然还会下雪吗…」
 
 ○007668○nothing
 ●007668●nothing
@@ -22925,7 +22925,7 @@
 ●007675●？？
 
 ○007676○"There'd be no point to this place if it didn't properly reproduce the living world, right?"
-●007676●「如果不能够完美地还原生者的世界的话，那么这里还有什么存在的意义呢？」
+●007676●「如果不能完美地还原生者的世界的话，这里还有什么意义呢？」
 
 ○007677○Otonashi
 ●007677●音无
@@ -23021,7 +23021,7 @@
 ●007707●？？
 
 ○007708○"If it stayed spring forever, then even if you took all your classes seriously you'd start to notice something was off and might end up not being able to keep the act up, right?"
-●007708●「如果这里一直是春天的话，就算一直认真上课，也会感觉到违和感，最后不就可能因为太过在意而无法继续维持这种假象吗？」
+●007708●「如果这里一直是春天的话，就算一直认真上课，也会感觉到违和，到最后这种假象不就没法维持下去了吗？」
 
 ○007709○Otonashi
 ●007709●音无
@@ -23090,7 +23090,7 @@
 ●007730●？？
 
 ○007731○"When you put it that way, it's true..."
-●007731●「这么说的话，确实是这样…」
+●007731●「确实…」
 
 ○007732○Otonashi
 ●007732●音无
@@ -23159,7 +23159,7 @@
 ●007753●？？
 
 ○007754○"Is there a graduation ceremony too, then?"
-●007754●「这里有没有像是毕业典礼一样的东西？」
+●007754●「那，这里会有毕业典礼吗？」
 
 ○007755○nothing
 ●007755●nothing
@@ -23186,7 +23186,7 @@
 ●007762●？？
 
 ○007763○"There is, of course. People disappear in it all the time."
-●007763●「有啊。每次人们都会在典礼上消失」
+●007763●「当然有啊。每次学生们都会在典礼上消失」
 
 ○007764○Otonashi
 ●007764●音无
@@ -23255,7 +23255,7 @@
 ●007785●？？
 
 ○007786○"And if you don't?"
-●007786●「那如果不这么做呢？」
+●007786●「要是没消失呢？」
 
 ○007787○nothing
 ●007787●nothing
@@ -23282,7 +23282,7 @@
 ●007794●？？
 
 ○007795○"You stay in the same grade, and find your name posted in a class list with a bunch of new classmates."
-●007795●「你会留在原来的年级，发现自己的名字和一帮新同学一起被展示在了分班的名单表上」
+●007795●「那就会留在原来的年级，在新的分班名单上找到自己和一帮新同学的名字」
 
 ○007796○Otonashi
 ●007796●音无
@@ -23351,7 +23351,7 @@
 ●007817●？？
 
 ○007818○"So you get held back a year."
-●007818●「也就是说，相当于留级了」
+●007818●「也就是相当于留级了」
 
 ○007819○nothing
 ●007819●nothing
@@ -23447,7 +23447,7 @@
 ●007849●？？
 
 ○007850○"Tell me about the special powers that Angel has."
-●007850●「告诉我关于天使的超能力的事情」
+●007850●「我想了解一下关于天使超能力的事情」
 
 ○007851○nothing
 ●007851●nothing
@@ -23501,7 +23501,7 @@
 ●007867●？？
 
 ○007868○"It's a glowing blade that extends from her arm. She can deflect bullets with it, and in close combat it's effectively a 
-●007868●「这个是从她的手臂上长出的光刃，可以用来抵挡子弹。在近战的过程中，其威力堪比
+●007868●「从她的手臂上长出的光刃，可以用来抵挡子弹。近战的时候，其威力堪比
 
 ○007869○つるぎ
 ●007869●jiàn
@@ -23564,7 +23564,7 @@
 ●007888●？？
 
 ○007889○"When she activates it, it twists the trajectory of bullets away from her. Every once in a while they happen to hit her even after changing course, though."
-●007889●「她发动这个技能时候，可以让飞过的子弹改到远离她的轨迹。虽然有时候也会碰巧出现在改变方向之后依然能够击中她的子弹」
+●007889●「她发动这个技能的时候，可以改变子弹的弹道。虽然偶尔也有改变弹道之后依然能击中她的子弹」
 
 ○007890○nothing
 ●007890●nothing
@@ -23591,7 +23591,7 @@
 ●007897●？？
 
 ○007898○"From our experience so far, Angel can't move when it's activated. We're pretty sure that means that the deflection field is fixed in place after she makes it."
-●007898●「根据我们以往的经验来看，天使在发动技能的时候是无法移动的。因此我们可以断定，反射区域的范围是固定的」
+●007898●「根据以往的经验来看，天使在发动Distortion的时候是无法移动的。由此可以推断，她能改变子弹弹道的区域是固定的」
 
 ○007899○Otonashi
 ●007899●音无
@@ -23825,7 +23825,7 @@
 ●007975●？？
 
 ○007976○"So, does that mean they've accepted that they're going to disappear?"
-●007976●「也就是说，他们已经接受了自己即将消失的事实？」
+●007976●「也就是说，他们接受了自己即将消失这件事？」
 
 ○007977○nothing
 ●007977●nothing
@@ -23852,7 +23852,7 @@
 ●007984●？？
 
 ○007985○"No, it's that if we leave them alone for too long, they'll end up becoming Angel's yes-men and disappearing, whether they like it or not."
-●007985●「不，只要我们一直放着不管的话，他们就会变成天使的俘虏然后消失，不管他们愿不愿意」
+●007985●「并不是，但如果我们一直放着不管的话，他们就会对天使言听计从、最后消失，不管他们自己愿不愿意」
 
 ○007986○Otonashi
 ●007986●音无
@@ -23921,7 +23921,7 @@
 ●008007●？？
 
 ○008008○"That's harsh..."
-●008008●「好残忍啊…」
+●008008●「真是无情啊…」
 
 ○008009○nothing
 ●008009●nothing
@@ -23948,7 +23948,7 @@
 ●008016●？？
 
 ○008017○"It is. That's why we invite people into the Battlefront the moment we discover them. Humans are our precious comrades, after all."
-●008017●「是的。所以每当我们找到人类之后，我们都会让他们加入战线。不管怎样，人类都是我们宝贵的战友」
+●008017●「是啊。所以，每次发现人类的时候，我们都会让他们加入战线。所有人类都是我们宝贵的战友」
 
 ○008018○Otonashi
 ●008018●音无
@@ -24017,7 +24017,7 @@
 ●008039●？？
 
 ○008040○"One last thing: what should I do with my time here, usually?"
-●008040●「最后一个问题：我通常该如何度过我的时间呢？」
+●008040●「最后一个问题：我平时该干什么？」
 
 ○008041○Otonashi
 ●008041●音无
@@ -24086,7 +24086,7 @@
 ●008062●？？
 
 ○008063○"Going to class is out, and I can't be a good student or anything like that, so I'm not really sure what I'll do with myself."
-●008063●「不能去上课，也不能成为好学生，然后我真的不知道该干些什么了」
+●008063●「不能去上课，也不能按学校的规矩来，我真的不知道该干些什么了」
 
 ○008064○nothing
 ●008064●nothing
@@ -24113,13 +24113,13 @@
 ●008071●？？
 
 ○008072○"Focus on building up your endurance and practicing marksmanship until you can keep up with everyone else in the top brass, for now."
-●008072●「目前的话，努力锻炼，增强体力，提高射击水平，直到你能够赶上其他干部的水平为止」
+●008072●「努力锻炼增强体力，提高射击水平，直到你能赶上其他干部的水平为止」
 
 ○008073○The top brass... Meaning those people who were in the principal's office, I guess?
 ●008073●干部…指的是校长室里的那些人吗？
 
 ○008074○It's true, nobody in that group had the atmosphere of your everyday person, but...
-●008074●确实，那里的人并没有日常的感觉…
+●008074●确实，那些人并没有什么日常的感觉…
 
 ○008075○Otonashi
 ●008075●音无
@@ -24188,7 +24188,7 @@
 ●008096●？？
 
 ○008097○"...Wait, why on Earth would I need to practice marksmanship?"
-●008097●「…等一下，为什么要提高射击水平？」
+●008097●「…等等，为什么非得提高射击水平？」
 
 ○008098○nothing
 ●008098●nothing
@@ -24287,10 +24287,10 @@
 ●008129●「诶？」
 
 ○008130○That certainly came out of nowhere.
-●008130●一记晴天霹雳。
+●008130●出乎意料的消息。
 
 ○008131○Could it be that she was only putting me there because they needed more bodies to throw at Angel?
-●008131●难道只是因为他们需要更多的肉盾去对付天使，所以她才把我提拔成了干部吗？
+●008131●难道是因为和天使战斗的人手不够，要拉我来凑数？
 
 ○008132○nothing
 ●008132●nothing
@@ -24317,7 +24317,7 @@
 ●008139●？？
 
 ○008140○"That's enough for now, study session's over. Let's head back."
-●008140●「到此为止吧。学习时间结束，该回去了」
+●008140●「好了。学习时间结束，该回去了」
 
 ○008141○Otonashi
 ●008141●音无
@@ -24386,16 +24386,16 @@
 ●008162●？？
 
 ○008163○"...Yeah, okay."
-●008163●「…嗯，好吧」
+●008163●「…啊，好的」
 
 ○008164○I guess she won't take any more questions, then.
-●008164●我想她应该不会再回答更多问题了。
+●008164●我想，她应该不会再回答更多问题了。
 
 ○008165○I wonder if 'being more flexible' involves bowing down to her heavy-handed style of leadership...
-●008165●所谓的「变得更灵活」，指的就是接受她的这种蛮横的领导吗…
+●008165●所谓「多适应适应」，指的就是适应她这种蛮横的领导吗…
 
 ○008166○I do as she told me and head back to the office.
-●008166●我按照她所说的，回到了办公室。
+●008166●我听从由理的话，回到了校长室。
 
 ○008167○nothing
 ●008167●nothing
@@ -25463,7 +25463,7 @@
 ●008521●？？
 
 ○008522○"I was the same way, at first. Seriously, sorry, Mugen!"
-●008522●「说真的，我一开始也是这样。真的很抱歉，无限…」
+●008522●「说真的，我一开始也是这样。真的很抱歉，无尽…」
 
 ○008523○nothing
 ●008523●nothing
@@ -25547,7 +25547,7 @@
 ●008549●「是吧…！」
 
 ○008550○He was putting on a brave front, but I couldn't read his expression.
-●008550●他试图表现出一幅勇敢的样子，但是我读不懂他的表情。
+●008550●他试图表现出一副勇敢的样子，但是我读不懂他的表情。
 
 ○008551○Otonashi
 ●008551●音无
@@ -26492,7 +26492,7 @@
 ●008864●nothing
 
 ○008865○He wrapped his arm right back around me, looking pleased with himself.
-●008865●他用右臂抱住了我，一幅心满意足的样子。
+●008865●他用右臂抱住了我，一副心满意足的样子。
 
 ○008866○He was so forceful our cheeks were almost touching.
 ●008866●他的力度如此之大，以至于脸颊几乎都要贴上来了。
@@ -26840,7 +26840,7 @@
 ●008980●？？
 
 ○008981○"Let's get along, okay, Mugen!!"
-●008981●「好好相处吧，无限！！」
+●008981●「好好相处吧，无尽！！」
 
 ○008982○Otonashi
 ●008982●音无
@@ -28280,10 +28280,10 @@
 ●009460●？？
 
 ○009461○"Be more flexible. Accept things as they are. That's how all of us have come this far."
-●009461●「变得灵活一点，接受这一切。我们都是这么过来的」
+●009461●「多适应适应，然后接受现实吧。我们都是这么过来的」
 
 ○009462○I brought this upon myself by deciding to join up with these people. Nothing left to do but try to be flexible and accepting...
-●009462●决定加入这些人的我，上来就摊上了这么一档子事。除了灵活地接受之外，应该也没有别的选择了吧…
+●009462●决定加入这些人的我，上来就摊上了这么一档子事。除了尽可能地适应，应该也没有别的选择了吧…
 
 ○009463○Otonashi
 ●009463●音无
@@ -30680,7 +30680,7 @@
 ●010262●？？
 
 ○010263○"You can just move into the room Damn Brat's supposed to live in, right? There'll be a bed open there and all."
-●010263●「直接去祖安带师原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010263●「直接去祖安带师原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010264○Hinata
 ●010264●日向
@@ -30710,7 +30710,7 @@
 ●010272●？？
 
 ○010273○"You can just move into the room Proxy's supposed to live in, right? There'll be a bed open there and all."
-●010273●「直接去代理人原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010273●「直接去代理人原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010274○Hinata
 ●010274●日向
@@ -30740,7 +30740,7 @@
 ●010282●？？
 
 ○010283○"You can just move into the room Way Too Iffy Cool Dude's supposed to live in, right? There'll be a bed open there and all."
-●010283●「直接去微妙的帅小伙原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010283●「直接去微妙的帅小伙原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010284○Hinata
 ●010284●日向
@@ -30770,7 +30770,7 @@
 ●010292●？？
 
 ○010293○"You can just move into the room Lolicon's supposed to live in, right? There'll be a bed open there and all."
-●010293●「直接去萝莉控原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010293●「直接去萝莉控原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010294○Hinata
 ●010294●日向
@@ -30800,7 +30800,7 @@
 ●010302●？？
 
 ○010303○"You can just move into the room Glasses Comrade's supposed to live in, right? There'll be a bed open there and all."
-●010303●「直接去眼镜之友原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010303●「直接去眼镜之友原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010304○Hinata
 ●010304●日向
@@ -30830,7 +30830,7 @@
 ●010312●？？
 
 ○010313○"You can just move into the room All-Japan Mental Arithmetic Champion's supposed to live in, right? There'll be a bed open there and all."
-●010313●「直接去全日本珠心算记录保持者原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010313●「直接去全日本珠心算记录保持者原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010314○Hinata
 ●010314●日向
@@ -30860,7 +30860,7 @@
 ●010322●？？
 
 ○010323○"You can just move into the room Slasher's supposed to live in, right? There'll be a bed open there and all."
-●010323●「直接去无差别杀人犯原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010323●「直接去无差别杀人犯原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010324○Hinata
 ●010324●日向
@@ -30890,7 +30890,7 @@
 ●010332●？？
 
 ○010333○"You can just move into the room No-Memory Man's supposed to live in, right? There'll be a bed open there and all."
-●010333●「直接去没记忆的男人原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010333●「直接去没记忆的男人原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010334○Hinata
 ●010334●日向
@@ -30920,7 +30920,7 @@
 ●010342●？？
 
 ○010343○"You can just move into the room Onsoku's supposed to live in, right? There'll be a bed open there and all."
-●010343●「直接去音速原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010343●「直接去音速原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010344○Hinata
 ●010344●日向
@@ -30950,7 +30950,7 @@
 ●010352●？？
 
 ○010353○"You can just move into the room Otonashi's supposed to live in, right? There'll be a bed open there and all."
-●010353●「直接去音无原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010353●「直接去音无原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010354○Hinata
 ●010354●日向
@@ -30980,7 +30980,7 @@
 ●010362●？？
 
 ○010363○"You can just move into the room Mugen's supposed to live in, right? There'll be a bed open there and all."
-●010363●「直接去无限原先被分配到的房间不就好了？那里面不是有空床铺嘛」
+●010363●「直接去无限原先被分配到的的房间不就好了？那里面不是有空床铺嘛」
 
 ○010364○Otonashi
 ●010364●音无
@@ -32408,7 +32408,7 @@
 ●010838●大山
 
 ○010839○"It's okay if we call you Mugen-kun for now, right?"
-●010839●「但是，现在这段时间里，叫他无限君完全没问题吧？」
+●010839●「但是，现在这段时间里，叫他音速君完全没问题吧？」
 
 ○010840○Otonashi
 ●010840●音无
@@ -35579,7 +35579,7 @@
 ●011895●selbtn : 
 
 ○011896○He's awfully over-familiar for a guy I just met.
-●011896●这家伙也太过热情了吧。
+●011896●这家伙也太过热情了吧
 
 ○011897○Accept 
 ●011897●接受
@@ -37241,7 +37241,7 @@
 ●012449●？？
 
 ○012450○"Got it. I'll be counting on you then."
-●012450●「嗯，之后就拜托你了」
+●012450●「啊啊，之后就拜托你了」
 
 ○012451○With a casual wave, I left the room.
 ●012451●我简单地挥了挥手，离开了房间。
@@ -37760,7 +37760,7 @@
 ●012622●「哇哦」
 
 ○012623○Students dressed in their PE jerseys were circling the track.
-●012623●穿着运动服的学生们正在跑道上飞奔着。
+●012623●穿着运动衫的学生们正在跑道上飞奔着。
 
 ○012624○Hinata
 ●012624●日向
@@ -44030,7 +44030,7 @@
 ●014714●？？
 
 ○014715○"Yeah."
-●014715●「嗯」
+●014715●「啊啊」
 
 ○014716○nothing
 ●014716●nothing
@@ -52907,7 +52907,7 @@
 ●017691●？？
 
 ○017692○"So, the kind of force we used tonight is valid self defense. If we don't fight, we'll be erased, after all."
-●017692●「所以，我们至今为止使用的力量全都是为了进行自我防卫。如果我们不战斗的话，就会被消除掉了」
+●017692●「所以，我们至今为止使用的的力量全都是为了进行自我防卫。如果我们不战斗的话，就会被消除掉了」
 
 ○017693○Otonashi
 ●017693●音无
@@ -56192,10 +56192,10 @@
 ●018786●？？
 
 ○018787○"Here, this one's your jersey. You should wear it to bed."
-●018787●「给，运动服，睡觉的时候穿这个吧」
+●018787●「给，运动衫，睡觉的时候穿这个吧」
 
 ○018788○He passed me a plastic bag containing a gym jersey that looked like it was fresh from the cleaner's. 
-●018788●他扔过来了一件包装在塑料袋里的运动服，就像是刚从洗衣机里掏出来的一样崭新。
+●018788●他扔过来了一件包装在塑料袋里的运动衫，就像是刚从洗衣机里掏出来的一样崭新。
 
 ○018789○Otonashi
 ●018789●音无
@@ -57290,7 +57290,7 @@
 ●019152●我对正在洗头的松下如是说到，然后回到了更衣间。
 
 ○019153○I changed into the jersey and returned to the room where Hinata was waiting for me.
-●019153●我换上了运动服，在房间里遇到了等待着我的归来的日向。
+●019153●我换上了运动衫，在房间里遇到了等待着我的归来的日向。
 
 ○019154○nothing
 ●019154●nothing
@@ -57524,10 +57524,10 @@
 ●019230●？？
 
 ○019231○"Here, this one's your jersey. You should wear it to bed."
-●019231●「给，运动服，睡觉的时候穿这个吧」
+●019231●「给，运动衫，睡觉的时候穿这个吧」
 
 ○019232○He passed me a plastic bag containing a gym jersey that looked like it was fresh from the cleaner's.
-●019232●他扔过来了一件包装在塑料袋里的运动服，就像是刚从洗衣机里掏出来的一样崭新。
+●019232●他扔过来了一件包装在塑料袋里的运动衫，就像是刚从洗衣机里掏出来的一样崭新。
 
 ○019233○Otonashi
 ●019233●音无
@@ -57938,10 +57938,10 @@
 ●019368●？？
 
 ○019369○"Here, this one's your jersey. You should wear it to bed."
-●019369●「给，运动服，睡觉的时候穿这个吧」
+●019369●「给，运动衫，睡觉的时候穿这个吧」
 
 ○019370○He passed me a plastic bag containing a gym jersey that looked like it was fresh from the cleaner's.
-●019370●他扔过来了一件包装在塑料袋里的运动服，就像是刚从洗衣机里掏出来的一样崭新。
+●019370●他扔过来了一件包装在塑料袋里的运动衫，就像是刚从洗衣机里掏出来的一样崭新。
 
 ○019371○Otonashi
 ●019371●音无
@@ -59957,7 +59957,7 @@
 ●020043●我才刚刚离开浴室，但是整个人已经累得不成样子了…
 
 ○020044○We changed into our jerseys, and went back to our room.
-●020044●我们换上了运动服，回到了房间里。
+●020044●我们换上了运动衫，回到了房间里。
 
 ○020045○Otonashi
 ●020045●音无
@@ -60485,7 +60485,7 @@
 ●020219●「嗯，可以…」
 
 ○020220○We got out of the bath, changed into our jerseys, and went back to our room.
-●020220●我们离开了浴室，我们换上了运动服，回到了房间里。
+●020220●我们离开了浴室，我们换上了运动衫，回到了房间里。
 
 ○020221○All of a sudden, I yawned involuntarily.
 ●020221●突然之间，一股睡意向我袭来。
@@ -61100,7 +61100,7 @@
 ●020424●？？
 
 ○020425○"You know it."
-●020425●「嗯」
+●020425●「啊啊」
 
 ○020426○nothing
 ●020426●nothing
@@ -61415,7 +61415,7 @@
 ●020529●？？
 
 ○020530○"Yeah."
-●020530●「嗯」
+●020530●「啊啊」
 
 ○020531○nothing
 ●020531●nothing
@@ -61898,7 +61898,7 @@
 ●020690●「呼…水温真的很舒服啊」
 
 ○020691○He was wearing his jersey, with his towel slung across his hair.
-●020691●他的头上搭着毛巾，正在往身上套上运动服。
+●020691●他的头上搭着毛巾，正在往身上套上运动衫。
 
 ○020692○nothing
 ●020692●nothing
