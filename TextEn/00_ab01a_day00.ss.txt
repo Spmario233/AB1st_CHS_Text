@@ -8,25 +8,25 @@
 ●000004●我醒了。
 
 ○000005○The starry sky spread out above me.
-●000005●头顶出现了一片星空。
+●000005●漫天星空映入了我的眼帘。
 
 ○000006○Nighttime. 
-●000006●是晚上。
+●000006●是晚上啊。
 
 ○000007○I seemed to be lying face up on the ground.
 ●000007●我好像正脸朝上地躺在地上。
 
 ○000008○I guess I must have passed out?
-●000008●我好像昏迷了？
+●000008●看样子我是昏过去了？
 
 ○000009○I slowly roused my body, and carefully sat up.
-●000009●我缓慢地动了动身子，小心翼翼地站了起来。
+●000009●我缓缓地移动着身体，小心翼翼地直起身子。
 
 ○000010○It didn't feel like I was hurt anywhere.
 ●000010●身上并没有疼痛的感觉。
 
 ○000011○Now then...
-●000011●所以…
+●000011●那么…
 
 ○000012○Where is this place?
 ●000012●这里是什么地方？
@@ -41,10 +41,10 @@
 ●000017●nothing
 
 ○000018○And most importantly...
-●000018●还有更重要的一点…
+●000018●说起来…
 
 ○000019○...Who am I?
-●000019●…我是谁？
+●000019●…我是谁来着？
 
 ○000020○Yuri
 ●000020●由理
@@ -56,7 +56,7 @@
 ●000022●？？
 
 ○000023○"Welcome to the Like-Hell-I'm-Dead Battlefront. This is kinda sudden, but would you enlist with us?"
-●000023●「欢迎来到死了没法儿忍战线。虽然有点突然，但是你可以加入我们吗？」
+●000023●「欢迎来到『死了没法儿忍战线』。虽然有点突然，你能加入我们吗？」
 
 ○000024○I heard a voice from behind me.
 ●000024●身后传来了声音。
@@ -74,13 +74,13 @@
 ●000030●她的目光聚焦在了步枪的瞄准镜上，完全没有在看着我的样子。
 
 ○000031○What on Earth was this outlandish situation I'd found myself in...?
-●000031●这到底是玩的哪一出啊…?
+●000031●这脱离现实的光景是闹哪样啊…？
 
 ○000032○Had I snuck onto a film set, or something?
-●000032●我是不小心跑到了电影的拍摄现场之类的地方了吗？
+●000032●我是跑到了什么电影的拍摄现场之类的地方了吗？
 
 ○000033○I couldn't remember coming here.
-●000033●我可没有来过这种地方的印象。
+●000033●我可不记得来过这种地方。
 
 ○000034○Otonashi
 ●000034●音无
@@ -119,7 +119,7 @@
 ●000045●色批武士
 
 ○000046○Ero-Ero Brigade No.1
-●000046●老色批战队No.1
+●000046●色批战队No.1
 
 ○000047○Just Another Pervy Teenager
 ●000047●只是个色批少年
@@ -131,13 +131,13 @@
 ●000049●Debussy
 
 ○000050○CornHornDog
-●000050●美式色批狗
+●000050●CornHornDog
 
 ○000051○Zeus
-●000051●宙斯
+●000051●Zeus
 
 ○000052○Hinata Mk. 2
-●000052●日向Mk.2
+●000052●日向 Mk. 2 
 
 ○000053○Dung Beetle
 ●000053●屎壳郎
@@ -149,7 +149,7 @@
 ●000055●？？
 
 ○000056○(What is this...? What's going on here...?)
-●000056●（怎么回事…这里到底发生了什么…？）
+●000056●（怎么回事…现在是什么情况…？）
 
 ○000057○I felt a chill.
 ●000057●我不禁打了个寒颤。
@@ -164,7 +164,7 @@
 ●000060●？？
 
 ○000061○"The fact that you're here means you're dead, y'know."
-●000061●「既然你出现在了这里，那就说明你已经死了」
+●000061●「既然你出现在了这里，就说明你已经死了」
 
 ○000062○The schoolgirl continued. I'm not sure she is a student, really. I'd figured she was since she was wearing a school uniform, but no normal schoolgirl would wave around a rifle like that.
 ●000062●眼前的女学生继续说了下去。我不确定她到底是不是学生。尽管她的身上穿着校服，但一般的女学生可不会像这样端着一把步枪吧。
@@ -179,7 +179,7 @@
 ●000065●代理人
 
 ○000066○Way Too Iffy Cool Dude
-●000066●Way Too Iffy Cool Dude
+●000066●过分微妙的帅哥
 
 ○000067○Lolicon
 ●000067●萝莉控
@@ -206,7 +206,7 @@
 ●000074●色批武士
 
 ○000075○Ero-Ero Brigade No.1
-●000075●老色批战队No.1
+●000075●色批战队No.1
 
 ○000076○Just Another Pervy Teenager
 ●000076●只是个色批少年
@@ -218,13 +218,13 @@
 ●000078●Debussy
 
 ○000079○CornHornDog
-●000079●美式色批狗
+●000079●CornHornDog
 
 ○000080○Zeus
-●000080●宙斯
+●000080●Zeus
 
 ○000081○Hinata Mk. 2
-●000081●日向Mk.2
+●000081●日向 Mk. 2
 
 ○000082○Dung Beetle
 ●000082●屎壳郎
@@ -236,10 +236,10 @@
 ●000084●？？
 
 ○000085○"I'm really not sure what's going on..."
-●000085●「我真的搞不清现在的状况…」
+●000085●「我有点没搞懂…」
 
 ○000086○I frankly expressed my state of mind. Huh, is that how my voice sounds?
-●000086●我直白地表达出了自己的想法。诶，我的声音原来是这个样子的吗？
+●000086●我不禁开口说道。诶？我的声音原来是这个样子的吗？
 
 ○000087○Yuri
 ●000087●由理
@@ -251,7 +251,7 @@
 ●000089●？？
 
 ○000090○"You're dead, and this is the afterlife. If you don't do anything, you'll be erased."
-●000090●「你已经死了，然后这里是死后的世界。如果什么都不做的话，是会被消除掉的哦」
+●000090●「你已经死了，然后这里是死后的世界。如果什么都不做的话，是会被抹消掉的哦」
 
 ○000091○Otonashi
 ●000091●音无
@@ -263,7 +263,7 @@
 ●000093●代理人
 
 ○000094○Way Too Iffy Cool Dude
-●000094●Way Too Iffy Cool Dude
+●000094●过分微妙的帅哥
 
 ○000095○Lolicon
 ●000095●萝莉控
@@ -290,7 +290,7 @@
 ●000102●色批武士
 
 ○000103○Ero-Ero Brigade No.1
-●000103●老色批战队No.1
+●000103●色批战队No.1
 
 ○000104○Just Another Pervy Teenager
 ●000104●只是个色批少年
@@ -302,13 +302,13 @@
 ●000106●Debussy
 
 ○000107○CornHornDog
-●000107●美式色批狗
+●000107●CornHornDog
 
 ○000108○Zeus
-●000108●宙斯
+●000108●Zeus
 
 ○000109○Hinata Mk. 2
-●000109●日向Mk.2
+●000109●日向 Mk. 2
 
 ○000110○Dung Beetle
 ●000110●屎壳郎
@@ -320,7 +320,7 @@
 ●000112●？？
 
 ○000113○"Erased? By who?"
-●000113●「消除掉？被谁？」
+●000113●「抹消掉？被谁？」
 
 ○000114○Yuri
 ●000114●由理
@@ -335,7 +335,7 @@
 ●000117●「当然是神啊」
 
 ○000118○She threw out a pretty crazy word.
-●000118●她说出了一段相当疯狂的发言。
+●000118●…真是个不得了的字眼啊。
 
 ○000119○Otonashi
 ●000119●音无
@@ -347,7 +347,7 @@
 ●000121●代理人
 
 ○000122○Way Too Iffy Cool Dude
-●000122●Way Too Iffy Cool Dude
+●000122●过分微妙的帅哥
 
 ○000123○Lolicon
 ●000123●萝莉控
@@ -374,7 +374,7 @@
 ●000130●色批武士
 
 ○000131○Ero-Ero Brigade No.1
-●000131●老色批战队No.1
+●000131●色批战队No.1
 
 ○000132○Just Another Pervy Teenager
 ●000132●只是个色批少年
@@ -386,13 +386,13 @@
 ●000134●Debussy
 
 ○000135○CornHornDog
-●000135●美式色批狗
+●000135●CornHornDog
 
 ○000136○Zeus
-●000136●宙斯
+●000136●Zeus
 
 ○000137○Hinata Mk. 2
-●000137●日向Mk.2
+●000137●日向 Mk. 2
 
 ○000138○Dung Beetle
 ●000138●屎壳郎
@@ -416,7 +416,7 @@
 ●000144●代理人
 
 ○000145○Way Too Iffy Cool Dude
-●000145●Way Too Iffy Cool Dude
+●000145●过分微妙的帅哥
 
 ○000146○Lolicon
 ●000146●萝莉控
@@ -443,7 +443,7 @@
 ●000153●色批武士
 
 ○000154○Ero-Ero Brigade No.1
-●000154●老色批战队No.1
+●000154●色批战队No.1
 
 ○000155○Just Another Pervy Teenager
 ●000155●只是个色批少年
@@ -455,13 +455,13 @@
 ●000157●Debussy
 
 ○000158○CornHornDog
-●000158●美式色批狗
+●000158●CornHornDog
 
 ○000159○Zeus
-●000159●宙斯
+●000159●Zeus
 
 ○000160○Hinata Mk. 2
-●000160●日向Mk.2
+●000160●日向 Mk. 2
 
 ○000161○Dung Beetle
 ●000161●屎壳郎
@@ -485,7 +485,7 @@
 ●000167●？？
 
 ○000168○"I mean, a world like this exists and all. It'd be weirder if they didn't."
-●000168●「既然已经存在着这样一个世界了，不存在的话才会显得更奇怪吧」
+●000168●「既然这样的世界都存在了，没有神才奇怪吧。」
 
 ○000169○Otonashi
 ●000169●音无
@@ -524,7 +524,7 @@
 ●000180●色批武士
 
 ○000181○Ero-Ero Brigade No.1
-●000181●老色批战队No.1
+●000181●色批战队No.1
 
 ○000182○Just Another Pervy Teenager
 ●000182●只是个色批少年
@@ -536,13 +536,13 @@
 ●000184●Debussy
 
 ○000185○CornHornDog
-●000185●美式色批狗
+●000185●CornHornDog
 
 ○000186○Zeus
-●000186●宙斯
+●000186●Zeus
 
 ○000187○Hinata Mk. 2
-●000187●日向Mk.2
+●000187●日向 Mk. 2
 
 ○000188○Dung Beetle
 ●000188●屎壳郎
@@ -566,7 +566,7 @@
 ●000194●？？
 
 ○000195○"Could you quit making me repeat myself? This is the afterlife. You're dead."
-●000195●「能不能不要再让我重复第二遍？这里是死后的世界。你已经死了」
+●000195●「能不能别再让我重复了？这里是死后的世界。你已经死了」
 
 ○000196○Yuri
 ●000196●由理
@@ -578,7 +578,7 @@
 ●000198●？？
 
 ○000199○"Well, I guess if you died suddenly or something, you might not be aware of it."
-●000199●「嘛，如果是突然死亡的话，没有死的自觉也是很正常的」
+●000199●「嘛，如果是突然死亡的话，没发现自己已经死了也是很正常的」
 
 ○000200○Otonashi
 ●000200●音无
@@ -617,7 +617,7 @@
 ●000211●色批武士
 
 ○000212○Ero-Ero Brigade No.1
-●000212●老色批战队No.1
+●000212●色批战队No.1
 
 ○000213○Just Another Pervy Teenager
 ●000213●只是个色批少年
@@ -629,13 +629,13 @@
 ●000215●Debussy
 
 ○000216○CornHornDog
-●000216●美式色批狗
+●000216●CornHornDog
 
 ○000217○Zeus
-●000217●宙斯
+●000217●Zeus
 
 ○000218○Hinata Mk. 2
-●000218●日向Mk.2
+●000218●日向 Mk. 2
 
 ○000219○Dung Beetle
 ●000219●屎壳郎
@@ -659,7 +659,7 @@
 ●000225●？？
 
 ○000226○"Then yeah, might've been an instant death. It'll come back to you eventually. That's just how this world works."
-●000226●「也就是说，你是突然死亡的。在这个世界的作用下，记忆最终会恢复的」
+●000226●「那估计是突然死亡的吧。时候到了就会记起来的。这个世界就是这样的」
 
 ○000227○Otonashi
 ●000227●音无
@@ -698,7 +698,7 @@
 ●000238●色批武士
 
 ○000239○Ero-Ero Brigade No.1
-●000239●老色批战队No.1
+●000239●色批战队No.1
 
 ○000240○Just Another Pervy Teenager
 ●000240●只是个色批少年
@@ -710,13 +710,13 @@
 ●000242●Debussy
 
 ○000243○CornHornDog
-●000243●美式色批狗
+●000243●CornHornDog
 
 ○000244○Zeus
-●000244●宙斯
+●000244●Zeus
 
 ○000245○Hinata Mk. 2
-●000245●日向Mk.2
+●000245●日向 Mk. 2
 
 ○000246○Dung Beetle
 ●000246●屎壳郎
@@ -728,7 +728,7 @@
 ●000248●？？
 
 ○000249○"Is this... really the afterlife...?"
-●000249●「这里…真的是死后的世界吗…」
+●000249●「这里…真的是死后世界…？」
 
 ○000250○Yuri
 ●000250●由理
@@ -740,10 +740,10 @@
 ●000252●？？
 
 ○000253○"Ugggh... The amnesia pattern is such a pain..."
-●000253●「哈啊…失忆的真难伺候…」
+●000253●「唉…失忆的可真难伺候…」
 
 ○000254○I'm dumbfounded, but I...
-●000254●虽然我现在还在晕头转向的，但是…
+●000254●好像她有点不耐烦，但我…
 
 ○000255○Believe her
 ●000255●相信她
@@ -791,7 +791,7 @@
 ●000269●色批武士
 
 ○000270○Ero-Ero Brigade No.1
-●000270●老色批战队No.1
+●000270●色批战队No.1
 
 ○000271○Just Another Pervy Teenager
 ●000271●只是个色批少年
@@ -803,13 +803,13 @@
 ●000273●Debussy
 
 ○000274○CornHornDog
-●000274●美式色批狗
+●000274●CornHornDog
 
 ○000275○Zeus
-●000275●宙斯
+●000275●Zeus
 
 ○000276○Hinata Mk. 2
-●000276●日向Mk.2
+●000276●日向 Mk. 2
 
 ○000277○Dung Beetle
 ●000277●屎壳郎
@@ -833,7 +833,7 @@
 ●000283●？？
 
 ○000284○"Oh, well, you're pretty reasonable for a guy with no memories. I was just thinking of shooting you in the vitals once or twice, too."
-●000284●「啊啦，作为一个没有记忆的人，你的判断还是很理性的嘛。我本来已经准备好对着你的要害部位来上一两枪了」
+●000284●「嚯，作为一个没有记忆的人你还是挺理性的嘛。我本来已经准备对着你的要害部位来一枪了」
 
 ○000285○Otonashi
 ●000285●音无
@@ -872,7 +872,7 @@
 ●000296●色批武士
 
 ○000297○Ero-Ero Brigade No.1
-●000297●老色批战队No.1
+●000297●色批战队No.1
 
 ○000298○Just Another Pervy Teenager
 ●000298●只是个色批少年
@@ -884,13 +884,13 @@
 ●000300●Debussy
 
 ○000301○CornHornDog
-●000301●美式色批狗
+●000301●CornHornDog
 
 ○000302○Zeus
-●000302●宙斯
+●000302●Zeus
 
 ○000303○Hinata Mk. 2
-●000303●日向Mk.2
+●000303●日向 Mk. 2
 
 ○000304○Dung Beetle
 ●000304●屎壳郎
@@ -902,7 +902,7 @@
 ●000306●？？
 
 ○000307○"And... what would happen if you did?"
-●000307●「如果真的这么做的话…会怎么样呢？」
+●000307●「真这么做的话…会发生什么？」
 
 ○000308○Yuri
 ●000308●由理
@@ -914,7 +914,7 @@
 ●000310●？？
 
 ○000311○"You'd get better eventually. You can't die here. It's the easiest way to make someone realize that they're really in the afterlife."
-●000311●「会随着时间得到治愈的。这里是死不了的。这是让一个人意识到自己身处死后世界的最简单的方式了」
+●000311●「过一阵就会恢复的，在这里你是死不了的。这是让人意识到自己身处死后世界最简单的方法了」
 
 ○000312○Otonashi
 ●000312●音无
@@ -953,7 +953,7 @@
 ●000323●色批武士
 
 ○000324○Ero-Ero Brigade No.1
-●000324●老色批战队No.1
+●000324●色批战队No.1
 
 ○000325○Just Another Pervy Teenager
 ●000325●只是个色批少年
@@ -965,13 +965,13 @@
 ●000327●Debussy
 
 ○000328○CornHornDog
-●000328●美式色批狗
+●000328●CornHornDog
 
 ○000329○Zeus
-●000329●宙斯
+●000329●Zeus
 
 ○000330○Hinata Mk. 2
-●000330●日向Mk.2
+●000330●日向 Mk. 2
 
 ○000331○Dung Beetle
 ●000331●屎壳郎
@@ -995,7 +995,7 @@
 ●000337●？？
 
 ○000338○"Of course, it'd hurt about as much as actually dying."
-●000338●「肯定的啊，和真实的死亡一样痛苦」
+●000338●「肯定的啊，和真死了一样痛苦」
 
 ○000339○Otonashi
 ●000339●音无
@@ -1034,7 +1034,7 @@
 ●000350●色批武士
 
 ○000351○Ero-Ero Brigade No.1
-●000351●老色批战队No.1
+●000351●色批战队No.1
 
 ○000352○Just Another Pervy Teenager
 ●000352●只是个色批少年
@@ -1046,13 +1046,13 @@
 ●000354●Debussy
 
 ○000355○CornHornDog
-●000355●美式色批狗
+●000355●CornHornDog
 
 ○000356○Zeus
-●000356●宙斯
+●000356●Zeus
 
 ○000357○Hinata Mk. 2
-●000357●日向Mk.2
+●000357●日向 Mk. 2
 
 ○000358○Dung Beetle
 ●000358●屎壳郎
@@ -1064,7 +1064,7 @@
 ●000360●？？
 
 ○000361○"Give me a break..."
-●000361●「让我缓缓…」
+●000361●「那还是算了吧…」
 
 ○000362○Yuri
 ●000362●由理
@@ -1076,7 +1076,7 @@
 ●000364●？？
 
 ○000365○Well, since you believe me already, you can relax. I won't hurt you.
-●000365●「嘛，既然你已经信任我了，放心休息吧。我不会加害你的」
+●000365●「嘛，既然你相信我了，就放心吧。我不会打你的」
 
 ○000366○Otonashi
 ●000366●音无
@@ -1115,7 +1115,7 @@
 ●000377●色批武士
 
 ○000378○Ero-Ero Brigade No.1
-●000378●老色批战队No.1
+●000378●色批战队No.1
 
 ○000379○Just Another Pervy Teenager
 ●000379●只是个色批少年
@@ -1127,13 +1127,13 @@
 ●000381●Debussy
 
 ○000382○CornHornDog
-●000382●美式色批狗
+●000382●CornHornDog
 
 ○000383○Zeus
-●000383●宙斯
+●000383●Zeus
 
 ○000384○Hinata Mk. 2
-●000384●日向Mk.2
+●000384●日向 Mk. 2
 
 ○000385○Dung Beetle
 ●000385●屎壳郎
@@ -1184,7 +1184,7 @@
 ●000400●色批武士
 
 ○000401○Ero-Ero Brigade No.1
-●000401●老色批战队No.1
+●000401●色批战队No.1
 
 ○000402○Just Another Pervy Teenager
 ●000402●只是个色批少年
@@ -1196,13 +1196,13 @@
 ●000404●Debussy
 
 ○000405○CornHornDog
-●000405●美式色批狗
+●000405●CornHornDog
 
 ○000406○Zeus
-●000406●宙斯
+●000406●Zeus
 
 ○000407○Hinata Mk. 2
-●000407●日向Mk.2
+●000407●日向 Mk. 2
 
 ○000408○Dung Beetle
 ●000408●屎壳郎
@@ -1226,7 +1226,7 @@
 ●000414●？？
 
 ○000415○"Enlist."
-●000415●「加入」
+●000415●「加入我们」
 
 ○000416○Otonashi
 ●000416●音无
@@ -1265,7 +1265,7 @@
 ●000427●色批武士
 
 ○000428○Ero-Ero Brigade No.1
-●000428●老色批战队No.1
+●000428●色批战队No.1
 
 ○000429○Just Another Pervy Teenager
 ●000429●只是个色批少年
@@ -1277,13 +1277,13 @@
 ●000431●Debussy
 
 ○000432○CornHornDog
-●000432●美式色批狗
+●000432●CornHornDog
 
 ○000433○Zeus
-●000433●宙斯
+●000433●Zeus
 
 ○000434○Hinata Mk. 2
-●000434●日向Mk.2
+●000434●日向 Mk. 2
 
 ○000435○Dung Beetle
 ●000435●屎壳郎
@@ -1334,7 +1334,7 @@
 ●000450●色批武士
 
 ○000451○Ero-Ero Brigade No.1
-●000451●老色批战队No.1
+●000451●色批战队No.1
 
 ○000452○Just Another Pervy Teenager
 ●000452●只是个色批少年
@@ -1346,13 +1346,13 @@
 ●000454●Debussy
 
 ○000455○CornHornDog
-●000455●美式色批狗
+●000455●CornHornDog
 
 ○000456○Zeus
-●000456●宙斯
+●000456●Zeus
 
 ○000457○Hinata Mk. 2
-●000457●日向Mk.2
+●000457●日向 Mk. 2
 
 ○000458○Dung Beetle
 ●000458●屎壳郎
@@ -1415,7 +1415,7 @@
 ●000477●色批武士
 
 ○000478○Ero-Ero Brigade No.1
-●000478●老色批战队No.1
+●000478●色批战队No.1
 
 ○000479○Just Another Pervy Teenager
 ●000479●只是个色批少年
@@ -1427,13 +1427,13 @@
 ●000481●Debussy
 
 ○000482○CornHornDog
-●000482●美式色批狗
+●000482●CornHornDog
 
 ○000483○Zeus
-●000483●宙斯
+●000483●Zeus
 
 ○000484○Hinata Mk. 2
-●000484●日向Mk.2
+●000484●日向 Mk. 2
 
 ○000485○Dung Beetle
 ●000485●屎壳郎
@@ -1445,7 +1445,7 @@
 ●000487●？？
 
 ○000488○"I mean, realistically speaking, there's no way a schoolgirl like you would be carrying around a rifle like that."
-●000488●「你看，正常来说的话，没有哪个像你这样的女孩子会端着这样的步枪吧」
+●000488●「你看，正常来说，没有哪个像你这样的女学生会端着步枪吧」
 
 ○000489○Otonashi
 ●000489●音无
@@ -1484,7 +1484,7 @@
 ●000500●色批武士
 
 ○000501○Ero-Ero Brigade No.1
-●000501●老色批战队No.1
+●000501●色批战队No.1
 
 ○000502○Just Another Pervy Teenager
 ●000502●只是个色批少年
@@ -1496,13 +1496,13 @@
 ●000504●Debussy
 
 ○000505○CornHornDog
-●000505●美式色批狗
+●000505●CornHornDog
 
 ○000506○Zeus
-●000506●宙斯
+●000506●Zeus
 
 ○000507○Hinata Mk. 2
-●000507●日向Mk.2
+●000507●日向 Mk. 2
 
 ○000508○Dung Beetle
 ●000508●屎壳郎
@@ -1514,7 +1514,7 @@
 ●000510●？？
 
 ○000511○"So maybe that's a prop, and you're acting or something?"
-●000511●「所以，这个是表演时用的仿制品吧？」
+●000511●「还是说，这是演戏用的假枪？」
 
 ○000512○Yuri
 ●000512●由理
@@ -1526,7 +1526,7 @@
 ●000514●？？
 
 ○000515○"Ugh, you think?"
-●000515●「哈啊？你觉得呢？」
+●000515●「唉，这样吗」
 
 ○000516○Otonashi
 ●000516●音无
@@ -1565,7 +1565,7 @@
 ●000527●色批武士
 
 ○000528○Ero-Ero Brigade No.1
-●000528●老色批战队No.1
+●000528●色批战队No.1
 
 ○000529○Just Another Pervy Teenager
 ●000529●只是个色批少年
@@ -1577,13 +1577,13 @@
 ●000531●Debussy
 
 ○000532○CornHornDog
-●000532●美式色批狗
+●000532●CornHornDog
 
 ○000533○Zeus
-●000533●宙斯
+●000533●Zeus
 
 ○000534○Hinata Mk. 2
-●000534●日向Mk.2
+●000534●日向 Mk. 2
 
 ○000535○Dung Beetle
 ●000535●屎壳郎
@@ -1595,10 +1595,10 @@
 ●000537●？？
 
 ○000538○"It doesn't seem like I'm dreaming..."
-●000538●「感觉不像是在做梦…」
+●000538●「也不像是在做梦啊…」
 
 ○000539○I pinched my cheek and it hurt, as usual.
-●000539●我掐了掐自己的脸颊，理所当然地感觉到了疼痛。
+●000539●我掐了掐自己的脸，理所当然地感觉到了疼痛。
 
 ○000540○Otonashi
 ●000540●音无
@@ -1637,7 +1637,7 @@
 ●000551●色批武士
 
 ○000552○Ero-Ero Brigade No.1
-●000552●老色批战队No.1
+●000552●色批战队No.1
 
 ○000553○Just Another Pervy Teenager
 ●000553●只是个色批少年
@@ -1649,13 +1649,13 @@
 ●000555●Debussy
 
 ○000556○CornHornDog
-●000556●美式色批狗
+●000556●CornHornDog
 
 ○000557○Zeus
-●000557●宙斯
+●000557●Zeus
 
 ○000558○Hinata Mk. 2
-●000558●日向Mk.2
+●000558●日向 Mk. 2
 
 ○000559○Dung Beetle
 ●000559●屎壳郎
@@ -1667,7 +1667,7 @@
 ●000561●？？
 
 ○000562○"I bet I have some sort of temporary amnesia."
-●000562●「可能是短期的失忆症状吧」
+●000562●「可能是暂时的失忆症状吧」
 
 ○000563○Yuri
 ●000563●由理
@@ -1679,7 +1679,7 @@
 ●000565●？？
 
 ○000566○"Well then, why are you here?"
-●000566●「那么，为什么你会出现在这里呢？」
+●000566●「那么，为什么你会出现在这儿呢？」
 
 ○000567○Yuri
 ●000567●由理
@@ -1691,13 +1691,13 @@
 ●000569●？？
 
 ○000570○"If you were in a bad enough accident to lose your memory, or if you were sick, you'd be in a hospital with your family all around you, wouldn't you?"
-●000570●「如果你经历了一场足以导致失忆的严重事故，或者生了一场大病的话，难道不应该是出现在医院里，被家人们团团围住吗？」
+●000570●「如果你遭遇了严重事故导致失忆，或者生了一场大病的话，难道不应该出现在医院里，被家人们团团围住吗？」
 
 ○000571○I looked up at the building behind me.
 ●000571●我看了看身后的建筑物。
 
 ○000572○It didn't look like a hospital... It gave more of a schoolhouse sort of impression.
-●000572●看起来不像是医院…。反倒有一种学校的教学楼的感觉。
+●000572●看起来不像是医院…。反倒有一种学校教学楼的感觉。
 
 ○000573○Otonashi
 ●000573●音无
@@ -1736,7 +1736,7 @@
 ●000584●色批武士
 
 ○000585○Ero-Ero Brigade No.1
-●000585●老色批战队No.1
+●000585●色批战队No.1
 
 ○000586○Just Another Pervy Teenager
 ●000586●只是个色批少年
@@ -1748,13 +1748,13 @@
 ●000588●Debussy
 
 ○000589○CornHornDog
-●000589●美式色批狗
+●000589●CornHornDog
 
 ○000590○Zeus
-●000590●宙斯
+●000590●Zeus
 
 ○000591○Hinata Mk. 2
-●000591●日向Mk.2
+●000591●日向 Mk. 2
 
 ○000592○Dung Beetle
 ●000592●屎壳郎
@@ -1766,7 +1766,7 @@
 ●000594●？？
 
 ○000595○(She's right, if I'd fallen from all the way up there and ended up with amnesia that way, you'd think I'd be in a hospital bed now...)
-●000595●（她说的没错…如果从那种高度掉下来的话，我现在应该躺在医院的病床上才对…）
+●000595●（她说的没错，如果从那种高度掉下来然后失忆了的话，我现在应该躺在医院的病床上才对…）
 
 ○000596○Yuri
 ●000596●由理
@@ -1778,7 +1778,7 @@
 ●000598●？？
 
 ○000599○"Enlist with us."
-●000599●「加入我们」
+●000599●「加入我们。」
 
 ○000600○Otonashi
 ●000600●音无
@@ -1817,7 +1817,7 @@
 ●000611●色批武士
 
 ○000612○Ero-Ero Brigade No.1
-●000612●老色批战队No.1
+●000612●色批战队No.1
 
 ○000613○Just Another Pervy Teenager
 ●000613●只是个色批少年
@@ -1829,13 +1829,13 @@
 ●000615●Debussy
 
 ○000616○CornHornDog
-●000616●美式色批狗
+●000616●CornHornDog
 
 ○000617○Zeus
-●000617●宙斯
+●000617●Zeus
 
 ○000618○Hinata Mk. 2
-●000618●日向Mk.2
+●000618●日向 Mk. 2
 
 ○000619○Dung Beetle
 ●000619●屎壳郎
@@ -1859,7 +1859,7 @@
 ●000625●？？
 
 ○000626○"It's not like you have anything else to do. You might not get your memory back for a while, so in the meantime you might as well join my Battlefront, right?"
-●000626●「你也没有什么别的事情可做吧。你的记忆可能还需要一段时间才能恢复，在这段时间里，加入我们的战线不也挺好吗？」
+●000626●「反正你也没什么别的事可做吧。你可能还需要一段时间才能恢复记忆，在这段时间里，加入我们的战线不也挺好吗？」
 
 ○000627○Otonashi
 ●000627●音无
@@ -1898,7 +1898,7 @@
 ●000638●色批武士
 
 ○000639○Ero-Ero Brigade No.1
-●000639●老色批战队No.1
+●000639●色批战队No.1
 
 ○000640○Just Another Pervy Teenager
 ●000640●只是个色批少年
@@ -1910,13 +1910,13 @@
 ●000642●Debussy
 
 ○000643○CornHornDog
-●000643●美式色批狗
+●000643●CornHornDog
 
 ○000644○Zeus
-●000644●宙斯
+●000644●Zeus
 
 ○000645○Hinata Mk. 2
-●000645●日向Mk.2
+●000645●日向 Mk. 2
 
 ○000646○Dung Beetle
 ●000646●屎壳郎
@@ -1928,7 +1928,7 @@
 ●000648●？？
 
 ○000649○"And what Battlefront is that, exactly?"
-●000649●「到底是什么战线啊？」
+●000649●「你说的那个战线到底是什么呀？」
 
 ○000650○Yuri
 ●000650●由理
@@ -1940,7 +1940,7 @@
 ●000652●？？
 
 ○000653○"The Like-Hell-I'm-Dead Battlefront."
-●000653●「死了没法儿忍战线」
+●000653●「『死了没法儿忍战线』」
 
 ○000654○Yuri
 ●000654●由理
@@ -1952,7 +1952,7 @@
 ●000656●？？
 
 ○000657○"Well, the name changes pretty often."
-●000657●「嘛，战线的名字倒是经常在变」
+●000657●「嘛，战线的名字倒是经常会改」
 
 ○000658○Yuri
 ●000658●由理
@@ -1964,7 +1964,7 @@
 ●000660●？？
 
 ○000661○"It was the Afterlife Battlefront, at first. We wrote it in the Roman alphabet as 'Shinda Sekai Sensen', and took the first three letters, SSS, to shorten it."
-●000661●「一开始是叫『死后世界战线』，取罗马音的前三个字符，组成『SSS』的简写」
+●000661●「一开始叫『死后世界战线』，取罗马音的前三个字母，组成『SSS』的简写。」
 
 ○000662○スリーエス
 ●000662●
@@ -1976,10 +1976,10 @@
 ●000664●
 
 ○000665○"See", she said, pointing at the emblem on the sleeve of her uniform.
-●000665●她这么说这着的同时，用手指向了她校服袖子上的徽章。
+●000665●她一边说着，一边用手指向了她校服袖子上的徽章。
 
 ○000666○It was true, in the moonlight I could just make out the 'SSS' written on it.
-●000666●在月光的照耀之下，我确实看到了上面写着的『SSS』。
+●000666●在月光中，我确实看到了上面写着的『SSS』。
 
 ○000667○nothing
 ●000667●nothing
@@ -1997,7 +1997,7 @@
 ●000673●？？
 
 ○000674○"But a few of us said that 'Afterlife Battlefront' made it sound like we were admitting that we were dead, so we tossed it."
-●000674●「但是有的成员说『死后世界战线』这个名字有种承认了自己已经死了的屈服意味，所以这个意见被废弃了」
+●000674●「但是有的成员说『死后世界战线』这个名字有种承认自己已经死了的屈服意味，所以不用这个名称了」
 
 ○000675○Yuri
 ●000675●由理
@@ -2009,7 +2009,7 @@
 ●000677●？？
 
 ○000678○"It's changed a buncha' times since then. Right now it's the Like-Hell-I'm-Dead Battlefront."
-●000678●「打那以后战线的名字就一直在变，现在是叫『死了没法儿忍战线』」
+●000678●「从那以后战线的名字就一直在变，现在是叫『死了没法儿忍战线』」
 
 ○000679○Yuri
 ●000679●由理
@@ -2021,7 +2021,7 @@
 ●000681●？？
 
 ○000682○"Before that it was the I-Don't-Feel-Like-I-Ever-Really-Lived Battlefront, but that was a complete joke so we changed it within the day."
-●000682●「上一个名字是叫『我还没活够战线』，但是完全是在开玩笑，所以当天就改掉了」
+●000682●「上一个名字是『我还没活够战线』，但感觉完全是在搞笑，所以当天就改掉了」
 
 ○000683○Yuri
 ●000683●由理
@@ -2033,7 +2033,7 @@
 ●000685●？？
 
 ○000686○"At one point we were the Marriage Blues Battlefront, as a joke. Like, what's a group like that even supposed to fight against?"
-●000686●「之前有一段时间还叫过『不想结婚战线』，也一样是整活的。这么一个组织，该去和谁战斗呢？」
+●000686●「整活的话，之前还叫过『不想结婚战线』。这么一个组织，到底是要和谁战斗啊」
 
 ○000687○Yuri
 ●000687●由理
@@ -2048,7 +2048,7 @@
 ●000690●「如果有什么好点子的话麻烦告诉我。我现在严重缺乏灵感」
 
 ○000691○She's been talking for quite a while now, but about completely pointless crap. For now, I ask the most obvious question that comes to mind.
-●000691●她滔滔不绝地讲了很多，但都是些无关紧要的问题。这个时候，我问出了我此时心底最大的疑惑。
+●000691●她滔滔不绝地讲了很多，但都是些无关紧要的问题。我向她提出了此时心底最大的疑惑。
 
 ○000692○Otonashi
 ●000692●音无
@@ -2087,7 +2087,7 @@
 ●000703●色批武士
 
 ○000704○Ero-Ero Brigade No.1
-●000704●老色批战队No.1
+●000704●色批战队No.1
 
 ○000705○Just Another Pervy Teenager
 ●000705●只是个色批少年
@@ -2099,13 +2099,13 @@
 ●000707●Debussy
 
 ○000708○CornHornDog
-●000708●美式色批狗
+●000708●CornHornDog
 
 ○000709○Zeus
-●000709●宙斯
+●000709●Zeus
 
 ○000710○Hinata Mk. 2
-●000710●日向Mk.2
+●000710●日向 Mk. 2
 
 ○000711○Dung Beetle
 ●000711●屎壳郎
@@ -2129,7 +2129,7 @@
 ●000717●？？
 
 ○000718○"Ugh... Everyone who comes here reacts like that, y'know? You need to be more flexible. Accept things as they are and roll with it."
-●000718●「哈啊…所有刚来的人都是这个反应。尽量变得灵活一点吧。接受这一切，然后顺应其中吧」
+●000718●「唉…所有刚来的人都是这个反应。多适应适应，接受现实吧」
 
 ○000719○Otonashi
 ●000719●音无
@@ -2168,7 +2168,7 @@
 ●000730●色批武士
 
 ○000731○Ero-Ero Brigade No.1
-●000731●老色批战队No.1
+●000731●色批战队No.1
 
 ○000732○Just Another Pervy Teenager
 ●000732●只是个色批少年
@@ -2180,13 +2180,13 @@
 ●000734●Debussy
 
 ○000735○CornHornDog
-●000735●美式色批狗
+●000735●CornHornDog
 
 ○000736○Zeus
-●000736●宙斯
+●000736●Zeus
 
 ○000737○Hinata Mk. 2
-●000737●日向Mk.2
+●000737●日向 Mk. 2
 
 ○000738○Dung Beetle
 ●000738●屎壳郎
@@ -2198,7 +2198,7 @@
 ●000740●？？
 
 ○000741○"Roll with it... And then what?"
-●000741●「顺应其中…然后呢？」
+●000741●「多适应适应…到底是该怎么做啊…」
 
 ○000742○Yuri
 ●000742●由理
@@ -2210,7 +2210,7 @@
 ●000744●？？
 
 ○000745○"Fight."
-●000745●「战斗」
+●000745●「战斗呗」
 
 ○000746○Otonashi
 ●000746●音无
@@ -2249,7 +2249,7 @@
 ●000757●色批武士
 
 ○000758○Ero-Ero Brigade No.1
-●000758●老色批战队No.1
+●000758●色批战队No.1
 
 ○000759○Just Another Pervy Teenager
 ●000759●只是个色批少年
@@ -2261,13 +2261,13 @@
 ●000761●Debussy
 
 ○000762○CornHornDog
-●000762●美式色批狗
+●000762●CornHornDog
 
 ○000763○Zeus
-●000763●宙斯
+●000763●Zeus
 
 ○000764○Hinata Mk. 2
-●000764●日向Mk.2
+●000764●日向 Mk. 2
 
 ○000765○Dung Beetle
 ●000765●屎壳郎
@@ -2279,7 +2279,7 @@
 ●000767●？？
 
 ○000768○"Against what?"
-●000768●「和谁？」
+●000768●「和什么战斗？」
 
 ○000769○Yuri
 ●000769●由理
@@ -2291,7 +2291,7 @@
 ●000771●？？
 
 ○000772○"That."
-●000772●「那个」
+●000772●「和那个」
 
 ○000773○nothing
 ●000773●nothing
@@ -2300,7 +2300,7 @@
 ●000776●nothing
 
 ○000777○She pointed in the direction her scope was aimed.
-●000777●她指向了望远镜瞄准的方向。
+●000777●她指了指瞄准镜对着的方向。
 
 ○000778○Yuri
 ●000778●由理
@@ -2312,7 +2312,7 @@
 ●000780●？？
 
 ○000781○"That's the enemy of the Like-Hell-I'm-Dead Battlefront, Angel. Yeah, Like-Hell-I'm-Dead Battlefront's no good after all... Give it some thought."
-●000781●「那个就是死了没法儿忍战线的宿敌，『天使』。果然死了没法儿忍战线这个名字还是不行…你也考虑一下吧」
+●000781●「那个就是『死了没法儿忍战线』的宿敌，『天使』。果然『死了没法儿忍战线』这个叫法还是想赶紧换掉…你也想个名字吧」
 
 ○000782○nothing
 ●000782●nothing
@@ -2336,7 +2336,7 @@
 ●000790●nothing
 
 ○000791○There was another schoolgirl there, walking slowly around the sports field. Well, once again, I assumed she was a student since she was wearing a uniform.
-●000791●那边是另外一个女生，正在操场上缓慢地行走着。她的身上穿着校服，应该也是学生吧。
+●000791●一个女生在操场上缓慢地行走着。她的身上穿着校服，应该也是学生吧。
 
 ○000792○Otonashi
 ●000792●音无
@@ -2375,7 +2375,7 @@
 ●000803●色批武士
 
 ○000804○Ero-Ero Brigade No.1
-●000804●老色批战队No.1
+●000804●色批战队No.1
 
 ○000805○Just Another Pervy Teenager
 ●000805●只是个色批少年
@@ -2387,13 +2387,13 @@
 ●000807●Debussy
 
 ○000808○CornHornDog
-●000808●美式色批狗
+●000808●CornHornDog
 
 ○000809○Zeus
-●000809●宙斯
+●000809●Zeus
 
 ○000810○Hinata Mk. 2
-●000810●日向Mk.2
+●000810●日向 Mk. 2
 
 ○000811○Dung Beetle
 ●000811●屎壳郎
@@ -2405,7 +2405,7 @@
 ●000813●？？
 
 ○000814○"Angel...? Isn't that just a normal girl?"
-●000814●「天使…？难道不是个普通的女孩子吗？」
+●000814●「天使？…那不是个普通的女孩子吗？」
 
 ○000815○Yuri
 ●000815●由理
@@ -2417,7 +2417,7 @@
 ●000817●？？
 
 ○000818○"She might look that way, but she's not human..."
-●000818●「看起来是这样没错…但她并不是人类…」
+●000818●「看起来是这样…但她并不是人类…」
 
 ○000819○Otonashi
 ●000819●音无
@@ -2456,7 +2456,7 @@
 ●000830●色批武士
 
 ○000831○Ero-Ero Brigade No.1
-●000831●老色批战队No.1
+●000831●色批战队No.1
 
 ○000832○Just Another Pervy Teenager
 ●000832●只是个色批少年
@@ -2468,13 +2468,13 @@
 ●000834●Debussy
 
 ○000835○CornHornDog
-●000835●美式色批狗
+●000835●CornHornDog
 
 ○000836○Zeus
-●000836●宙斯
+●000836●Zeus
 
 ○000837○Hinata Mk. 2
-●000837●日向Mk.2
+●000837●日向 Mk. 2
 
 ○000838○Dung Beetle
 ●000838●屎壳郎
@@ -2498,7 +2498,7 @@
 ●000844●？？
 
 ○000845○"She uses her evil powers to force us to go to class, join clubs, take tests..."
-●000845●「她使用邪恶的力量强迫我们去认真上课、加入社团活动、参加考试…」
+●000845●「她用邪恶的力量强迫我们去认真上课、加入社团活动、参加考试…」
 
 ○000846○Otonashi
 ●000846●音无
@@ -2537,7 +2537,7 @@
 ●000857●色批武士
 
 ○000858○Ero-Ero Brigade No.1
-●000858●老色批战队No.1
+●000858●色批战队No.1
 
 ○000859○Just Another Pervy Teenager
 ●000859●只是个色批少年
@@ -2549,13 +2549,13 @@
 ●000861●Debussy
 
 ○000862○CornHornDog
-●000862●美式色批狗
+●000862●CornHornDog
 
 ○000863○Zeus
-●000863●宙斯
+●000863●Zeus
 
 ○000864○Hinata Mk. 2
-●000864●日向Mk.2
+●000864●日向 Mk. 2
 
 ○000865○Dung Beetle
 ●000865●屎壳郎
@@ -2570,7 +2570,7 @@
 ●000868●「这样啊…诶？」
 
 ○000869○Hey, hey, hold on a second...
-●000869●喂喂，等一下…
+●000869●喂喂，等一下…。
 
 ○000870○Yuri
 ●000870●由理
@@ -2582,7 +2582,7 @@
 ●000872●？？
 
 ○000873○"If she finds you here, you'll end up on her blacklist for sure."
-●000873●「如果她在这里发现了你的话，那么你就会被加入她的黑名单了」
+●000873●「要是她在这发现了你，你就会被加入她的黑名单」
 
 ○000874○Yuri
 ●000874●由理
@@ -2600,19 +2600,19 @@
 ●000878●听她这么说下去，我不禁流出了一身冷汗…
 
 ○000879○This is bad.
-●000879●这可不妙。
+●000879●这可不太妙。
 
 ○000880○I believed her for a moment there, but now I take it back.
-●000880●虽然我之前短暂地相信了她，但是我现在要撤回。
+●000880●虽然我之前暂时相信了她，但我现在要收回这个想法。
 
 ○000881○The situation is this:
-●000881●现在的情况是：
+●000881●现在的情况有点不正常…
 
 ○000882○This girl's completely insane!
-●000882●这个女的绝对不正常！
+●000882●不对，是这个女的非常不正常！
 
 ○000883○As such, I pointed towards the girl walking around the sports field and made a proposal.
-●000883●于是，我指向了在操场上行走着的少女，提出了一个问题。
+●000883●于是，我指着在操场上走着的少女，说道。
 
 ○000884○Otonashi
 ●000884●音无
@@ -2651,7 +2651,7 @@
 ●000895●色批武士
 
 ○000896○Ero-Ero Brigade No.1
-●000896●老色批战队No.1
+●000896●色批战队No.1
 
 ○000897○Just Another Pervy Teenager
 ●000897●只是个色批少年
@@ -2663,13 +2663,13 @@
 ●000899●Debussy
 
 ○000900○CornHornDog
-●000900●美式色批狗
+●000900●CornHornDog
 
 ○000901○Zeus
-●000901●宙斯
+●000901●Zeus
 
 ○000902○Hinata Mk. 2
-●000902●日向Mk.2
+●000902●日向 Mk. 2
 
 ○000903○Dung Beetle
 ●000903●屎壳郎
@@ -2726,7 +2726,7 @@
 ●000920●nothing
 
 ○000921○Tossing the rifle away, she loomed over me.
-●000921●她将步枪扔到了一边，向我逼近了过来。
+●000921●她把步枪扔到了一边，朝我逼近了过来。
 
 ○000922○nothing
 ●000922●nothing
@@ -2753,13 +2753,13 @@
 ●000929●？？
 
 ○000930○"You said you believed me, didn't you!? So, why!? I don't get it! Why would you even think something like that!? Are you crazy or something!?"
-●000930●「你之前不是说你相信我的吗！？耍我吗！？我就不明白了！为什么你会有这种想法！？脑子被门夹了吗！？」
+●000930●「你之前不是说你相信我的吗！？耍我吗！？我就不明白了！为什么你会有这种想法！？脑袋被驴踢了吗！？」
 
 ○000931○There's definitely something weird about her explanation. I'm positive.
-●000931●这家伙已经变得语无伦次了。于是我更加确信了。
+●000931●这下子我更加确信，这家伙是在胡扯了。
 
 ○000932○As such, I point towards the girl walking around the sports field and ask:
-●000932●于是，我指向了在操场上行走着的少女，提出了一个问题。
+●000932●于是，我指着在操场上走着的少女，说道。
 
 ○000933○Otonashi
 ●000933●音无
@@ -2798,7 +2798,7 @@
 ●000944●色批武士
 
 ○000945○Ero-Ero Brigade No.1
-●000945●老色批战队No.1
+●000945●色批战队No.1
 
 ○000946○Just Another Pervy Teenager
 ●000946●只是个色批少年
@@ -2810,13 +2810,13 @@
 ●000948●Debussy
 
 ○000949○CornHornDog
-●000949●美式色批狗
+●000949●CornHornDog
 
 ○000950○Zeus
-●000950●宙斯
+●000950●Zeus
 
 ○000951○Hinata Mk. 2
-●000951●日向Mk.2
+●000951●日向 Mk. 2
 
 ○000952○Dung Beetle
 ●000952●屎壳郎
@@ -2873,7 +2873,7 @@
 ●000969●nothing
 
 ○000970○Tossing the rifle away, she loomed over me.
-●000970●她将步枪扔到了一边，向我逼近了过来。
+●000970●她把步枪扔到了一边，朝我逼近了过来。
 
 ○000971○nothing
 ●000971●nothing
@@ -2900,7 +2900,7 @@
 ●000978●？？
 
 ○000979○"Why!? I don't get it! Why would you even think something like that!? Are you crazy or something!?"
-●000979●「我就不明白了！为什么你会有这种想法！？脑子被门夹了吗！？」
+●000979●「我就不明白了！为什么你会有这种想法！？脑袋被驴踢了吗！？」
 
 ○000980○nothing
 ●000980●nothing
@@ -2957,7 +2957,7 @@
 ●000997●色批武士
 
 ○000998○Ero-Ero Brigade No.1
-●000998●老色批战队No.1
+●000998●色批战队No.1
 
 ○000999○Just Another Pervy Teenager
 ●000999●只是个色批少年
@@ -2969,13 +2969,13 @@
 ●001001●Debussy
 
 ○001002○CornHornDog
-●001002●美式色批狗
+●001002●CornHornDog
 
 ○001003○Zeus
-●001003●宙斯
+●001003●Zeus
 
 ○001004○Hinata Mk. 2
-●001004●日向Mk.2
+●001004●日向 Mk. 2
 
 ○001005○Dung Beetle
 ●001005●屎壳郎
@@ -2987,7 +2987,7 @@
 ●001007●？？
 
 ○001008○"Well, I mean, since we're students and all, going to class is normal, right?"
-●001008●「不过，作为学生，去上课不是理所当然的吗？」
+●001008●「不是，作为学生，去上课不是理所当然的吗？」
 
 ○001009○nothing
 ●001009●nothing
@@ -3014,7 +3014,7 @@
 ●001016●？？
 
 ○001017○"We're dead, you know!?"
-●001017●「我们不是都已经死了啊！？」
+●001017●「我们都已经死了啊！？」
 
 ○001018○Otonashi
 ●001018●音无
@@ -3053,7 +3053,7 @@
 ●001029●色批武士
 
 ○001030○Ero-Ero Brigade No.1
-●001030●老色批战队No.1
+●001030●色批战队No.1
 
 ○001031○Just Another Pervy Teenager
 ●001031●只是个色批少年
@@ -3065,13 +3065,13 @@
 ●001033●Debussy
 
 ○001034○CornHornDog
-●001034●美式色批狗
+●001034●CornHornDog
 
 ○001035○Zeus
-●001035●宙斯
+●001035●Zeus
 
 ○001036○Hinata Mk. 2
-●001036●日向Mk.2
+●001036●日向 Mk. 2
 
 ○001037○Dung Beetle
 ●001037●屎壳郎
@@ -3083,7 +3083,7 @@
 ●001039●？？
 
 ○001040○"You're contradicting yourself all over the place... weren't you supposed to be the 'Like-Hell-I'm-Dead Battlefront'?"
-●001040●「前后矛盾的发言…你不是那个『死了没法儿忍』战线的吗？」
+●001040●「你这不是前后矛盾吗…。你不是那个『死了没法儿忍战线』的吗？」
 
 ○001041○nothing
 ●001041●nothing
@@ -3110,7 +3110,7 @@
 ●001048●？？
 
 ○001049○"It's 'Like-Hell-I'm-Dead' as in 'Like hell I'm going to die like this'!"
-●001049●「这个『死了没法儿忍』，指的是『不能就这么死了，没法儿忍了』！」
+●001049●「这个『死了没法儿忍』，是『就这么死了怎么可能接受啊』的意思！」
 
 ○001050○Otonashi
 ●001050●音无
@@ -3149,7 +3149,7 @@
 ●001061●色批武士
 
 ○001062○Ero-Ero Brigade No.1
-●001062●老色批战队No.1
+●001062●色批战队No.1
 
 ○001063○Just Another Pervy Teenager
 ●001063●只是个色批少年
@@ -3161,13 +3161,13 @@
 ●001065●Debussy
 
 ○001066○CornHornDog
-●001066●美式色批狗
+●001066●CornHornDog
 
 ○001067○Zeus
-●001067●宙斯
+●001067●Zeus
 
 ○001068○Hinata Mk. 2
-●001068●日向Mk.2
+●001068●日向 Mk. 2
 
 ○001069○Dung Beetle
 ●001069●屎壳郎
@@ -3179,7 +3179,7 @@
 ●001071●？？
 
 ○001072○"So you're not dead then. In that case, I really think it's more natural to go to class."
-●001072●「那不还是没死嘛。这样的话，去上课不是更理所当然的吗」
+●001072●「那不还是没死嘛。这样的话，去上课不是理所当然的吗」
 
 ○001073○nothing
 ●001073●nothing
@@ -3206,7 +3206,7 @@
 ●001080●？？
 
 ○001081○"Look, it's like this... We died, but we refuse to accept it and now we're rising up, on the brink between life and death! That's where we are now, this is that sort of world, and in a world like that there's no way we'd be under any obligation to go to class, right!?"
-●001081●「所以说…我们死了，但是我们无法接受，于是开始在这种死与生的界限的地方进行反抗了！所以我们现在会在这里，这个世界就是这个样子，我们完全没有任何接受教育的义务，懂了吗！？」
+●001081●「所以说…我们已经死了，但是就这么死了没法接受，我们就在这种死与生的界限的地方进行反抗了！所以我们现在才会在这儿，这个世界就是这个样的，我们完全没有任何接受教育的义务，懂了吗！？」
 
 ○001082○nothing
 ●001082●nothing
@@ -3233,7 +3233,7 @@
 ●001089●？？
 
 ○001090○"Are you stupid or something? Wanna try dying? That's a joke you hear a lot in this world where no one can die, what do you think? Is it funny!?"
-●001090●「你他妈是不是傻啊？要不要去死一遍试试看啊？虽然这在不会死的世界里是一个经常能听到的笑话，很好笑对吧！？」
+●001090●「你他妈是不是傻啊！？怎么不去死一回啊？虽然这在不会死的世界里是个经常能听到的笑话，怎么样，很好笑对吧！？」
 
 ○001091○nothing
 ●001091●nothing
@@ -3296,7 +3296,7 @@
 ●001110●色批武士
 
 ○001111○Ero-Ero Brigade No.1
-●001111●老色批战队No.1
+●001111●色批战队No.1
 
 ○001112○Just Another Pervy Teenager
 ●001112●只是个色批少年
@@ -3308,13 +3308,13 @@
 ●001114●Debussy
 
 ○001115○CornHornDog
-●001115●美式色批狗
+●001115●CornHornDog
 
 ○001116○Zeus
-●001116●宙斯
+●001116●Zeus
 
 ○001117○Hinata Mk. 2
-●001117●日向Mk.2
+●001117●日向 Mk. 2
 
 ○001118○Dung Beetle
 ●001118●屎壳郎
@@ -3353,7 +3353,7 @@
 ●001129●？？
 
 ○001130○"What kind of dry laughter was that? That joke's a sure winner in this world, too!"
-●001130●「干巴巴地笑个啥呢？这笑话在这世界可是天花板级别的了！」
+●001130●「干巴巴地笑个啥呢！这笑话在这世界可是天花板级别的了！」
 
 ○001131○Otonashi
 ●001131●音无
@@ -3392,7 +3392,7 @@
 ●001142●色批武士
 
 ○001143○Ero-Ero Brigade No.1
-●001143●老色批战队No.1
+●001143●色批战队No.1
 
 ○001144○Just Another Pervy Teenager
 ●001144●只是个色批少年
@@ -3404,13 +3404,13 @@
 ●001146●Debussy
 
 ○001147○CornHornDog
-●001147●美式色批狗
+●001147●CornHornDog
 
 ○001148○Zeus
-●001148●宙斯
+●001148●Zeus
 
 ○001149○Hinata Mk. 2
-●001149●日向Mk.2
+●001149●日向 Mk. 2
 
 ○001150○Dung Beetle
 ●001150●屎壳郎
@@ -3422,7 +3422,7 @@
 ●001152●？？
 
 ○001153○"That's the best I can do, sorry."
-●001153●「抱歉，我已经尽力了」
+●001153●「抱歉，我已经尽力在笑了」
 
 ○001154○Otonashi
 ●001154●音无
@@ -3461,7 +3461,7 @@
 ●001165●色批武士
 
 ○001166○Ero-Ero Brigade No.1
-●001166●老色批战队No.1
+●001166●色批战队No.1
 
 ○001167○Just Another Pervy Teenager
 ●001167●只是个色批少年
@@ -3473,13 +3473,13 @@
 ●001169●Debussy
 
 ○001170○CornHornDog
-●001170●美式色批狗
+●001170●CornHornDog
 
 ○001171○Zeus
-●001171●宙斯
+●001171●Zeus
 
 ○001172○Hinata Mk. 2
-●001172●日向Mk.2
+●001172●日向 Mk. 2
 
 ○001173○Dung Beetle
 ●001173●屎壳郎
@@ -3491,7 +3491,7 @@
 ●001175●？？
 
 ○001176○"Anyhow, could you get out of my way?"
-●001176●「所以，麻烦你能让开一点吗？」
+●001176●「所以，麻烦你能让开点吗？」
 
 ○001177○Otonashi
 ●001177●音无
@@ -3530,7 +3530,7 @@
 ●001188●色批武士
 
 ○001189○Ero-Ero Brigade No.1
-●001189●老色批战队No.1
+●001189●色批战队No.1
 
 ○001190○Just Another Pervy Teenager
 ●001190●只是个色批少年
@@ -3542,13 +3542,13 @@
 ●001192●Debussy
 
 ○001193○CornHornDog
-●001193●美式色批狗
+●001193●CornHornDog
 
 ○001194○Zeus
-●001194●宙斯
+●001194●Zeus
 
 ○001195○Hinata Mk. 2
-●001195●日向Mk.2
+●001195●日向 Mk. 2
 
 ○001196○Dung Beetle
 ●001196●屎壳郎
@@ -3560,7 +3560,7 @@
 ●001198●？？
 
 ○001199○"Well, let's say that I liked it and move on. I'm going over there now, so could you get out of my way?"
-●001199●「嘛，我对这个笑话的感想还不错。所以我要去那边了，能让开一点吗？」
+●001199●「嘛，对笑话的感想先放一边。我要去那边了，麻烦你能让开点吗？」
 
 ○001200○nothing
 ●001200●nothing
@@ -3590,7 +3590,7 @@
 ●001208●「……」
 
 ○001209○She stared at me in silence. Time passed by as we faced each other down.
-●001209●她默默地盯着我。时间就这样在我们对视的过程中流逝着。
+●001209●她默默地盯着我。就在我走过她旁边的时候…
 
 ○001210○nothing
 ●001210●nothing
@@ -3656,7 +3656,7 @@
 ●001230●色批武士
 
 ○001231○Ero-Ero Brigade No.1
-●001231●老色批战队No.1
+●001231●色批战队No.1
 
 ○001232○Just Another Pervy Teenager
 ●001232●只是个色批少年
@@ -3668,13 +3668,13 @@
 ●001234●Debussy
 
 ○001235○CornHornDog
-●001235●美式色批狗
+●001235●CornHornDog
 
 ○001236○Zeus
-●001236●宙斯
+●001236●Zeus
 
 ○001237○Hinata Mk. 2
-●001237●日向Mk.2
+●001237●日向 Mk. 2
 
 ○001238○Dung Beetle
 ●001238●屎壳郎
@@ -3752,7 +3752,7 @@
 ●001262●色批武士
 
 ○001263○Ero-Ero Brigade No.1
-●001263●老色批战队No.1
+●001263●色批战队No.1
 
 ○001264○Just Another Pervy Teenager
 ●001264●只是个色批少年
@@ -3764,13 +3764,13 @@
 ●001266●Debussy
 
 ○001267○CornHornDog
-●001267●美式色批狗
+●001267●CornHornDog
 
 ○001268○Zeus
-●001268●宙斯
+●001268●Zeus
 
 ○001269○Hinata Mk. 2
-●001269●日向Mk.2
+●001269●日向 Mk. 2
 
 ○001270○Dung Beetle
 ●001270●屎壳郎
@@ -3809,10 +3809,10 @@
 ●001281●？？
 
 ○001282○"You'll die for real, you know?"
-●001282●「这样的话真的会死哦？」
+●001282●「这样的话你会真正意义上地死掉哦？」
 
 ○001283○Her expression was horribly meek.
-●001283●她的表情相当的温柔。
+●001283●她的表情出奇的平静。
 
 ○001284○nothing
 ●001284●nothing
@@ -3839,7 +3839,7 @@
 ●001291●？？
 
 ○001292○"But right now, you exist here."
-●001292●「但是现在，你还在这里存在着」
+●001292●「但是现在，你还存在于此处」
 
 ○001293○nothing
 ●001293●nothing
@@ -3866,7 +3866,7 @@
 ●001300●？？
 
 ○001301○"You'd deliberately throw that away? Doesn't that seem sad to you?"
-●001301●「确定要抛弃这一切吗？不会感到悲伤吗？」
+●001301●「你确定要白白抛弃这一切吗？不会感到悲伤吗？」
 
 ○001302○Otonashi
 ●001302●音无
@@ -3905,7 +3905,7 @@
 ●001313●色批武士
 
 ○001314○Ero-Ero Brigade No.1
-●001314●老色批战队No.1
+●001314●色批战队No.1
 
 ○001315○Just Another Pervy Teenager
 ●001315●只是个色批少年
@@ -3917,13 +3917,13 @@
 ●001317●Debussy
 
 ○001318○CornHornDog
-●001318●美式色批狗
+●001318●CornHornDog
 
 ○001319○Zeus
-●001319●宙斯
+●001319●Zeus
 
 ○001320○Hinata Mk. 2
-●001320●日向Mk.2
+●001320●日向 Mk. 2
 
 ○001321○Dung Beetle
 ●001321●屎壳郎
@@ -3947,16 +3947,16 @@
 ●001327●男性B
 
 ○001328○Ero-Ero Brigade Commander
-●001328●老色批战队统帅
+●001328●Ero-Ero Brigade Commander
 
 ○001329○Niceschlong
-●001329●长枪
+●001329●Niceschlong
 
 ○001330○Homotaro
 ●001330●Homotaro
 
 ○001331○Hinaschlong
-●001331●日枪
+●001331●Hinaschlong
 
 ○001332○Hideki
 ●001332●秀树
@@ -3983,7 +3983,7 @@
 ●001339●nothing
 
 ○001340○A new voice.
-●001340●新的声音。
+●001340●另一个声音。
 
 ○001341○nothing
 ●001341●nothing
@@ -4007,16 +4007,16 @@
 ●001347●男性B
 
 ○001348○Ero-Ero Brigade Commander
-●001348●老色批战队统帅
+●001348●Ero-Ero Brigade Commander
 
 ○001349○Niceschlong
-●001349●长枪
+●001349●Niceschlong
 
 ○001350○Homotaro
 ●001350●Homotaro
 
 ○001351○Hinaschlong
-●001351●日枪
+●001351●Hinaschlong
 
 ○001352○Hideki
 ●001352●秀树
@@ -4070,16 +4070,16 @@
 ●001368●男性B
 
 ○001369○Ero-Ero Brigade Commander
-●001369●老色批战队统帅
+●001369●Ero-Ero Brigade Commander
 
 ○001370○Niceschlong
-●001370●长枪
+●001370●Niceschlong
 
 ○001371○Homotaro
 ●001371●Homotaro
 
 ○001372○Hinaschlong
-●001372●日枪
+●001372●Hinaschlong
 
 ○001373○Hideki
 ●001373●秀树
@@ -4094,7 +4094,7 @@
 ●001376●「不妙…」
 
 ○001377○Looks like one of her friends. I'm done with this.
-●001377●看起来像是她的伙伴。我还是撤了比较好。
+●001377●看起来是她的同伴。我还是溜了吧。
 
 ○001378○Otonashi
 ●001378●音无
@@ -4133,7 +4133,7 @@
 ●001389●色批武士
 
 ○001390○Ero-Ero Brigade No.1
-●001390●老色批战队No.1
+●001390●色批战队No.1
 
 ○001391○Just Another Pervy Teenager
 ●001391●只是个色批少年
@@ -4145,13 +4145,13 @@
 ●001393●Debussy
 
 ○001394○CornHornDog
-●001394●美式色批狗
+●001394●CornHornDog
 
 ○001395○Zeus
-●001395●宙斯
+●001395●Zeus
 
 ○001396○Hinata Mk. 2
-●001396●日向Mk.2
+●001396●日向 Mk. 2
 
 ○001397○Dung Beetle
 ●001397●屎壳郎
@@ -4163,10 +4163,10 @@
 ●001399●？？
 
 ○001400○"Yeah, I'm going over there."
-●001400●「那么，我往那边去了」
+●001400●「那么，我往那边走了。」
 
 ○001401○The petite schoolgirl who she'd been pointing her gun at was still in the sports field. I set off towards her, climbing down the large staircase in front of me.
-●001401●被步枪瞄准着的娇小的女生依然在操场上。我走下了面前的大台阶，向她的方向走了过去。
+●001401●刚刚被步枪瞄准的娇小的女生依然在操场上。我走下了眼前的大台阶，向她的方向走了过去。
 
 ○001402○Yuri
 ●001402●由理
@@ -4178,7 +4178,7 @@
 ●001404●？？
 
 ○001405○"Uwaaaaaaaaah, recruitment faaaaaaaaailed!"
-●001405●「呜啊啊啊啊啊啊，劝诱失败了啊啊啊啊啊啊！」
+●001405●「呜啊啊啊啊啊啊啊，劝诱失败了啊啊啊啊啊！」
 
 ○001406○Hinata
 ●001406●日向
@@ -4187,16 +4187,16 @@
 ●001407●男性B
 
 ○001408○Ero-Ero Brigade Commander
-●001408●老色批战队统帅
+●001408●Ero-Ero Brigade Commander
 
 ○001409○Niceschlong
-●001409●长枪
+●001409●Niceschlong
 
 ○001410○Homotaro
 ●001410●Homotaro
 
 ○001411○Hinaschlong
-●001411●日枪
+●001411●Hinaschlong
 
 ○001412○Hideki
 ●001412●秀树
@@ -4208,7 +4208,7 @@
 ●001414●？？
 
 ○001415○"Wait, is this my fault?"
-●001415●「等下，难道是我的错？」
+●001415●「欸？难道是我的错？」
 
 ○001416○Yuri
 ●001416●由理
@@ -4220,13 +4220,13 @@
 ●001418●？？
 
 ○001419○"Who the hell else is here!? Graaaaaaaaaah!!"
-●001419●「还能有谁啊！？咕啊啊啊啊！！」
+●001419●「还能是谁啊！？咕啊啊啊啊！！」
 
 ○001420○I heard their heated voices behind me, but of course I ignored them.
 ●001420●背后传来了争吵的声音，但被我无视了。
 
 ○001421○What's their problem? Seriously, what the hell...
-●001421●她们在搞什么啊？真的是莫名其妙…。
+●001421●他们在搞什么啊？莫名其妙…。
 
 ○001422○nothing
 ●001422●nothing
@@ -4244,13 +4244,13 @@
 ●001426●nothing
 
 ○001427○I was sure I was within her field of vision, but it seemed like she hadn't noticed me at all.
-●001427●我进入了她的视线范围之内，但她好像并没有注意到我。
+●001427●明明我走进了她的视野里，她却好像完全没有注意到我。
 
 ○001428○No helping it, I guess. I stepped out in front of her, blocking her path.
-●001428●看来是没办法了，于是我站到了她的面前，挡住了她的路。
+●001428●看来是没办法了。我站到了她的面前，挡住了她的路。
 
 ○001429○She'll have to notice me, like it or not.
-●001429●不管怎样，这样她就会注意到我了。
+●001429●不管怎样，这样她总能注意到我了吧。
 
 ○001430○nothing
 ●001430●nothing
@@ -4283,10 +4283,10 @@
 ●001439●「……」
 
 ○001440○But still, eye contact was as close to a reaction as I got from her.
-●001440●但她的反应，仍然只是移动目光而已。
+●001440●但她的反应，仍然只是和我四目相对而已。
 
 ○001441○It was up to me to start a conversation.
-●001441●看来得由我开始对话了。
+●001441●看来得我来说点什么。
 
 ○001442○Otonashi
 ●001442●音无
@@ -4325,7 +4325,7 @@
 ●001453●色批武士
 
 ○001454○Ero-Ero Brigade No.1
-●001454●老色批战队No.1
+●001454●色批战队No.1
 
 ○001455○Just Another Pervy Teenager
 ●001455●只是个色批少年
@@ -4337,13 +4337,13 @@
 ●001457●Debussy
 
 ○001458○CornHornDog
-●001458●美式色批狗
+●001458●CornHornDog
 
 ○001459○Zeus
-●001459●宙斯
+●001459●Zeus
 
 ○001460○Hinata Mk. 2
-●001460●日向Mk.2
+●001460●日向 Mk. 2
 
 ○001461○Dung Beetle
 ●001461●屎壳郎
@@ -4355,7 +4355,7 @@
 ●001463●？？
 
 ○001464○"So, I hear you're an angel?"
-●001464●「那个，据说你是天使？」
+●001464●「那个，据说你是天使什么的？」
 
 ○001465○nothing
 ●001465●nothing
@@ -4424,7 +4424,7 @@
 ●001486●色批武士
 
 ○001487○Ero-Ero Brigade No.1
-●001487●老色批战队No.1
+●001487●色批战队No.1
 
 ○001488○Just Another Pervy Teenager
 ●001488●只是个色批少年
@@ -4436,13 +4436,13 @@
 ●001490●Debussy
 
 ○001491○CornHornDog
-●001491●美式色批狗
+●001491●CornHornDog
 
 ○001492○Zeus
-●001492●宙斯
+●001492●Zeus
 
 ○001493○Hinata Mk. 2
-●001493●日向Mk.2
+●001493●日向 Mk. 2
 
 ○001494○Dung Beetle
 ●001494●屎壳郎
@@ -4454,7 +4454,7 @@
 ●001496●？？
 
 ○001497○"Yeah, the folks who're fighting with you said that."
-●001497●「那些和你战斗的家伙们是这么说的」
+●001497●「那些和你战斗的家伙是这么说的」
 
 ○001498○nothing
 ●001498●nothing
@@ -4484,7 +4484,7 @@
 ●001506●？？
 
 ○001507○"...You mean Class Three S?"
-●001507●「…你是说高三S班的那群人？」
+●001507●「…你是说SSS组的那群人？」
 
 ○001508○Otonashi
 ●001508●音无
@@ -4523,7 +4523,7 @@
 ●001519●色批武士
 
 ○001520○Ero-Ero Brigade No.1
-●001520●老色批战队No.1
+●001520●色批战队No.1
 
 ○001521○Just Another Pervy Teenager
 ●001521●只是个色批少年
@@ -4535,13 +4535,13 @@
 ●001523●Debussy
 
 ○001524○CornHornDog
-●001524●美式色批狗
+●001524●CornHornDog
 
 ○001525○Zeus
-●001525●宙斯
+●001525●Zeus
 
 ○001526○Hinata Mk. 2
-●001526●日向Mk.2
+●001526●日向 Mk. 2
 
 ○001527○Dung Beetle
 ●001527●屎壳郎
@@ -4553,7 +4553,7 @@
 ●001529●？？
 
 ○001530○"Probably, yeah. They said since you were an angel, you'd force us to rest in peace or something. Is that right?"
-●001530●「好像是吧。她们说你是天使，会强迫我们成佛之类的，对吧？」
+●001530●「啊，应该是那群人吧。他们说你是天使，会强迫我们成佛之类的，对吧？」
 
 ○001531○nothing
 ●001531●nothing
@@ -4583,7 +4583,7 @@
 ●001539●？？
 
 ○001540○"...I'm not an angel."
-●001540●「我不是什么天使」
+●001540●「…我不是什么天使」
 
 ○001541○Otonashi
 ●001541●音无
@@ -4622,7 +4622,7 @@
 ●001552●色批武士
 
 ○001553○Ero-Ero Brigade No.1
-●001553●老色批战队No.1
+●001553●色批战队No.1
 
 ○001554○Just Another Pervy Teenager
 ●001554●只是个色批少年
@@ -4634,13 +4634,13 @@
 ●001556●Debussy
 
 ○001557○CornHornDog
-●001557●美式色批狗
+●001557●CornHornDog
 
 ○001558○Zeus
-●001558●宙斯
+●001558●Zeus
 
 ○001559○Hinata Mk. 2
-●001559●日向Mk.2
+●001559●日向 Mk. 2
 
 ○001560○Dung Beetle
 ●001560●屎壳郎
@@ -4721,7 +4721,7 @@
 ●001585●色批武士
 
 ○001586○Ero-Ero Brigade No.1
-●001586●老色批战队No.1
+●001586●色批战队No.1
 
 ○001587○Just Another Pervy Teenager
 ●001587●只是个色批少年
@@ -4733,13 +4733,13 @@
 ●001589●Debussy
 
 ○001590○CornHornDog
-●001590●美式色批狗
+●001590●CornHornDog
 
 ○001591○Zeus
-●001591●宙斯
+●001591●Zeus
 
 ○001592○Hinata Mk. 2
-●001592●日向Mk.2
+●001592●日向 Mk. 2
 
 ○001593○Dung Beetle
 ●001593●屎壳郎
@@ -4751,7 +4751,7 @@
 ●001595●？？
 
 ○001596○"Like... of this school?"
-●001596●「…这个学校的？」
+●001596●「欸…这个学校的？」
 
 ○001597○nothing
 ●001597●nothing
@@ -4808,7 +4808,7 @@
 ●001614●色批武士
 
 ○001615○Ero-Ero Brigade No.1
-●001615●老色批战队No.1
+●001615●色批战队No.1
 
 ○001616○Just Another Pervy Teenager
 ●001616●只是个色批少年
@@ -4820,13 +4820,13 @@
 ●001618●Debussy
 
 ○001619○CornHornDog
-●001619●美式色批狗
+●001619●CornHornDog
 
 ○001620○Zeus
-●001620●宙斯
+●001620●Zeus
 
 ○001621○Hinata Mk. 2
-●001621●日向Mk.2
+●001621●日向 Mk. 2
 
 ○001622○Dung Beetle
 ●001622●屎壳郎
@@ -4838,7 +4838,7 @@
 ●001624●？？
 
 ○001625○"So, who are those other people?"
-●001625●「所以，她们又是谁？」
+●001625●「所以，那群人又是谁？」
 
 ○001626○nothing
 ●001626●nothing
@@ -4868,7 +4868,7 @@
 ●001634●？？
 
 ○001635○"Class Three S."
-●001635●「高三S班」
+●001635●「SSS组的人」
 
 ○001636○nothing
 ●001636●nothing
@@ -4886,7 +4886,7 @@
 ●001640●nothing
 
 ○001641○Class Three S...
-●001641●高三S班…
+●001641●高三S班…。
 
 ○001642○Class 3-S.
 ●001642●3-S。
@@ -4895,7 +4895,7 @@
 ●001643●…高三年级，S班。
 
 ○001644○I can't believe I played along with their ridiculous prank...
-●001644●没想到自己居然被她们耍了…
+●001644●没想到自己居然被她们耍了…。
 
 ○001645○Otonashi
 ●001645●音无
@@ -4934,7 +4934,7 @@
 ●001656●色批武士
 
 ○001657○Ero-Ero Brigade No.1
-●001657●老色批战队No.1
+●001657●色批战队No.1
 
 ○001658○Just Another Pervy Teenager
 ●001658●只是个色批少年
@@ -4946,13 +4946,13 @@
 ●001660●Debussy
 
 ○001661○CornHornDog
-●001661●美式色批狗
+●001661●CornHornDog
 
 ○001662○Zeus
-●001662●宙斯
+●001662●Zeus
 
 ○001663○Hinata Mk. 2
-●001663●日向Mk.2
+●001663●日向 Mk. 2
 
 ○001664○Dung Beetle
 ●001664●屎壳郎
@@ -4964,7 +4964,7 @@
 ●001666●？？
 
 ○001667○"God, I'm a moron..."
-●001667●「我是真的傻…」
+●001667●「我怎么这么傻…」
 
 ○001668○nothing
 ●001668●nothing
@@ -5033,7 +5033,7 @@
 ●001689●色批武士
 
 ○001690○Ero-Ero Brigade No.1
-●001690●老色批战队No.1
+●001690●色批战队No.1
 
 ○001691○Just Another Pervy Teenager
 ●001691●只是个色批少年
@@ -5045,13 +5045,13 @@
 ●001693●Debussy
 
 ○001694○CornHornDog
-●001694●美式色批狗
+●001694●CornHornDog
 
 ○001695○Zeus
-●001695●宙斯
+●001695●Zeus
 
 ○001696○Hinata Mk. 2
-●001696●日向Mk.2
+●001696●日向 Mk. 2
 
 ○001697○Dung Beetle
 ●001697●屎壳郎
@@ -5063,7 +5063,7 @@
 ●001699●？？
 
 ○001700○"Dammit, they were messing with me since I've lost my memory. I don't even know who I am, so I'm gonna go to the hospital now."
-●001700●「妈的，这帮人就冲着我没有记忆来耍我。我连自己是谁都不知道，还是去医院看看吧」
+●001700●「妈的，这帮人就冲着我没有记忆来耍我。我连自己是谁都不知道，还是去一趟医院吧」
 
 ○001701○nothing
 ●001701●nothing
@@ -5132,7 +5132,7 @@
 ●001722●色批武士
 
 ○001723○Ero-Ero Brigade No.1
-●001723●老色批战队No.1
+●001723●色批战队No.1
 
 ○001724○Just Another Pervy Teenager
 ●001724●只是个色批少年
@@ -5144,13 +5144,13 @@
 ●001726●Debussy
 
 ○001727○CornHornDog
-●001727●美式色批狗
+●001727●CornHornDog
 
 ○001728○Zeus
-●001728●宙斯
+●001728●Zeus
 
 ○001729○Hinata Mk. 2
-●001729●日向Mk.2
+●001729●日向 Mk. 2
 
 ○001730○Dung Beetle
 ●001730●屎壳郎
@@ -5192,7 +5192,7 @@
 ●001744●为什么我又开始寒颤了…？
 
 ○001745○Wait, wait, wait...
-●001745●等一下等一下等一下…
+●001745●等一下等一下等一下...
 
 ○001746○Otonashi
 ●001746●音无
@@ -5231,7 +5231,7 @@
 ●001757●色批武士
 
 ○001758○Ero-Ero Brigade No.1
-●001758●老色批战队No.1
+●001758●色批战队No.1
 
 ○001759○Just Another Pervy Teenager
 ●001759●只是个色批少年
@@ -5243,13 +5243,13 @@
 ●001761●Debussy
 
 ○001762○CornHornDog
-●001762●美式色批狗
+●001762●CornHornDog
 
 ○001763○Zeus
-●001763●宙斯
+●001763●Zeus
 
 ○001764○Hinata Mk. 2
-●001764●日向Mk.2
+●001764●日向 Mk. 2
 
 ○001765○Dung Beetle
 ●001765●屎壳郎
@@ -5261,7 +5261,7 @@
 ●001767●？？
 
 ○001768○"And... Why is that?"
-●001768●「为什么…会这样呢？」
+●001768●「…这又是…为什么呢？」
 
 ○001769○Angel
 ●001769●天使
@@ -5294,7 +5294,7 @@
 ●001778●nothing
 
 ○001779○The chill I had felt was washed away by anger.
-●001779●恐惧转变为了愤怒。
+●001779●心中的恐惧转变成了愤怒。
 
 ○001780○Otonashi
 ●001780●音无
@@ -5333,7 +5333,7 @@
 ●001791●色批武士
 
 ○001792○Ero-Ero Brigade No.1
-●001792●老色批战队No.1
+●001792●色批战队No.1
 
 ○001793○Just Another Pervy Teenager
 ●001793●只是个色批少年
@@ -5345,13 +5345,13 @@
 ●001795●Debussy
 
 ○001796○CornHornDog
-●001796●美式色批狗
+●001796●CornHornDog
 
 ○001797○Zeus
-●001797●宙斯
+●001797●Zeus
 
 ○001798○Hinata Mk. 2
-●001798●日向Mk.2
+●001798●日向 Mk. 2
 
 ○001799○Dung Beetle
 ●001799●屎壳郎
@@ -5363,7 +5363,7 @@
 ●001801●？？
 
 ○001802○"Oh, I get it now! You're in on it too! You're all trying to mess with me!"
-●001802●「我懂了！你和那帮人是一伙儿的！你们都是在耍我！」
+●001802●「啊，我懂了。你和那帮人是一伙儿的，你们都在耍我是吧」
 
 ○001803○Otonashi
 ●001803●音无
@@ -5402,7 +5402,7 @@
 ●001814●色批武士
 
 ○001815○Ero-Ero Brigade No.1
-●001815●老色批战队No.1
+●001815●色批战队No.1
 
 ○001816○Just Another Pervy Teenager
 ●001816●只是个色批少年
@@ -5414,13 +5414,13 @@
 ●001818●Debussy
 
 ○001819○CornHornDog
-●001819●美式色批狗
+●001819●CornHornDog
 
 ○001820○Zeus
-●001820●宙斯
+●001820●Zeus
 
 ○001821○Hinata Mk. 2
-●001821●日向Mk.2
+●001821●日向 Mk. 2
 
 ○001822○Dung Beetle
 ●001822●屎壳郎
@@ -5432,7 +5432,7 @@
 ●001824●？？
 
 ○001825○"The hell!? Is this amnesia some trick of yours, too!?"
-●001825●「为什么！？我的记忆丧失也是你们搞的鬼吧！？」
+●001825●「为什么！？我丧失记忆也是你们搞的鬼吧！？」
 
 ○001826○bs2_
 ●001826●bs2_
@@ -5453,7 +5453,7 @@
 ●001831●nothing
 
 ○001832○I stepped towards her, raising my voice in irritation.
-●001832●我向她步步紧逼，声音变得愤怒而焦躁。
+●001832●我向她逼近了一步，声音变得愤怒而焦躁。
 
 ○001833○nothing
 ●001833●nothing
@@ -5522,7 +5522,7 @@
 ●001854●色批武士
 
 ○001855○Ero-Ero Brigade No.1
-●001855●老色批战队No.1
+●001855●色批战队No.1
 
 ○001856○Just Another Pervy Teenager
 ●001856●只是个色批少年
@@ -5534,13 +5534,13 @@
 ●001858●Debussy
 
 ○001859○CornHornDog
-●001859●美式色批狗
+●001859●CornHornDog
 
 ○001860○Zeus
-●001860●宙斯
+●001860●Zeus
 
 ○001861○Hinata Mk. 2
-●001861●日向Mk.2
+●001861●日向 Mk. 2
 
 ○001862○Dung Beetle
 ●001862●屎壳郎
@@ -5552,7 +5552,7 @@
 ●001864●？？
 
 ○001865○"Again with the afterlife crap!"
-●001865●「又是死后的世界这种屁话！」
+●001865●「又是死后世界这种屁话！」
 
 ○001866○nothing
 ●001866●nothing
@@ -5606,7 +5606,7 @@
 ●001882●色批武士
 
 ○001883○Ero-Ero Brigade No.1
-●001883●老色批战队No.1
+●001883●色批战队No.1
 
 ○001884○Just Another Pervy Teenager
 ●001884●只是个色批少年
@@ -5618,13 +5618,13 @@
 ●001886●Debussy
 
 ○001887○CornHornDog
-●001887●美式色批狗
+●001887●CornHornDog
 
 ○001888○Zeus
-●001888●宙斯
+●001888●Zeus
 
 ○001889○Hinata Mk. 2
-●001889●日向Mk.2
+●001889●日向 Mk. 2
 
 ○001890○Dung Beetle
 ●001890●屎壳郎
@@ -5636,7 +5636,7 @@
 ●001892●？？
 
 ○001893○"All right then, prove it to me! I'm already dead, so prove that I can't die again!"
-●001893●「那么，证明给我看啊！既然我已经死了，那就证明我不会再死一次了！」
+●001893●「那么，证明给我看啊！我已经死了的话，就不会再死一次了吧！」
 
 ○001894○nothing
 ●001894●nothing
@@ -5702,7 +5702,7 @@
 ●001914●nothing
 
 ○001915○A glowing object manifested from behind her right hand.
-●001915●她的右手后方显现出了一个发光的物体。
+●001915●她的右手手背显现出了一个发光的物体。
 
 ○001916○Otonashi
 ●001916●音无
@@ -5741,7 +5741,7 @@
 ●001927●色批武士
 
 ○001928○Ero-Ero Brigade No.1
-●001928●老色批战队No.1
+●001928●色批战队No.1
 
 ○001929○Just Another Pervy Teenager
 ●001929●只是个色批少年
@@ -5753,13 +5753,13 @@
 ●001931●Debussy
 
 ○001932○CornHornDog
-●001932●美式色批狗
+●001932●CornHornDog
 
 ○001933○Zeus
-●001933●宙斯
+●001933●Zeus
 
 ○001934○Hinata Mk. 2
-●001934●日向Mk.2
+●001934●日向 Mk. 2
 
 ○001935○Dung Beetle
 ●001935●屎壳郎
@@ -5774,7 +5774,7 @@
 ●001938●（那是什么玩意啊…？）
 
 ○001939○A glowing blade. I couldn't describe it any other way...
-●001939●激光剑。除此之外已经没有别的描述方法了…
+●001939●激光剑。除此之外没有别的词语可以描述了…
 
 ○001940○nothing
 ●001940●nothing
@@ -5843,7 +5843,7 @@
 ●001961●色批武士
 
 ○001962○Ero-Ero Brigade No.1
-●001962●老色批战队No.1
+●001962●色批战队No.1
 
 ○001963○Just Another Pervy Teenager
 ●001963●只是个色批少年
@@ -5855,13 +5855,13 @@
 ●001965●Debussy
 
 ○001966○CornHornDog
-●001966●美式色批狗
+●001966●CornHornDog
 
 ○001967○Zeus
-●001967●宙斯
+●001967●Zeus
 
 ○001968○Hinata Mk. 2
-●001968●日向Mk.2
+●001968●日向 Mk. 2
 
 ○001969○Dung Beetle
 ●001969●屎壳郎
@@ -5873,7 +5873,7 @@
 ●001971●？？
 
 ○001972○"Go ahead, stab that thing straight into my heart!"
-●001972●「来吧，直接用这个刺进我的心脏吧！」
+●001972●「来吧，直接用这个刺进我的心脏吧！！」
 
 ○001973○Otonashi
 ●001973●音无
@@ -5912,7 +5912,7 @@
 ●001984●色批武士
 
 ○001985○Ero-Ero Brigade No.1
-●001985●老色批战队No.1
+●001985●色批战队No.1
 
 ○001986○Just Another Pervy Teenager
 ●001986●只是个色批少年
@@ -5924,13 +5924,13 @@
 ●001988●Debussy
 
 ○001989○CornHornDog
-●001989●美式色批狗
+●001989●CornHornDog
 
 ○001990○Zeus
-●001990●宙斯
+●001990●Zeus
 
 ○001991○Hinata Mk. 2
-●001991●日向Mk.2
+●001991●日向 Mk. 2
 
 ○001992○Dung Beetle
 ●001992●屎壳郎
@@ -5960,7 +5960,7 @@
 ●002000●「这样啊…」
 
 ○002001○In that last moment, she looked a bit sad.
-●002001●在最后的瞬间，她的脸上似乎闪过了一丝悲伤。
+●002001●最后的一瞬间，她的脸上似乎闪过了一丝悲伤。
 
 ○002002○None
 ●002002●None
