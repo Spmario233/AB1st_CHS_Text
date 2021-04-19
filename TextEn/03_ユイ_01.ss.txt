@@ -107,7 +107,7 @@
 ●000035●？？
 
 ○000036○"Announcing tomorrow's diversion, huh?"
-●000036●「告知明天的佯攻吗—」
+●000036●「明天的佯攻的告知吗——」
 
 ○000037○nothing
 ●000037●nothing
@@ -236,7 +236,7 @@
 ●000078●？？
 
 ○000079○"Huh? You know about me?"
-●000079●「诶？你知道我吗？」
+●000079●「诶？你认识我吗？」
 
 ○000080○nothing
 ●000080●nothing
@@ -290,7 +290,7 @@
 ●000096●nothing
 
 ○000097○That asshole...
-●000097●那个混蛋…。
+●000097●那个混蛋……。
 
 ○000098○Otonashi
 ●000098●音无
@@ -398,7 +398,7 @@
 ●000132●女学生
 
 ○000133○"Nah, it's crazy! Totally unprecedented! And it's not even a guerrilla show, we're actually announcing it!" 
-●000133●「肯定有问题啊。完全前所未闻的说。而且这次不是游击演出，而是提前告知的演唱会呢」 
+●000133●「这可不得了啊。可谓是前所未闻。而且这次不是突击演出，而是提前告知的演唱会呢」
 
 ○000134○nothing
 ●000134●nothing
@@ -419,7 +419,7 @@
 ●000139●女学生
 
 ○000140○"No way the teachers are gonna let this slide! There's no telling who's gonna show up to stop us!"
-●000140●「老师们肯定会来管的，还不知道会有什么来阻碍的说」
+●000140●「老师们肯定会来管的，还不知道会不会有什么其他阻碍」
 
 ○000141○nothing
 ●000141●nothing
@@ -578,7 +578,7 @@
 ●000194●由依
 
 ○000195○"I'm Yui! I'm still just an underling in the Diversion team..."
-●000195●「我叫由依！现在还只是在佯攻部队的下层的说…」
+●000195●「我叫由依！虽然现在还只是属于佯攻部队的下层……」
 
 ○000196○nothing
 ●000196●nothing
@@ -599,7 +599,7 @@
 ●000201●由依
 
 ○000202○"Ah, but I'm totally satisfied with that! I mean, I'm helping out GirlDeMo, y'know!?"
-●000202●「啊，但是我很满足的说！因为能够帮助到GDM！」
+●000202●「啊，不过能够给GDM帮忙，我已经很满足了！」
 
 ○000203○nothing
 ●000203●nothing
@@ -620,7 +620,7 @@
 ●000208●由依
 
 ○000209○"An all-girl band, but with unbelievably powerful performances! Not to mention the incredible presence and quality of Iwasawa-san's vocals and guitar!"
-●000209●「仅由女性散发出超强的演奏力！更不用说身为主唱和吉他手的岩泽同学的存在感了！」
+●000209●「仅凭女子就能发挥出如此的演奏力！而且更不用说，身为主唱兼吉他手的岩泽同学的存在感！」
 
 ○000210○nothing
 ●000210●nothing
@@ -641,13 +641,13 @@
 ●000215●由依
 
 ○000216○"She writes and composes all their music on her own! My favorite's Crow Song!! The way the key changes at the hook's just the absolute best!"
-●000216●「作词作曲都是由自己一个人完成的！我最喜欢的是
+●000216●「作词作曲都由她自己一个人完成！我最喜欢的歌曲是
 
 ○000217○Crow Song
 ●000217●Crow Song
 
 ○000218○！！　サビの転調の思い切りが良くていいんですよ！」
-●000218●！！副歌的转调真的最棒了！」
+●000218●！！副歌的转调真的太棒了！」
 
 ○000219○nothing
 ●000219●nothing
@@ -668,10 +668,10 @@
 ●000224●由依
 
 ○000225○"And the lyrics are the very essence of Iwasawa-san, and..."
-●000225●「而且歌词本身，正是岩泽同学本身…」
+●000225●「而且歌词本身，恰恰诠释了岩泽同学自己……」
 
 ○000226○Am I just going to stand here and listen to this...?
-●000226●我要就这么听下去吗…？
+●000226●我还要这样子听下去吗……？
 
 ○000227○Keep quiet and listen
 ●000227●默默地听着
@@ -707,7 +707,7 @@
 ●000237●Alchemy
 
 ○000238○ー！」
-●000238●了—！」
+●000238●了——！」
 
 ○000239○nothing
 ●000239●nothing
@@ -797,7 +797,7 @@
 ●000267●由依
 
 ○000268○"And the way the drummer Irie-san's usually all shy and sweet like a cute little hamster or something but then totally shifts personalities when she's at the drums and beats the hell out of 'em cranks the voltage up to the max!!"
-●000268●「还有平时像小动物一样腼腆可爱的鼓手，入江同学，性格突然地发生豹变，开始华丽地击鼓，进入电压MAX的状态！」
+●000268●「还有平时像小动物一样腼腆可爱的鼓手，入江同学，在台上就会性格突变，开始华丽地击鼓，进入电压MAX的状态！」
 
 ○000269○nothing
 ●000269●nothing
@@ -818,10 +818,10 @@
 ●000274●由依
 
 ○000275○"And then, and then...!"
-●000275●「而且还有…！」
+●000275●「还有还有……！」
 
 ○000276○This doesn't look like it's ever going to end.
-●000276●看起来好像不会结束的样子。
+●000276●看起来好像还不会结束的样子。
 
 ○000277○nothing
 ●000277●nothing
@@ -950,7 +950,7 @@
 ●000318●由依
 
 ○000319○"Hey, I'm not done yet! GirlDeMo's this world's one and only―"
-●000319●「喂，还没结束呢！GDM可是这个世界独一无二的—」
+●000319●「喂，我还没讲完呢！GDM可是这个世界独一无二的——」
 
 ○000320○Otonashi
 ●000320●音无
@@ -1019,7 +1019,7 @@
 ●000341●？？
 
 ○000342○"If you have the time to be loafing around like this, why don't you hurry up and use it to help out your beloved GirlDeMo already!?"
-●000342●「如果你有时间在这里到处安利的话，为什么不去帮你最喜欢的GDM好好干活呢！」
+●000342●「有这个时间在这里到处安利的话，不是更应该去为了你最爱的GDM好好干活吗！」
 
 ○000343○nothing
 ●000343●nothing
@@ -1040,7 +1040,7 @@
 ●000348●由依
 
 ○000349○"Ah! That's right! I still have a buncha these to hang up!"
-●000349●「啊！说的没错！我还有一堆要贴的说」
+●000349●「啊！对了！还有一堆需要贴的呢」
 
 ○000350○Otonashi
 ●000350●音无
@@ -1298,7 +1298,7 @@
 ●000434●由依
 
 ○000435○"Absolutely not! We won't have enough to hang up then!"
-●000435●「不行的说！那我还贴个啥啊！」
+●000435●「这怎么行啊！那我贴的那部分不就没了吗！」
 
 ○000436○nothing
 ●000436●nothing
@@ -1319,7 +1319,7 @@
 ●000441●由依
 
 ○000442○"The way some of the students take 'em down to keep for themselves is bad enough as is!"
-●000442●「本来就有很多行为恶劣的学生把这些传单撕下来，留作个人收藏了！」
+●000442●「本来就已经有不少学生私自把传单撕下来拿走收藏了！」
 
 ○000443○Otonashi
 ●000443●音无
@@ -1388,7 +1388,7 @@
 ●000464●？？
 
 ○000465○"No, I mean I'll help you out with them."
-●000465●「不是那个意思，我指的想要帮你」
+●000465●「不是那个意思，我指的想要帮你贴」
 
 ○000466○Otonashi
 ●000466●音无
@@ -1478,7 +1478,7 @@
 ●000494●由依
 
 ○000495○"Nah, even then, nope."
-●000495●「不，就算这样还是不行」
+●000495●「不行，就算这样我也不会答应」
 
 ○000496○nothing
 ●000496●nothing
@@ -1568,7 +1568,7 @@
 ●000524●？？
 
 ○000525○"Oh? Well, if you say so. I'll leave it at cheering you on, then."
-●000525●「这么说的话，我就不插手了。我就只给你加油吧」
+●000525●「是吗，既然你这么说了我就不插手了。我就为你加油吧」
 
 ○000526○Otonashi
 ●000526●音无
@@ -1637,7 +1637,7 @@
 ●000547●？？
 
 ○000548○"'Kay, good luck with that!"
-●000548●「那么，加油吧！」
+●000548●「那么，加油吧」
 
 ○000549○nothing
 ●000549●nothing
@@ -1658,7 +1658,7 @@
 ●000554●由依
 
 ○000555○"Yeah!"
-●000555●「好！」
+●000555●「好的！」
 
 ○000556○nothing
 ●000556●nothing
@@ -1748,7 +1748,7 @@
 ●000584●？？
 
 ○000585○"You look busy, huh?"
-●000585●「很忙啊—」
+●000585●「真辛苦呢——」
 
 ○000586○nothing
 ●000586●nothing
@@ -1787,7 +1787,7 @@
 ●000597●nothing
 
 ○000598○She spun around in surprise to face me, then glared.
-●000598●她吓得回过头来看着我，然后瞪了我一眼。
+●000598●她吓得回过头来看向我，然后瞪了我一眼。
 
 ○000599○nothing
 ●000599●nothing
@@ -1808,7 +1808,7 @@
 ●000604●由依
 
 ○000605○"Aaaah, it's just you...? Are you following me around like some kinda degenerate stalker, or something?"
-●000605●「啊—，原来是你啊…。你是那种尾随着我的变态吗」
+●000605●「啊——，原来是你啊……。你是那种尾随我的变态吗」
 
 ○000606○nothing
 ●000606●nothing
@@ -1829,7 +1829,7 @@
 ●000611●由依
 
 ○000612○"Can't blame you! I'm popular enough to gather up a whole crowd of NPCs every time I perform outdoors, and all..."
-●000612●「不是不可能。毕竟我的人气也很高，街头演唱会的时候也能让很多NPC聚集到一起…」
+●000612●「这也难怪。我在搞街头演唱会的时候，NPC们每次都聚集过来，人气也变高了……」
 
 ○000613○nothing
 ●000613●nothing
@@ -1850,7 +1850,7 @@
 ●000618●由依
 
 ○000619○"But, let me be clear on this!"
-●000619●「但是，请让我澄清一下」
+●000619●「但是，我要明确地说一下」
 
 ○000620○nothing
 ●000620●nothing
@@ -1868,7 +1868,7 @@
 ●000624●nothing
 
 ○000625○She took a deep breath.
-●000625●她深深地吸了一口气…。
+●000625●她深深地吸了一口气……。
 
 ○000626○nothing
 ●000626●nothing
@@ -1889,7 +1889,7 @@
 ●000631●由依
 
 ○000632○"Yer gettin' in the way of my goddamn work, jeeeeeerk!!"
-●000632●「你挡到我干活了啊啊啊啊——————！！」
+●000632●「你妨碍到我干活了啊啊啊啊——————！！」
 
 ○000633○nothing
 ●000633●nothing
