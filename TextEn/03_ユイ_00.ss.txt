@@ -2,28 +2,28 @@
 ●000000●这里好像是停车场。
 
 ○000001○Is there really any need for a place like this in this world?
-●000001●这种东西在这个世界里真的有必要存在吗？
+●000001●这种东西在这个世界上真的有存在的必要吗？
 
 ○000002○And on top of that...
-●000002●比起那个。
+●000002●比起这个。
 
 ○000003○Why is there a crowd of people gathered in a seemingly pointless place like this?
-●000003●为什么这种看起来毫无必要的地方会聚集起这么多人啊？
+●000003●为什么会有这么多人聚集在这种毫无必要的地方啊？
 
 ○000004○I could hear music, as well. It was a song I'd heard somewhere before.
-●000004●与此同时，能够听到歌声。是我听过的歌。
+●000004●并且，能够听到歌声。是我听过的歌。
 
 ○000005○Apparently, somebody over there was busking.
-●000005●显然是有人在进行街头演唱。
+●000005●看来是有人在进行街头演唱。
 
 ○000006○I couldn't think of anyone it could be other than Iwasawa from the Diversion Team, but the voice I heard singing now plainly wasn't hers.
-●000006●这样的话，除了佯攻部队的岩泽以外，想不到会是谁了。但这和她之前的歌声完全不一样。
+●000006●除了佯攻部队的岩泽以外，想不到会是谁了。但这和我之前听到过的歌声完全不一样。
 
 ○000007○The voice sounded absolutely full of energy, and earnest to a fault.
-●000007●那是活泼的、没有任何杂念的歌声。
+●000007●歌声里充满了活泼、没有任何的杂念。
 
 ○000008○I found myself being drawn in by it.
-●000008●我像是被吸引一样向那边靠近。
+●000008●我像是被吸引了一样，靠近了过去。
 
 ○000009○Take a look
 ●000009●去看看
@@ -35,7 +35,7 @@
 ●000011●selbtn : 
 
 ○000012○Meh, not like I'm particularly interested in music or anything, so whatever.
-●000012●算了，我对音乐也不是特别有兴趣。
+●000012●算了，我对音乐也不是特别感兴趣。
 
 ○000013○I turned around and left.
 ●000013●我决定离开。
@@ -50,22 +50,22 @@
 ●000018●nothing
 
 ○000019○I slipped into the crowd to find a girl in a Battlefront uniform sitting cross-legged on the ground, strumming an acoustic guitar and singing along.
-●000019●我挤进了人群里，发现了一个穿着战线制服的女生正盘腿坐着，一边弹着原声吉他一边唱着歌。
+●000019●我挤进了人群，发现一个穿着战线制服的女生正盘腿坐在地上，一边弹着原声吉他，一边唱着歌。
 
 ○000020○I didn't recognize her.
 ●000020●是陌生的面孔。
 
 ○000021○She must be one of those other members on standby throughout the school that Yuri mentioned before.
-●000021●她应该是由理所说的，潜伏在校内的几十名成员之一吧。
+●000021●她应该就是由理所说的，潜伏在校内的几十名成员之一吧。
 
 ○000022○But then, why is she out in a place like this running a diversion all on her own?
-●000022●但是，她为什么会在这种地方一个人展开佯攻呢？
+●000022●可是，她为什么要一个人在这种地方展开佯攻呢？
 
 ○000023○There isn't even an operation going on right now.
-●000023●何况现在也不是在作战当中。
+●000023●更何况，现在也并不是在作战当中。
 
 ○000024○So, what's she doing?
-●000024●为什么她还要这么做？
+●000024●那么，她为什么要这么做？
 
 ○000025○The song came to a close.
 ●000025●弹唱结束了。
@@ -89,13 +89,13 @@
 ●000031●女学生
 
 ○000032○"That's all for today! Thanks for listening, everybody!"
-●000032●「今天就到此为止！感谢大家的聆听！」
+●000032●「今天到此为止的说！感谢大家的聆听——！」
 
 ○000033○The girl bowed to the audience and shouted in an unexpectedly high-pitched, girlish voice.
-●000033●女学生这样低头行礼时，发出了意想不到的尖锐少女音。
+●000033●女学生这样鞠躬行礼时，发出了意想不到的，尖锐的少女音。
 
 ○000034○Then all of a sudden, what looked like a storm of cherry blossoms danced through the air. The NPCs were tossing something into her guitar case. What are those?
-●000034●接着，犹如落花与飞雪在空中起舞一般，许多东西飘进了吉他盒里，那是什么呢？
+●000034●接着，像是在空中起舞的落花飞雪一般。许许多多的不明物体，被扔进了吉他盒之中。
 
 ○000035○nothing
 ●000035●nothing
@@ -116,10 +116,10 @@
 ●000040●nothing
 
 ○000041○I picked up one that had missed the case.
-●000041●我随手捡起飘落在吉他盒外的一枚。
+●000041●我随手捡起了飘落在吉他盒外的一张。
 
 ○000042○It was a piece of paper with 'Fried Rice' written on it. A meal ticket.
-●000042●上面写着『炒饭』。原来是饭票。
+●000042●上面写着『炒饭』。是饭票啊。
 
 ○000043○Otonashi
 ●000043●音无
@@ -335,7 +335,7 @@
 ●000113●女学生
 
 ○000114○"Huh? Actually, looking closer, that is a Battlefront uniform, isn't it...? Doesn't that, like, hurt or something?"
-●000114●「诶？仔细一看，确实是战线的制服……你这样不痛吗？」
+●000114●「诶？仔细一看，确实是战线的制服…你这样不痛吗？」
 
 ○000115○Otonashi
 ●000115●音无
@@ -404,7 +404,7 @@
 ●000136●？？
 
 ○000137○"No crap it hurts. I can deal with it, though..."
-●000137●「那当然痛啦。只不过还没有到无法忍受的程度……」
+●000137●「肯定痛啊。但还在没到忍受不了的程度…」
 
 ○000138○nothing
 ●000138●nothing
@@ -494,7 +494,7 @@
 ●000166●？？
 
 ○000167○"Don't worry about it."
-●000167●「这点不用在意」
+●000167●「不用在意」
 
 ○000168○Otonashi
 ●000168●音无
