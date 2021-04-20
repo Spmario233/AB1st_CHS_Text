@@ -404,7 +404,7 @@
 ●000136●？？
 
 ○000137○"No crap it hurts. I can deal with it, though..."
-●000137●「肯定痛啊。但还在没到忍受不了的程度…」
+●000137●「肯定痛啊。但还没到忍受不了的程度…」
 
 ○000138○nothing
 ●000138●nothing
@@ -563,7 +563,7 @@
 ●000189●？？
 
 ○000190○"I just joined, so nice to meet you. My name's Otonashi, but right now I'm called Just Another Pervy Teenager. Problem?"
-●000190●「我是刚刚加入的新人，初次见面。本名叫音无，但是现在叫只是个色批少年，有问题吗？」
+●000190●「我是刚刚加入的新人，初次见面。本名叫音无，但现在叫只是个色批少年，有问题吗？」
 
 ○000191○nothing
 ●000191●nothing
@@ -761,7 +761,7 @@
 ●000255●nothing
 
 ○000256○She figured me out in an instant, given my uniform.
-●000256●因为制服的原因，很快就被发现了。
+●000256●由于制服的原因，她很快就发现了。
 
 ○000257○Otonashi
 ●000257●音无
@@ -941,7 +941,7 @@
 ●000315●由依
 
 ○000316○"A street performance, of course! I've got a buncha NPC fans who come to listen to me nowadays!"
-●000316●「这个，当然是，在街头演唱啦。现在连不少NPC也成为了我的粉丝，来听我唱歌呢！」
+●000316●「这个，当然是，在街头演唱的说。现在连不少NPC都成为了我的粉丝，来听我唱歌呢！」
 
 ○000317○She was a lively and incredibly energetic girl.
 ●000317●是个很活泼，很有精神的女孩子。
@@ -1034,7 +1034,7 @@
 ●000346●由依
 
 ○000347○"Aaaah, no, that's not it!"
-●000347●「啊，不是那样子的」
+●000347●「啊—，不是那样子的！」
 
 ○000348○nothing
 ●000348●nothing
@@ -1055,7 +1055,7 @@
 ●000353●由依
 
 ○000354○"I heard that GirlDeMo's Iwasawa-san and Hisako-san used to do this sorta thing together back in the day, so I'm just imitating them!"
-●000354●「我听说GDM的岩泽同学和久子同学以前也单独做过这种事情，所以只是模仿一下而已」
+●000354●「我听说GDM的岩泽同学和久子同学，以前只有两个人的时候也做过这种事情，所以只是模仿一下的说！」
 
 ○000355○Otonashi
 ●000355●音无
@@ -1124,7 +1124,7 @@
 ●000376●？？
 
 ○000377○"So, what? You're putting together a second band for the Diversion team?"
-●000377●「所以？你是想再组建一支作为佯攻部队的乐队吗？」
+●000377●「那，所以？你是想组建佯攻部队的第二乐队吗？」
 
 ○000378○nothing
 ●000378●nothing
@@ -1166,7 +1166,7 @@
 ●000390●由依
 
 ○000391○"I just copy them 'cause I look up to them, that's all."
-●000391●「我只是憧憬着她们，才会照搬在这里做着同样的事情」
+●000391●「我只是因为憧憬她们，才会照搬过来，在这里做着同样的事情的说」
 
 ○000392○Otonashi
 ●000392●音无
@@ -1235,7 +1235,7 @@
 ●000413●？？
 
 ○000414○"GirlDeMo... those girls, huh? Yeah, I can see why you'd look up to them."
-●000414●「GDM……是她们吗。看起来你真的非常憧憬她们」
+●000414●「GDM…是她们吗。看的出来，你真的非常憧憬她们啊」
 
 ○000415○Otonashi
 ●000415●音无
@@ -1325,7 +1325,7 @@
 ●000443●由依
 
 ○000444○"Eeeeeeeeehhhhhh!! You got put into the top brass and without even knowing that much!?"
-●000444●「诶诶诶诶诶诶诶诶——！！这点常识都不知道，都当上了战线的干部吗！」
+●000444●「诶诶诶诶诶诶诶诶——！！连这种常识都不知道，都能当上战线的干部吗！」
 
 ○000445○Otonashi
 ●000445●音无
@@ -1415,7 +1415,7 @@
 ●000473●由依
 
 ○000474○"Why would somebody like that get let into the top brass all of a sudden...?"
-●000474●「为什么你这种人会突然当上干部啊……」
+●000474●「为什么你这种人会突然当上干部啊…」
 
 ○000475○Otonashi
 ●000475●音无
@@ -1484,7 +1484,7 @@
 ●000496●？？
 
 ○000497○"Hell if I know..."
-●000497●「我也不知道啊……」
+●000497●「我也不知道啊…」
 
 ○000498○nothing
 ●000498●nothing
@@ -1532,13 +1532,13 @@
 ●000512●由依
 
 ○000513○"She writes and composes all their music on her own! This one called Crow Song is pretty much Iwasawa-san's life itself! It, like, makes you cry and gets you super hyped all at the same time, and when she plays it live I just don't even!! It's an absolute certain winner of a song!!" 
-●000513●「作词和作曲都由她一个人完成！这首
+●000513●「作词和作曲都是由她一个人完成！这首
 
 ○000514○Crow Song
 ●000514●Crow Song
 
 ○000515○は岩沢さんの人生そのもの！ってな歌で泣けるわ、盛り上がるわで、ライブ中にどうしたらいいかよくわかんない、鉄板曲なんですよ！」
-●000515●可谓是诠释了岩泽同学的人生！这可是能让人一边热泪盈眶，一边兴致高涨，在演唱会中听到都不知如何是好的绝对金曲！」
+●000515●可谓是诠释了岩泽同学的人生！这可是能让人一边热泪盈眶，一边兴致高涨，在演唱会中都不知如何是好的绝对金曲！」
 
 ○000516○Otonashi
 ●000516●音无
@@ -1607,7 +1607,7 @@
 ●000537●？？
 
 ○000538○"Can you really call a song that you 'just don't even' about a sure winner...?"
-●000538●「让人不知道该如何是好的歌曲还能和绝对金曲相提并论吗……」
+●000538●「让人不知道该如何是好的歌曲还能说是绝对金曲吗…」
 
 ○000539○nothing
 ●000539●nothing
@@ -1703,7 +1703,7 @@
 ●000569●？？
 
 ○000570○"Again, can a song you 'just don't even' about really be a killer tune...?"
-●000570●「让人不知道该如何是好的歌曲不能和杀手锏相提并论吧……」
+●000570●「让人不知道该如何是好的歌曲不能说是杀手锏吧…」
 
 ○000571○nothing
 ●000571●nothing
@@ -1724,7 +1724,7 @@
 ●000576●由依
 
 ○000577○"Anyway! Point is GirlDeMo's the one and only band in this world! I'm just a newbie doing her best to support them!"
-●000577●「不管怎么说，GDM是这个世界上独一无二的乐队！我只是一个全力支持她们的新人」
+●000577●「不管怎么说，GDM是这个世界上独一无二的乐队！我只是一个全力支持她们的新人的说」
 
 ○000578○Otonashi
 ●000578●音无
@@ -1832,7 +1832,7 @@
 ●000612●nothing
 
 ○000613○The crap!? She abruptly snapped and her personality did a complete 180...
-●000613●怎么回事！？突然就变成了个暴躁角色……！
+●000613●怎么回事！？突然就变成了个暴躁老姐…！
 
 ○000614○Otonashi
 ●000614●音无
@@ -1901,7 +1901,7 @@
 ●000635●？？
 
 ○000636○"Okay, okay, got it, you're way up above me. I'm a mole digging around in the mud compared to you."
-●000636●「知道了，知道了，你比我高太多了。我只是在土里打洞的鼹鼠而已」
+●000636●「知道了，知道了，你比我高太多了。我只是在泥土里打洞的鼹鼠而已」
 
 ○000637○nothing
 ●000637●nothing
@@ -1922,10 +1922,10 @@
 ●000642●由依
 
 ○000643○"You don't have to put yourself down that much! You're at least an earthworm!"
-●000643●「没必要这么贬低自己，把自己当成蚯蚓之类的就可以了哦～」
+●000643●「没必要这么贬低自己，把自己当成蚯蚓之类的就可以了的说～」
 
 ○000644○And now she's treating me like a hermaphroditic oligochaeta...
-●000644●开始把我当成雌雄同体的寡毛纲生物了……。
+●000644●开始把我当成雌雄同体的寡毛纲生物了…。
 
 ○000645○Otonashi
 ●000645●音无
@@ -1994,7 +1994,7 @@
 ●000666●？？
 
 ○000667○"I don't really get it, but good luck supporting the diversion team, or whatever."
-●000667●「虽然不太明白，对佯攻部队全力支持，还请加油」
+●000667●「虽然不太明白，但还请加油，支持佯攻部队」
 
 ○000668○nothing
 ●000668●nothing
