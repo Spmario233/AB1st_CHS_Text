@@ -1925,13 +1925,13 @@
 ●000643●她又开始怒吼了。
 
 ○000644○Looks like her foul mouth comes into play whenever she gets angry.
-●000644●感觉只要生气的时候就会这样。
+●000644●感觉她只要生气的时候就会变成这样。
 
 ○000645○Leave
 ●000645●离开
 
 ○000646○Put up with it and talk
-●000646●忍受并交谈
+●000646●忍受着交谈
 
 ○000647○selbtn : 
 ●000647●selbtn : 
@@ -2003,7 +2003,7 @@
 ●000669●？？
 
 ○000670○"Roger that. Good luck, later!"
-●000670●「了解。加油吧。再见」
+●000670●「明白了。加油吧。再见」
 
 ○000671○nothing
 ●000671●nothing
@@ -2024,7 +2024,7 @@
 ●000676●nothing
 
 ○000677○I turned around and left.
-●000677●我决定离开。
+●000677●我离开了那里。
 
 ○000678○Yui
 ●000678●由依
@@ -2099,7 +2099,7 @@
 ●000701●？？
 
 ○000702○(It almost sounds like she wanted me to stick around and bother her more...)
-●000702●（就好像是她想让我留在这里一样…）
+●000702●（简直就像是还想让我去搭理她一样的说法……）
 
 ○000703○But I ignored her.
 ●000703●但是，我无视了她。
@@ -2192,7 +2192,7 @@
 ●000732●由依
 
 ○000733○"Then you're just a fan!? This might be a bother..."
-●000733●「那么，只是粉丝吗！？麻烦了…」
+●000733●「那么，只是粉丝吗！？这可麻烦了……」
 
 ○000734○nothing
 ●000734●nothing
@@ -2228,7 +2228,7 @@
 ●000744●由依
 
 ○000745○"Right now I'm not working as an artist, I'm working―no, I'm fighting as a member of the Battlefront! So, ignore me please!"
-●000745●「现在的我并不是作为音乐家，而是作为一名战线成员工作，不对，战斗着的说！所以，请无视我吧！」
+●000745●「现在的我并不是作为一名艺术家，而是作为一名战线成员工作，不对，是战斗着！所以，请无视我吧！」
 
 ○000746○nothing
 ●000746●nothing
@@ -2342,7 +2342,7 @@
 ●000782●？？
 
 ○000783○"You're a pretty funny girl, huh?"
-●000783●「你还真是个有趣的女孩子啊」
+●000783●「你可真是个有趣的家伙」
 
 ○000784○nothing
 ●000784●nothing
@@ -2363,7 +2363,7 @@
 ●000789●由依
 
 ○000790○"I don't think I've ever done any sorta comedy performance, though?"
-●000790●「我可不记得自己有进行过喜剧演出之类的东西」
+●000790●「我可不记得自己有参加过什么喜剧表演啊？」
 
 ○000791○bs3_
 ●000791●bs3_
@@ -2450,7 +2450,7 @@
 ●000818●？？
 
 ○000819○"What's the deal with the tail, by the way? Can I touch it?"
-●000819●「对了，这个尾巴是怎么回事？可以碰一下吗？」
+●000819●「对了，这个尾巴是怎么回事？可以摸一下吗？」
 
 ○000820○se_munyu
 ●000820●se_munyu
@@ -2543,7 +2543,7 @@
 ●000849●？？
 
 ○000850○"It's an accessory or something, right? How does it stick up like that? Weird."
-●000850●「应该是装饰品吧？为什么不会掉下来呢？不可思议」
+●000850●「这个应该是装饰品吧？为什么不会下垂呢？真神奇」
 
 ○000851○se_munyu
 ●000851●se_munyu
@@ -2567,7 +2567,7 @@
 ●000857●由依
 
 ○000858○"Gyaaaaaaaahhhhhhhhh!! Stop touching iiiiiiiiit!!"
-●000858●「咿呀啊啊啊啊——！！不要再碰了啊啊啊啊———！！」
+●000858●「咿呀啊啊啊啊——！！所以说不要再碰了啊啊啊啊———！！」
 
 ○000859○Otonashi
 ●000859●音无
@@ -2636,7 +2636,7 @@
 ●000880●？？
 
 ○000881○"What, does it make you weaker when I touch it or something? That what you're going for here?"
-●000881●「怎么了？难道是有被触碰之后就会变弱的设定吗？」
+●000881●「怎么了？难道是有被摸到之后就会变弱的设定吗？」
 
 ○000882○se_munyu
 ●000882●se_munyu
@@ -2660,7 +2660,7 @@
 ●000888●由依
 
 ○000889○"Cut it out!"
-●000889●「住手啊！」
+●000889●「不要再摸啦！」
 
 ○000890○nothing
 ●000890●nothing
@@ -2711,7 +2711,7 @@
 ●000907●nothing
 
 ○000908○She slapped my hand and back stepped away the second I let go of her tail.
-●000908●她对着我的手猛扇了一下，趁着尾巴离开我的手的时候，后退逃开了。
+●000908●她猛地拍掉了我的手，趁着尾巴被松开的时候，后退逃开了。
 
 ○000909○nothing
 ●000909●nothing
