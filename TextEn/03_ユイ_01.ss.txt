@@ -38,7 +38,7 @@
 ●000012●女学生
 
 ○000013○"Hiyup! Gah, umm... All right!"
-●000013●「嗯，哟……嗯……好了」
+●000013●「嗯，哟…嗯…好了」
 
 ○000014○Otonashi
 ●000014●音无
@@ -107,7 +107,7 @@
 ●000035●？？
 
 ○000036○"Announcing tomorrow's diversion, huh?"
-●000036●「明天的佯攻的告知吗——」
+●000036●「是关于明天佯攻的告知吗—」
 
 ○000037○nothing
 ●000037●nothing
@@ -146,7 +146,7 @@
 ●000048●nothing
 
 ○000049○She spun around in surprise to face me, then let out a relieved sigh.
-●000049●她惊讶地转过头来看着我，然后松了一口气。
+●000049●她惊讶地回过头来看了我一眼，然后松了一口气。
 
 ○000050○nothing
 ●000050●nothing
@@ -257,7 +257,7 @@
 ●000085●女学生
 
 ○000086○"Yeah. Noda-senpai said 'that guy walks hand in hand with calamity, so stay on guard' or something like that."
-●000086●「嗯，野田前辈说『那家伙会带来灾难，要多加小心』」
+●000086●「嗯，野田前辈说过『那家伙会带来灾难，要多加小心』之类的话」
 
 ○000087○nothing
 ●000087●nothing
@@ -290,7 +290,7 @@
 ●000096●nothing
 
 ○000097○That asshole...
-●000097●那个混蛋……。
+●000097●那个混蛋…。
 
 ○000098○Otonashi
 ●000098●音无
@@ -359,7 +359,7 @@
 ●000119●？？
 
 ○000120○"Anyway, is it really okay for us to take over the gym for this?"
-●000120●「但是，这么占用体育馆真的没问题吗？」
+●000120●「但是，占用体育馆举办演唱会真的没问题吗？」
 
 ○000121○nothing
 ●000121●nothing
@@ -377,7 +377,7 @@
 ●000125●nothing
 
 ○000126○I looked over the fliers on the board as I asked.
-●000126●我看了看贴在公告栏上的传单，这么向她问道。
+●000126●我一边看着贴在公告栏上的传单，一边向她问道。
 
 ○000127○nothing
 ●000127●nothing
@@ -398,7 +398,7 @@
 ●000132●女学生
 
 ○000133○"Nah, it's crazy! Totally unprecedented! And it's not even a guerrilla show, we're actually announcing it!" 
-●000133●「这可不得了啊。可谓是前所未闻。而且这次不是突击演出，而是提前告知的演唱会呢」
+●000133●「这回可厉害了啊。可谓是前所未闻！而且这次不是突击演出，而是提前告知的演唱会呢」
 
 ○000134○nothing
 ●000134●nothing
@@ -419,7 +419,7 @@
 ●000139●女学生
 
 ○000140○"No way the teachers are gonna let this slide! There's no telling who's gonna show up to stop us!"
-●000140●「老师们肯定会来管的，还不知道会不会有什么其他阻碍」
+●000140●「老师们肯定会来管的，会不会遇到其他的阻碍还是个未知数」
 
 ○000141○nothing
 ●000141●nothing
@@ -440,7 +440,7 @@
 ●000146●女学生
 
 ○000147○"But I heard that it's just that important to gather up as many people as possible for this operation."
-●000147●「但是，听说这次的作战，必须要把人召集到这个地步才行」
+●000147●「但是，听说这次的作战，必须要把人召集到这个程度才行」
 
 ○000148○nothing
 ●000148●nothing
@@ -557,7 +557,7 @@
 ●000187●？？
 
 ○000188○"By the way, umm... My name's Otonashi. And you?"
-●000188●「对了，那个……我叫音无，你呢？」
+●000188●「对了，那个…我叫音无，你呢？」
 
 ○000189○nothing
 ●000189●nothing
@@ -578,7 +578,7 @@
 ●000194●由依
 
 ○000195○"I'm Yui! I'm still just an underling in the Diversion team..."
-●000195●「我叫由依！虽然现在还只是属于佯攻部队的下层……」
+●000195●「我叫由依！虽然现在还只是在佯攻部队从事基层工作…」
 
 ○000196○nothing
 ●000196●nothing
@@ -599,7 +599,7 @@
 ●000201●由依
 
 ○000202○"Ah, but I'm totally satisfied with that! I mean, I'm helping out GirlDeMo, y'know!?"
-●000202●「啊，不过能够给GDM帮忙，我已经很满足了！」
+●000202●「啊，不过我已经很满足了！毕竟能够为GDM贡献自己的力量的说！」
 
 ○000203○nothing
 ●000203●nothing
@@ -647,7 +647,7 @@
 ●000217●Crow Song
 
 ○000218○！！　サビの転調の思い切りが良くていいんですよ！」
-●000218●！！副歌的转调真的太棒了！」
+●000218●！！副歌的转调真的太棒了呀！」
 
 ○000219○nothing
 ●000219●nothing
@@ -671,7 +671,7 @@
 ●000225●「而且歌词本身，恰恰诠释了岩泽同学自己……」
 
 ○000226○Am I just going to stand here and listen to this...?
-●000226●我还要这样子听下去吗……？
+●000226●我还要这样子听下去吗…？
 
 ○000227○Keep quiet and listen
 ●000227●默默地听着
@@ -707,7 +707,7 @@
 ●000237●Alchemy
 
 ○000238○ー！」
-●000238●了——！」
+●000238●了—！」
 
 ○000239○nothing
 ●000239●nothing
@@ -818,7 +818,7 @@
 ●000274●由依
 
 ○000275○"And then, and then...!"
-●000275●「还有还有……！」
+●000275●「还有还有…！」
 
 ○000276○This doesn't look like it's ever going to end.
 ●000276●看起来好像还不会结束的样子。
@@ -950,7 +950,7 @@
 ●000318●由依
 
 ○000319○"Hey, I'm not done yet! GirlDeMo's this world's one and only―"
-●000319●「喂，我还没讲完呢！GDM可是这个世界独一无二的——」
+●000319●「喂，我还没讲完呢！GDM可是这个世界独一无二的—」
 
 ○000320○Otonashi
 ●000320●音无
@@ -1019,7 +1019,7 @@
 ●000341●？？
 
 ○000342○"If you have the time to be loafing around like this, why don't you hurry up and use it to help out your beloved GirlDeMo already!?"
-●000342●「有这个时间在这里到处安利的话，不是更应该去为了你最爱的GDM好好干活吗！」
+●000342●「有这个时间在这里到处安利的话，就更应该去为了你最爱的GDM好好干活啊！」
 
 ○000343○nothing
 ●000343●nothing
@@ -1040,7 +1040,7 @@
 ●000348●由依
 
 ○000349○"Ah! That's right! I still have a buncha these to hang up!"
-●000349●「啊！对了！还有一堆需要贴的呢」
+●000349●「啊！对哦！忘了还有一堆需要贴的说」
 
 ○000350○Otonashi
 ●000350●音无
@@ -1457,7 +1457,7 @@
 ●000487●？？
 
 ○000488○"I've only just arrived here, so I thought I could hang them up while I walk around getting a feel for the school."
-●000488●「我才刚刚来到这里不久，所以想借助贴传单的机会，熟悉一下这个学校」
+●000488●「我才刚刚来到这里不久，我可以一边帮你贴传单，一边顺路熟悉一下这个学校」
 
 ○000489○nothing
 ●000489●nothing
@@ -1499,7 +1499,7 @@
 ●000501●由依
 
 ○000502○"This is part of my responsibilities as a member of the Diversion Team! Plus, it's proof of the depth of my love for GirlDeMo!"
-●000502●「这可是我作为佯攻部队成员的职责。而且还是我对GDM的深爱的证明！」
+●000502●「这可是我作为佯攻部队成员的职责。而且还是我对GDM的深爱的证明的说！」
 
 ○000503○Otonashi
 ●000503●音无
@@ -1568,7 +1568,7 @@
 ●000524●？？
 
 ○000525○"Oh? Well, if you say so. I'll leave it at cheering you on, then."
-●000525●「是吗，既然你这么说了我就不插手了。我就为你加油吧」
+●000525●「是吗，既然你这么说那我就不插手了。就单纯为你加油吧」
 
 ○000526○Otonashi
 ●000526●音无
@@ -1748,7 +1748,7 @@
 ●000584●？？
 
 ○000585○"You look busy, huh?"
-●000585●「真辛苦呢——」
+●000585●「真辛苦呢—」
 
 ○000586○nothing
 ●000586●nothing
@@ -1808,7 +1808,7 @@
 ●000604●由依
 
 ○000605○"Aaaah, it's just you...? Are you following me around like some kinda degenerate stalker, or something?"
-●000605●「啊——，原来是你啊……。你是那种尾随我的变态吗」
+●000605●「啊—，原来是你啊…。你是那种尾随我的变态吗」
 
 ○000606○nothing
 ●000606●nothing
@@ -1829,7 +1829,7 @@
 ●000611●由依
 
 ○000612○"Can't blame you! I'm popular enough to gather up a whole crowd of NPCs every time I perform outdoors, and all..."
-●000612●「这也难怪。我在搞街头演唱会的时候，NPC们每次都聚集过来，人气也变高了……」
+●000612●「这也难怪。我在搞街头演唱会的时候，每次都会有NPC们聚集过来，我的人气也逐渐变高了…」
 
 ○000613○nothing
 ●000613●nothing
@@ -1868,7 +1868,7 @@
 ●000624●nothing
 
 ○000625○She took a deep breath.
-●000625●她深深地吸了一口气……。
+●000625●她深深地吸了一口气…。
 
 ○000626○nothing
 ●000626●nothing
@@ -2003,7 +2003,7 @@
 ●000669●？？
 
 ○000670○"Roger that. Good luck, later!"
-●000670●「明白了。加油吧。再见」
+●000670●「哦，那就加油吧。再见」
 
 ○000671○nothing
 ●000671●nothing
@@ -2099,10 +2099,10 @@
 ●000701●？？
 
 ○000702○(It almost sounds like she wanted me to stick around and bother her more...)
-●000702●（简直就像是还想让我去搭理她一样的说法……）
+●000702●（说的就像是还想让我去搭理她一样…）
 
 ○000703○But I ignored her.
-●000703●但是，我无视了她。
+●000703●但我还是无视了她。
 
 ○000704○Otonashi
 ●000704●音无
@@ -2192,7 +2192,7 @@
 ●000732●由依
 
 ○000733○"Then you're just a fan!? This might be a bother..."
-●000733●「那么，只是粉丝吗！？这可麻烦了……」
+●000733●「那么，只是粉丝的身份吗！？这可麻烦了…」
 
 ○000734○nothing
 ●000734●nothing
@@ -2228,7 +2228,7 @@
 ●000744●由依
 
 ○000745○"Right now I'm not working as an artist, I'm working―no, I'm fighting as a member of the Battlefront! So, ignore me please!"
-●000745●「现在的我并不是作为一名艺术家，而是作为一名战线成员工作，不对，是战斗着！所以，请无视我吧！」
+●000745●「现在的我并不是作为一名艺术家，而是作为一名战线成员工作，不对，是战斗着的说！所以，请无视我吧！」
 
 ○000746○nothing
 ●000746●nothing
@@ -2732,7 +2732,7 @@
 ●000914●由依
 
 ○000915○"It's just an accessory, of course. However!"
-●000915●「当然，只是饰品而已。但是！」
+●000915●「当然，只是饰品而已。虽然是这么说，但是！」
 
 ○000916○nothing
 ●000916●nothing
@@ -2753,7 +2753,7 @@
 ●000921●由依
 
 ○000922○"We don't have the sorta relationship where I'd let you touch it at all!!"
-●000922●「我们的关系还没到能让你随便碰的地步吧！」
+●000922●「我们的关系还没好到能让你随便碰的地步吧！！」
 
 ○000923○Otonashi
 ●000923●音无
@@ -2843,7 +2843,7 @@
 ●000951●由依
 
 ○000952○"It means that the only people who're allowed to touch it are people I consider special!"
-●000952●「想触碰这个的话，只有对我来说特别的人才行！」
+●000952●「可以触碰这个的，只有对我而言非常特殊的人！」
 
 ○000953○Otonashi
 ●000953●音无
@@ -2912,7 +2912,7 @@
 ●000974●？？
 
 ○000975○"Like, your lover?"
-●000975●「恋人吗？」
+●000975●「比如恋人吗？」
 
 ○000976○nothing
 ●000976●nothing
@@ -2933,7 +2933,7 @@
 ●000981●由依
 
 ○000982○"Don't have one! Anyway, quit getting in the way of my mission already!"
-●000982●「还没有！总之，不要再妨碍我的任务了！」
+●000982●「虽然还没有！总之，不要再妨碍我干活了！」
 
 ○000983○Otonashi
 ●000983●音无
@@ -3002,7 +3002,7 @@
 ●001004●？？
 
 ○001005○"Woah, got it, calm down. I'm leaving, already."
-●001005●「知道了，那个，冷静一点。我要走了」
+●001005●「好好好，我知道了，你冷静一点，我这就走」
 
 ○001006○nothing
 ●001006●nothing
@@ -3023,7 +3023,7 @@
 ●001011●由依
 
 ○001012○"And please don't come back!"
-●001012●「然后也别再回来了！」
+●001012●「你可别再来了！」
 
 ○001013○Otonashi
 ●001013●音无
@@ -3092,7 +3092,7 @@
 ●001034●？？
 
 ○001035○"Even after I said I liked your music?"
-●001035●「就算我说过自己喜欢你的歌？」
+●001035●「明明我还夸过你说喜欢你的歌？」
 
 ○001036○nothing
 ●001036●nothing
@@ -3182,7 +3182,7 @@
 ●001064●？？
 
 ○001065○"Never thought you'd lecture me and actually be in the right about it."
-●001065●「万万没想到会受到你如此认真的说教啊」
+●001065●「万万没想到会受到你如此一本正经的说教啊」
 
 ○001066○nothing
 ●001066●nothing
@@ -3272,7 +3272,7 @@
 ●001094●？？
 
 ○001095○"Yeah, roger that. My apologies."
-●001095●「是的，了解了。抱歉」
+●001095●「也是，明白了。我惶恐受教」
 
 ○001096○nothing
 ●001096●nothing
@@ -3359,7 +3359,7 @@
 ●001123●？？
 
 ○001124○(All I accomplished there was getting in her way, huh...?)
-●001124●（真的只是在打扰她吗…）
+●001124●（我真的只是在打扰她吗…）
 
 ○001125○dummy
 ●001125●dummy
