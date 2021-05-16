@@ -41,7 +41,7 @@
 ●000013●？？
 
 ○000014○"Do you wanna meet Iwasawa, or something?"
-●000014●「你是想和岩泽见面吗？」
+●000014●「你是想去见岩泽吗？」
 
 ○000015○Otonashi
 ●000015●音无
@@ -155,7 +155,7 @@
 ●000051●？？
 
 ○000052○"She usually spends the afternoons practicing in their club room, so it'd probably be better not to bother her, y'know?"
-●000052●「她下午的时候一般都在社团活动室里训练，最好不要去打扰她哦？」
+●000052●「她们下午的时候一般都在社团活动室里训练，所以最好不要去打扰哦？」
 
 ○000053○Otonashi
 ●000053●音无
@@ -269,7 +269,7 @@
 ●000089●？？
 
 ○000090○"She'll be composing music or writing lyrics on her own. Best not to bother her then, either."
-●000090●「她一般会一个人作曲或者作词。最好也不要去打扰她」
+●000090●「岩泽会一个人作曲或者作词。最好也不要去打扰她」
 
 ○000091○Otonashi
 ●000091●音无
@@ -383,7 +383,7 @@
 ●000127●？？
 
 ○000128○"You're being so understanding about this, it's kinda incredible..."
-●000128●「你能够这么通情达理，真的很厉害啊…」
+●000128●「你能够这么通情达理，好厉害啊…」
 
 ○000129○Otonashi
 ●000129●音无
@@ -521,7 +521,7 @@
 ●000173●？？
 
 ○000174○"Are you just saying that to keep me away from her, or something...?"
-●000174●「你不会只是想让我远离她吧…？」
+●000174●「你是为了不让我去见岩泽，所以才这么说的吧…？」
 
 ○000175○nothing
 ●000175●nothing
@@ -566,7 +566,7 @@
 ●000188●？？
 
 ○000189○"What're you even saying? Nobody would gain anything from that, so why would I bother?"
-●000189●「你在说什么啊？这样做对谁有什么好处吗？」
+●000189●「你在说什么啊。这样做对谁有什么好处吗？」
 
 ○000190○Otonashi
 ●000190●音无
@@ -635,10 +635,10 @@
 ●000211●？？
 
 ○000212○(You're the one who's gain something from it, right!?)
-●000212●（难道不就是对你自己有好处吗！》）
+●000212●（不就是对你自己有好处吗——！）
 
 ○000213○I kept those thoughts bottled up, though, and stayed quiet.
-●000213●我将这些想法咽到了嘴里，继续保持着安静。
+●000213●我将这些想法咽到了嘴里，继续保持着沉默。
 
 ○000214○Otonashi
 ●000214●音无
@@ -710,16 +710,16 @@
 ●000236●「这样啊…」
 
 ○000237○I couldn't make heads or tails of the school's layout, and ended up wandering around aimlessly. Eventually, I reached a classroom I could dimly hear some kind of noise leaking out of.
-●000237●我搞不清楚整个学校的构造，一直漫无目的地走着，直到我靠近了一间相当嘈杂的教室。
+●000237●搞不清学校内结构的我，漫无目的地到处晃悠着，直到靠近了一间有些嘈杂的教室。
 
 ○000238○I wonder who's doing what to make a noise like that in a place like this?
-●000238●究竟是谁干了什么，才在这里制造出了噪音呢？
+●000238●在这种地方闹腾，是要干什么呢？
 
 ○000239○First off, I listened a bit closer.
-●000239●为了听得更清楚一点，我渐渐靠近了教室。
+●000239●我为了听得更清楚一点，靠近了教室。
 
 ○000240○As I drew closer to the door, I quickly realized that it was music. Some sort of rock song, specifically.
-●000240●等我靠近了大门之后，我才发现这是音乐。确切的说，某种摇滚乐。
+●000240●等我靠得更近了之后，才发现这是音乐。具体地说，是某种摇滚乐。
 
 ○000241○Otonashi
 ●000241●音无
@@ -893,13 +893,13 @@
 ●000299●？？
 
 ○000300○(They're not actually playing this right now, are they...?)
-●000300●（她们该不会是正在演奏音乐吧…）
+●000300●（她们该不会，正在这里演奏音乐吧…）
 
 ○000301○I heard a song echoing down the hallway...
-●000301●我在走廊里听到了歌声的回音…
+●000301●走廊里回响着歌声…。
 
 ○000302○I was pretty sure it was the same voice that I'd heard during the operation.
-●000302●可以确定的是，这就是我在之前的行动的时候听到的声音。
+●000302●可以确定，这就是我在之前的作战中听到的声音。
 
 ○000303○Otonashi
 ●000303●音无
@@ -971,7 +971,7 @@
 ●000325●（是从这里发出的声音吗…？）
 
 ○000326○It seemed the room was somehow soundproofed and the music still sounded dim, but looking through the window I could see a group of Battlefront uniform-clad students mid-performance.
-●000326●教室似乎做过了隔音改装。虽然声音很微弱，但是透过窗户，可以看到一群正在演奏的，穿着战线制服的学生们。
+●000326●教室似乎做过了隔音改装。虽然声音很微弱，但是透过窗户，可以看到一群穿着战线制服的学生们正在演奏。
 
 ○000327○nothing
 ●000327●nothing
@@ -1049,7 +1049,7 @@
 ●000351●（…等一下，她们全都是女生吗！？）
 
 ○000352○I was a bit shocked by that fact.
-●000352●稍微有些惊讶。
+●000352●我对此感到有些惊讶。
 
 ○000353○Otonashi
 ●000353●音无
@@ -1118,7 +1118,7 @@
 ●000374●？？
 
 ○000375○(And they're super intense, too...)
-●000375●（而且感觉好激昂的样子…）
+●000375●（感觉好激昂的样子…）
 
 ○000376○nothing
 ●000376●nothing
@@ -1139,10 +1139,10 @@
 ●000381●nothing
 
 ○000382○Each of the four of them was clearly pouring their whole heart and soul into their respective part.
-●000382●四位成员中的每一位都一心一意地投入到了负责的部分当中。
+●000382●四位成员中的每一位，全都一心一意地投入到了各自的部分当中。
 
 ○000383○I spent a moment watching them through the window.
-●000383●我在窗户外面注视了她们一段时间。
+●000383●我透过窗户，观摩了一段时间。
 
 ○000384○bs3_
 ●000384●bs3_
@@ -1229,7 +1229,7 @@
 ●000411●？？
 
 ○000412○(That's Iwasawa, singing in the center... She has some real charisma, doesn't she...?)
-●000412●（在中间歌唱的是岩泽…真的很有魅力啊…）
+●000412●（在正中央歌唱的岩泽，好有魅力啊…）
 
 ○000413○nothing
 ●000413●nothing
@@ -1313,7 +1313,7 @@
 ●000439●？？
 
 ○000440○(I knew they were supposed to be a 'distraction team,' so I guess that means drawing people in with a band...?)
-●000440●（她们应该就是「佯攻部队」了，也就是指用乐队吸引人们的注意力吗…）
+●000440●（所谓的『佯攻部队』，就是指通过她们组成的乐队，来吸引人们的注意力吗…）
 
 ○000441○nothing
 ●000441●nothing
@@ -1397,7 +1397,7 @@
 ●000467●？？
 
 ○000468○(Not really sure whether or not I was into rock during my lifetime, but regardless, I can see how this would catch peoples' attention...)
-●000468●（我不知道自己生前对摇滚感不感兴趣，但不管怎样，她们真的很容易抓住别人的注意力…）
+●000468●（我还不清楚自己生前摇不摇滚，但她们这么整的话，确实能够吸引人们的注意力…）
 
 ○000469○nothing
 ●000469●nothing
@@ -1502,7 +1502,7 @@
 ●000502●？？
 
 ○000503○(They're pretty good... The vocalist has some real charisma... Yeah, I can really appreciate why the ordinary students get so fired up about them...)
-●000503●（真的很棒…主唱也很有魅力…难怪普通学生们会在她们的带动之下变得热情高涨…）
+●000503●（水平挺高…主唱也很有魅力…难怪普通学生们会在她们的带动之下变得热情高涨…）
 
 ○000504○nothing
 ●000504●nothing
@@ -1601,7 +1601,7 @@
 ●000535●岩泽
 
 ○000536○"Phew... Okay, break time."
-●000536●「呼…那么，休息时间」
+●000536●「呼…那么，休息」
 
 ○000537○nothing
 ●000537●nothing
@@ -1619,7 +1619,7 @@
 ●000541●女学生B
 
 ○000542○"Yes, all right!"
-●000542●「好的！」
+●000542●「好的说—！」
 
 ○000543○nothing
 ●000543●nothing
@@ -1634,7 +1634,7 @@
 ●000546●女学生C
 
 ○000547○"I'll go get us some drinks!"
-●000547●「我去买点饮料来！」
+●000547●「我买点饮料去—！」
 
 ○000548○nothing
 ●000548●nothing
@@ -1658,7 +1658,7 @@
 ●000554●se_wooddoor_open2
 
 ○000555○One of the girls threw the door open and sprinted down the hallway without even noticing me.
-●000555●其中一个女生冲开了门，径直地在走廊上奔跑了起来，完全没有注意到我的存在。
+●000555●其中一个女生冲开了门，完全地无视了我的存在，径直地在走廊上奔跑了起来。
 
 ○000556○nothing
 ●000556●nothing
@@ -1697,7 +1697,7 @@
 ●000567●nothing
 
 ○000568○Iwasawa made eye contact with me, so I tried waving to her.
-●000568●岩泽用眼神向我示意，我也向她挥手以示回复。
+●000568●岩泽用眼神向我示意，我也向她挥手，以示回复。
 
 ○000569○nothing
 ●000569●nothing
@@ -1742,7 +1742,7 @@
 ●000582●岩泽
 
 ○000583○"Woah, what're you thinking, coming here in that state...?"
-●000583●「喂喂，你为什么要在这种状况下过来啊…」
+●000583●「喂喂，你干嘛在这种状态下过来啊…」
 
 ○000584○Otonashi
 ●000584●音无
@@ -1814,7 +1814,7 @@
 ●000606●「诶？」
 
 ○000607○I looked down at my own body to find that my uniform was in tatters and covered with bloodstains.
-●000607●我看了看自己的身体，发现自己的校服已经被撕成了碎片，上面沾满了血迹。
+●000607●我看了看自己的身体，发现自己的制服已经变成了破布片，上面到处都沾满了血迹。
 
 ○000608○nothing
 ●000608●nothing
@@ -1835,13 +1835,13 @@
 ●000613●岩泽
 
 ○000614○"You should go rest up until the daily meeting."
-●000614●「在会议开始之前，还是先去休息吧」
+●000614●「趁例行会议之前，还是去休息吧」
 
 ○000615○I'll do that
 ●000615●照做
 
 ○000616○I want to talk
-●000616●交谈
+●000616●和她交谈
 
 ○000617○selbtn : 
 ●000617●selbtn : 
@@ -1913,7 +1913,7 @@
 ●000639●？？
 
 ○000640○"Yeah, I'll do that. Let's talk again some other time."
-●000640●「嗯，好的。以后再聊吧」
+●000640●「嗯，好的。下次再聊吧」
 
 ○000641○nothing
 ●000641●nothing
@@ -2006,7 +2006,7 @@
 ●000670●？？
 
 ○000671○"But, I want to talk."
-●000671●「但我还是想聊聊」
+●000671●「不了，我想说会儿话」
 
 ○000672○nothing
 ●000672●nothing
@@ -2027,7 +2027,7 @@
 ●000677●岩泽
 
 ○000678○"Even though you're a bloody mess?"
-●000678●「就算你已经浑身是血了？」
+●000678●「在伤成这个样子的状态下？」
 
 ○000679○Otonashi
 ●000679●音无
@@ -2117,7 +2117,7 @@
 ●000707●岩泽
 
 ○000708○"You're kinda freaking me out..."
-●000708●「吓了我一跳…」
+●000708●「总感觉，你很可怕啊…」
 
 ○000709○Otonashi
 ●000709●音无
@@ -2186,7 +2186,7 @@
 ●000730●？？
 
 ○000731○"Something like this barely counts as an injury. I can take it."
-●000731●「这种只能算是轻伤，完全没问题」
+●000731●「这种程度的小伤，完全不是问题」
 
 ○000732○nothing
 ●000732●nothing
@@ -2228,7 +2228,7 @@
 ●000744●岩泽
 
 ○000745○"Okay, should I introduce you to my bandmates?"
-●000745●「那么，先介绍一下我们乐队的成员吧？」
+●000745●「那么，先介绍一下我们的成员吧」
 
 ○000746○bs2_
 ●000746●bs2_
@@ -2252,7 +2252,7 @@
 ●000752●岩泽
 
 ○000753○"Hey, No-Memory Man. Here to peek in on the show?"
-●000753●「哟，没记忆的男人。来参观的吗？」
+●000753●「哟，没记忆的男人。没事来观摩呢？」
 
 ○000754○Otonashi
 ●000754●音无
@@ -2342,7 +2342,7 @@
 ●000782●岩泽
 
 ○000783○"Huh? Say what?"
-●000783●「嗯？什么？」
+●000783●「嗯？你说啥？」
 
 ○000784○Otonashi
 ●000784●音无
@@ -2411,13 +2411,13 @@
 ●000805●？？
 
 ○000806○"I'd like you to call me that."
-●000806●「这样称呼我就好」
+●000806●「就这么称呼我吧」
 
 ○000807○She gave me a dubious look.
-●000807●她露出了怪异的表情。
+●000807●她一脸诧异地看着我。
 
 ○000808○I should probably tell her what I came here for now.
-●000808●总之先把我来的原因告诉她吧。
+●000808●总之先把我来这里的目的告诉她吧。
 
 ○000809○Otonashi
 ●000809●音无
@@ -2486,7 +2486,7 @@
 ●000830●？？
 
 ○000831○"I just got here and all, so I figured I'd take a look around the whole school."
-●000831●「我才刚刚来到这里，所以想要在整个学校里到处转转」
+●000831●「因为我才刚来到这里，所以想到处转上一圈」
 
 ○000832○Otonashi
 ●000832●音无
@@ -2576,7 +2576,7 @@
 ●000860●岩泽
 
 ○000861○"Huh? Say what?"
-●000861●「嗯？什么？」
+●000861●「嗯？你说啥？」
 
 ○000862○Otonashi
 ●000862●音无
@@ -2645,13 +2645,13 @@
 ●000883●？？
 
 ○000884○"I'd like you to call me that."
-●000884●「这样称呼我就好」
+●000884●「就这么称呼我吧」
 
 ○000885○She gave me a dubious look.
-●000885●她露出了怪异的表情。
+●000885●她一脸诧异地看着我。
 
 ○000886○I should probably tell her what I came here for now.
-●000886●总之先把我来的原因告诉她吧。
+●000886●总之先把我来这里的目的告诉她吧。
 
 ○000887○Otonashi
 ●000887●音无
@@ -2720,7 +2720,7 @@
 ●000908●？？
 
 ○000909○"I just got here and all, so I figured I'd take a look around the whole school."
-●000909●「我才刚刚来到这里，所以想要在整个学校里到处转转」
+●000909●「因为我才刚来到这里，所以想到处转上一圈」
 
 ○000910○Otonashi
 ●000910●音无
@@ -2810,7 +2810,7 @@
 ●000938●岩泽
 
 ○000939○ "Huh? Say what?"
-●000939●「嗯？什么？」
+●000939●「嗯？你说啥？」
 
 ○000940○Otonashi
 ●000940●音无
@@ -2879,13 +2879,13 @@
 ●000961●？？
 
 ○000962○"I'd like you to call me that."
-●000962●「这样称呼我就好」
+●000962●「就这么称呼我吧」
 
 ○000963○She gave me a dubious look.
-●000963●她露出了怪异的表情。
+●000963●她一脸诧异地看着我。
 
 ○000964○I should probably tell her what I came here for now.
-●000964●总之先把我来的原因告诉她吧。
+●000964●总之先把我来这里的目的告诉她吧。
 
 ○000965○Otonashi
 ●000965●音无
@@ -2954,7 +2954,7 @@
 ●000986●？？
 
 ○000987○"I just got here and all, so I figured I'd take a look around the whole school."
-●000987●「我才刚刚来到这里，所以想要在整个学校里到处转转」
+●000987●「因为我才刚来到这里，所以想到处转上一圈」
 
 ○000988○Otonashi
 ●000988●音无
@@ -3044,7 +3044,7 @@
 ●001016●岩泽
 
 ○001017○"Huh? Say what?"
-●001017●「嗯？什么？」
+●001017●「嗯？你说啥？」
 
 ○001018○Otonashi
 ●001018●音无
@@ -3113,13 +3113,13 @@
 ●001039●？？
 
 ○001040○"I'd like you to call me that."
-●001040●「这样称呼我就好」
+●001040●「就这么称呼我吧」
 
 ○001041○She gave me a dubious look.
-●001041●她露出了怪异的表情。
+●001041●她一脸诧异地看着我。
 
 ○001042○I should probably tell her what I came here for now.
-●001042●总之先把我来的原因告诉她吧。
+●001042●总之先把我来这里的目的告诉她吧。
 
 ○001043○Otonashi
 ●001043●音无
@@ -3188,7 +3188,7 @@
 ●001064●？？
 
 ○001065○"I just got here and all, so I figured I'd take a look around the whole school."
-●001065●「我才刚刚来到这里，所以想要在整个学校里到处转转」
+●001065●「因为我才刚来到这里，所以想到处转上一圈」
 
 ○001066○Otonashi
 ●001066●音无
@@ -3257,7 +3257,7 @@
 ●001087●？？
 
 ○001088○"No, I wasn't planning on it or anything. I just got here and all, so I figured I'd take a look around the whole school."
-●001088●「不，不是特意来的。我才刚到这里，所以想在整个学校里到处转转」
+●001088●「不，并不是特意的。因为我才刚来到这里，所以想到处转上一圈」
 
 ○001089○nothing
 ●001089●nothing
@@ -3278,7 +3278,7 @@
 ●001094●岩泽
 
 ○001095○"Oh? In that case, should I introduce you to my bandmates?"
-●001095●「哦？这样的话，先介绍一下我们乐队的成员吧？」
+●001095●「是吗。那么，先介绍一下我们的成员吧」
 
 ○001096○none
 ●001096●none
@@ -3314,10 +3314,10 @@
 ●001108●岩泽
 
 ○001109○"The girl sitting at the drum set's Irie. The one over there restringing her guitar's Hisako. The one who just went out's our bassist, Sekine."
-●001109●「坐在架子鼓旁边的是入江。那边正在调整吉他的是久子。刚才出去的是我们的贝斯手，关根」
+●001109●「坐在架子鼓那里的是入江。那边正在调吉他弦的是久子。刚才出去的是我们的贝斯手关根」
 
 ○001110○That was a pretty perfunctory introduction. 
-●001110●相当简略的介绍。 
+●001110●相当随意的介绍。 
 
 ○001111○nothing
 ●001111●nothing
@@ -3338,7 +3338,7 @@
 ●001116●岩泽
 
 ○001117○"Aaah... I wanna feel the wind for a moment."
-●001117●「啊—…让我去外面吹吹风」
+●001117●「啊—…想去外面吹吹风」
 
 ○001118○nothing
 ●001118●nothing
