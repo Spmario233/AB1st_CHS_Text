@@ -3362,13 +3362,13 @@
 ●001124●se_wooddoor_open2
 
 ○001125○She stepped out onto the balcony, and closed her eyes as the gentle breeze brushed against her face.
-●001125●她走到了阳台上，闭上了双眼，任凭微风拂过脸颊。
+●001125●她走到阳台上，闭上了双眼，任凭微风拂过。
 
 ○001126○As she stood in the breeze, Iwasawa wiped the sweat away from her hair and neck with a towel.
-●001126●在风中站立着的她，用毛巾擦掉了头发和脖子上的汗珠。
+●001126●被风吹拂着的岩泽，用毛巾擦拭着头发和脖子上的汗水。
 
 ○001127○The breeze brushed against me, as well. Specifically, against my injuries. Ouch.
-●001127●风同样吹着我，尤其是我身上的伤口。
+●001127●这风同样抚过了我全身上下的伤口，感觉好痛。
 
 ○001128○Iwasawa
 ●001128●岩泽
@@ -3377,7 +3377,7 @@
 ●001129●「记忆还是不行吗？」
 
 ○001130○She asked, still looking out at the school grounds.
-●001130●她这样问道，双眼仍然注视着外面。
+●001130●她一边眺望着外面，一边这样问道。
 
 ○001131○Otonashi
 ●001131●音无
@@ -3452,7 +3452,7 @@
 ●001154●岩泽
 
 ○001155○"Must be nice."
-●001155●「这也是一种幸福啊」
+●001155●「这也很幸福啊」
 
 ○001156○Otonashi
 ●001156●音无
@@ -3527,7 +3527,7 @@
 ●001179●岩泽
 
 ○001180○"You'll understand when you remember. Everyone who ends up here lived terrible lives."
-●001180●「等你想起来之后就会明白了。这里所有人的人生都是相当悲惨的」
+●001180●「等你想起来之后就会明白了。来到这里的所有人，都有着相当悲惨的人生」
 
 ○001181○Otonashi
 ●001181●音无
@@ -3596,7 +3596,7 @@
 ●001202●？？
 
 ○001203○"But, plenty of you are pretty cheerful too, right? Like Hinata."
-●001203●「但是，不也有像日向这样相当乐观的人吗？」
+●001203●「但是，不也有像日向这样的，欢快的人吗？」
 
 ○001204○Otonashi
 ●001204●音无
@@ -3665,13 +3665,13 @@
 ●001225●？？
 
 ○001226○"You mean, like, Yuri and Hinata, too?"
-●001226●「由理和日向吗？」
+●001226●「由理是，日向也是吗？」
 
 ○001227○Iwasawa
 ●001227●岩泽
 
 ○001228○"You really don't know anything, do you?"
-●001228●「你还什么都不知道吧？」
+●001228●「你还真的，什么都不知道啊」
 
 ○001229○Otonashi
 ●001229●音无
@@ -3740,7 +3740,7 @@
 ●001250●？？
 
 ○001251○"I mean, I just got here last night. Part of me still thinks this is all some sort of nightmare."
-●001251●「我昨天晚上刚刚来到这里，现在仍然有种身处噩梦之中的感觉」
+●001251●「我昨晚才刚来到这里，现在仍然有种身处在噩梦之中的感觉」
 
 ○001252○Otonashi
 ●001252●音无
@@ -3809,7 +3809,7 @@
 ●001273●？？
 
 ○001274○"It's only been a few days since I got here. All I know for sure is that this isn't some sort of nightmare, after all."
-●001274●「我刚刚来到这里还没有几天，只知道这里不是类似于噩梦之类的东西」
+●001274●「我来到这里也才不过几天。虽然已经知道这里并不是噩梦了，但也仅此而已」
 
 ○001275○nothing
 ●001275●nothing
@@ -3830,7 +3830,7 @@
 ●001280●岩泽
 
 ○001281○"Then you'd better hurry up and get your memories back."
-●001281●「那么，最好赶紧恢复记忆吧」
+●001281●「那么，最好快点恢复记忆」
 
 ○001282○Otonashi
 ●001282●音无
@@ -3899,7 +3899,7 @@
 ●001303●？？
 
 ○001304○"Why?"
-●001304●「为什么？」
+●001304●「为什么」
 
 ○001305○nothing
 ●001305●nothing
@@ -3920,7 +3920,7 @@
 ●001310●岩泽
 
 ○001311○"'Cause then you'll think that living here's pretty pleasant, in comparison."
-●001311●「这样的话，你就会觉得这里的生活相比之下要舒适得多了」
+●001311●「这样一来，就会觉得这里的生活更舒适了」
 
 ○001312○nothing
 ●001312●nothing
@@ -3941,7 +3941,7 @@
 ●001317●岩泽
 
 ○001318○"As long as you cut all your classes and do whatever you feel like doing, this place isn't so bad."
-●001318●「这里可以逃掉所有的课，做自己想做的事情，是个很不错的地方」
+●001318●「要是你不断地逃课，随意地做自己想做的事情的话，确实是个挺不错的地方」
 
 ○001319○nothing
 ●001319●nothing
@@ -3986,7 +3986,7 @@
 ●001332●岩泽
 
 ○001333○"...We'll never be able to keep our pasts from eating away at us. That's all."
-●001333●「…只有可恨的过去，永远都在侵蚀着我们」
+●001333●「…唯有可憎的过去，永远都不会消逝啊」
 
 ○001334○nothing
 ●001334●nothing
@@ -4091,10 +4091,10 @@
 ●001367●女学生C
 
 ○001368○"Oooh? Do we have a visitor?"
-●001368●「哦？有客人来了吗？」
+●001368●「哦嚯？有客人来了吗？」
 
 ○001369○And there to save me from that awkwardness was a girl with a plastic bottle in her hand, poking her head out onto the balcony.
-●001369●这个时候，一个手里拿着饮料的女生将头伸进了阳台，化解了现场的尴尬。
+●001369●一名拿着瓶装饮料的女生把头探了进来，化解了现场的尴尬。
 
 ○001370○nothing
 ●001370●nothing
@@ -4112,7 +4112,7 @@
 ●001374●女学生C
 
 ○001375○"...Wait, holy crap, why's he totally torn to pieces!?"
-●001375●「…为什么会伤成这个样子啊！？」
+●001375●「…喂，这是怎么伤成这个样子的啊！？」
 
 ○001376○nothing
 ●001376●nothing
@@ -4130,10 +4130,10 @@
 ●001380●nothing
 
 ○001381○She was so shocked, she dropped the bottle she'd been holding.
-●001381●她表现出了惊讶的神情，手里的饮料掉到了地上。
+●001381●她大吃一惊，手里的饮料都掉到了地上。
 
 ○001382○I picked it up and handed it to her, but ended up smearing a half-coagulated streak of blood across it in the process. 
-●001382●我把瓶子捡起来还给了她，但是却在上面沾上了血迹。
+●001382●我把饮料瓶捡了起来，还给了她，但却在上面沾上了血迹。
 
 ○001383○nothing
 ●001383●nothing
