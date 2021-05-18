@@ -4154,16 +4154,16 @@
 ●001388●女学生C
 
 ○001389○"Gyaaaaaaaaahhhhhhhhh!!"
-●001389●「叽呀呀呀呀呀呀——！」
+●001389●「叽咿呀啊啊啊啊啊——！」
 
 ○001390○Iwasawa
 ●001390●岩泽
 
 ○001391○"Here."
-●001391●「给」
+●001391●「接着」
 
 ○001392○Iwasawa tossed the girl her towel.
-●001392●岩泽将毛巾扔给了女生。
+●001392●岩泽将毛巾扔给了她。
 
 ○001393○nothing
 ●001393●nothing
@@ -4181,7 +4181,7 @@
 ●001397●nothing
 
 ○001398○She caught it, and wiped the blood off the bottle.
-●001398●她接住了毛巾，擦掉了瓶子上的血迹。
+●001398●她接住了毛巾，擦掉了我沾在瓶子上的血迹。
 
 ○001399○nothing
 ●001399●nothing
@@ -4202,7 +4202,7 @@
 ●001404●女学生C
 
 ○001405○"Aaaaah, what a waste..."
-●001405●「啊～啊，好浪费啊…」
+●001405●「啊～啊，真是浪费啊…」
 
 ○001406○nothing
 ●001406●nothing
@@ -4223,7 +4223,7 @@
 ●001411●岩泽
 
 ○001412○"Huh? What is?"
-●001412●「嗯，怎么了？」
+●001412●「嗯？怎么了？」
 
 ○001413○nothing
 ●001413●nothing
@@ -4280,7 +4280,7 @@
 ●001430●岩泽
 
 ○001431○"Hah, as if something like that's worth any money."
-●001431●「哈哈，这种东西怎么可能会值钱呢」
+●001431●「哈，这种东西值不了钱的」
 
 ○001432○It is
 ●001432●值钱
@@ -4307,7 +4307,7 @@
 ●001439●nothing
 
 ○001440○Otonashi + Schoolgirl
-●001440●音无 + 女学生
+●001440●音无+女学生
 
 ○001441○Otonashi
 ●001441●音无
@@ -4376,13 +4376,13 @@
 ●001462●？？
 
 ○001463○"It is!"
-●001463●「当然值钱啊！」
+●001463●「值钱！」
 
 ○001464○Schoolgirl C
 ●001464●女学生C
 
 ○001465○"Yes it is!"
-●001465●「没错，当然值钱啊！」
+●001465●「值钱啊！」
 
 ○001466○nothing
 ●001466●nothing
@@ -4403,7 +4403,7 @@
 ●001471●女学生C
 
 ○001472○"Uwah! I went and answered at the same time as this weirdo!!"
-●001472●「呜哇！我居然和这个奇怪的家伙同时回答了啊！！」
+●001472●「呜哇！我居然和这家伙同时回答了啊！！」
 
 ○001473○nothing
 ●001473●nothing
@@ -4421,10 +4421,10 @@
 ●001477●nothing
 
 ○001478○Did she just call me a weirdo...? I get the feeling she might not like me very much...
-●001478●她刚才叫我「奇怪的家伙」了吧…看来对我的印象相当不好啊…
+●001478●用「这家伙」来称呼我…看来是相当蔑视我啊…。
 
 ○001479○But more importantly, a towel drenched in the sweat of the Diversion Team's very own guitarist/vocalist, the cool beauty Iwasawa... There's absolutely a demand for a product like that!
-●001479●但更重要的是，沾满了佯攻部队的吉他手兼主唱，充满了冰山美人气质的岩泽的汗水的毛巾…绝对有着值得开发出相应产品的需求！
+●001479●但比起此等小事，沾满了佯攻部队的吉他手兼主唱，充满了冰山美人气质的岩泽的汗水的毛巾…肯定有相当的市场需求！
 
 ○001480○nothing
 ●001480●nothing
@@ -4466,7 +4466,7 @@
 ●001492●女学生C
 
 ○001493○"No, no... So, what's your name?"
-●001493●「没有没有…所以你叫什么？」
+●001493●「没有没有…所以，你叫啥？」
 
 ○001494○nothing
 ●001494●nothing
@@ -4487,7 +4487,7 @@
 ●001499●女学生C
 
 ○001500○"Yes there is!"
-●001500●「当然值钱啊！」
+●001500●「值钱啊！」
 
 ○001501○nothing
 ●001501●nothing
@@ -4574,7 +4574,7 @@
 ●001528●（感觉同上）
 
 ○001529○Iwasawa's got her cool beauty image going for her, and on top of that there's the charismatic side to her I saw just a moment ago. Her fans would be watering at the mouth at the prospect of getting their hands on that towel.
-●001529●岩泽的外在形象是冷酷的冰山美人，而我刚才看到的，则是她充满了魅力的一面。她的粉丝们一定会为了这条毛巾而垂涎三尺的。
+●001529●岩泽有着冰山美人般的外在形象，而我刚刚看到的，则是她充满魅力的一面。她的粉丝们一定会为了这条毛巾而垂涎三尺的。
 
 ○001530○nothing
 ●001530●nothing
@@ -4595,7 +4595,7 @@
 ●001535●女学生C
 
 ○001536○"See, look, this guy looks like he wants it, too!"
-●001536●「你看，这个男的不是就很想要吗！」
+●001536●「你看，这个男的不就很想要吗—！」
 
 ○001537○nothing
 ●001537●nothing
@@ -4682,7 +4682,7 @@
 ●001564●「…诶！？」
 
 ○001565○She suddenly dragged me into the debate, and I was at a loss for words.
-●001565●突然被人击中了弱点的我，一时间说不出话来。
+●001565●突然让她给说中了，震的我一时间说不出话来。
 
 ○001566○nothing
 ●001566●nothing
@@ -4727,7 +4727,7 @@
 ●001579●女学生C
 
 ○001580○"No, no... So, what's your name?"
-●001580●「没有没有…所以你叫什么？」
+●001580●「没有没有…所以，你叫啥？」
 
 ○001581○nothing
 ●001581●nothing
@@ -4748,7 +4748,7 @@
 ●001586●女学生C
 
 ○001587○"Yes, it is!"
-●001587●「当然值钱啊！」
+●001587●「值钱啊！」
 
 ○001588○Otonashi
 ●001588●音无
@@ -4817,7 +4817,7 @@
 ●001609●？？
 
 ○001610○"Nah, no way, right?"
-●001610●「不，不值钱吧？」
+●001610●「不值钱吧？」
 
 ○001611○nothing
 ●001611●nothing
@@ -4838,7 +4838,7 @@
 ●001616●女学生C
 
 ○001617○"Eeeeeeh! The hell do you even know, mister just got here!?"
-●001617●「诶——！你这个新来的先生懂什么啊！？」
+●001617●「诶——！您这个新来的懂什么啊——！？」
 
 ○001618○Otonashi
 ●001618●音无
@@ -4907,7 +4907,7 @@
 ●001639●？？
 
 ○001640○"Even if they did want it, that'd make them less a fan and more a pervert, right?"
-●001640●「就算有人想要的话，那也已经不是粉丝的行为了，纯粹是变态而已吧？」
+●001640●「如果有人想要的话，已经不能算是粉丝，纯粹是变态了吧？」
 
 ○001641○Iwasawa
 ●001641●岩泽
@@ -4931,7 +4931,7 @@
 ●001647●女学生C
 
 ○001648○"Eeeeeeeh!!"
-●001648●「诶诶——！！」
+●001648●「诶诶———！！」
 
 ○001649○nothing
 ●001649●nothing
@@ -4952,7 +4952,7 @@
 ●001654●女学生C
 
 ○001655○"So, what's this gentleman over here called?"
-●001655●「所以，这边的这位绅士叫什么名字？」
+●001655●「所以，那边的那位绅士，该如何称呼呢？」
 
 ○001656○nothing
 ●001656●nothing
@@ -4973,7 +4973,7 @@
 ●001661●岩泽
 
 ○001662○"He's a new recruit. His name's, umm..."
-●001662●「他是新来的，名字叫…呃…」
+●001662●「他是新加入战线的，名字是叫—呃…」
 
 ○001663○nothing
 ●001663●nothing
@@ -5099,7 +5099,7 @@
 ●001703●女学生C
 
 ○001704○"Haaah... After you showed up acting like nothing was wrong even though your guts were spilling out I thought you must be crazy or something, so it's nice to hear your name's normal, at least..."
-●001704●「哈哈…虽然身负重伤，但是却能够若无其事地行动，看起来像是脑子有问题，但至少名字是正常的…」
+●001704●「哈啊—…虽然身负重伤，但却若无其事地到处行动，本以为脑子有问题，至少名字还是正常的…」
 
 ○001705○nothing
 ●001705●nothing
@@ -5189,7 +5189,7 @@
 ●001733●？？
 
 ○001734○"I just got here, but still, looking forward to working with you."
-●001734●「虽然我刚刚来到这里，但是今后也请多多关照了」
+●001734●「虽然我才刚刚来到这里，但今后还请多多关照」
 
 ○001735○nothing
 ●001735●nothing
@@ -5207,7 +5207,7 @@
 ●001739●岩泽
 
 ○001740○"Hey, Hisako, Irie, this is the guy who got put in the top brass all of a sudden, so you should come say hi, too."
-●001740●「喂，久子，入江，这位是突然被安排到了干部层的新人，你们也来打打招呼吧」
+●001740●「喂，久子，入江，这位是突然被安排到干部的新人，你们也来打个招呼吧」
 
 ○001741○Iwasawa beckoned toward the club room.
 ●001741●岩泽对着活动室的里面招了招手。
@@ -5249,7 +5249,7 @@
 ●001753●岩泽
 
 ○001754○"He's a new recruit. His name's, umm..."
-●001754●「他是新来的，名字叫…呃…」
+●001754●「他是新加入战线的，名字是叫—呃…」
 
 ○001755○nothing
 ●001755●nothing
@@ -5375,7 +5375,7 @@
 ●001795●女学生C
 
 ○001796○"Damn Brat-san, huh? ...Wait, what kinda name is thaaaat!?"
-●001796●「祖安带师同学吗…那是个什么名字啊！？」
+●001796●「祖安带师同学吗…不对，有这样的名字吗！？」
 
 ○001797○nothing
 ●001797●nothing
@@ -5411,7 +5411,7 @@
 ●001807●岩泽
 
 ○001808○"He's a new recruit. His name's, umm..."
-●001808●「他是新来的，名字叫…呃…」
+●001808●「他是新加入战线的，名字是叫—呃…」
 
 ○001809○nothing
 ●001809●nothing
@@ -5537,7 +5537,7 @@
 ●001849●女学生C
 
 ○001850○"A proxy for who?"
-●001850●「代理着什么？」
+●001850●「是谁的代理？」
 
 ○001851○Otonashi
 ●001851●音无
@@ -5627,7 +5627,7 @@
 ●001879●岩泽
 
 ○001880○"He's got amnesia, apparently."
-●001880●「他目前还没有记忆」
+●001880●「他好像没有记忆」
 
 ○001881○nothing
 ●001881●nothing
@@ -5648,7 +5648,7 @@
 ●001886●女学生C
 
 ○001887○"Ooooh, so we're just calling him Proxy for now, then?"
-●001887●「诶——，所以现在叫他代理人就可以了吧——」
+●001887●「诶—，所以现在就以代理人作为名号了吗—」
 
 ○001888○nothing
 ●001888●nothing
@@ -5669,7 +5669,7 @@
 ●001893●女学生C
 
 ○001894○"...Wait, as if I'd be satisfied with thaaat! The hell's 'the real me' supposed to mean!?"
-●001894●「…就可以个鬼啊——！真正的我是个什么玩意儿啊！？」
+●001894●「…我信你个鬼啊——！真正的我是个什么玩意儿啊！？」
 
 ○001895○nothing
 ●001895●nothing
@@ -5690,7 +5690,7 @@
 ●001900●岩泽
 
 ○001901○"He's a new recruit. His name's, umm..."
-●001901●「他是新来的，名字叫…呃…」
+●001901●「他是新加入战线的，名字是叫—呃…」
 
 ○001902○nothing
 ●001902●nothing
@@ -5816,7 +5816,7 @@
 ●001942●女学生C
 
 ○001943○"That's not a name, it's just a description of his looks!!"
-●001943●「这哪是名字啊，只是对他的外貌的描述吧！！」
+●001943●「这哪是名字啊，只是对外貌的描述吧！！」
 
 ○001944○nothing
 ●001944●nothing
@@ -5837,7 +5837,7 @@
 ●001949●岩泽
 
 ○001950○"He's a new recruit. His name's, umm..."
-●001950●「他是新来的，名字叫…呃…」
+●001950●「他是新加入战线的，名字是叫—呃…」
 
 ○001951○nothing
 ●001951●nothing
@@ -5963,7 +5963,7 @@
 ●001991●女学生C
 
 ○001992○"What kinda name's thaaaaat!? I don't think I can feel safe around you!!"
-●001992●「这是个什么鬼名字啊———！！感觉待在你身边很危险啊——！！」
+●001992●「这是什么鬼名字啊啊啊———！！感觉待在你身边很危险啊——！！」
 
 ○001993○Otonashi
 ●001993●音无
@@ -6074,7 +6074,7 @@
 ●002028●岩泽
 
 ○002029○"He's a new recruit. His name's, umm..."
-●002029●「他是新来的，名字叫…呃…」
+●002029●「他是新加入战线的，名字是叫—呃…」
 
 ○002030○nothing
 ●002030●nothing
@@ -6200,7 +6200,7 @@
 ●002070●女学生C
 
 ○002071○"Huh? Who's comrades with who?"
-●002071●「诶？什么之友？」
+●002071●「诶？什么之友，和谁？」
 
 ○002072○Otonashi
 ●002072●音无
@@ -6269,7 +6269,7 @@
 ●002093●？？
 
 ○002094○"No, it's just me."
-●002094●「不，只是我自己而已」
+●002094●「不，是我自己」
 
 ○002095○nothing
 ●002095●nothing
@@ -6380,7 +6380,7 @@
 ●002130●女学生C
 
 ○002131○"So, does my face look all blurry to you, or something?"
-●002131●「所以说，你看着我的脸的时候会感到模糊吗？」
+●002131●「那么，我的脸在你的眼里，很模糊吗？」
 
 ○002132○Otonashi
 ●002132●音无
@@ -6449,7 +6449,7 @@
 ●002153●？？
 
 ○002154○"Nope, not at all."
-●002154●「不，完全没有」
+●002154●「不，完全不糊」
 
 ○002155○nothing
 ●002155●nothing
@@ -6581,7 +6581,7 @@
 ●002197●岩泽
 
 ○002198○"He's a new recruit. His name's, umm..."
-●002198●「他是新来的，名字叫…呃…」
+●002198●「他是新加入战线的，名字是叫—呃…」
 
 ○002199○nothing
 ●002199●nothing
@@ -6686,7 +6686,7 @@
 ●002232●岩泽
 
 ○002233○"That's right, it's All... All-Japan... man, your name's sure a pain, huh..."
-●002233●「没错，是全…全日本…好难记的名字啊…」
+●002233●「没错，是全…全日本…呃，好难记的名字啊…」
 
 ○002234○nothing
 ●002234●nothing
@@ -6722,7 +6722,7 @@
 ●002244●女学生C
 
 ○002245○"As if that's a real name in the first place!!"
-●002245●「这也不可能是他的真实姓名吧！！」
+●002245●「有这样的名字吗———！！」
 
 ○002246○nothing
 ●002246●nothing
@@ -6743,7 +6743,7 @@
 ●002251●岩泽
 
 ○002252○"He's a new recruit. His name's, umm..."
-●002252●「他是新来的，名字叫…呃…」
+●002252●「他是新加入战线的，名字是叫—呃…」
 
 ○002253○nothing
 ●002253●nothing
@@ -6869,7 +6869,7 @@
 ●002293●女学生C
 
 ○002294○"What kinda name is thaaaat!? That's terrifying, I don't even wanna turn my back to you!!"
-●002294●「这是个什么名字啊——！？好恐怖啊，我甚至不敢背对着你了啊——！！」
+●002294●「这是个什么名字啊———！？好恐怖，都不敢背对着你了啊———！！」
 
 ○002295○nothing
 ●002295●nothing
@@ -6890,7 +6890,7 @@
 ●002300●岩泽
 
 ○002301○"He's a new recruit. His name's No-Memory Man."
-●002301●「他是新来的，名字叫没记忆的男人」
+●002301●「他是新加入战线的，名字是叫没记忆的男人」
 
 ○002302○nothing
 ●002302●nothing
@@ -6932,7 +6932,7 @@
 ●002314●岩泽
 
 ○002315○"Yeah, he's still got amnesia, see."
-●002315●「嗯，他现在还在失忆中呢」
+●002315●「嗯，这家伙，还没有恢复记忆呢」
 
 ○002316○nothing
 ●002316●nothing
@@ -6953,7 +6953,7 @@
 ●002321●女学生C
 
 ○002322○"I get it, that's an appropriate nickname, then."
-●002322●「懂了，这个称号还是很恰当的」
+●002322●「原来如此，这个名字还是很合理的」
 
 ○002323○nothing
 ●002323●nothing
@@ -7043,7 +7043,7 @@
 ●002351●？？
 
 ○002352○"I just got here, but still, looking forward to working with you."
-●002352●「虽然我刚刚来到这里，但是今后也请多多关照了」
+●002352●「虽然我才刚刚来到这里，但今后还请多多关照」
 
 ○002353○nothing
 ●002353●nothing
@@ -7064,7 +7064,7 @@
 ●002358●岩泽
 
 ○002359○"Hey, Hisako, Irie, this is the guy who got put in the top brass all of a sudden, so you should come say hi, too."
-●002359●「喂，久子，入江，这位是突然被安排到了干部层的新人，你们也来打打招呼吧」
+●002359●「喂，久子，入江，这位是突然被安排到干部的新人，你们也来打个招呼吧」
 
 ○002360○Iwasawa beckoned toward the club room.
 ●002360●岩泽对着活动室的里面招了招手。
@@ -7088,7 +7088,7 @@
 ●002366●岩泽
 
 ○002367○"He's a new recruit. His name's, umm..."
-●002367●「他是新来的，名字叫…呃…」
+●002367●「他是新加入战线的，名字是叫—呃…」
 
 ○002368○nothing
 ●002368●nothing
@@ -7214,7 +7214,7 @@
 ●002408●女学生C
 
 ○002409○"Umm, how's that written?"
-●002409●「诶，汉字是怎么写的？」
+●002409●「呃，汉字是怎么写的？」
 
 ○002410○Otonashi
 ●002410●音无
@@ -7304,7 +7304,7 @@
 ●002438●女学生C
 
 ○002439○"What kinda name is thaaaaat!?"
-●002439●「这是个什么鬼名字啊——！？」
+●002439●「这是个什么鬼名字啊———！？」
 
 ○002440○nothing
 ●002440●nothing
@@ -7325,7 +7325,7 @@
 ●002445●岩泽
 
 ○002446○"He's a new recruit. His name's, umm..."
-●002446●「他是新来的，名字叫…呃…」
+●002446●「他是新加入战线的，名字是叫—呃…」
 
 ○002447○nothing
 ●002447●nothing
@@ -7451,7 +7451,7 @@
 ●002487●女学生C
 
 ○002488○"Umm, how's that written?"
-●002488●「诶？汉字是怎么写的？」
+●002488●「呃，汉字是怎么写的？」
 
 ○002489○Otonashi
 ●002489●音无
@@ -7520,7 +7520,7 @@
 ●002510●？？
 
 ○002511○"Just like you'd imagine. Infinity itself: Mugen."
-●002511●「没错，就是那个没有限制的无限」
+●002511●「就是无限大的无限」
 
 ○002512○nothing
 ●002512●nothing
@@ -7541,7 +7541,7 @@
 ●002517●女学生C
 
 ○002518○"What kinda name is thaaaaat!?"
-●002518●「这是个什么鬼名字啊——！？」
+●002518●「这是个什么鬼名字啊———！？」
 
 ○002519○nothing
 ●002519●nothing
@@ -7562,7 +7562,7 @@
 ●002524●岩泽
 
 ○002525○"He's a new recruit. His name's, umm..."
-●002525●「他是新来的，名字叫…呃…」
+●002525●「他是新加入战线的，名字是叫—呃…」
 
 ○002526○nothing
 ●002526●nothing
@@ -7667,7 +7667,7 @@
 ●002559●岩泽
 
 ○002560○"Wait, was it?"
-●002560●「诶？是这个吗？」
+●002560●「是这个吗？」
 
 ○002561○Otonashi
 ●002561●音无
@@ -7757,7 +7757,7 @@
 ●002589●女学生C
 
 ○002590○"As it that's a real name!!"
-●002590●「是名字就见鬼了吧——！！」
+●002590●「有这样的名字吗———！！」
 
 ○002591○nothing
 ●002591●nothing
@@ -7778,7 +7778,7 @@
 ●002596●女学生C
 
 ○002597○"That on top of you being completely mutilated―just how crazy impactful of a first impression are you trying to make here!?"
-●002597●「你是想在我们初次见面的时候给对方留下巨大的心理创伤吗！？」
+●002597●「再加上你这一身的创伤，这初次见面带来的冲击力也太大了吧———！？」
 
 ○002598○nothing
 ●002598●nothing
@@ -7799,7 +7799,7 @@
 ●002603●岩泽
 
 ○002604○"He's a new recruit. His name's, umm..."
-●002604●「他是新来的，名字叫…呃…」
+●002604●「他是新加入战线的，名字是叫—呃…」
 
 ○002605○nothing
 ●002605●nothing
@@ -7994,7 +7994,7 @@
 ●002668●女学生C
 
 ○002669○"As it that's a real name!!"
-●002669●「是名字就见鬼了吧——！！」
+●002669●「有这样的名字吗———！！」
 
 ○002670○nothing
 ●002670●nothing
@@ -8015,7 +8015,7 @@
 ●002675●女学生C
 
 ○002676○"That on top of you being completely mutilated―just how crazy impactful of a first impression are you trying to make here!?"
-●002676●「你是想在我们初次见面的时候给对方留下巨大的心理创伤吗！？」
+●002676●「再加上你这一身的创伤，这初次见面带来的冲击力也太大了吧———！？」
 
 ○002677○nothing
 ●002677●nothing
@@ -8036,7 +8036,7 @@
 ●002682●岩泽
 
 ○002683○"He's a new recruit. His name's, umm..."
-●002683●「他是新来的，名字叫…呃…」
+●002683●「他是新加入战线的，名字是叫—呃…」
 
 ○002684○nothing
 ●002684●nothing
@@ -8231,7 +8231,7 @@
 ●002747●女学生C
 
 ○002748○"As it that's a real name!!"
-●002748●「是名字就见鬼了吧——！！」
+●002748●「有这样的名字吗———！！」
 
 ○002749○nothing
 ●002749●nothing
@@ -8252,7 +8252,7 @@
 ●002754●女学生C
 
 ○002755○"That on top of you being completely mutilated―just how crazy impactful of a first impression are you trying to make here!?"
-●002755●「你是想在我们初次见面的时候给对方留下巨大的心理创伤吗！？」
+●002755●「再加上你这一身的创伤，这初次见面带来的冲击力也太大了吧———！？」
 
 ○002756○Otonashi
 ●002756●音无
@@ -8321,7 +8321,7 @@
 ●002777●？？
 
 ○002778○"Doesn't change the fact that I'm human, just like the rest of you. Except I'm dead, of course."
-●002778●「我和你们都是人类，这一点是不会改变的。只不过已经死了而已」
+●002778●「我和你们都是人类，这一点是不会改变的。虽然已经死了」
 
 ○002779○nothing
 ●002779●nothing
@@ -8342,7 +8342,7 @@
 ●002784●女学生C
 
 ○002785○"I friggin' know that already!!"
-●002785●「这个我肯定知道啊——！！」
+●002785●「这我已经知道了啊啊啊啊——！！」
 
 ○002786○Otonashi
 ●002786●音无
@@ -8411,13 +8411,13 @@
 ●002807●？？
 
 ○002808○"...Look, calm down, please."
-●002808●「…喂喂，冷静一点」
+●002808●「…拜托，冷静一点」
 
 ○002809○Her reactions were intense enough, I could feel them in my injuries...
-●002809●这家伙的反应相当强烈，连我身上的伤口都好像能感觉到一样…
+●002809●连我身上的伤口，都能感觉到这家伙的强烈反应了…。
 
 ○002810○She was so absurdly high energy, I was getting tired just trying to keep up...
-●002810●仅仅是跟上这如此强烈的反应，就已经让我筋疲力尽了…
+●002810●仅仅是跟上这如此强烈的情绪，就已经让我感到疲劳了…
 
 ○002811○Otonashi
 ●002811●音无
@@ -8486,7 +8486,7 @@
 ●002832●？？
 
 ○002833○"So, what's your name?"
-●002833●「所以，你的名字是？」
+●002833●「所以，你叫什么？」
 
 ○002834○nothing
 ●002834●nothing
@@ -8510,10 +8510,10 @@
 ●002840●「我叫关根诗织」 
 
 ○002841○She brought her energy level down a notch, and introduced herself.
-●002841●她的情绪恢复到了正常水平，开始进行起了自我介绍。
+●002841●她的情绪恢复了正常，开始做起了自我介绍。
 
 ○002842○She might be a bit boisterous, but apparently she's also the type to actually listen when people talk to her.
-●002842●虽然有点吵闹，但她很明显是那种能够认真听人说话的类型。
+●002842●虽然她有点吵，但似乎是那种能够认真听人说话的类型。
 
 ○002843○Otonashi
 ●002843●音无
@@ -8582,7 +8582,7 @@
 ●002864●？？
 
 ○002865○"I just got here, but still, looking forward to working with you."
-●002865●「虽然我刚刚来到这里，但是今后也请多多关照了」
+●002865●「虽然我才刚刚来到这里，但今后还请多多关照」
 
 ○002866○nothing
 ●002866●nothing
@@ -8603,7 +8603,7 @@
 ●002871●岩泽
 
 ○002872○"Hey, Hisako, Irie, this is the guy who got put in the top brass all of a sudden, so you should come say hi, too."
-●002872●「喂，久子，入江，这位是突然被安排到了干部层的新人，你们也来打打招呼吧」
+●002872●「喂，久子，入江，这位是突然被安排到干部的新人，你们也来打个招呼吧」
 
 ○002873○Iwasawa beckoned toward the club room.
 ●002873●岩泽对着活动室的里面招了招手。
@@ -8669,7 +8669,7 @@
 ●002893●入江
 
 ○002894○"...Wait, eeeeeeeeeeh!!"
-●002894●「…诶诶诶诶诶诶！！」
+●002894●「…等，诶诶诶诶诶诶！！」
 
 ○002895○nothing
 ●002895●nothing
@@ -8687,13 +8687,13 @@
 ●002899●nothing
 
 ○002900○She flinched back as she noticed how torn to pieces I was.
-●002900●注意到了我的浑身破烂，她被吓得后退了好几步。
+●002900●她注意到了我全身破破烂烂的样子，吓的向后连退了好几步。
 
 ○002901○Iwasawa
 ●002901●岩泽
 
 ○002902○"Apparently, he can just put up with that level of pain."
-●002902●「对他来说，这种程度的疼痛就是小菜一碟」
+●002902●「这种程度的疼痛，对他来说似乎还能够忍受」
 
 ○002903○Otonashi
 ●002903●音无
@@ -8798,7 +8798,7 @@
 ●002936●入江
 
 ○002937○"Otonashi-san, is it? I'm Irie. Nice to meet you, too."
-●002937●「音无同学吗？我叫入江，也请多关照」
+●002937●「音无同学吗？我叫入江，还请多多关照」
 
 ○002938○nothing
 ●002938●nothing
@@ -8909,7 +8909,7 @@
 ●002973●入江
 
 ○002974○"Is that, umm... a nickname?"
-●002974●「这个是…称号吗？」
+●002974●「这个是，呃…外号吗？」
 
 ○002975○Sekine
 ●002975●关根
@@ -8918,7 +8918,7 @@
 ●002976●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○002977○Sekine jumped in and threw her arms around Irie.
-●002977●关根跳了起来，一把抱住了入江。
+●002977●关根猛地抱住了入江。
 
 ○002978○nothing
 ●002978●nothing
@@ -9029,7 +9029,7 @@
 ●003013●入江
 
 ○003014○"Eh? A proxy? For who?"
-●003014●「诶？代理人？代理了什么？」
+●003014●「诶？代理吗？是谁的代理？」
 
 ○003015○Otonashi
 ●003015●音无
@@ -9119,7 +9119,7 @@
 ●003043●入江
 
 ○003044○"Umm... I'm not sure I understand..."
-●003044●「那个…我不是很明白…」
+●003044●「那个…我不是很明白意思…」
 
 ○003045○Sekine
 ●003045●关根
@@ -9128,7 +9128,7 @@
 ●003046●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○003047○Sekine jumped in and threw her arms around Irie.
-●003047●关根跳了起来，一把抱住了入江。
+●003047●关根猛地抱住了入江。
 
 ○003048○nothing
 ●003048●nothing
@@ -9239,7 +9239,7 @@
 ●003083●入江
 
 ○003084○"Umm... Are you describing your looks, or...?"
-●003084●「那个…你是在描述自己的长相吗…」
+●003084●「那个…这是指外貌吗…？」
 
 ○003085○Sekine
 ●003085●关根
@@ -9248,7 +9248,7 @@
 ●003086●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○003087○Sekine jumped in and threw her arms around Irie.
-●003087●关根跳了起来，一把抱住了入江。
+●003087●关根猛地抱住了入江。
 
 ○003088○nothing
 ●003088●nothing
@@ -9365,10 +9365,10 @@
 ●003125●关根
 
 ○003126○"You're better off not knowing, Miyukichi!! Stay as pure and innocent as always, please!!"
-●003126●「美雪亲还是不要知道比较好——！！继续保持你的纯洁无垢啊——！！」
+●003126●「美雪亲不用明白也可以——！！继续保持你的纯洁无垢啊——！！」
 
 ○003127○Sekine jumped in and desperately clung to Irie.
-●003127●关根跳了起来，拼命的抱住了入江。
+●003127●关根拼命地抱紧了入江。
 
 ○003128○nothing
 ●003128●nothing
@@ -9479,7 +9479,7 @@
 ●003163●入江
 
 ○003164○"Eh? But you're not wearing glasses, are you?"
-●003164●「诶？但是你没有戴眼镜啊？」
+●003164●「诶？但是你并没有戴眼镜啊？」
 
 ○003165○Sekine
 ●003165●关根
@@ -9488,7 +9488,7 @@
 ●003166●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○003167○Sekine jumped in and desperately clung to Irie.
-●003167●关根跳了起来，拼命的抱住了入江。
+●003167●关根拼命地抱紧了入江。
 
 ○003168○nothing
 ●003168●nothing
@@ -9599,7 +9599,7 @@
 ●003203●入江
 
 ○003204○"All... Japan?"
-●003204●「全……日本？」
+●003204●「全…日本？」
 
 ○003205○Sekine
 ●003205●关根
@@ -9608,7 +9608,7 @@
 ●003206●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○003207○Sekine jumped in and desperately clung to Irie.
-●003207●关根跳了起来，拼命的抱住了入江。
+●003207●关根拼命地抱紧了入江。
 
 ○003208○nothing
 ●003208●nothing
@@ -9719,7 +9719,7 @@
 ●003243●入江
 
 ○003244○"Eh!? Then, did that blood come from someone you...?"
-●003244●「诶！？难道说你身上的血…？」
+●003244●「诶！？难道说，你身上的血…？」
 
 ○003245○Sekine
 ●003245●关根
@@ -9728,7 +9728,7 @@
 ●003246●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○003247○Sekine jumped in and desperately clung to Irie.
-●003247●关根跳了起来，拼命的抱住了入江。
+●003247●关根猛地抱住了入江。
 
 ○003248○Otonashi
 ●003248●音无
@@ -9818,13 +9818,13 @@
 ●003276●入江
 
 ○003277○"No-Memory Man-san, is it? I'm Irie. Nice to meet you, too."
-●003277●「没记忆的男人同学吗？我叫入江，也请多关照」
+●003277●「没记忆的男人同学吗？我叫入江，还请多多关照」
 
 ○003278○Sekine
 ●003278●关根
 
 ○003279○"She doesn't think it's weird at all... Stay as pure and unsullied as you are now forever, Miyukichi..."
-●003279●「她完全没有觉得奇怪啊…请继续保持你的纯洁无垢吧，美雪亲…」
+●003279●「她完全没有觉得奇怪啊…。请继续保持你的纯洁无垢吧，美雪亲…」
 
 ○003280○Otonashi
 ●003280●音无
@@ -9914,13 +9914,13 @@
 ●003308●入江
 
 ○003309○"Onsoku-san, is it? I'm Irie. Nice to meet you, too."
-●003309●「音速同学吗？我叫入江，也请多关照」
+●003309●「音速同学吗？我叫入江，还请多多关照」
 
 ○003310○Sekine
 ●003310●关根
 
 ○003311○"She doesn't think it's weird at all... Stay as pure and unsullied as you are now forever, Miyukichi..."
-●003311●「她完全没有觉得奇怪啊…请继续保持你的纯洁无垢吧，美雪亲…」
+●003311●「她完全没有觉得奇怪啊…。请继续保持你的纯洁无垢吧，美雪亲…」
 
 ○003312○Otonashi
 ●003312●音无
@@ -10010,13 +10010,13 @@
 ●003340●入江
 
 ○003341○"Mugen-san, is it? I'm Irie. Nice to meet you, too."
-●003341●「无限同学吗？我叫入江，也请多关照」
+●003341●「无限同学吗？我叫入江，还请多多关照」
 
 ○003342○Sekine
 ●003342●关根
 
 ○003343○"She doesn't think it's weird at all... Stay as pure and unsullied as you are now forever, Miyukichi..."
-●003343●「她完全没有觉得奇怪啊…请继续保持你的纯洁无垢吧，美雪亲…」
+●003343●「她完全没有觉得奇怪啊…。请继续保持你的纯洁无垢吧，美雪亲…」
 
 ○003344○nothing
 ●003344●nothing
@@ -10127,7 +10127,7 @@
 ●003379●入江
 
 ○003380○"Is that, umm... a nickname?"
-●003380●「这个是…称号吗？」
+●003380●「这个是，呃…外号吗？」
 
 ○003381○Sekine
 ●003381●关根
@@ -10136,7 +10136,7 @@
 ●003382●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○003383○Sekine jumped in and threw her arms around Irie.
-●003383●关根跳了起来，一把抱住了入江。
+●003383●关根猛地抱住了入江。
 
 ○003384○nothing
 ●003384●nothing
@@ -10247,7 +10247,7 @@
 ●003419●入江
 
 ○003420○"Is that, umm... a nickname?"
-●003420●「这个是…称号吗？」
+●003420●「这个是，呃…外号吗？」
 
 ○003421○Sekine
 ●003421●关根
@@ -10256,7 +10256,7 @@
 ●003422●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○003423○関根が入江に抱きついていた。
-●003423●关根跳了起来，一把抱住了入江。
+●003423●关根猛地抱住了入江。
 
 ○003424○nothing
 ●003424●nothing
@@ -10367,7 +10367,7 @@
 ●003459●入江
 
 ○003460○"Is that, umm... a nickname?"
-●003460●「这个是…称号吗？」
+●003460●「这个是，呃…外号吗？」
 
 ○003461○Sekine
 ●003461●关根
@@ -10376,7 +10376,7 @@
 ●003462●「美雪亲，不要再问了啊——！！这家伙的脑子有问题啊——！！」
 
 ○003463○Sekine jumped in and threw her arms around Irie.
-●003463●关根跳了起来，一把抱住了入江。
+●003463●关根猛地抱住了入江。
 
 ○003464○Schoolgirl A
 ●003464●女学生A
