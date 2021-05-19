@@ -10382,7 +10382,7 @@
 ●003464●女学生A
 
 ○003465○"Hey, hey, what's with the fuss you guys're making out here?"
-●003465●「喂喂，你们正在那边吵什么啊？」
+●003465●「喂喂，怎么回事啊，这么吵吵嚷嚷的？」
 
 ○003466○nothing
 ●003466●nothing
@@ -10400,16 +10400,16 @@
 ●003470●nothing
 
 ○003471○The last to emerge was a girl with a sharp look in her eyes.
-●003471●最后出现的是一个眼神犀利的女生。
+●003471●最后出现的，是一位眼神犀利的女生。
 
 ○003472○I guess this must be Hisako, then?
-●003472●那么，她应该就是久子了吧？
+●003472●她应该就是久子了吧。
 
 ○003473○Schoolgirl A
 ●003473●女学生A
 
 ○003474○"What's going on?"
-●003474●「有什么事」
+●003474●「什么事啊」
 
 ○003475○nothing
 ●003475●nothing
@@ -10427,10 +10427,10 @@
 ●003479●nothing
 
 ○003480○The last to emerge was a girl with a sharp look in her eyes.
-●003480●最后出现的是一个眼神犀利的女生。
+●003480●最后出现的，是一位眼神犀利的女生。
 
 ○003481○I guess this must be Hisako, then?
-●003481●那么，她应该就是久子了吧？
+●003481●她应该就是久子了吧。
 
 ○003482○Otonashi
 ●003482●音无
@@ -10505,7 +10505,7 @@
 ●003505●岩泽
 
 ○003506○"He's a new recruit. He got promoted straight into the top brass."
-●003506●「他是一个被安排进了干部层的新人」
+●003506●「他是一个被直接提拔进了干部层的新人」
 
 ○003507○nothing
 ●003507●nothing
@@ -10526,7 +10526,7 @@
 ●003512●久子
 
 ○003513○"Hmmm...? I'm Hisako. I doubt we'll be dealing much with each other, but nice to meet you."
-●003513●「哦——…我叫久子。虽然可能不会有什么交集，但还是请多关照」
+●003513●「呵———…我叫久子。虽然可能不会有什么交集，但还是请多多关照」
 
 ○003514○nothing
 ●003514●nothing
@@ -11528,13 +11528,13 @@
 ●003846●女学生A
 
 ○003847○"Huh? You screwing with me or something?"
-●003847●「哈？你是在胡闹吗？」
+●003847●「哈？你是在耍我吗？」
 
 ○003848○Sekine
 ●003848●关根
 
 ○003849○"Hiiiyaaaaaahhhhhh! This dude's incurred the wrath of the band's resident monster!!"
-●003849●「咿呀啊啊啊啊——！这个男人居然敢去招惹整个乐队第一号的魔鬼啊——！！」
+●003849●「咿呀啊啊啊啊——！这个男人，居然敢招惹整个乐队第一号的魔鬼啊——！！」
 
 ○003850○nothing
 ●003850●nothing
@@ -11555,7 +11555,7 @@
 ●003855●女学生A
 
 ○003856○"Who the hell're you calling a monster, huuuuh!?"
-●003856●「你说谁是魔鬼呢——！？」
+●003856●「你说谁是魔鬼呢，嗯啊啊啊！？」
 
 ○003857○nothing
 ●003857●nothing
@@ -11576,7 +11576,7 @@
 ●003862●入江
 
 ○003863○"Shiorin incurred it, toooo!!"
-●003863●「诗诗不也一样啊——！！」
+●003863●「诗诗你不也一样吗——！！」
 
 ○003864○nothing
 ●003864●nothing
@@ -11594,7 +11594,7 @@
 ●003868●岩泽
 
 ○003869○"Hey, hey, quit it with the fighting. You're making it look like we're always at each others' throats or something."
-●003869●「喂喂，别吵架了。会给人一种我们关系很差的感觉的」
+●003869●「喂喂，别吵架了。这样会显得我们关系很差的」
 
 ○003870○nothing
 ●003870●nothing
@@ -11615,7 +11615,7 @@
 ●003875●入江
 
 ○003876○"That's right, that's right! Everyone in GirlDeMo's the best of friends!"
-●003876●「没错，没错！GDM的大家都是最好的朋友了！」
+●003876●「没错，没错！GDM的大家都是最好的朋友！」
 
 ○003877○nothing
 ●003877●nothing
@@ -11636,7 +11636,7 @@
 ●003882●女学生A
 
 ○003883○"Are we...? Well, whatever. What's this guy's deal?"
-●003883●「是吗…？算了，不管了。这家伙是来干啥的？」
+●003883●「是吗…？算了，不管了。这家伙，是来干啥的？」
 
 ○003884○nothing
 ●003884●nothing
@@ -11654,13 +11654,13 @@
 ●003888●nothing
 
 ○003889○Apparently I'd made an abysmal first impression. Her glare pierced right through me. 
-●003889●由于我所留下的糟糕的第一印象，她一直在用锐利的目光瞪着我。 
+●003889●出于这糟糕的第一印象，她狠狠地等着我。 
 
 ○003890○Iwasawa
 ●003890●岩泽
 
 ○003891○"He's a new recruit. He got promoted straight into the top brass."
-●003891●「他是一个被安排进了干部层的新人」
+●003891●「他是一个被直接提拔进了干部层的新人」
 
 ○003892○nothing
 ●003892●nothing
@@ -11681,7 +11681,7 @@
 ●003897●久子
 
 ○003898○"Hmmmm... I'm Hisako. Nice to meet you, I guess."
-●003898●「哦——…我叫久子。总之请多关照」
+●003898●「呵———…我叫久子。总之请多关照」
 
 ○003899○nothing
 ●003899●nothing
@@ -11804,10 +11804,10 @@
 ●003938●关根
 
 ○003939○"Could it be... you're a fanboy who's here to make a pass at Iwasawa? Eh heh heh!"
-●003939●「难道说…你的目的是岩泽前辈？嘿嘿嘿！」
+●003939●「难道说…你的目的是岩泽前辈？诶嘿嘿！」
 
 ○003940○Could be
-●003940●也许吧
+●003940●有这种可能性
 
 ○003941○No
 ●003941●不是
@@ -11834,7 +11834,7 @@
 ●003948●nothing
 
 ○003949○I'm not right now, but it does seem possible I'll end up that way in the future.
-●003949●虽然现在不是，但以后也许会这样。
+●003949●虽然现在并不是，但以后可能会有这种可能性。
 
 ○003950○Otonashi
 ●003950●音无
@@ -11903,7 +11903,7 @@
 ●003971●？？
 
 ○003972○(I mean, anyone would start to think like that after seeing her singing like she was a moment ago, right...?)
-●003972●（不管是谁，像刚才那样看到了她的演唱的话，都会这么想吧？）
+●003972●（不管是谁，看到了她刚才演唱的样子之后，都会有这种想法吧？）
 
 ○003973○nothing
 ●003973●nothing
@@ -11945,7 +11945,7 @@
 ●003985●关根
 
 ○003986○"You'd be better off giving up now, for your information. Iwasawa's a hardcore music maniac who doesn't spare a moment for anything else."
-●003986●「我劝你还是放弃了比较好哦。岩泽前辈是个彻彻底底的音乐狂魔，对其他的事情完全没有兴趣哦」
+●003986●「我劝你还是放弃比较好哦—。岩泽前辈啊，可是个彻彻底底的音乐狂魔，对其他的事情完全没有兴趣」
 
 ○003987○nothing
 ●003987●nothing
@@ -11963,7 +11963,7 @@
 ●003991●岩泽
 
 ○003992○"Sekine, why you little...!"
-●003992●「关根，你小子…！」
+●003992●「关根，你小子——！」
 
 ○003993○nothing
 ●003993●nothing
@@ -11984,7 +11984,7 @@
 ●003998●岩泽
 
 ○003999○"I can't even argue when you're that spot on about me!"
-●003999●「我竟然无法反驳这段正确的结论！」
+●003999●「这不是因为太过正确而无法反驳了嘛！」
 
 ○004000○That was spot on!?
 ●004000●居然是真的吗！？
@@ -12008,7 +12008,7 @@
 ●004006●关根
 
 ○004007○"As such, I recommend you turn your attention to the adorably rodent-like, easily pressured Miyukichi!"
-●004007●「因此，我比较推荐这边的，像小动物一样可爱而听话的入江美雪亲！」
+●004007●「因此，我比较推荐这边的，像小动物一样可爱而又听话的入江美雪亲！」
 
 ○004008○nothing
 ●004008●nothing
@@ -12023,7 +12023,7 @@
 ●004011●nothing
 
 ○004012○And now she's trying to push Irie off on me.
-●004012●她正在试着把入江推到我这边。
+●004012●她这次开始把入江往我这边推了。
 
 ○004013○nothing
 ●004013●nothing
@@ -12059,7 +12059,7 @@
 ●004023●nothing
 
 ○004024○But still, to think a shy looking girl like her was the one pounding away at those drums a minute ago...
-●004024●但是，这么内向的一个女孩子，在刚才却敲打着那套架子鼓…
+●004024●但是，这么害羞的一个女孩子，就在刚才，却敲打着那套架子鼓…。
 
 ○004025○nothing
 ●004025●nothing
@@ -12077,7 +12077,7 @@
 ●004029●nothing
 
 ○004030○But still, to think a shy looking girl like her's working as the drummer in a rock band...
-●004030●但是，这么内向的一个女孩子，却在乐队里担任了鼓手…
+●004030●但是，这么害羞的一个女孩子，却在那种摇滚乐队里担任鼓手…。
 
 ○004031○nothing
 ●004031●nothing
@@ -12098,7 +12098,7 @@
 ●004036●关根
 
 ○004037○"Who cares if romance is prohibited within the Battlefront? I'm always praying for Miyukichi's happiness above all else, he he he!"
-●004037●「就算战线里禁止谈恋爱，我也一直在为美雪亲的幸福祈祷哦？嘿嘿嘿！」
+●004037●「哪怕战线里禁止恋爱？我也一直，都在为美雪亲的幸福祈祷哦，嘿嘿嘿」
 
 ○004038○nothing
 ●004038●nothing
@@ -12134,7 +12134,7 @@
 ●004048●久子
 
 ○004049○"C'mon, cut the chatter, we're starting up again!"
-●004049●「喂喂，别闲聊了，开始练习吧！」
+●004049●「喂喂—，别闲聊了，开始练习咯—」
 
 ○004050○nothing
 ●004050●nothing
@@ -12149,7 +12149,7 @@
 ●004053●岩泽
 
 ○004054○"All right, let's get back to it."
-●004054●「那么，继续练习」
+●004054●「好，那么，继续练习」
 
 ○004055○nothing
 ●004055●nothing
@@ -12167,7 +12167,7 @@
 ●004059●关根
 
 ○004060○"'Kaaaaay!"
-●004060●「好——！」
+●004060●「好———」
 
 ○004061○nothing
 ●004061●nothing
@@ -12188,7 +12188,7 @@
 ●004066●nothing
 
 ○004067○They filed back into the club room, Hisako taking the lead.
-●004067●她们在久子的带领下回到了社员活动室。
+●004067●她们在久子的带领下，回到了社团活动室。
 
 ○004068○nothing
 ●004068●nothing
@@ -12209,7 +12209,7 @@
 ●004073●久子
 
 ○004074○"Holy crap, you're leaving a trail of blood all the way down the hallway! Hurry the hell over to the nurse's office, already!!"
-●004074●「整个走廊都被你弄得血淋淋的了！赶紧滚去保健室吧！！」
+●004074●「整个走廊上到处都是你滴下来的血啊——！赶紧的滚去保健室吧——！！」
 
 ○004075○Otonashi
 ●004075●音无
@@ -12278,7 +12278,7 @@
 ●004096●？？
 
 ○004097○"I mean, I'm just here to introduce myself, it's not like it's hard work."
-●004097●「我只是来做自我介绍的，应该不至于严重到这个地步吧」
+●004097●「嘛，只是来做自我介绍而已」
 
 ○004098○nothing
 ●004098●nothing
@@ -12299,7 +12299,7 @@
 ●004103●久子
 
 ○004104○"That's some do-or-die spirit to take into a self-introduction..."
-●004104●「带着死亡的觉悟去做自我介绍…」
+●004104●「为此带着必死的决心…」
 
 ○004105○Otonashi
 ●004105●音无
@@ -12368,7 +12368,7 @@
 ●004126●？？
 
 ○004127○"I mean, not like we can actually die in this world, right?"
-●004127●「但是，在这个世界里是不会真正地死亡的吧？」
+●004127●「嘛，这里是不会死的世界」
 
 ○004128○nothing
 ●004128●nothing
@@ -12389,13 +12389,13 @@
 ●004133●久子
 
 ○004134○"I guess..."
-●004134●「也许吧…」
+●004134●「行吧—…」
 
 ○004135○Iwasawa
 ●004135●岩泽
 
 ○004136○"Hisako, you good to go?"
-●004136●「可以了吗，久子？」
+●004136●「可以继续了吗，久子？」
 
 ○004137○nothing
 ●004137●nothing
@@ -12428,7 +12428,7 @@
 ●004146●关根
 
 ○004147○"'Kay!"
-●004147●「好——！」
+●004147●「好—」
 
 ○004148○nothing
 ●004148●nothing
@@ -12452,7 +12452,7 @@
 ●004154●她们回到了社团活动室。
 
 ○004155○I didn't want to get in the way, so I left.
-●004155●我不想打扰她们，决定就这样离开。
+●004155●我不想打扰到她们，决定就此离开。
 
 ○004156○Iwasawa
 ●004156●岩泽
@@ -12488,7 +12488,7 @@
 ●004166●岩泽
 
 ○004167○"Hey, All-Japan... whatever!"
-●004167●「喂，全日本…算了不管了！」
+●004167●「喂，全日本…什么什么的！」
 
 ○004168○Iwasawa
 ●004168●岩泽
@@ -12599,7 +12599,7 @@
 ●004203●？？
 
 ○004204○(I told you my name's Just Another Pervy Teenager now, though...)
-●004204●（我不是说过，我的名字叫只是个色批少年吗…）
+●004204●（所以，我说过自己是叫只是个色批少年了吧…）
 
 ○004205○Otonashi
 ●004205●音无
@@ -12668,7 +12668,7 @@
 ●004226●？？
 
 ○004227○told you my name's Ero-Samurai now, though...)
-●004227●（我不是说过，我的名字叫色批武士少年吗…）
+●004227●（所以，我说过自己是叫色批武士了吧…）
 
 ○004228○Otonashi
 ●004228●音无
@@ -12737,16 +12737,16 @@
 ●004249●？？
 
 ○004250○(I told you my name's  Ero-Ero Brigade No.1 now, though...)
-●004250●（我不是说过，我的名字叫老色批战队No.1吗…）
+●004250●（所以，我说过自己是叫老色批战队No.1了吧…）
 
 ○004251○Apparently I hadn't really gotten that through to her.
-●004251●显然她并没有记住。
+●004251●似乎并没能让岩泽成功领会。
 
 ○004252○Pretty sure 'No-Memory Man' was the nickname that Iwasawa herself had suggested, in the beginning.
-●004252●显然「没记忆的男人」是岩泽自己一开始提出的提案。
+●004252●「没记忆的男人」，确实是岩泽在最开始提出来的。
 
 ○004253○Had I ended up stuck with that name in her mind, or something...?
-●004253●结果最后让她记住的是这个名字吗…？
+●004253●该不会，已经在岩泽的脑海里扎根了吧…？
 
 ○004254○none
 ●004254●none
@@ -12755,25 +12755,25 @@
 ●004255●岩泽
 
 ○004256○"Take this."
-●004256●「这个拿去」
+●004256●「接着」
 
 ○004257○none
 ●004257●none
 
 ○004258○I caught the object she threw to me. It was a half-empty plastic bottle.
-●004258●我接住了她扔过来的东西。是一瓶喝了一半的饮料瓶。
+●004258●我接住了她扔过来的东西，是一瓶喝了一半的饮料。
 
 ○004259○se_wooddoor_close
 ●004259●se_wooddoor_close
 
 ○004260○A moment later, she slid the door shut. I was all alone.
-●004260●然后，她关上了门，把我一个人留在了外面。
+●004260●紧接着，她啪地一声关上了门。把我一个人留在了外面。
 
 ○004261○What am I supposed to do with this?
 ●004261●我该怎么处理这瓶水呢？
 
 ○004262○Walk around until you're thirsty
-●004262●等口渴了之后再说
+●004262●等走得口渴了之后再说
 
 ○004263○Go for the indirect kiss and chug
 ●004263●立刻挑战间接接吻
@@ -12851,19 +12851,19 @@
 ●004287●？？
 
 ○004288○(All right, here goes!)
-●004288●（好，要来了！）
+●004288●（好，来吧！）
 
 ○004289○...Wait, I'm acting like some kind of pervert, aren't I!?
-●004289●…等一下，这不是变态的行为吗！？
+●004289●…等下，这只是单纯的变态行为吧！
 
 ○004290○What's the point of an 'indirect kiss' in the first place?
-●004290●而且间接接吻的意义在哪里啊？
+●004290●而且说到底，间接接吻的意义在哪里啊？
 
 ○004291○I mean, sure, some of her spit might be left over on the rim or mixed up in the drink itself, but we're talking a negligible amount. The only real thing I'd gain is the self-satisfaction of having done it.
-●004291●确实，她的唾沫可能有一小部分沾到了瓶口上或者混合到了饮料里面，但是这个级别的含量，能带来的只有自我满足而已吧！
+●004291●确实，她的唾沫可能有一小部分沾到了瓶口上或者混合到了饮料里面，但是这个级别的微量残留，能带来的只有自我满足而已吧！
 
 ○004292○Am I really gonna go through with it anyway?
-●004292●我真的要这么做吗？
+●004292●真的要坚持做下去，不管这些吗？
 
 ○004293○Yes
 ●004293●做
@@ -12941,7 +12941,7 @@
 ●004317●？？
 
 ○004318○(I'm doing it... gotta go for it while it's still nice and fresh!)
-●004318●（要上了…趁现在还新鲜热乎着！）
+●004318●（要上了…新鲜热乎才是最重要的！）
 
 ○004319○I carefully twisted off the cap, and tried to figure out where Iwasawa's lips had touched the rim.
 ●004319●我小心翼翼地取下了瓶盖，试图找到岩泽的嘴唇触碰过的位置。
@@ -13019,10 +13019,10 @@
 ●004343●（来吧…）
 
 ○004344○I lined up my own lips with that mark, and slowly drained the bottle, savoring every last drop.
-●004344●我将自己的嘴唇对准了痕迹，缓慢地喝完了瓶子里的水，细细地品味着每一滴液体。
+●004344●我将自己的嘴唇对准了痕迹，缓缓地喝完了瓶子里的水，细细地品尝着每一滴液体。
 
 ○004345○In short, I simultaneously scored an indirect kiss and ingested a tiny amount of Iwasawa's saliva. Two birds, one stone.
-●004345●总而言之，间接接吻外加摄入了少量岩泽的唾液，一石二鸟啊。
+●004345●也就是说，间接接吻，外加摄入了少量岩泽的唾液，一石二鸟啊。
 
 ○004346○Otonashi
 ●004346●音无
@@ -13091,10 +13091,10 @@
 ●004367●？？
 
 ○004368○(I'm grossing myself out, at this point...)
-●004368●（总感觉好恶心…）
+●004368●（自己都觉得恶心…）
 
 ○004369○I'd better not. I'll just wait 'till I'm thirsty, and drink it then.
-●004369●还是算了吧。等口渴了之后再说吧。
+●004369●还是算了吧。等口渴了之后再喝。
 
 ○004370○I had precisely zero yen to spend myself, so that was nice of her.
 ●004370●我现在身无分文，这瓶水算是帮了大忙了。
