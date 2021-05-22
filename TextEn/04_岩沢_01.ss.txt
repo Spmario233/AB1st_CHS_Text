@@ -818,7 +818,7 @@
 ●000272●？？
 
 ○000273○"You'll get to hear her contribution pretty soon, most likely."
-●000273●「我想你很快就能用双耳见识到她的活跃了」
+●000273●「你很快就能亲耳见证到她的活跃了」
 
 ○000274○nothing
 ●000274●nothing
@@ -8417,7 +8417,7 @@
 ●002809●连我身上的伤口，都能感觉到这家伙的强烈反应了…。
 
 ○002810○She was so absurdly high energy, I was getting tired just trying to keep up...
-●002810●仅仅是跟上这如此强烈的情绪，就已经让我感到疲劳了…
+●002810●仅仅是跟上这如此强烈的情绪，就已经让我感到疲劳了…。
 
 ○002811○Otonashi
 ●002811●音无
@@ -11654,7 +11654,7 @@
 ●003888●nothing
 
 ○003889○Apparently I'd made an abysmal first impression. Her glare pierced right through me. 
-●003889●出于这糟糕的第一印象，她狠狠地等着我。 
+●003889●出于这糟糕的第一印象，她狠狠地瞪着我。 
 
 ○003890○Iwasawa
 ●003890●岩泽

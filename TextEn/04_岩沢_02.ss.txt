@@ -1,5 +1,5 @@
 ○000000○I peeked into a window.
-●000000●我往窗户里面看了看。
+●000000●我透过窗户向里面看去。
 
 ○000001○nothing
 ●000001●nothing
@@ -17,16 +17,16 @@
 ●000005●nothing
 
 ○000006○It was just as I'd heard from Hinata.
-●000006●和我之前在日向那里听说到的一样。
+●000006●和我之前在日向那里听说过的一样。
 
 ○000007○Iwasawa was humming along as she strummed an acoustic guitar.
-●000007●岩泽一边哼着歌，一边弹奏着一把原声吉他。
+●000007●岩泽正一边哼着歌，一边弹奏着一把原声吉他。
 
 ○000008○Every once in a while, she stopped to scribble something in a notebook.
-●000008●然后时不时地在笔记本上写着什么东西。
+●000008●偶尔会用笔在本子上写些什么东西。
 
 ○000009○It seemed she'd brought her guitar over to an empty classroom to compose music alone.
-●000009●她似乎是为了作曲，才一个人带着吉他来到了空教室。
+●000009●她看起来像是为了作曲，才一个人带着原声吉他来到了空教室的样子。
 
 ○000010○Wandering around, I came across an empty classroom.
 ●000010●我四处闲逛着，来到了一间空教室。
@@ -47,16 +47,16 @@
 ●000015●nothing
 
 ○000016○Iwasawa was inside, humming along as she strummed an acoustic guitar.
-●000016●岩泽在教室里一边哼着歌，一边弹奏着一把原声吉他。
+●000016●岩泽正一边哼着歌，一边弹奏着一把原声吉他。
 
 ○000017○Every once in a while, she stopped to scribble something in a notebook.
-●000017●然后时不时地在笔记本上写着什么东西。
+●000017●偶尔会用笔在本子上写些什么东西。
 
 ○000018○Talk to her
 ●000018●和她说话
 
 ○000019○Leave her alone
-●000019●让她一个人继续
+●000019●放着她不管
 
 ○000020○selbtn : 
 ●000020●selbtn : 
@@ -80,7 +80,7 @@
 ●000026●nothing
 
 ○000027○Probably best to take Hinata's advice and leave her alone...
-●000027●还是按照日向说的，让她一个人继续吧…
+●000027●还是照日向说的去做，不要打扰她了…。
 
 ○000028○I'd probably just be a bother if I disturbed her. I'll leave her alone.
 ●000028●还是不打扰她了，让她一个人继续吧。
@@ -107,7 +107,7 @@
 ●000035●nothing
 
 ○000036○I slid open the door and stepped into the classroom.
-●000036●我打开了门，进入了教室。
+●000036●我打开了门，踏入了教室。
 
 ○000037○Otonashi
 ●000037●音无
@@ -176,7 +176,7 @@
 ●000058●？？
 
 ○000059○"You're writing music in a place like this without even locking the door...?"
-●000059●「连门都不锁就在这里作曲了吗…」
+●000059●「在这种地方，门都不锁，就开始作曲了吗…」
 
 ○000060○nothing
 ●000060●nothing
@@ -266,7 +266,7 @@
 ●000088●？？
 
 ○000089○"Wouldn't it be a big problem if one of your fans noticed you here?"
-●000089●「被粉丝发现的话没问题吗？」
+●000089●「要是被粉丝发现了的话，不会很麻烦吗？」
 
 ○000090○nothing
 ●000090●nothing
@@ -287,7 +287,7 @@
 ●000095●岩泽
 
 ○000096○"...Whoops, that'd be reusing the bit from earlier, huh? Hmm hmm hmm hmmm~..."
-●000096●「…哦，这里可以复用刚才的片段啊。哼嗯嗯嗯～…」
+●000096●「…哦呀，这样的话就和之前重复了啊。哼嗯嗯嗯～…」
 
 ○000097○nothing
 ●000097●nothing
@@ -305,7 +305,7 @@
 ●000101●nothing
 
 ○000102○Wait... Can she actually, seriously not hear me at all!?
-●000102●她该不会…根本没有听见我的声音吧！？
+●000102●她该不会…完全听不见我的声音吧！？
 
 ○000103○Otonashi
 ●000103●音无
@@ -374,7 +374,7 @@
 ●000124●？？
 
 ○000125○"Heeey, Iwasawa?"
-●000125●「喂——岩泽——」
+●000125●「喂—，岩泽～」
 
 ○000126○nothing
 ●000126●nothing
@@ -395,7 +395,7 @@
 ●000131●岩泽
 
 ○000132○"Hmm hmmmm~... I really want the bass to progress through a couple chords in sequence here..."
-●000132●「哼嗯嗯～…这里用贝斯组成和弦就好了…」
+●000132●「哼嗯嗯～，…真想在这里用贝斯组成和弦啊…」
 
 ○000133○nothing
 ●000133●nothing
@@ -479,7 +479,7 @@
 ●000159●？？
 
 ○000160○"Heeeey, trying to talk to you over heeeere!"
-●000160●「喂——能听到我说话吗——」
+●000160●「喂—，我在和你说话呢～」
 
 ○000161○nothing
 ●000161●nothing
@@ -500,7 +500,7 @@
 ●000166●岩泽
 
 ○000167○"Sekine's such a punk about this stuff... she always waits for moments like this to shake up the pattern. Gotta make totally sure she keeps that progression as-is!"
-●000167●「关根那家伙啊…总是会在这种地方掉链子，这里绝对得让她练好了才行！」
+●000167●「关根那家伙啊…总是会挑准这种地方掉链子，这里绝对得让她练好了才行！」
 
 ○000168○nothing
 ●000168●nothing
@@ -518,16 +518,16 @@
 ●000172●nothing
 
 ○000173○She's got an incredible ability to concentrate...
-●000173●好可怕的集中力啊…
+●000173●好强大的集中力啊…
 
 ○000174○How can I grab her attention?
-●000174●该怎么才能抓住她的注意力呢？
+●000174●该怎么才能吸引她的注意力呢？
 
 ○000175○The concert's starting!!
-●000175●演唱会开始了——！！
+●000175●演唱会开始了哦——！！
 
 ○000176○You should leave that part to Sekine
-●000176●这里交给关根不就好了
+●000176●最好还是把这里交给关根
 
 ○000177○selbtn : 
 ●000177●selbtn : 
@@ -599,7 +599,7 @@
 ●000199●？？
 
 ○000200○"The concert's starting!!"
-●000200●「演唱会开始了——！！」
+●000200●「演唱会开始了哦——！！」
 
 ○000201○nothing
 ●000201●nothing
@@ -641,10 +641,10 @@
 ●000213●岩泽
 
 ○000214○"...Wait, what...? It's just you...?"
-●000214●「…什么啊…原来是你啊…」
+●000214●「…喂，什么啊…是你吗…」
 
 ○000215○She finally came to her senses, and sighed as she noticed me.
-●000215●回过神来了的她，对我发出了叹息。
+●000215●回过神来的她，对我叹了口气。
 
 ○000216○nothing
 ●000216●nothing
@@ -734,7 +734,7 @@
 ●000244●？？
 
 ○000245○"My bad..."
-●000245●「是我不好…」
+●000245●「对不起…」
 
 ○000246○nothing
 ●000246●nothing
@@ -755,10 +755,10 @@
 ●000251●岩泽
 
 ○000252○"I mean, I am a music maniac, though."
-●000252●「虽然我确实是音乐狂魔」
+●000252●「但，我确实是音乐狂魔」
 
 ○000253○She's admitting it after all!
-●000253●居然承认了！
+●000253●最后还是承认了！
 
 ○000254○nothing
 ●000254●nothing
@@ -848,10 +848,10 @@
 ●000282●？？
 
 ○000283○(Not sure who this Sekine person is, but she's probably one of the band's members, right?)
-●000283●（虽然不知道她说的关根是谁，但应该是乐队的成员之一吧？）
+●000283●（虽然不知道她说的那个关根是谁，但应该是乐队的成员之一吧）
 
 ○000284○Regardless, I need to get Iwasawa's attention before anything else.
-●000284●不管怎样，首先要抓住岩泽的注意力。
+●000284●不管怎样，首先得要抓住岩泽的注意力。
 
 ○000285○Otonashi
 ●000285●音无
@@ -920,7 +920,7 @@
 ●000306●？？
 
 ○000307○"You'd be better off leaving that part to Sekine."
-●000307●「把这部分交给关根不就行了」
+●000307●「最好还是把这里交给关根」
 
 ○000308○nothing
 ●000308●nothing
@@ -962,7 +962,7 @@
 ●000320●岩泽
 
 ○000321○"...Oh, it's just you, newbie...?"
-●000321●「…是你啊，新来的…」
+●000321●「…喂，是你这家伙啊，新来的…」
 
 ○000322○nothing
 ●000322●nothing
@@ -983,7 +983,7 @@
 ●000327●岩泽
 
 ○000328○"Are you really that well-versed when it comes to music?"
-●000328●「你真的了解音乐吗？」
+●000328●「你，真的有那么了解音乐吗？」
 
 ○000329○Otonashi
 ●000329●音无
@@ -1052,7 +1052,7 @@
 ●000350●？？
 
 ○000351○"No, not in particular, most likely..."
-●000351●「不，不是太了解…」
+●000351●「不，恐怕不是太了解…」
 
 ○000352○nothing
 ●000352●nothing
@@ -1073,7 +1073,7 @@
 ●000357●岩泽
 
 ○000358○"Don't scare me like that. I'm trying to face my own music seriously, in my own way."
-●000358●「那就别吓唬我啊。我可是用自己的方式，认真地去对待自己的音乐的」
+●000358●「那就别吓我啊。我可是用我自己的认真，去对待自己的音乐的」
 
 ○000359○nothing
 ●000359●nothing
@@ -1157,7 +1157,7 @@
 ●000385●？？
 
 ○000386○"Yeah, I'm well aware of that. Just take what I said a moment ago as a joke."
-●000386●「我知道。刚才的只是玩笑而已」
+●000386●「这一点我很心知肚明。把我刚才说的话当成玩笑就好」
 
 ○000387○nothing
 ●000387●nothing
@@ -1178,7 +1178,7 @@
 ●000392●岩泽
 
 ○000393○"Nah, I mean, it's not like I want to turn GirlDeMo into a one-man band or anything, so it might be important to take that sort of opinion seriously..."
-●000393●「不，我可不想让GDM成为某人的一言堂。这种意见应该也很重要吧…」
+●000393●「不，我可不想让GDM成为一言堂乐队。这种意见可能也很重要吧…」
 
 ○000394○nothing
 ●000394●nothing
@@ -1199,13 +1199,13 @@
 ●000399●岩泽
 
 ○000400○"But still, you pretty much hit the mark with that one. Have you become a GirlDeMo fan, or something?"
-●000400●「但是你刚才的吐槽倒是可以啊。你是被GDM吸粉了吗？」
+●000400●「但你刚才的吐槽，倒的确挺不错啊。你是被GDM吸粉了吗？」
 
 ○000401○I'm a fan
 ●000401●被吸粉了
 
 ○000402○I'm interested in you
-●000402●我对你更感兴趣
+●000402●我对岩泽更感兴趣
 
 ○000403○selbtn : 
 ●000403●selbtn : 
@@ -1277,7 +1277,7 @@
 ●000425●？？
 
 ○000426○"Yeah, something like that."
-●000426●「嗯，确实是」
+●000426●「嗯，正是这样」
 
 ○000427○nothing
 ●000427●nothing
@@ -1298,7 +1298,7 @@
 ●000432●岩泽
 
 ○000433○"In that case, think you could let me focus on composing?"
-●000433●「那么，你可以让我专心作曲了吗？」
+●000433●「那么，可以让我集中精力作曲了吗？」
 
 ○000434○Otonashi
 ●000434●音无
@@ -1367,7 +1367,7 @@
 ●000455●？？
 
 ○000456○"Yeah, when you put it that way... My bad."
-●000456●「是啊…对不起」
+●000456●「是啊…。抱歉啊」
 
 ○000457○nothing
 ●000457●nothing
@@ -1391,22 +1391,22 @@
 ●000463●岩泽立刻弹奏起了吉他，继续着她的作曲。
 
 ○000464○Leave
-●000464●离开
+●000464●就此离开
 
 ○000465○Persist
-●000465●留下
+●000465●坚持留下
 
 ○000466○selbtn : 
 ●000466●selbtn : 
 
 ○000467○Nothing else to do but leave, I guess.
-●000467●除了离开之外，没有别的选择了吧。
+●000467●没有别的选择了，只能离开了。
 
 ○000468○Iwasawa
 ●000468●岩泽
 
 ○000469○"Ah, by the way."
-●000469●「啊，对了」
+●000469●「啊，顺便说一下」
 
 ○000470○nothing
 ●000470●nothing
@@ -1445,13 +1445,13 @@
 ●000481●岩泽
 
 ○000482○"Never bother me like this again, okay?"
-●000482●「下次不要再这么来打扰我了」
+●000482●「下次不要再来打扰我了」
 
 ○000483○That her words betrayed that hope as thoroughly as possible...
-●000483●希望的火花被无情浇灭了…
+●000483●希望的火花，被与之相反的话语无情地浇灭了…。
 
 ○000484○It felt like I'd been stabbed in the heart...
-●000484●就好像穿透内心一样疼痛…
+●000484●就仿佛刺穿心脏一般的疼痛…。
 
 ○000485○Otonashi
 ●000485●音无
@@ -1520,13 +1520,13 @@
 ●000506●？？
 
 ○000507○"Yeah... Got it..."
-●000507●「嗯…知道了…」
+●000507●「嗯…我知道了…」
 
 ○000508○se_wooddoor_open2
 ●000508●se_wooddoor_open2
 
 ○000509○I left Iwasawa alone in the room.
-●000509●我离开了一个人待在房间里的岩泽。
+●000509●我从岩泽那里离开了。
 
 ○000510○Otonashi
 ●000510●音无
@@ -1595,7 +1595,7 @@
 ●000531●？？
 
 ○000532○"No, anything but that!"
-●000532●「根本不是那样！」
+●000532●「不，除此之外怎样都好！」
 
 ○000533○nothing
 ●000533●nothing
@@ -1616,7 +1616,7 @@
 ●000538●岩泽
 
 ○000539○"That's my line, please."
-●000539●「这是我的台词才对吧」
+●000539●「这该是我的台词才对吧」
 
 ○000540○Otonashi
 ●000540●音无
@@ -1685,7 +1685,7 @@
 ●000561●？？
 
 ○000562○"Please, find it in your heart to reconsider!!"
-●000562●「拜托了，请再考虑一下吧！！」
+●000562●「拜托了，无论如何请再考虑一下吧！！」
 
 ○000563○nothing
 ●000563●nothing
@@ -1709,7 +1709,7 @@
 ●000569●「这种不达成指标誓不罢休的推销员一样的态度是个什么鬼啊…」
 
 ○000570○Yuri said something along those lines too, but this is my special move, dangit!
-●000570●由理之前也对我说过类似的话，但这可是我的必杀技了！
+●000570●由理之前也说过类似的话，但这可是我的必杀技！
 
 ○000571○Otonashi
 ●000571●音无
@@ -1799,7 +1799,7 @@
 ●000599●岩泽
 
 ○000600○"I'm begging you too here, seriously."
-●000600●「所以啊，我才是要拜托你」
+●000600●「所以说啊，我也要拜托你」
 
 ○000601○Otonashi
 ●000601●音无
@@ -1886,13 +1886,13 @@
 ●000628●nothing
 
 ○000629○If she's still set in her ways after I've pushed this far, this isn't going anywhere...
-●000629●都到这一步了还是不行的话，那就真的没办法了…
+●000629●都逼到这一步了还是不行的话，那就真的没办法了…
 
 ○000630○Iwasawa
 ●000630●岩泽
 
 ○000631○"Never bother me like this again, okay?"
-●000631●「下次不要再这么来打扰我了」
+●000631●「下次不要再来打扰我了」
 
 ○000632○Otonashi
 ●000632●音无
@@ -1961,7 +1961,7 @@
 ●000653●？？
 
 ○000654○"Nah, it's not so much the band I've grown interested in as much as you yourself."
-●000654●「不，比起乐队，我对你本身更感兴趣」
+●000654●「不，岩泽，比起乐队，我对你本身更感兴趣」
 
 ○000655○nothing
 ●000655●nothing
@@ -2066,7 +2066,7 @@
 ●000688●？？
 
 ○000689○"Why 'condolences'?"
-●000689●「为什么悲哀？」
+●000689●「为什么说『悲哀』？」
 
 ○000690○nothing
 ●000690●nothing
@@ -2087,7 +2087,7 @@
 ●000695●岩泽
 
 ○000696○"'Cause I'm only interested in music. We're done here. Hmm hmm hmmmm~"
-●000696●「我感兴趣的只有音乐。以上。哼嗯嗯嗯～」
+●000696●「我只对音乐感兴趣。如上。哼嗯嗯嗯～」
 
 ○000697○nothing
 ●000697●nothing
@@ -2171,7 +2171,7 @@
 ●000723●？？
 
 ○000724○"Hold up! Don't go back to work quite yet!"
-●000724●「喂喂！别急着返回去作曲啊！」
+●000724●「等一下！别急着返回去作曲啊！」
 
 ○000725○nothing
 ●000725●nothing
@@ -2276,7 +2276,7 @@
 ●000758●？？
 
 ○000759○"The concert's about to staaaart!!"
-●000759●「演唱会开始了——！！」
+●000759●「演唱会开始了哦——！！」
 
 ○000760○nothing
 ●000760●nothing
@@ -2297,13 +2297,13 @@
 ●000765●岩泽
 
 ○000766○"All riiight! Let's kick it off with Crow Song!"
-●000766●「好！用
+●000766●「好—！用
 
 ○000767○Crow Song
 ●000767●Crow Song
 
 ○000768○から飛ばしていくぜ！」
-●000768●引燃全场吧！」
+●000768●打头引燃吧！」
 
 ○000769○nothing
 ●000769●nothing
@@ -2324,10 +2324,10 @@
 ●000774●岩泽
 
 ○000775○"Wait, what...? You again...?"
-●000775●「什么啊…又是你啊…」
+●000775●「喂，什么啊…又是你啊…」
 
 ○000776○Her maniac-mode's nothing to scoff at...
-●000776●狂魔模式真的可怕…
+●000776●狂魔模式真的不容小觑…。
 
 ○000777○Otonashi
 ●000777●音无
@@ -2396,7 +2396,7 @@
 ●000798●？？
 
 ○000799○"Sorry. But you have time for just a little bit of conversation, right?"
-●000799●「抱歉，但是和我稍微聊一聊也没问题的吧？」
+●000799●「抱歉。但是，和我稍微说几句话也没关系的吧？」
 
 ○000800○Otonashi
 ●000800●音无
@@ -2465,7 +2465,7 @@
 ●000821●？？
 
 ○000822○"You'd be better off leaving that part to Sekine."
-●000822●「把这部分交给关根不就行了」
+●000822●「最好还是把这里交给关根」
 
 ○000823○nothing
 ●000823●nothing
@@ -2486,7 +2486,7 @@
 ●000828●岩泽
 
 ○000829○"Eh!? Seriously?"
-●000829●「诶！？开玩笑吧？」
+●000829●「诶！？开玩笑吧」
 
 ○000830○nothing
 ●000830●nothing
@@ -2507,7 +2507,7 @@
 ●000835●岩泽
 
 ○000836○"Deliberately leaving the sub-melody to Sekine... So, making this into a joint work...?"
-●000836●「故意把副歌部分留给关根…形成合作作品吗…？」
+●000836●「把副歌部分放手一搏，留给关根…形成所谓的合作作品吗…？」
 
 ○000837○nothing
 ●000837●nothing
@@ -2528,7 +2528,7 @@
 ●000842●岩泽
 
 ○000843○"I guess that could work? Hmm..."
-●000843●「也许能行？嗯…」
+●000843●「也许能行？唔嗯—…」
 
 ○000844○nothing
 ●000844●nothing
@@ -2702,7 +2702,7 @@
 ●000900●？？
 
 ○000901○"You have time for just a little bit of conversation, right?"
-●000901●「但是和我稍微聊一聊也没问题的吧？」
+●000901●「抱歉。但是，和我稍微说几句话也没关系的吧？」
 
 ○000902○nothing
 ●000902●nothing
@@ -2723,10 +2723,10 @@
 ●000907●岩泽
 
 ○000908○"Fine, but do you think you can come up with a topic I'd be interested in?"
-●000908●「可以啊，但是你有什么能让我感兴趣的话题吗？」
+●000908●「可以是可以，但你有什么能让我感兴趣的话题吗？」
 
 ○000909○That put me on the spot. I hesitated, at a loss for words.
-●000909●我一下子哑火了。
+●000909●呜，一下子哑火了。
 
 ○000910○Otonashi
 ●000910●音无
@@ -2795,7 +2795,7 @@
 ●000931●？？
 
 ○000932○(It's not like I'm that into music, myself... And on top of that I've got amnesia...)
-●000932●（我对音乐可没有这么了解啊…而且我还在失忆…）
+●000932●（我对音乐可没有这么感兴趣啊…。而且我还在失忆…）
 
 ○000933○nothing
 ●000933●nothing
@@ -2816,7 +2816,7 @@
 ●000938●岩泽
 
 ○000939○"Okay, what sort of interesting conversation did you come here to have? I'd really love to hear it."
-●000939●「那么，你有什么能让我感兴趣的话题吗？我现在挺期待的」
+●000939●「那么，你要讲些什么有趣的事情呢？请务必让我听听」
 
 ○000940○nothing
 ●000940●nothing
@@ -2903,7 +2903,7 @@
 ●000967●（好大的压力啊！！）
 
 ○000968○Can I think of a topic that a self-proclaimed music maniac would latch on to...?
-●000968●有没有什么能够吸引一个自称的音乐狂魔的话题啊…
+●000968●有没有什么话题，能够让一个自称的音乐狂魔感兴趣啊…。
 
 ○000969○nothing
 ●000969●nothing
@@ -2924,7 +2924,7 @@
 ●000974●岩泽
 
 ○000975○"And make it quick, too."
-●000975●「越短越好」
+●000975●「而且越短越好」
 
 ○000976○Otonashi
 ●000976●音无
