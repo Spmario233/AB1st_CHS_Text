@@ -8,7 +8,7 @@
 ●000002●关于生物的话题
 
 ○000003○Talk about something 'adult'
-●000003●关于大人的话题
+●000003●成年人的话题
 
 ○000004○Talk about suicide
 ●000004●关于自杀的话题
@@ -98,7 +98,7 @@
 ●000033●？？
 
 ○000034○"So, do you have a favorite food?"
-●000034●「岩泽有什么喜欢的食物吗？」
+●000034●「岩泽有什么喜欢吃的东西吗？」
 
 ○000035○nothing
 ●000035●nothing
@@ -119,7 +119,7 @@
 ●000040●岩泽
 
 ○000041○"A food? Not in particular."
-●000041●「食物？没有什么特别喜欢的」
+●000041●「吃的东西？没什么特别喜欢的」
 
 ○000042○Otonashi
 ●000042●音无
@@ -188,10 +188,10 @@
 ●000063●？？
 
 ○000064○(Huh...? She doesn't seem interested at all... Was this topic really a good choice...?)
-●000064●（诶…？她对食物好像完全没有兴趣…这个话题真的没问题吗…？）
+●000064●（诶…？她好像完全不感兴趣…这个话题真的没问题吗…？）
 
 ○000065○Guess I'd better just press on, for now.
-●000065●只能继续推进对话了。
+●000065●暂且先继续推进对话吧。
 
 ○000066○nothing
 ●000066●nothing
@@ -275,7 +275,7 @@
 ●000092●？？
 
 ○000093○"When you see one of your favorite foods, a chemical called enkephalin surges in your brain. That surge is linked to the impulse to scarf a bunch of food down."
-●000093●「当你看到了喜欢的食物之后，大脑中会分泌一种名为脑啡肽的物质，这种物质会让你产生想要赶快多吃点的冲动」
+●000093●「当你看到喜欢的食物之后，大脑中会分泌一种名为脑啡肽的物质，这种物质会让你产生想要赶快多吃点的冲动」
 
 ○000094○Otonashi
 ●000094●音无
@@ -344,7 +344,7 @@
 ●000115●？？
 
 ○000116○"That phenomenon is linked to obesity, by the way."
-●000116●「然后导致肥胖」
+●000116●「从而导致肥胖」
 
 ○000117○Otonashi
 ●000117●音无
@@ -413,7 +413,7 @@
 ●000138●？？
 
 ○000139○"On top of that, the faster people eat, the more likely they are to overeat before they realize that they're full."
-●000139●「吃的太快了的话，很容易在产生饱腹感之前摄入过多的食物」
+●000139●「而且吃饭快的人，很容易在产生饱腹感之前摄入过多的食物」
 
 ○000140○Otonashi
 ●000140●音无
@@ -482,7 +482,7 @@
 ●000161●？？
 
 ○000162○"Those enkephalins I mentioned earlier peak right around when you start eating, so it's super important to take your time and not get carried away by them."
-●000162●「刚才提到的脑啡肽，在开始吃东西的时候就会达到高峰，因此一定要克制自己，不能吃的太快」
+●000162●「刚才所提到的脑啡肽，在刚开始吃东西的时候就会大量分泌，所以一定要克制自己，绝对不能吃得太快」
 
 ○000163○Otonashi
 ●000163●音无
@@ -572,10 +572,10 @@
 ●000191●岩泽
 
 ○000192○"No. And I'm not particularly interested in food in the first place, so you won't have to worry about me getting obese any time soon."
-●000192●「不，我对食物本来就没有多少兴趣，所以你不用担心我会变胖」
+●000192●「不，我本来就对食物没有太多兴趣，所以你不用担心我会变胖」
 
 ○000193○I guess this topic was a miss...
-●000193●这个话题不行吗…
+●000193●这个话题不行吗…。
 
 ○000194○nothing
 ●000194●nothing
@@ -596,13 +596,13 @@
 ●000199●岩泽
 
 ○000200○"But you really know your stuff, huh? I've already forgotten the name of that chemical you mentioned earlier, myself."
-●000200●「但是，你还是挺厉害的啊。刚才那个化学物质的名字，我已经完全记不住了」
+●000200●「但是，你还是挺厉害的啊。刚才说的那个化学物质的名字，我已经完全记不住了」
 
 ○000201○I've at least managed to impress her somewhat, apparently.
-●000201●至少我看起来成功震撼到了她。
+●000201●至少看起来，还是成功地震撼到了她。
 
 ○000202○I got just a bit of a reaction from her.
-●000202●得到了一点反应。
+●000202●从她的身上得到了一点反应。
 
 ○000203○nothing
 ●000203●nothing
@@ -626,7 +626,7 @@
 ●000209●今天就到这里为止吧。
 
 ○000210○I'll tell her about the dangers of sound.
-●000210●我决定告诉她声音的危险。
+●000210●关于声音的危险性。
 
 ○000211○Otonashi
 ●000211●音无
@@ -695,7 +695,7 @@
 ●000232●？？
 
 ○000233○"You know, at times, sound can become a lethal weapon."
-●000233●「声音有时候是可以作为武器的」
+●000233●「声音在有些时候是可以作为武器的」
 
 ○000234○nothing
 ●000234●nothing
@@ -785,7 +785,7 @@
 ●000262●？？
 
 ○000263○"Yeah. Like, take your concerts, for example... They'd be right around 120 decibels."
-●000263●「嗯嗯。比如说你的演唱会…音量大约是在120Decibal左右」（注：即120分贝）
+●000263●「嗯。比如说你演唱会上的音量，大约…是在120Decibal左右」（注：即120分贝）
 
 ○000264○nothing
 ●000264●nothing
@@ -806,13 +806,13 @@
 ●000269●岩泽
 
 ○000270○"'Death bells'...? So if you hear too many, you might die...?"
-●000270●「Death bell...
+●000270●「DEATH BELL…都用上了DEATH
 
 ○000271○DEATH
 ●000271●
 
 ○000272○する、と聞こえるぐらい恐いな…」
-●000272●所以听得多了的话会死的吗…」
+●000272●这个词，听起来就很恐怖…」
 
 ○000273○nothing
 ●000273●nothing
@@ -833,7 +833,7 @@
 ●000278●岩泽
 
 ○000279○"What sort of unit is that?"
-●000279●「那是什么单位啊？」
+●000279●「它是什么单位啊？」
 
 ○000280○Otonashi
 ●000280●音无
@@ -902,7 +902,7 @@
 ●000301●？？
 
 ○000302○"In terms of sound, it's a unit for measuring acoustic pressure."
-●000302●「用声音来说的话，就是衡量声音强度的单位」
+●000302●「用声音来说的话，就是声压的单位」
 
 ○000303○nothing
 ●000303●nothing
@@ -923,7 +923,7 @@
 ●000308●岩泽
 
 ○000309○"Oooh...? I had no idea. So we've been playing at a 120 death bell level?"
-●000309●「诶…我还不知道呢。所以我们的演奏都是120Death bell的水平吗？」
+●000309●「诶…我不知道呢。我们的演奏是120Death bell的水平吗」
 
 ○000310○Otonashi
 ●000310●音无
@@ -992,7 +992,7 @@
 ●000331●？？
 
 ○000332○"A classical concert would be somewhere around there, too. But you'd be better off not going any louder than that."
-●000332●「古典音乐会的话差不多都是这个水平。但最好还是不要超过它」
+●000332●「古典音乐会差不多也是这个水平。但最好还是到此为止比较好」
 
 ○000333○nothing
 ●000333●nothing
@@ -1013,7 +1013,7 @@
 ●000338●岩泽
 
 ○000339○"Better off how?"
-●000339●「为什么？」
+●000339●「这是什么意思？」
 
 ○000340○Otonashi
 ●000340●音无
@@ -1082,7 +1082,7 @@
 ●000361●？？
 
 ○000362○"When you go past the 130 decibel mark, the sound doesn't register as anything other than pain. A really direct impact could burst your eardrums."
-●000362●「如果音量超过了130Decibal的话，能感受到的就只有疼痛了。直接接触到耳朵的话，会导致鼓膜破裂的」
+●000362●「如果音量超过130Decibal的话，人能感受到的就只有疼痛了。直接冲击耳朵的话，会导致鼓膜破裂的」
 
 ○000363○nothing
 ●000363●nothing
@@ -1103,7 +1103,7 @@
 ●000368●岩泽
 
 ○000369○"Woah, that's a weapon for sure... There's no telling when Hisako could cause someone's death, in that case..."
-●000369●「好厉害啊，居然真的能当做武器…说不定久子哪天就能让人死亡了…」
+●000369●「好厉害啊，真的就是武器…久子说不定哪天就让人DEATH掉了…」
 
 ○000370○DEATH
 ●000370●
@@ -1145,7 +1145,7 @@
 ●000382●岩泽
 
 ○000383○"I'll make sure not to go past 130 deciwhatsits, then."
-●000383●「我会注意不要达超过130De啥啥啥的」
+●000383●「我会注意不超过130Death啥的」
 
 ○000384○Otonashi
 ●000384●音无
@@ -1235,7 +1235,7 @@
 ●000412●岩泽
 
 ○000413○"Right, death bells. That was a pretty worthwhile conversation. Thanks."
-●000413●「啊啊，Death bell。这段对话挺有意义的。Thanks」
+●000413●「嗯，Death bell。这话题挺有意义的。Thanks」
 
 ○000414○nothing
 ●000414●nothing
@@ -1256,7 +1256,7 @@
 ●000419●nothing
 
 ○000420○Thank goodness. It looks like the conversation grabbed her interest.
-●000420●太好了，似乎成功抓住了她的兴趣。
+●000420●太好了。岩泽似乎对这个话题很感兴趣。
 
 ○000421○I think I'll leave it at that for today.
 ●000421●今天就到这里为止吧。

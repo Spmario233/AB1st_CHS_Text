@@ -86,7 +86,7 @@
 ●000028●nothing
 
 ○000029○Even after I greeted her, Iwasawa kept strumming away at her guitar.
-●000029●虽然我打了招呼，但岩泽依然弹奏着她的吉他。
+●000029●虽然我打了个招呼，但岩泽还是在弹着吉他作着曲。
 
 ○000030○Otonashi
 ●000030●音无
@@ -158,7 +158,7 @@
 ●000052●「打扰到你了吗？」
 
 ○000053○I called out again, but she just kept ignoring me.
-●000053●我继续呼喊着，但是她无视了我。
+●000053●就算我这么喊着，她也依然在无视我。
 
 ○000054○Otonashi
 ●000054●音无
@@ -227,7 +227,7 @@
 ●000075●？？
 
 ○000076○(Yeah, this must be a bad time after all...)
-●000076●（果然，现在不行吗…）
+●000076●（果然来的不是时候吗…）
 
 ○000077○I left the room, my shoulders slumped in defeat.
 ●000077●我耷拉着肩膀，离开了教室。
@@ -251,7 +251,7 @@
 ●000083●岩泽
 
 ○000084○"No, as long as you have something interesting to talk about, I'd love to hear it."
-●000084●「没有，只要你能发起有趣的话题的话，我还是很乐意去听的」
+●000084●「并没有，如果有什么有趣的话题的话，请务必让我听听」
 
 ○000085○04_岩沢の興味のある話題探し
 ●000085●04_岩沢の興味のある話題探し

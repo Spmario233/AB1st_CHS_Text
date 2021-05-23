@@ -92,7 +92,7 @@
 ●000030●「哟」
 
 ○000031○She repeated my greeting back at me.
-●000031●她对我的招呼予以了回应。
+●000031●她把我的问候复读了一遍。
 
 ○000032○Otonashi
 ●000032●音无
@@ -179,7 +179,7 @@
 ●000059●nothing
 
 ○000060○I called out again, but she just kept ignoring me.
-●000060●我继续呼喊着，但是她无视了我。
+●000060●就算我这么喊着，她也依然在无视我。
 
 ○000061○Otonashi
 ●000061●音无
@@ -248,7 +248,7 @@
 ●000082●？？
 
 ○000083○(Yeah, this must be a bad time after all...)
-●000083●（果然，现在不行吗…）
+●000083●（果然来的不是时候吗…）
 
 ○000084○I left the room, my shoulders slumped in defeat.
 ●000084●我耷拉着肩膀，离开了教室。
@@ -272,7 +272,7 @@
 ●000090●岩泽
 
 ○000091○"No, as long as you have something interesting to talk about, I'd love to hear it."
-●000091●「没有，只要你能发起有趣的话题的话，我还是很乐意去听的」
+●000091●「并没有，如果有什么有趣的话题的话，请务必让我听听」
 
 ○000092○04_岩沢の興味のある話題探し
 ●000092●04_岩沢の興味のある話題探し

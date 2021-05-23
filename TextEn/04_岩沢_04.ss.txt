@@ -89,7 +89,7 @@
 ●000029●岩泽
 
 ○000030○"You again?"
-●000030●「又是你吗？」
+●000030●「又是你吗」
 
 ○000031○Otonashi
 ●000031●音无
@@ -179,7 +179,7 @@
 ●000059●岩泽
 
 ○000060○"No, as long as you have something interesting to talk about, I'd love to hear it."
-●000060●「没有，如果你能发起有趣的话题的话，我还是很乐意去听的」
+●000060●「并没有，如果有什么有趣的话题的话，请务必让我听听」
 
 ○000061○04_岩沢の興味のある話題探し
 ●000061●04_岩沢の興味のある話題探し
@@ -203,7 +203,7 @@
 ●000067●岩泽
 
 ○000068○"You really are."
-●000068●「打扰到了」
+●000068●「确实打扰到了」
 
 ○000069○nothing
 ●000069●nothing
@@ -224,10 +224,10 @@
 ●000074●nothing
 
 ○000075○She certainly didn't hold back with that reply.
-●000075●直截了当的回答。
+●000075●直言不讳的回答。
 
 ○000076○All I could do was hang my head.
-●000076●我能做的只有垂头丧气。
+●000076●我只能垂头丧气。
 
 ○000077○Otonashi
 ●000077●音无
@@ -296,7 +296,7 @@
 ●000098●？？
 
 ○000099○"Okay, I won't come again, then..."
-●000099●「那么，我以后不会再来了…」
+●000099●「那么，我以后，不会再来了…」
 
 ○000100○Iwasawa
 ●000100●岩泽
@@ -305,13 +305,13 @@
 ●000101●「哼嗯嗯嗯～」
 
 ○000102○Iwasawa had already gone back to strumming her guitar and composing her music.
-●000102●岩泽已经开始弹奏起了吉他，继续作曲了。
+●000102●岩泽已经弹奏起了吉他，继续作曲了。
 
 ○000103○My heart was aching...
-●000103●感觉心好痛…
+●000103●感觉心好痛…。
 
 ○000104○I wonder if this sort of pain will disappear by tomorrow morning, too...?
-●000104●这种疼痛到了明天早上会减轻吗…
+●000104●这份疼痛，到明天早上之后也会一并消失吗…。
 
 ○000105○dummy
 ●000105●dummy
