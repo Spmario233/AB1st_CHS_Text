@@ -1262,7 +1262,7 @@
 ●000421●今天就到这里为止吧。
 
 ○000422○How about a topic like this?
-●000422●这个话题怎么样呢？
+●000422●这个话题怎么样呢。
 
 ○000423○Otonashi
 ●000423●音无
@@ -1331,7 +1331,7 @@
 ●000444●？？
 
 ○000445○"So, the average person can produce over a liter of snot in a single day."
-●000445●「作为普通人，平均一天能够产生一升以上的鼻涕」
+●000445●「对于一个普通人而言，平均一天能够产生一升以上的鼻涕」
 
 ○000446○nothing
 ●000446●nothing
@@ -1352,7 +1352,7 @@
 ●000451●岩泽
 
 ○000452○"Hold up. Last time was farts, and now snot?"
-●000452●「打住。上一次是放屁，这一次是鼻涕了？」
+●000452●「打住。上一次是放屁，这一次是鼻涕？」
 
 ○000453○Otonashi
 ●000453●音无
@@ -1442,13 +1442,13 @@
 ●000481●岩泽
 
 ○000482○"Seriously, I don't wanna hear it. Can you just leave, already?"
-●000482●「所以，我完全不感兴趣。你可以走了吗？」
+●000482●「所以，我不想听这种话题。可以请你离开吗？」
 
 ○000483○Huh...?
 ●000483●诶…？
 
 ○000484○When she demands it like that, no choice but to go...
-●000484●既然这么说了，那我只能走了吧…
+●000484●既然这么说的话，那我只能照做了吧…。
 
 ○000485○nothing
 ●000485●nothing
@@ -1469,7 +1469,7 @@
 ●000490●nothing
 
 ○000491○It seems I didn't manage to come up with a conversation she'd enjoy...
-●000491●看来没能发起一个让她产生兴趣的话题啊…
+●000491●似乎没有找到一个能够吸引岩泽兴趣的话题…。
 
 ○000492○nothing
 ●000492●nothing
@@ -1490,7 +1490,7 @@
 ●000497●岩泽
 
 ○000498○"That's one hell of a topic to bring up out of nowhere."
-●000498●「突然说出了很厉害的话呢」
+●000498●「突然说了些很厉害的话呢」
 
 ○000499○Otonashi
 ●000499●音无
@@ -1559,7 +1559,7 @@
 ●000520●？？
 
 ○000521○"Well, I said a liter, but it's not like all of that comes out of your nose."
-●000521●「嘛，虽然说有一升，但是并不会全都从鼻子里流出来」
+●000521●「嘛，虽说有一升，但并不会全都从鼻子里流出来」
 
 ○000522○nothing
 ●000522●nothing
@@ -1580,7 +1580,7 @@
 ●000527●岩泽
 
 ○000528○"Yeah, figures."
-●000528●「是啊」
+●000528●「显然啊」
 
 ○000529○Otonashi
 ●000529●音无
@@ -1649,10 +1649,10 @@
 ●000550●？？
 
 ○000551○"It gets used to protect your lungs and whatnot, so you end up swallowing most of it."
-●000551●「这样是为了保护肺和身体，大部分都会被吞咽下去」
+●000551●「它们会被用于保护肺部等各种器官，其中的大部分会被吞咽下去」
 
 ○000552○How's that for a topic? I grinned confidently. 
-●000552●这个话题如何？我不禁自信地笑了出来。
+●000552●如何？我一幅得意的样子。
 
 ○000553○nothing
 ●000553●nothing
@@ -1673,7 +1673,7 @@
 ●000558●岩泽
 
 ○000559○"That's really gross, and I wish I'd never heard it..."
-●000559●「好恶心啊…要是不知道的话就好了…」
+●000559●「我可不想知道这么恶心的事情…」
 
 ○000560○Otonashi
 ●000560●音无
@@ -1742,7 +1742,7 @@
 ●000581●？？
 
 ○000582○(Gah! Did I choose a bad topic!?)
-●000582●（呃！选到了不好的话题吗！？）
+●000582●（呃！选到了错误的话题吗！？）
 
 ○000583○nothing
 ●000583●nothing
@@ -1763,10 +1763,10 @@
 ●000588●nothing
 
 ○000589○Iwasawa wasn't even looking at me anymore. She'd gone back to her music.
-●000589●岩泽不再看着我，而是回到了音乐上。
+●000589●岩泽已经不再看着我了，回到了作曲工作上。
 
 ○000590○I think I should probably just leave, for today.
-●000590●看来今天要到此为止了。
+●000590●今天就老老实实地离开吧。
 
 ○000591○Otonashi
 ●000591●音无
@@ -1835,7 +1835,7 @@
 ●000612●？？
 
 ○000613○"Do you know why human breasts stick out of the body like they do?"
-●000613●「知道人类的乳房会挺在身体前面的原因吗？」
+●000613●「知道人类的乳房挺立在身体前方的原因吗？」
 
 ○000614○nothing
 ●000614●nothing
@@ -1925,7 +1925,7 @@
 ●000642●？？
 
 ○000643○"Take monkeys, for instance. They have nipples, but they don't actually have breasts. And yet they can still breastfeed their young. Isn't that odd?"
-●000643●「就比如说猴子，虽然有乳头，但是并没有乳房。但是却依然可以给子女哺乳，很奇怪吧？」
+●000643●「就比如说猴子，只有乳头，并没有乳房。但却依然可以给子女哺乳。很不可思议吧？」
 
 ○000644○nothing
 ●000644●nothing
@@ -1949,7 +1949,7 @@
 ●000650●「你这么一说的话确实…」
 
 ○000651○All right, she's getting interested.
-●000651●好，引起了她的兴趣了。
+●000651●好，钩起了她的兴趣了。
 
 ○000652○Otonashi
 ●000652●音无
@@ -2018,7 +2018,7 @@
 ●000673●？？
 
 ○000674○"One theory's that human breasts developed into what they are now because we're bipedal." 
-●000674●「有一种说法认为，人类的乳房是在进化出了直立行走的能力之后才膨胀起来的」 
+●000674●「有一种说法是，人类的乳房是在进化出直立行走的能力之后才膨胀起来的」 
 
 ○000675○nothing
 ●000675●nothing
@@ -2108,7 +2108,7 @@
 ●000703●？？
 
 ○000704○"Since monkeys are quadrupedal, they can tell males from females easily, just by looking."
-●000704●「对于猴子这种四足动物而言，只需要在视线的高度上看一眼，就可以分辨性别了」
+●000704●「对于猴子这种四足爬行的动物而言，只需要在视线的高度上看一眼，就可以分辨性别了」
 
 ○000705○Otonashi
 ●000705●音无
@@ -2177,7 +2177,7 @@
 ●000726●？？
 
 ○000727○"But since humans are bipedal, our line of sight's on a different plane than our genitals. So to make up for it, breasts act as a distinguishing trait."
-●000727●「但是，对于直立行走的人类而言，因为视线高度的升高，所以乳房成为了重要的性征」
+●000727●「但是，对于直立行走的人类而言，视线不再和生殖器官平齐了。所以乳房膨胀了起来，取而代之，成为了重要的性征」
 
 ○000728○nothing
 ●000728●nothing
@@ -2219,7 +2219,7 @@
 ●000740●岩泽
 
 ○000741○"Umm... So, are mine doing their job, then...?"
-●000741●「那个…所以我的胸部…」
+●000741●「呃那个…所以我的胸部怎么样呢…」
 
 ○000742○nothing
 ●000742●nothing
@@ -2237,7 +2237,7 @@
 ●000746●nothing
 
 ○000747○Iwasawa held her hands to her chest, as if to check their volume.
-●000747●岩泽用手按了按胸部，就像是在确认大小一样。
+●000747●岩泽用双手按了按胸部，像是在确认大小一样。
 
 ○000748○They're just right
 ●000748●这个大小正好
@@ -2318,7 +2318,7 @@
 ●000773●？？
 
 ○000774○"I'd say they're just right, myself."
-●000774●「在我看来，这个大小刚刚好」
+●000774●「我觉得这个大小刚刚好哦？」
 
 ○000775○Otonashi
 ●000775●音无
@@ -2429,7 +2429,7 @@
 ●000810●岩泽
 
 ○000811○"...I thought I'd try getting shocked like that, but since I'm only interested in music, it really doesn't bother me."
-●000811●「…也许会受到冲击吧。但是我只对音乐感兴趣，因此完全没有影响」
+●000811●「…也许会像这样受到冲击吧，但我只对音乐感兴趣，所以完全无所谓的」
 
 ○000812○Thanks to her music mania, I'm saved!
 ●000812●多亏了音乐狂魔的属性，得救了！
@@ -2453,13 +2453,13 @@
 ●000818●nothing
 
 ○000819○But still, it looks like the conversation didn't draw her attention, in the end.
-●000819●但是，看起来这段对话并没有吸引到她的注意力。
+●000819●但是，这段对话似乎并没有让岩泽产生兴趣。
 
 ○000820○I probably shouldn't push my luck.
-●000820●最好还是不要再继续了。
+●000820●最好还是不要再深入了。
 
 ○000821○I decided to leave.
-●000821●我决定离开这里。
+●000821●我决定离开。
 
 ○000822○Otonashi
 ●000822●音无
@@ -2531,7 +2531,7 @@
 ●000844●「大小才不是问题」
 
 ○000845○I couldn't exactly tell since her uniform obscured their shape, so I replied without any real basis. 
-●000845●由于制服会影响判断，因此我只能在没有根据的情况下回答了。
+●000845●由于制服会影响判断，因此只能在没有根据的情况下回答了。
 
 ○000846○nothing
 ●000846●nothing
@@ -2552,10 +2552,10 @@
 ●000851●岩泽
 
 ○000852○"If someone as well-informed as you says so, I can rest easy."
-●000852●「既然你这种见多识广的人都这么说，那我就放心了」
+●000852●「既然你这种知识渊博的人都这么说，那我就放心了」
 
 ○000853○I'm glad she's relieved, at least...
-●000853●她能安心下来真的是太好了…
+●000853●她能放下心来，真是太好了…
 
 ○000854○nothing
 ●000854●nothing
@@ -2576,7 +2576,7 @@
 ●000859●nothing
 
 ○000860○It was a bit nerve-wracking, but it looks like she took an interest in the conversation.
-●000860●虽然有种忐忑不安的感觉，但至少激起了她的兴趣。
+●000860●虽然有种忐忑不安的感觉，但似乎是激起了她的兴趣。
 
 ○000861○I'll leave it at that for today.
 ●000861●今天就到这里为止吧。
@@ -2621,7 +2621,7 @@
 ●000874●岩泽
 
 ○000875○"Well, I'm not interested in anything other than music, so not like it matters to me."
-●000875●「但是我只对音乐感兴趣，因此完全没有影响」
+●000875●「嘛，我只对音乐感兴趣，因此怎么说都无所谓」
 
 ○000876○Otonashi
 ●000876●音无
@@ -2693,7 +2693,7 @@
 ●000898●（诶！？）
 
 ○000899○It seemed like she was getting into the conversation partway though, too, so how'd it end like this...?
-●000899●之前她好像很感兴趣的样子，但是为什么会变成这样啊…
+●000899●她明明一直都很感兴趣的样子，为什么会变成这样的收尾啊…。
 
 ○000900○nothing
 ●000900●nothing
@@ -2714,10 +2714,10 @@
 ●000905●nothing
 
 ○000906○Iwasawa had already gone back to her own work.
-●000906●岩泽已经回到了她原来的事情上来。
+●000906●岩泽已经回到了她原本的事情上。
 
 ○000907○I can't justify distracting her any more than this. I'll leave for today.
-●000907●我也别打扰她了。今天就到这里为止吧。
+●000907●我也别再打扰她了。今天就到这里为止吧。
 
 ○000908○Otonashi
 ●000908●音无
@@ -2786,7 +2786,7 @@
 ●000929●？？
 
 ○000930○"Did you know you can kill yourself by hanging, even if both of your feet are on the ground?"
-●000930●「你知道吗？即使双脚触地，上吊自杀也是可以成功的哦？」
+●000930●「你知道吗？即使双脚触地，也是可以成功地上吊自杀的哦？」
 
 ○000931○nothing
 ●000931●nothing
@@ -2807,7 +2807,7 @@
 ●000936●岩泽
 
 ○000937○"Nooope."
-●000937●「不知道」
+●000937●「不知啊」
 
 ○000938○Otonashi
 ●000938●音无
@@ -2876,7 +2876,7 @@
 ●000959●？？
 
 ○000960○"The weight of your upper body's more than enough to do the job. A relatively short girl could probably even get it done by tying the rope to a doorknob."
-●000960●「仅仅是上半身的重量就已经足够了。如果是矮个子的女生的话，甚至门把手的高度都已经足够了」
+●000960●「仅仅依靠上半身的重量就已经足够了。矮个子的女生的话，把绳子固定在门把手的高度上都可以」
 
 ○000961○nothing
 ●000961●nothing
@@ -2960,7 +2960,7 @@
 ●000987●？？
 
 ○000988○"It's relatively painless. As long as you cut off both the vertebral and carotid arteries at once, your brain will be deprived of oxygen and you'll pass out really quickly."
-●000988●「相对而言不是那么痛苦。只要椎动脉和颈动脉同时中断的话，很快就会因为大脑缺氧而失去意识了」
+●000988●「几乎没有什么痛苦。只要椎动脉和颈动脉同时被勒紧的话，很快就会因为大脑缺氧失去意识」
 
 ○000989○Otonashi
 ●000989●音无
@@ -3029,7 +3029,7 @@
 ●001010●？？
 
 ○001011○"It takes a bit longer to actually die, of course, but since it doesn't have the whole gruesome image of a body swinging around from the ceiling, it's becoming a pretty popular means of suicide among younger people."
-●001011●「实际的死亡还要花上一段时间。但是由于不会有在天花板上晃来晃去的画面，因此在年轻人之中变得越来越流行了」
+●001011●「实际的死亡还要花上一段时间。但不会像以前吊在天花板上的时候一样晃来晃去，因此在年轻人之中变得越来越流行了」
 
 ○001012○Otonashi
 ●001012●音无
@@ -3119,7 +3119,7 @@
 ●001040●岩泽
 
 ○001041○"Except, I'm already dead."
-●001041●「我已经死了」
+●001041●「可我已经死了」
 
 ○001042○Otonashi
 ●001042●音无
@@ -3188,7 +3188,7 @@
 ●001063●？？
 
 ○001064○"That's riiiiiight!!"
-●001064●「对啊————！！」
+●001064●「对啊啊啊————！！」
 
 ○001065○nothing
 ●001065●nothing
@@ -3209,13 +3209,13 @@
 ●001070●nothing
 
 ○001071○I can't believe this... I totally forgot this was the afterlife for a minute, there.
-●001071●为什么啊…我完全忘记了这里是死后世界了。
+●001071●怎么会这样…，完全忘记这里是死后的世界了。
 
 ○001072○Iwasawa wasn't paying attention to me at all anymore.
-●001072●岩泽完全没有再看我的意思。
+●001072●岩泽已经对我完全不感兴趣了。
 
 ○001073○I'll just see myself out...
-●001073●我还是赶紧出去吧…
+●001073●我还是老实点，赶紧出去吧…。
 
 ○001074○Otonashi
 ●001074●音无
