@@ -3284,7 +3284,7 @@
 ●001095●？？
 
 ○001096○"I'll teach you the right way to deal with a severed finger. If you cope with it just right, it's even possible to reattach one in the best case."
-●001096●「我可以教你手指被切断时的处理方法。如果处理得当的话，甚至可以重新接合」
+●001096●「我可以教你手指被切断时的处理方法。要是处理得当的话，甚至可以重新接合」
 
 ○001097○nothing
 ●001097●nothing
@@ -3305,7 +3305,7 @@
 ●001102●岩泽
 
 ○001103○"Ooooh...?"
-●001103●「哦…？」
+●001103●「呵…？」
 
 ○001104○nothing
 ●001104●nothing
@@ -3389,7 +3389,7 @@
 ●001130●？？
 
 ○001131○"First off, whatever you do, don't try to wash it off. Put the finger into a clean plastic bag."
-●001131●「首先，绝对不能进行清洗，而是要放到干净的塑料袋里」
+●001131●「首先，绝对不能进行清洗，而是要保持原样地放到洁净的塑料袋里」
 
 ○001132○Otonashi
 ●001132●音无
@@ -3458,7 +3458,7 @@
 ●001153●？？
 
 ○001154○"It'll last for about five hours like that, so your best bet is to rush straight to the hospital."
-●001154●「大概会有五个小时的抢救时间，在那之前赶到医院就可以了」
+●001154●「大概可以提供五个小时左右的抢救时间，在那之前赶到医院就可以了」
 
 ○001155○Otonashi
 ●001155●音无
@@ -3527,7 +3527,7 @@
 ●001176●？？
 
 ○001177○"If getting there will take longer than that, though, you can keep it cool with ice, or something. That'll keep it fresh for about twice as long."
-●001177●「如果时间不够的话，可以考虑用冰块之类的东西降温，差不多可以延长一倍时间」
+●001177●「要是时间不够的话，还可以考虑用冰块之类的东西来降温，差不多可以延长一倍的时间」
 
 ○001178○Otonashi
 ●001178●音无
@@ -3596,10 +3596,10 @@
 ●001199●？？
 
 ○001200○"If the hospital's nearby, you should just grab it and head straight there."
-●001200●「要是医院离得比较近的话，拿着过去就行了」
+●001200●「如果医院离得比较近的话，直接拿着袋子过去就行了」
 
 ○001201○My explanation finished, I waited for her reaction, brimming with excitement. 
-●001201●在解说完毕之后，我不禁露出了笑容，等待着她的回应。
+●001201●解说完毕的我，兴奋地等待着她的反应。
 
 ○001202○nothing
 ●001202●nothing
@@ -3620,7 +3620,7 @@
 ●001207●岩泽
 
 ○001208○"There aren't any hospitals in this world, you realize?"
-●001208●「这个世界里可没有医院哦」
+●001208●「这个世界里可没有医院」
 
 ○001209○Otonashi
 ●001209●音无
@@ -3689,7 +3689,7 @@
 ●001230●？？
 
 ○001231○"That's riiiiiiiiiight!!"
-●001231●「对啊————！！」
+●001231●「对啊啊啊——！！」
 
 ○001232○Otonashi
 ●001232●音无
@@ -3758,7 +3758,7 @@
 ●001253●？？
 
 ○001254○"So, what could you even do then!?"
-●001254●「那么，到底怎么办才好啊！？」
+●001254●「那，该怎么办才好啊！？」
 
 ○001255○nothing
 ●001255●nothing
@@ -3779,7 +3779,7 @@
 ●001260●岩泽
 
 ○001261○"If you just hold a severed limb back where it came from, it'll reattach itself in no time."
-●001261●「如果把断掉的肢体放在旁边的话，很快就会恢复的」
+●001261●「把断掉的肢体放在伤口旁边的话，很快就会长回去的哦」
 
 ○001262○Otonashi
 ●001262●音无
@@ -3848,7 +3848,7 @@
 ●001283●？？
 
 ○001284○"Really...? Thanks for the info..."
-●001284●「是吗…Thank you…」
+●001284●「这样吗…Thank you…」
 
 ○001285○nothing
 ●001285●nothing
@@ -3869,10 +3869,10 @@
 ●001290●nothing
 
 ○001291○Everything ended up backwards, and she taught me something instead...
-●001291●形势突然反转，变成了她教导我了…
+●001291●形势突然逆转，变成她来教导我了…。
 
 ○001292○I should probably just leave quietly, for today.
-●001292●看来今天还是先悄悄的离开吧。
+●001292●看来今天还是老老实实地离开吧。
 
 ○001293○Otonashi
 ●001293●音无
@@ -3941,7 +3941,7 @@
 ●001314●？？
 
 ○001315○"Ever wonder what happens to a fart when you hold it in?"
-●001315●「知道放屁的时候憋住会发生什么吗？」
+●001315●「你有没有想过，如果在放屁的时候憋住的话，会发生什么？」
 
 ○001316○nothing
 ●001316●nothing
@@ -3962,7 +3962,7 @@
 ●001321●岩泽
 
 ○001322○"Hold up. Last time was snot, and now farts?"
-●001322●「打住，上次是鼻涕，这次是放屁吗？」
+●001322●「打住。上一次是鼻涕，这一次是放屁？」
 
 ○001323○Otonashi
 ●001323●音无
@@ -4052,7 +4052,7 @@
 ●001351●岩泽
 
 ○001352○"Seriously, I don't wanna hear it. Can you just leave, already?"
-●001352●「所以，我完全不感兴趣。你可以走了吗？」
+●001352●「所以，我不想听这种话题。可以请你离开吗？」
 
 ○001353○nothing
 ●001353●nothing
@@ -4076,13 +4076,13 @@
 ●001359●诶…？
 
 ○001360○ When she demands it like that, no choice but to go...
-●001360●既然这么说了，那我只能走了吧…
+●001360●既然这么说的话，那我只能照做了吧…。
 
 ○001361○Apparently that was a poor choice of topic.
-●001361●这个选项太糟糕了…
+●001361●好像在对话的内容上选择了错误的选项…。
 
 ○001362○I decided to quietly make my exit from the classroom...
-●001362●我还是偷偷地从教室里溜出去吧…
+●001362●我决定老老实实地离开空教室…。
 
 ○001363○nothing
 ●001363●nothing
@@ -4103,10 +4103,10 @@
 ●001368●岩泽
 
 ○001369○"Is that really the sort of thing you should talk about with a girl?"
-●001369●「这个真的是和女生讨论的话题吗？」
+●001369●「这个，是和女生交谈时的话题吗？」
 
 ○001370○Yeah, there's probably something wrong with me.
-●001370●嗯，我绝对是哪里有问题。
+●001370●嗯，我很怪。
 
 ○001371○nothing
 ●001371●nothing
@@ -4196,7 +4196,7 @@
 ●001399●？？
 
 ○001400○"The fart ends up getting absorbed into the large intestine, and then into the small intestine after. From there, it diffuses into your blood. It gets filtered out into your urine and metabolized and whatnot, of course, but some of it can also make its way into your lungs."
-●001400●「屁最后会被吸收到大肠里，然后进入小肠，参与到血液循环之中，虽然会溶解在尿液之中排放出去，但也有可能会到达肺部…」
+●001400●「大部分的屁会被大肠吸收，然后逆流进入小肠。从那里进入血液循环。虽然会溶解在尿液里，经过代谢之后被排出，但也有一部分会到达肺部…」
 
 ○001401○nothing
 ●001401●nothing
@@ -4217,7 +4217,7 @@
 ●001406●岩泽
 
 ○001407○"What? So... what does that mean...?"
-●001407●「什么？所以…会怎么样呢…」
+●001407●「什么？所以…也就是说…」
 
 ○001408○Otonashi
 ●001408●音无
@@ -4286,7 +4286,7 @@
 ●001429●？？
 
 ○001430○"It means... it ends up coming out of your mouth."
-●001430●「就是说…会从嘴里出来」
+●001430●「就是说…会通过你的嘴进入世间」
 
 ○001431○nothing
 ●001431●nothing
@@ -4307,7 +4307,7 @@
 ●001436●岩泽
 
 ○001437○"So what, you're saying we've all been breathing out farts our whole lives!?"
-●001437●「也就是说，我们的整个人生都是在口吐臭气之中度过的吗！？」
+●001437●「难道说，我们整个人生都是在口吐臭气之中度过的吗！？」
 
 ○001438○Otonashi
 ●001438●音无
@@ -4376,7 +4376,7 @@
 ●001459●？？
 
 ○001460○"Well, at that point it's really all just carbon dioxide, so it doesn't smell or anything."
-●001460●「但是，这个时候就只剩下二氧化碳了，所以完全没有气味」
+●001460●「但是，这时候已经只剩下二氧化碳了，所以完全没有气味」
 
 ○001461○nothing
 ●001461●nothing
@@ -4397,7 +4397,7 @@
 ●001466●岩泽
 
 ○001467○"The hell, sheesh, don't freak me out like that..."
-●001467●「什么啊，别这么吓唬我啊…」
+●001467●「什么啊，真是的，别这么吓唬我啊…」
 
 ○001468○Otonashi
 ●001468●音无
@@ -4466,7 +4466,7 @@
 ●001489●？？
 
 ○001490○"But the point is, you shouldn't hold them in. Getting all those pollutants into your blood can have consequences, sometimes."
-●001490●「但是，还是不要憋住比较好。如果进入了血液的话，可能会带来其他影响的」
+●001490●「但是，还是不要憋住比较好。如果进入血液的话，可能会带来其他的影响」
 
 ○001491○nothing
 ●001491●nothing
@@ -4487,10 +4487,10 @@
 ●001496●岩泽
 
 ○001497○"That so? I'll keep that in mind, then."
-●001497●「这样吗？那我会记住的」
+●001497●「这样吗。我会遵嘱的」
 
 ○001498○Was that a good reaction, or a bad one?
-●001498●这个算是好的反应还是不好的反应呢？
+●001498●这种反应，算不算是有效果了呢。
 
 ○001499○nothing
 ●001499●nothing
@@ -4511,13 +4511,13 @@
 ●001504●nothing
 
 ○001505○Iwasawa seemed to be in a good mood as she returned to her work.
-●001505●岩泽回到了先前的事情上，看起来心情不错的样子。
+●001505●岩泽回到了自己的事情上，看起来心情很好的样子。
 
 ○001506○One way or another, the topic seemed to have grabbed her interest. 
-●001506●不管怎样，这个话题应该是激起她的兴趣了。
+●001506●看来这个话题激起了岩泽的兴趣。
 
 ○001507○I left the classroom, feeling a bit relieved. 
-●001507●我离开了教室，感到了解脱感。
+●001507●我长舒一口气，离开了教室。
 
 ○001508○Otonashi
 ●001508●音无
