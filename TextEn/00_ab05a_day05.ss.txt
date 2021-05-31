@@ -26931,8 +26931,8 @@
 ○009006○??
 ●009006●？？
 
-○009007○"Hmm hmm hmm hmmmmm hmmmm♪"
-●009007●「呼嗯嗯嗯～♪」
+○009007○"Hmm hmm hmm hmmmmm hmmmm♪ "
+●009007●「呼嗯嗯嗯～♪ 」
 
 ○009008○He hummed as he walked away.
 ●009008●他一边哼着小曲一边走着。
@@ -27102,8 +27102,8 @@
 ○009063○??
 ●009063●？？
 
-○009064○"Hmm hmm hmm hmmmmm hmmmm♪"
-●009064●「呼嗯嗯嗯～♪」
+○009064○"Hmm hmm hmm hmmmmm hmmmm♪ "
+●009064●「呼嗯嗯嗯～♪ 」
 
 ○009065○Otonashi
 ●009065●音无

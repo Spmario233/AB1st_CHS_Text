@@ -1204,8 +1204,8 @@
 ○000401○Yui
 ●000401●由依
 
-○000402○"Eh? No no no, not at all! I'm the same Yui-nyan♪ as always, you know?"
-●000402●「诶？没有没有没有，没有那种事情哦？我还是和往常一样的那个由依喵♪ 的说哦—？」
+○000402○"Eh? No no no, not at all! I'm the same Yui-nyan♪  as always, you know?"
+●000402●「诶？没有没有没有，没有那种事情哦？我还是和往常一样的那个由依喵♪  的说哦—？」
 
 ○000403○nothing
 ●000403●nothing
@@ -1900,8 +1900,8 @@
 ○000633○Yui
 ●000633●由依
 
-○000634○"Behind me staaaaands~ a shuttered waaaall~♪"
-●000634●「背后是～百叶窗的墙壁～♪」
+○000634○"Behind me staaaaands~ a shuttered waaaall~♪ "
+●000634●「背后是～百叶窗的墙壁～♪ 」
 
 ○000635○nothing
 ●000635●nothing
@@ -1921,8 +1921,8 @@
 ○000640○Yui
 ●000640●由依
 
-○000641○"My finger tiiips~ smeeeell~ of steeeeel~♪"
-●000641●「指～尖散出～铁～腥～的，气味～♪」
+○000641○"My finger tiiips~ smeeeell~ of steeeeel~♪ "
+●000641●「指～尖散出～铁～腥～的，气味～♪ 」
 
 ○000642○nothing
 ●000642●nothing
@@ -1942,8 +1942,8 @@
 ○000647○Yui
 ●000647●由依
 
-○000648○"Keep moviiiing~, keep playiiiing, either waaay~ the crowd will be theeeeere~♪"
-●000648●「前进～弹奏～哪条～道路～人多拥挤～呢～♪」
+○000648○"Keep moviiiing~, keep playiiiing, either waaay~ the crowd will be theeeeere~♪ "
+●000648●「前进～弹奏～哪条～道路～人多拥挤～呢～♪ 」
 
 ○000649○none
 ●000649●none

@@ -26,7 +26,7 @@
 ●000008●关于植物的话题
 
 ○000009○Talk about something funny
-●000009●整点活
+●000009●聊点开心的事情
 
 ○000011○selbtn : 
 ●000011●selbtn : 
@@ -4607,7 +4607,7 @@
 ●001536●岩泽
 
 ○001537○"Can't say I do."
-●001537●「不知道」
+●001537●「不知道呢」
 
 ○001538○Otonashi
 ●001538●音无
@@ -4697,10 +4697,10 @@
 ●001566●岩泽
 
 ○001567○"Don't know about those, either."
-●001567●「也不知道」
+●001567●「也不知道呢」
 
 ○001568○Iwasawa was showing no signs of interest whatsoever. But, I carried on talking.
-●001568●岩泽看起来没什么兴趣，但是我继续说了下去。
+●001568●岩泽一幅完全不感兴趣的样子，但我还是继续说了下去。
 
 ○001569○Otonashi
 ●001569●音无
@@ -4769,7 +4769,7 @@
 ●001590●？？
 
 ○001591○"BB pellets are the tiny spheres that you fire out of airsoft guns. They hurt if you get hit by one, but unlike a real gun they're not super dangerous, and you certainly wouldn't die, so in the end they're only good for games and whatnot."
-●001591●「BB弹是玩具枪使用的小号球形子弹。虽然被射中的时候会痛，但是并不像真枪一样危险，更不会死掉。说到底，只能用于游戏之类的用途」
+●001591●「BB弹是气枪使用的小号子弹。虽然被射中的时候会痛，但并不像真枪一样能够把人杀死。说到底，也只能用于游戏等用途」
 
 ○001592○Otonashi
 ●001592●音无
@@ -4838,7 +4838,7 @@
 ●001613●？？
 
 ○001614○"But, see, even without an airsoft gun, you can take a long, narrow pipe, and make a vacuum in it. Then you put a BB pellet into the end, and suddenly open up the vacuum from the other end. Thanks to the difference in pressure, the pipe gets filled with air in an instant, and it shoots the pellet."
-●001614●「但是，就算没有气枪的话，也可以找一根又细又长的管道，然后将里面抽成真空。将BB弹放在一端，然后突然打开另一端的真空，在压力差的作用下，子弹就会被发射出去了」
+●001614●「但是，就算没有气枪，也可以找一根又长又细的管子，把里面抽成真空。将BB弹放在一端，然后突然打开另一端的真空，空气在气压差的作用下进入管子，就能够将BB弹发射出去了」
 
 ○001615○nothing
 ●001615●nothing
@@ -4859,7 +4859,7 @@
 ●001620●岩泽
 
 ○001621○"Oh?"
-●001621●「哦？」
+●001621●「诶」
 
 ○001622○Otonashi
 ●001622●音无
@@ -4928,7 +4928,7 @@
 ●001643●？？
 
 ○001644○"Specifically, it'd shoot that pellet at the same speed that your words travel at when you talk to me. That's about 1,200 kilometers an hour."
-●001644●「速度和你的话语向我的耳朵里传播的速度一样，大概是1200公里每小时」
+●001644●「速度和你的话语传到我耳朵里的速度一样，大概是以1200公里每小时的速度飞行」
 
 ○001645○nothing
 ●001645●nothing
@@ -4952,7 +4952,7 @@
 ●001651●「诶诶诶诶！？」
 
 ○001652○That turned Iwasawa's expression around entirely. She looked super shocked.
-●001652●岩泽突然露出了非常诧异的表情。
+●001652●就这一句话，让岩泽突然猛颤了一下。
 
 ○001653○nothing
 ●001653●nothing
@@ -5042,7 +5042,7 @@
 ●001681●？？
 
 ○001682○"Well, yeah. There's a whole lot of careful preparations you have to make, but as long as all those conditions are met, it can."
-●001682●「嘛，需要做的准备工作很多，但是都做好了的话还是有可能的。」
+●001682●「算是吧。虽然要做很多的准备工作，但万事俱备之后还是能做到的」
 
 ○001683○nothing
 ●001683●nothing
@@ -5063,7 +5063,7 @@
 ●001688●岩泽
 
 ○001689○"Those whatever-cannons are incredible, huh...?"
-●001689●「这个什么炮好厉害啊…」
+●001689●「这个什么炮，好厉害啊…」
 
 ○001690○Otonashi
 ●001690●音无
@@ -5153,7 +5153,7 @@
 ●001718●岩泽
 
 ○001719○"The same speed as a voice travels through the air... There's no feeling of lag at all..."
-●001719●「和空气中的音速一样…完全没有滞后感…」
+●001719●「和说话声在空气中传播的速度一样…没有滞后感…」
 
 ○001720○nothing
 ●001720●nothing
@@ -5174,7 +5174,7 @@
 ●001725●岩泽
 
 ○001726○"And that means it'd be the same speed my songs reach the audience, then?"
-●001726●「也就是说，和我的演唱传达给观众的速度一样？」
+●001726●「也就是说，我的歌声也能以同样的速度传递到观众那里？」
 
 ○001727○Otonashi
 ●001727●音无
@@ -5243,7 +5243,7 @@
 ●001748●？？
 
 ○001749○"Well, yeah, I guess."
-●001749●「嗯，是吧」
+●001749●「嘛，算是吧」
 
 ○001750○nothing
 ●001750●nothing
@@ -5264,7 +5264,7 @@
 ●001755●岩泽
 
 ○001756○"Vacuum cannons... Incredible... I should use them in my lyrics some day..."
-●001756●「真空炮…好厉害…下次写到歌词里面吧…」
+●001756●「这个真空炮好厉害啊…。希望哪天能写到歌词里面吧…」
 
 ○001757○Otonashi
 ●001757●音无
@@ -5375,13 +5375,13 @@
 ●001792●nothing
 
 ○001793○All right, that's exactly the reaction I was hoping for.
-●001793●很好，这就是我要的反应。
+●001793●很好，这就是我想要的反应。
 
 ○001794○It could be that topics related to sound catch her interest really well.
-●001794●看来和声音有关的话题都能直接抓住她的兴趣。
+●001794●看来和声音有关的话题，都很容易抓住她的兴趣。
 
 ○001795○Satisfied with the solid response I got from her, I left the room.
-●001795●我带着满足感离开了教室。
+●001795●我带着这种切实的感觉，离开了空教室。
 
 ○001796○Otonashi
 ●001796●音无
@@ -5471,7 +5471,7 @@
 ●001824●岩泽
 
 ○001825○"No, can't say I've ever paid them any real mind."
-●001825●「不，完全没有主动地注意过」
+●001825●「不，完全没有主动地去注意过」
 
 ○001826○Otonashi
 ●001826●音无
@@ -5540,7 +5540,7 @@
 ●001847●？？
 
 ○001848○"I see. Well, that's fine. See, when a flower's beautifully colored, that means it's searching for a mate."
-●001848●「这样啊。嘛，当一朵花的颜色变得漂亮的时候，就说明进入求偶期了」
+●001848●「是吗。嘛，花朵的颜色变得绚丽的时候，就说明其进入了求偶期」
 
 ○001849○nothing
 ●001849●nothing
@@ -5630,7 +5630,7 @@
 ●001877●？？
 
 ○001878○"Basically, the bright colors are for attracting bees and whatnot to carry the flower's pollen and help it reproduce."
-●001878●「通常来说，明亮的颜色会吸引蜜蜂之类的昆虫，帮助它们传递花粉，繁殖后代」
+●001878●「鲜艳的颜色能够吸引蜜蜂之类的昆虫，从而帮助它们传递花粉，繁殖后代」
 
 ○001879○nothing
 ●001879●nothing
@@ -5651,7 +5651,7 @@
 ●001884●岩泽
 
 ○001885○"Oooh?"
-●001885●「哦？」
+●001885●「诶—」
 
 ○001886○Otonashi
 ●001886●音无
@@ -5720,7 +5720,7 @@
 ●001907●？？
 
 ○001908○"And on the other hand, plants with more subdued colorations like cedar trees spread their pollen and reproduce using the wind."
-●001908●「而像杉树这种颜色朴素的植物，则会利用风力，将花粉传播到很远的地方」
+●001908●「与之相反，像杉树这种颜色朴素的植物，则会利用风力，将花粉传播到很远的地方」
 
 ○001909○Otonashi
 ●001909●音无
@@ -5789,7 +5789,7 @@
 ●001930●？？
 
 ○001931○"They may all be plants, but their means of breeding are totally different."
-●001931●「虽然都是植物，但是繁殖的方式完全不一样」
+●001931●「虽然都是植物，但繁殖的方式完全不同」
 
 ○001932○nothing
 ●001932●nothing
@@ -5810,7 +5810,7 @@
 ●001937●岩泽
 
 ○001938○"Hmmmm, I've never really thought about plants like that before."
-●001938●「诶——之前完全没有这么思考过植物啊」
+●001938●「嚯———，我还从来没有以这种方式看待过植物呢」
 
 ○001939○nothing
 ●001939●nothing
@@ -5831,7 +5831,7 @@
 ●001944●岩泽
 
 ○001945○"Okay, I'll try keeping that in mind while I write some lyrics."
-●001945●「那么，我会在写歌词的时候作为参考的」
+●001945●「那我会在写歌词的时候，稍微考虑一下这些的」
 
 ○001946○nothing
 ●001946●nothing
@@ -5852,13 +5852,13 @@
 ●001951●nothing
 
 ○001952○If she managed to link my conversation topic to her lyric writing, pretty sure that means she took quite an interest in it.
-●001952●如果她把我的对话和写歌词关联起来的话，说明她一定很有兴趣。
+●001952●既然能把和我的对话与作词关联起来，看来她很喜欢这个话题。
 
 ○001953○That made me a little happy.
-●001953●这让我感到很高兴。
+●001953●感觉有点开心。
 
 ○001954○I left the room in a cheery mood.
-●001954●我带着兴奋的心情离开了教室。
+●001954●我兴高采烈地离开了空教室。
 
 ○001955○Otonashi
 ●001955●音无
@@ -5927,7 +5927,7 @@
 ●001976●？？
 
 ○001977○"So, you know Hinata, right?"
-●001977●「所以，你认识日向吧？」
+●001977●「所以，你知道日向吧？」
 
 ○001978○nothing
 ●001978●nothing
@@ -5948,7 +5948,7 @@
 ●001983●岩泽
 
 ○001984○"Yeah, we've known each other for ages. What about him?"
-●001984●「嗯，我们认识了很多年了。怎么了？」
+●001984●「嗯，我们认识很久了。他怎么了？」
 
 ○001985○Otonashi
 ●001985●音无
@@ -6017,7 +6017,7 @@
 ●002006●？？
 
 ○002007○"We were in the baths together the other day, and holy crap, his you-know-what's out of this world! It's crazy considering how lanky he is, but he's got a nice schlong like you wouldn't believe!"
-●002007●「我们昨天一起去洗澡了。然后，他的那个东西真的是天下无双哦！虽然他的身体很瘦弱，但是那个很厉害啊！」
+●002007●「我们昨天一起去洗澡了。然后，他的那个东西真的好帅啊！那么瘦弱的身体，居然会长出这么令人难以置信的长枪！」
 
 ○002008○Otonashi
 ●002008●音无
@@ -6107,10 +6107,10 @@
 ●002036●岩泽
 
 ○002037○"...You're the worst."
-●002037●「…你太差劲了」
+●002037●「…你啊，太差劲了」
 
 ○002038○Her rejection was cold and blunt.
-●002038●十分冷淡的回复。
+●002038●十分冷淡的回应。
 
 ○002039○Otonashi
 ●002039●音无
@@ -6200,7 +6200,7 @@
 ●002067●岩泽
 
 ○002068○"Belittling someone for their physical traits like that..."
-●002068●「用别人的身体特征去开玩笑…」
+●002068●「嘲笑别人的身体特征…」
 
 ○002069○Otonashi
 ●002069●音无
@@ -6269,7 +6269,7 @@
 ●002090●？？
 
 ○002091○"No, I'm not belittling him at all! It's a compliment, y'know? If anything, I'm jealous!"
-●002091●「不，怎么会是开玩笑呢！明明是在夸奖他！我现在都非常嫉妒！」
+●002091●「不，怎么会是嘲笑呢！明明是在赞美他！而且我非常羡慕！」
 
 ○002092○nothing
 ●002092●nothing
@@ -6290,7 +6290,7 @@
 ●002097●岩泽
 
 ○002098○"For all you know it might really bother him, right...?"
-●002098●「他本人可能会很困扰哦…」
+●002098●「他本人可能会很介意的吧…」
 
 ○002099○Otonashi
 ●002099●音无
@@ -6359,7 +6359,7 @@
 ●002120●？？
 
 ○002121○"But... But I'm really jealous..."
-●002121●「但是…我真的很嫉妒…」
+●002121●「可我真的好羡慕…」
 
 ○002122○nothing
 ●002122●nothing
@@ -6380,7 +6380,7 @@
 ●002127●岩泽
 
 ○002128○"You're getting in the way of my composing. Just go, please..."
-●002128●「你打扰到我作曲了，赶紧离开吧…」
+●002128●「你打扰到我作曲了，赶紧滚吧…」
 
 ○002129○nothing
 ●002129●nothing
@@ -6401,10 +6401,10 @@
 ●002134●nothing
 
 ○002135○I tried to make her laugh, but got pretty much the exact opposite of my intended result...
-●002135●我只是想博她一笑，但是却起到了完全相反的效果…
+●002135●我只是想博她一笑而已，但却起到了截然相反的效果…。
 
 ○002136○Time to make a quiet exit...
-●002136●赶紧走小道吧…
+●002136●老老实实地走小道吧…。
 
 ○002137○se_wooddoor_open2
 ●002137●se_wooddoor_open2
