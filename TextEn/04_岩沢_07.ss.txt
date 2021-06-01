@@ -89,7 +89,7 @@
 ●000029●岩泽
 
 ○000030○"You again?"
-●000030●「又是你啊？」
+●000030●「又是你吗？」
 
 ○000031○nothing
 ●000031●nothing
@@ -179,7 +179,7 @@
 ●000059●？？
 
 ○000060○"I mean, like I said, I'm interested in you."
-●000060●「之前说过了，我对你更感兴趣」
+●000060●「之前说过的吧。我对你本身感兴趣」
 
 ○000061○nothing
 ●000061●nothing
@@ -269,13 +269,13 @@
 ●000089●？？
 
 ○000090○"That's not the only reason I'm here."
-●000090●「不仅仅是这样」
+●000090●「并不仅仅如此」
 
 ○000091○You're charming as a woman
-●000091●因为你作为女性的魅力
+●000091●因为你作为女性也很有魅力
 
 ○000092○Training's a pain, so I'm killing time
-●000092●训练太痛苦了，纯粹是打发时间
+●000092●训练太痛苦了，所以来打发时间
 
 ○000093○selbtn : 
 ●000093●selbtn : 
@@ -347,7 +347,7 @@
 ●000115●？？
 
 ○000116○"I think you're charming, as a woman."
-●000116●「因为你散发着女性的魅力」
+●000116●「因为你作为女性时，也很有魅力」
 
 ○000117○nothing
 ●000117●nothing
@@ -368,7 +368,7 @@
 ●000122●岩泽
 
 ○000123○"Oooh, you're actually interested in a music maniac like me?"
-●000123●「诶？像我这样的音乐狂魔？」
+●000123●「嘿，你喜欢像我这样的音乐狂魔吗？」
 
 ○000124○Otonashi
 ●000124●音无
@@ -437,7 +437,7 @@
 ●000145●？？
 
 ○000146○"I mean, even when you're just standing still, you're incredibly picturesque."
-●000146●「因为，仅仅是这样站着，就已经像画一样美丽了」
+●000146●「因为啊，你仅仅是站着，就已经如画般美丽了」
 
 ○000147○nothing
 ●000147●nothing
@@ -458,7 +458,7 @@
 ●000152●岩泽
 
 ○000153○"So you don't care about personality as long as the looks are there, is that it...?"
-●000153●「也就是说，只要外表漂亮，内在对你来说就无所谓了吗…」
+●000153●「所以只要外表漂亮，内在如何就无所谓了吗…」
 
 ○000154○Yeah
 ●000154●是的
@@ -557,7 +557,7 @@
 ●000185●岩泽
 
 ○000186○"I'm kind of shocked how easily you admitted that."
-●000186●「想不到你直接就承认了啊」
+●000186●「想不到啊，你直接就老实招供了」
 
 ○000187○Otonashi
 ●000187●音无
@@ -626,7 +626,7 @@
 ●000208●？？
 
 ○000209○"I mean, it's true, after all."
-●000209●「但是，实际就是这样」
+●000209●「因为，确实是这样」
 
 ○000210○nothing
 ●000210●nothing
@@ -647,7 +647,7 @@
 ●000215●岩泽
 
 ○000216○"Tch, cut it out..."
-●000216●「哈，可以了…」
+●000216●「哈啊，差不多得了…」
 
 ○000217○nothing
 ●000217●nothing
@@ -668,7 +668,7 @@
 ●000222●岩泽
 
 ○000223○"I've been living in this school for decades, but you're the first person who'd just march right in and say something like that to my face, y'know...?"
-●000223●「我在这个学校里生活了几十年，还是第一次遇到你这种能够一本正经地说出这种话的人…」
+●000223●「我在这所学校里过了几十年了，像你这种能够一本正经地说出这种话的人，还是第一次遇到…」
 
 ○000224○Otonashi
 ●000224●音无
@@ -737,7 +737,7 @@
 ●000245●？？
 
 ○000246○"Seriously...? I can't believe it..."
-●000246●「不会吧…真的是这样吗…」
+●000246●「不会吧…真难以置信…」
 
 ○000247○nothing
 ●000247●nothing
@@ -758,16 +758,16 @@
 ●000252●岩泽
 
 ○000253○"Give me an example. What's good about me?"
-●000253●「那就说说吧，我身上有什么优点？」
+●000253●「那说说吧，我有什么好的地方？」
 
 ○000254○That's one hell of a question...
-●000254●完全是送命题啊…
+●000254●这就是送命题啊…。
 
 ○000255○You're beautiful
-●000255●长得很漂亮
+●000255●你很漂亮
 
 ○000256○I like your smell
-●000256●味道很好
+●000256●我喜欢你的味道
 
 ○000257○selbtn : 
 ●000257●selbtn : 
@@ -860,7 +860,7 @@
 ●000286●岩泽
 
 ○000287○"Are you actually serious?"
-●000287●「你啊，该不会是认真的吧？」
+●000287●「你，真的是，认真的吗？」
 
 ○000288○Otonashi
 ●000288●音无
@@ -950,7 +950,7 @@
 ●000316●岩泽
 
 ○000317○"Hmmm..."
-●000317●「嗯…」
+●000317●「诶—…」
 
 ○000318○Otonashi
 ●000318●音无
@@ -1019,7 +1019,7 @@
 ●000339●？？
 
 ○000340○"Did that offend you?"
-●000340●「有冒犯到你吗？」
+●000340●「冒犯到你了吗？」
 
 ○000341○nothing
 ●000341●nothing
@@ -1043,7 +1043,7 @@
 ●000347●「不，没有太冒犯」
 
 ○000348○It's really hard for me to judge whether or not I have a chance, from that response. I'm worried...
-●000348●这种反应的话，不知道我还有没有机会…
+●000348●这种反应的话，不知道是有戏还是没戏，太让人焦灼了…。
 
 ○000349○Otonashi
 ●000349●音无
@@ -1112,7 +1112,7 @@
 ●000370●？？
 
 ○000371○"I like the way you smell."
-●000371●「我喜欢你身上的气味」
+●000371●「我喜欢你身上的味道」
 
 ○000372○nothing
 ●000372●nothing
@@ -1133,7 +1133,7 @@
 ●000377●岩泽
 
 ○000378○"Huh? But I'm not wearing perfume, or anything?"
-●000378●「哈？但是我可没有使用过香水之类的东西哦？」
+●000378●「哈？我可没用过香水之类的东西哦？」
 
 ○000379○Otonashi
 ●000379●音无
@@ -1223,10 +1223,10 @@
 ●000407●岩泽
 
 ○000408○"Huuuh? You don't mean, like, body odor or something?"
-●000408●「嗯——？你该不会是说腋臭之类的东西吧？」
+●000408●「嗯——？该不会是指腋臭之类的吧？」
 
 ○000409○Iwasawa lifted up an arm and sniffed around her armpit.
-●000409●岩泽抬起了胳膊，开始呼呼地闻了起来。
+●000409●岩泽抬起了胳膊，把脸凑了上去，呼呼地闻了起来。
 
 ○000410○Otonashi
 ●000410●音无
@@ -1295,7 +1295,7 @@
 ●000431●？？
 
 ○000432○"No, no, that's not the sort of smell I'm talking about!"
-●000432●「不不不，不是这种味道啊！」
+●000432●「不不不，不是那种味道啊！」
 
 ○000433○nothing
 ●000433●nothing
@@ -1385,7 +1385,7 @@
 ●000461●？？
 
 ○000462○"I'm pretty sure it's the smell of your sweat."
-●000462●「应该是汗水的味道吧」
+●000462●「我想是汗水的味道」
 
 ○000463○nothing
 ●000463●nothing
@@ -1406,7 +1406,7 @@
 ●000468●岩泽
 
 ○000469○"My sweat doesn't smell gross?"
-●000469●「不会有汗臭味吗？」
+●000469●「我的汗水没有臭味吗？」
 
 ○000470○Otonashi
 ●000470●音无
@@ -1475,7 +1475,7 @@
 ●000491●？？
 
 ○000492○"Right."
-●000492●「嗯」
+●000492●「没有」
 
 ○000493○Otonashi
 ●000493●音无
@@ -1544,7 +1544,7 @@
 ●000514●？？
 
 ○000515○"Not only that, I actually like how it smells."
-●000515●「并且，我喜欢这种味道」
+●000515●「而且，我喜欢这种味道」
 
 ○000516○nothing
 ●000516●nothing
@@ -1565,7 +1565,7 @@
 ●000521●岩泽
 
 ○000522○"That's the first time anyone's said that to me, even counting back when I was alive..."
-●000522●「就算是活着的时候，也没人对我说过这种话啊…」
+●000522●「就算是我活着的时候，也没人对我说过这种话…」
 
 ○000523○nothing
 ●000523●nothing
@@ -1586,10 +1586,10 @@
 ●000528●岩泽
 
 ○000529○"What is this... I've never felt this emotion before..."
-●000529●「怎么回事啊…这种从来都没有过的心情…」
+●000529●「怎么回事啊，这种从未有过的心情…」
 
 ○000530○If I leave her confused like this, she's probably not gonna be able to get back to composing easily...
-●000530●如果再让她这么困惑下去的话，可能就没法再进行作曲了…
+●000530●再让她这么困惑下去的话，可能就没法回到作曲之中了…。
 
 ○000531○Otonashi
 ●000531●音无
@@ -1658,7 +1658,7 @@
 ●000552●？？
 
 ○000553○"Actually, forget everything I was saying just now."
-●000553●「不，把刚才的话いや、今のは忘れてくれっ都忘了吧」
+●000553●「算了，把刚才的话都忘了吧」
 
 ○000554○nothing
 ●000554●nothing
@@ -1679,7 +1679,7 @@
 ●000559●岩泽
 
 ○000560○"Huh? You mean you were lying?"
-●000560●「诶？你该不会是在说谎吧？」
+●000560●「嗯？所以你是在说谎吗？」
 
 ○000561○Otonashi
 ●000561●音无
@@ -1748,7 +1748,7 @@
 ●000582●？？
 
 ○000583○"No, it's true! But if it bothers you that much, I'd rather you forget the whole conversation!"
-●000583●「不，绝对没有！但要是打扰到你的话，那么还是忘掉整个对话比较好！」
+●000583●「不，都是真话！但你要是这么在意的话，那还是忘掉刚才的问答吧！」
 
 ○000584○nothing
 ●000584●nothing
