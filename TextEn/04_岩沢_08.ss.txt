@@ -86,7 +86,7 @@
 ●000028●nothing
 
 ○000029○Even after I greeted her, Iwasawa kept strumming away at her guitar.
-●000029●虽然我打了招呼，但岩泽依然弹奏着她的吉他。
+●000029●尽管我打了招呼，但岩泽依然弹着她的吉他，进行着作曲。
 
 ○000030○Otonashi
 ●000030●音无
@@ -158,7 +158,7 @@
 ●000052●「没打扰吧？」
 
 ○000053○I called out again, but she just kept ignoring me.
-●000053●打招呼被她无视了。
+●000053●我这么打了个招呼，但她继续无视了我。
 
 ○000054○Otonashi
 ●000054●音无
@@ -320,7 +320,7 @@
 ●000106●岩泽
 
 ○000107○"No, as long as you have something interesting to talk about, I'd love to hear it."
-●000107●「不，只要你有有趣的话题的话，我随时奉陪」
+●000107●「并没有，如果有什么有趣的话题的话，请务必让我听听」
 
 ○000108○04_岩沢の興味のある話題探し
 ●000108●04_岩沢の興味のある話題探し
@@ -395,7 +395,7 @@
 ●000131●「没打扰吧？」
 
 ○000132○I called out again, but she didn't turn to face me at all.
-●000132●我向她打了招呼，但是她连脸都不转一下。
+●000132●我这么打了个招呼，但她连脸都不转一下。
 
 ○000133○Looks like she's totally absorbed in composing her music.
 ●000133●看来她正沉浸于作曲之中。
