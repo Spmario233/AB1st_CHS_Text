@@ -1769,7 +1769,7 @@
 ●000589●岩泽
 
 ○000590○"Uhhhh..."
-●000590●「呜嗯——…」
+●000590●「呜————…」
 
 ○000591○Otonashi
 ●000591●音无
@@ -1862,7 +1862,7 @@
 ●000620●「OK，我会忘掉的」
 
 ○000621○Oh, good...
-●000621●太好了…
+●000621●太好了…。
 
 ○000622○Otonashi
 ●000622●音无
@@ -1931,10 +1931,10 @@
 ●000643●？？
 
 ○000644○"No, no, I'm interested in what's inside, too!"
-●000644●「不不不，我对内在的也很感兴趣！」
+●000644●「不不不，我对内在也很感兴趣！」
 
 ○000645○Wow, talk about an unconvincing follow-up...
-●000645●这种发展真的很难以置信啊…
+●000645●真是让人头疼的发展…。
 
 ○000646○nothing
 ●000646●nothing
@@ -1955,7 +1955,7 @@
 ●000651●岩泽
 
 ○000652○"Sorry about that, that wasn't really a fair question to ask..."
-●000652●「抱歉，刚才的问题可能有点太过刁难了…」
+●000652●「抱歉啊，我刚才的问题可能太刁难了…」
 
 ○000653○nothing
 ●000653●nothing
@@ -1976,13 +1976,13 @@
 ●000658●岩泽
 
 ○000659○"Ooooh...?"
-●000659●「哦—…」
+●000659●「诶—…」
 
 ○000660○It was an especially unenthusiastic response.
-●000660●不像是特别在意的回答。
+●000660●相当漫不经心的回答。
 
 ○000661○Apparently, hearing something like that from me didn't make her feel anything in particular.
-●000661●换做是我的话，也不会因为这种话而产生特别的感情吧。
+●000661●看来，她对我所说的话并没有什么特别的感觉。
 
 ○000662○Otonashi
 ●000662●音无
@@ -2051,7 +2051,7 @@
 ●000683●？？
 
 ○000684○"Umm, should I go soon, or something?"
-●000684●「那个，我现在是不是该走了？」
+●000684●「呃那个，我是不是该离开这里了？」
 
 ○000685○nothing
 ●000685●nothing
@@ -2072,7 +2072,7 @@
 ●000690●岩泽
 
 ○000691○"No, as long as you have something interesting to talk about, I'd love to hear it."
-●000691●「不，只要你有有趣的话题的话，我随时奉陪」
+●000691●「并没有，如果有什么有趣的话题的话，请务必让我听听」
 
 ○000692○Otonashi
 ●000692●音无
@@ -2141,7 +2141,7 @@
 ●000713●？？
 
 ○000714○"Oh? In that case..."
-●000714●「哦？既然这样…」
+●000714●「是吗？既然这样…」
 
 ○000715○04_岩沢の興味のある話題探し
 ●000715●04_岩沢の興味のある話題探し
@@ -2213,7 +2213,7 @@
 ●000737●？？
 
 ○000738○"The whole self-training thing's been a pain, so I wanted to kill some time."
-●000738●「个人训练太痛苦了，所以来这边消磨消磨时间」
+●000738●「个人训练太痛苦了，所以来消磨消磨时间」
 
 ○000739○nothing
 ●000739●nothing
@@ -2234,7 +2234,7 @@
 ●000744●岩泽
 
 ○000745○"Ooooh? And you decided to do that by distracting me from my composition work?"
-●000745●「诶—，所以就来打扰我作曲了吗？」
+●000745●「呵—，所以就来打扰我作曲了吗？」
 
 ○000746○Otonashi
 ●000746●音无
@@ -2327,10 +2327,10 @@
 ●000775●「嗯，打扰到了」
 
 ○000776○For me, those words were 
-●000776●对我而言，这些话是决定性的。
+●000776●这句话对我而言，是决定性的一击。
 
 ○000777○They told me that from now on, Iwasawa and I would have nothing to do with each other.
-●000777●从此之后，我和岩泽将不会再有交集
+●000777●我和岩泽，将从此分道扬镳。
 
 ○000778○nothing
 ●000778●nothing
@@ -2351,7 +2351,7 @@
 ●000783●岩泽
 
 ○000784○"No, as long as you're just coming to talk every once in a while, it's totally okay."
-●000784●「不，偶尔来聊聊天的话，也是完全OK的」
+●000784●「不，只要是聊些有意义的话题，完全OK」
 
 ○000785○Otonashi
 ●000785●音无
@@ -2420,7 +2420,7 @@
 ●000806●？？
 
 ○000807○"Got it... Let's chat again, then."
-●000807●「知道了…那么，开始吧」
+●000807●「知道了…那就再次开始吧」
 
 ○000808○04_岩沢の興味のある話題探し
 ●000808●04_岩沢の興味のある話題探し
@@ -2492,7 +2492,7 @@
 ●000830●？？
 
 ○000831○"I came to talk with you."
-●000831●「我是来和你聊天的」
+●000831●「我是来和你说话的」
 
 ○000832○nothing
 ●000832●nothing
@@ -2513,7 +2513,7 @@
 ●000837●岩泽
 
 ○000838○"Yeah, about that... I've started thinking that the time I spend listening to you'd just a waste. It's time I could be using to write lyrics or compose music, after all."
-●000838●「那个啊…我感觉听你说话完全就是浪费时间，所以还是写歌词或者作曲比较好」
+●000838●「对此啊…我感觉听你说话完全就是浪费时间，浪费我作曲和作词的时间」
 
 ○000839○Otonashi
 ●000839●音无
@@ -2582,7 +2582,7 @@
 ●000860●？？
 
 ○000861○"Eeeeeh!?"
-●000861●「诶诶诶诶！？」
+●000861●「诶诶诶！？」
 
 ○000862○Otonashi
 ●000862●音无
@@ -2651,7 +2651,7 @@
 ●000883●？？
 
 ○000884○"So, does that mean you want me to stop coming here...?"
-●000884●「也就是说，你不想再让我过来了吗…？」
+●000884●「也就是说，你是让我，不要再来这里了吗…？」
 
 ○000885○nothing
 ●000885●nothing
@@ -2672,16 +2672,16 @@
 ●000890●岩泽
 
 ○000891○"To be blunt, yeah."
-●000891●「确实，是这样的」
+●000891●「实话的话，是的」
 
 ○000892○I can't believe she's treating me as this much of a nuisance...
-●000892●被她当成碍事的家伙了…
+●000892●竟然，被她当成碍事的家伙了…。
 
 ○000893○Iwasawa's words lacked even the slightest hint of delicacy, and pierced me to the core.
-●000893●岩泽毫无遮掩的话语，深深地刺痛了我的内心。
+●000893●岩泽的话语如同毫无包裹的刀刃一般，深深地刺痛了我的内心。
 
 ○000894○I guess this means that I'm never allowed to come visit her during this time of day again...?
-●000894●也就是说，以后再也不能在这个时间段来这里了吗…？
+●000894●也就是说，今后再也不能在这个时间段里，来到这里了吗…？
 
 ○000895○nothing
 ●000895●nothing
@@ -2702,7 +2702,7 @@
 ●000900●岩泽
 
 ○000901○"You're kinda going pale, y'know?"
-●000901●「你的脸色很糟糕啊？」
+●000901●「感觉你的脸色很糟糕啊？」
 
 ○000902○Otonashi
 ●000902●音无
@@ -2771,7 +2771,7 @@
 ●000923●？？
 
 ○000924○"I've been hit by a sudden wave of self-awareness..."
-●000924●「这是自觉的作用…」
+●000924●「这是自觉…」
 
 ○000925○Otonashi
 ●000925●音无
@@ -2840,7 +2840,7 @@
 ●000946●？？
 
 ○000947○"Got it, if I'm bothering you, I won't come again..."
-●000947●「明白了，要是打扰到你的话，那我就不会再来光顾了…」
+●000947●「明白了，如果打扰到你的话，那我不会再来了…」
 
 ○000948○nothing
 ●000948●nothing
@@ -2861,7 +2861,7 @@
 ●000953●岩泽
 
 ○000954○"Yeah. That'd be great, thanks."
-●000954●「嗯。这样就好」
+●000954●「嗯。要是能这样的话就好」
 
 ○000955○dummy
 ●000955●dummy
