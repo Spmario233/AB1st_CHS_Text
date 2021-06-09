@@ -1,11 +1,11 @@
 ○000000○The members of GirlDeMo and I received a thorough tongue lashing from the teachers in the student guidance room.
-●000000●我和GDM的其他成员一起，在生活指导室里接受了老师又臭又长的说教。
+●000000●我和GDM的其他成员一起，在生活指导室里，被老师进行了一番又臭又长的说教。
 
 ○000001○They managed to avoid having their instruments confiscated.
-●000001●乐器最终没有被没收。
+●000001●乐器得以幸免，没有被没收。
 
 ○000002○In exchange for that lenience, they promised to never put on a concert without permission again.
-●000002●作为条件，她们承诺今后不会再在没有许可的条件下举办演唱会。
+●000002●作为交换条件，她们承诺不会再在没有许可的情况下举办演唱会。
 
 ○000003○nothing
 ●000003●nothing
@@ -26,7 +26,7 @@
 ●000008●关根
 
 ○000009○"Well, as far as we're concerned a promise like that doesn't carry any weight at all, geh heh heh!"
-●000009●「嘛，这样的承诺对于我们来说根本没有什么约束的效力就是了，诶嘿嘿嘿嘿！」
+●000009●「嘛，这样的承诺对我们来说根本没什么约束力，诶嘿嘿嘿！」
 
 ○000010○nothing
 ●000010●nothing
@@ -59,7 +59,7 @@
 ●000019●久子
 
 ○000020○"Nah, I think we should take it a bit seriously and hold back for a while this time, at least. Right, Iwasawa?"
-●000020●「不，最近还是认真接受，稍微收敛一些比较好。对吧，岩泽？」
+●000020●「不，我想最近还是稍微收敛一下比较好。是吧，岩泽？」
 
 ○000021○nothing
 ●000021●nothing
@@ -83,7 +83,7 @@
 ●000027●「………」
 
 ○000028○Iwasawa didn't reply. It seemed her mind was elsewhere.
-●000028●岩泽没有回应。似乎在思考着别的事情。
+●000028●岩泽没有回应。好像在想别的事情。
 
 ○000029○nothing
 ●000029●nothing
@@ -104,7 +104,7 @@
 ●000034●「岩泽？」
 
 ○000035○Hisako tried again, moving into Iwasawa's field of vision. At that point, she finally came to her senses.
-●000035●久子又喊了一遍，并且走到了岩泽的眼前，终于让她恢复了注意力。
+●000035●久子又喊了一遍，并且走到了岩泽的视野里，终于让她恢复了注意力。
 
 ○000036○nothing
 ●000036●nothing
@@ -140,7 +140,7 @@
 ●000046●久子
 
 ○000047○"Try to get them to postpone the next diversion for as long as possible. We'd be up a creek if our instruments get confiscated, right?"
-●000047●「让他们尽可能地推迟下一次的佯攻行动吧。要是乐器被没收的话就麻烦了」
+●000047●「让上面尽可能地推迟下次的佯攻行动吧。要是乐器被没收了的话就麻烦了」
 
 ○000048○nothing
 ●000048●nothing
@@ -161,7 +161,7 @@
 ●000053●关根
 
 ○000054○"That's exactly why we have the Operations Team, isn't it? Isn't that right, my man?"
-●000054●「所以我们才会有作战执行部队啊。对吧，那边的？」
+●000054●「所以我们才会有作战执行部队啊—。对吧，前面的？」
 
 ○000055○nothing
 ●000055●nothing
@@ -269,7 +269,7 @@
 ●000089●？？
 
 ○000090○"Huh? You mean an operation to steal back your instruments, or something? Who would give us the diversion we'd need for that if the Diversion Team was out of commission?" 
-●000090●「诶？你是说采取行动把乐器偷回来吗？但是没有佯攻部队的话，谁又去负责佯攻呢？」 
+●000090●「诶？你是说发起作战，把乐器偷回来吗？但是没有佯攻部队的话，谁又来负责佯攻呢？」 
 
 ○000091○nothing
 ●000091●nothing
@@ -290,7 +290,7 @@
 ●000096●关根
 
 ○000097○"We've got you top brass guys for that, don't we!? If y'all strip naked and run laps around the athletic field, that'd be more than enough of a diversion!!"
-●000097●「干部层里不是有这么多男人嘛——！！把衣服脱了，在大操场上裸奔，那不比佯攻实在多了—！！」
+●000097●「你们干部层里不是一堆男人嘛——！！把衣服脱了，在大操场上裸奔，不比佯攻实在多了—！！」
 
 ○000098○nothing
 ●000098●nothing
@@ -308,10 +308,10 @@
 ●000102●nothing
 
 ○000103○No way they'd go for that
-●000103●他们怎么可能会做这种事情
+●000103●他们不可能会做这种事情的
 
 ○000104○I mean, I'd do it, but...
-●000104●我倒是可以，但是…
+●000104●我的话倒是可以，可是…
 
 ○000105○selbtn : 
 ●000105●selbtn : 
@@ -383,7 +383,7 @@
 ●000127●？？
 
 ○000128○"There's no way they'd throw away enough of their pride to do something like that."
-●000128●「他们不可能放下自己的尊严去做这种事情的」
+●000128●「他们不可能放下自己的尊严，去做这种事情的…」
 
 ○000129○nothing
 ●000129●nothing
@@ -401,7 +401,7 @@
 ●000133●久子
 
 ○000134○"For sure... If Yuri made it an order Noda might just go for it, but everyone else would boo her out of the room."
-●000134●「是啊…如果是由理的命令的话，野田也许会去执行，但是其他人可能会直接把她骂出去的吧」
+●000134●「是啊…野田很可能会执行由理的命令，但其他人可能直接把她骂得狗血淋头了」
 
 ○000135○nothing
 ●000135●nothing
@@ -422,7 +422,7 @@
 ●000140●关根
 
 ○000141○"Don't those people realize how many years have we have been doing the diversions for them!?"
-●000141●「他们就不知道我们已经给他们做了多少年的佯攻了吗！？」
+●000141●「他们就没意识到，我们已经给他们做了多少年的佯攻了吗！？」
 
 ○000142○nothing
 ●000142●nothing
@@ -443,7 +443,7 @@
 ●000147●久子
 
 ○000148○"That's no reason to force them to act like perverts. They're always backing us up, aren't they?"
-●000148●「不要强迫他们做出变态的行为啊。他们不也一直在支援着我们吗？」
+●000148●「那也不能强迫他们去做这种变态行为啊。他们不也一直在支援着我们吗？」
 
 ○000149○nothing
 ●000149●nothing
@@ -464,7 +464,7 @@
 ●000154●关根
 
 ○000155○"Okay, in that case, we'll make it look like Miyukichi's getting assaulted by Otonashi-san out on the field..."
-●000155●「那么，就让美雪亲在操场上做出被音无同学袭击的样子…」
+●000155●「那么，就让美雪亲在操场上，做出像是被音无同学侵犯的样子…」
 
 ○000156○nothing
 ●000156●nothing
@@ -548,7 +548,7 @@
 ●000182●？？
 
 ○000183○"I wouldn't assault her!!"
-●000183●「我才不会袭击她—！！」
+●000183●「我才不会侵犯她—！！」
 
 ○000184○nothing
 ●000184●nothing
@@ -566,7 +566,7 @@
 ●000188●关根
 
 ○000189○"I said we'd just make it look like it's happening, didn't I?"
-●000189●「所以说，只是做出被袭击的样子而已」
+●000189●「所以说，只是做出被侵犯的样子而已哦？」
 
 ○000190○Otonashi
 ●000190●音无
@@ -635,7 +635,7 @@
 ●000211●？？
 
 ○000212○"Even if it's just an act, no!"
-●000212●「就算是做样子也不可能！」
+●000212●「就是做样子也不可能！」
 
 ○000213○nothing
 ●000213●nothing
@@ -647,7 +647,7 @@
 ●000215●岩泽
 
 ○000216○"That's right. He's not the type to do something like that."
-●000216●「没错，他不是能做出那种事的人」
+●000216●「没错。他不是做那种事的人」
 
 ○000217○Otonashi
 ●000217●音无
@@ -716,7 +716,7 @@
 ●000238●？？
 
 ○000239○"Yeah, I won't."
-●000239●「嗯，不会的」
+●000239●「嗯，不是」
 
 ○000240○Otonashi
 ●000240●音无
@@ -785,7 +785,7 @@
 ●000261●？？
 
 ○000262○"Incidentally, my name's Ero-Samurai at the moment."
-●000262●「顺带一提，我现在的名字叫色批武士」
+●000262●「顺便提一下，我现在的名字叫色批武士」
 
 ○000263○Otonashi
 ●000263●音无
@@ -854,7 +854,7 @@
 ●000284●？？
 
 ○000285○"Incidentally, my name's  Ero-Ero Brigade No.1 at the moment."
-●000285●「顺带一提，我现在的名字叫老色批战队No.1」
+●000285●「顺便提一下，我现在的名字叫老色批战队No.1」
 
 ○000286○Otonashi
 ●000286●音无
@@ -923,7 +923,7 @@
 ●000307●？？
 
 ○000308○"Incidentally, my name's Just Another Pervy Teenager at the moment."
-●000308●「顺带一提，我现在的名字叫只是个色批少年」
+●000308●「顺便提一下，我现在的名字叫只是个色批少年」
 
 ○000309○nothing
 ●000309●nothing
@@ -959,7 +959,7 @@
 ●000319●久子
 
 ○000320○"You really found yourself a freaky nickname this time, huh...?"
-●000320●「什么啊，你还真的起了个相当糟糕的称号啊…」
+●000320●「你这名字也太那啥了吧…」
 
 ○000321○Otonashi
 ●000321●音无
@@ -1028,7 +1028,7 @@
 ●000342●？？
 
 ○000343○"I went and did something freaky, after all..."
-●000343●「毕竟我做了些相当糟糕的事情…」
+●000343●「毕竟我做了相当那啥的事情…」
 
 ○000344○nothing
 ●000344●nothing
@@ -1070,7 +1070,7 @@
 ●000356●岩泽
 
 ○000357○"I don't really get it, but you're punishing yourself, right?"
-●000357●「虽然不太明白，你是在自我惩罚吗？」
+●000357●「虽然不太清楚，但你是在惩罚自己吧？」
 
 ○000358○Otonashi
 ●000358●音无
@@ -1139,7 +1139,7 @@
 ●000379●？？
 
 ○000380○"On point as always, Iwasawa. That's right."
-●000380●「不愧是岩泽，完全正确」
+●000380●「不愧是岩泽。正是如此」
 
 ○000381○nothing
 ●000381●nothing
@@ -1157,7 +1157,7 @@
 ●000385●久子
 
 ○000386○"So you're repenting for something?"
-●000386●「所以你是在反省什么事情吗？」
+●000386●「所以你是在反省什么吗？」
 
 ○000387○Otonashi
 ●000387●音无
@@ -1247,7 +1247,7 @@
 ●000415●入江
 
 ○000416○"So we don't have to be scared of you at all, right!?"
-●000416●「所以说，我们完全不用去害怕你是吧！？」
+●000416●「那么，我们完全不用害怕你吧！？」
 
 ○000417○Otonashi
 ●000417●音无
@@ -1316,7 +1316,7 @@
 ●000438●？？
 
 ○000439○"Yeah, you can rest easy."
-●000439●「嗯，你们可以放心」
+●000439●「嗯，你们放心吧」
 
 ○000440○nothing
 ●000440●nothing
@@ -1337,7 +1337,7 @@
 ●000445●关根
 
 ○000446○"Eeeeeh, you had me quivering in my boots, y'know...?"
-●000446●「诶诶——你已经吓得我瑟瑟发抖了…」
+●000446●「诶诶——，你已经吓得我瑟瑟发抖了啊…」
 
 ○000447○nothing
 ●000447●nothing
@@ -1448,7 +1448,7 @@
 ●000482●nothing
 
 ○000483○We carried on our idle conversation as we strolled down the hallway.
-●000483●我们一边沿着走廊闲逛，一边进行着没什么意义的聊天。
+●000483●我们一边闲聊，一边在走廊上行走着。
 
 ○000484○Otonashi
 ●000484●音无
@@ -1517,7 +1517,7 @@
 ●000505●？？
 
 ○000506○"No way the other guys would do something like that... I might go for it alone, though."
-●000506●「他们不可能去做这样的事情吧…我一个人倒是可以」
+●000506●「他们不可能会去做这种事情吧…。我一个人的话倒是可以」
 
 ○000507○nothing
 ●000507●nothing
@@ -1598,7 +1598,7 @@
 ●000532●？？
 
 ○000533○"What, why'd you all go quiet?"
-●000533●「怎么了，为什么都不说话啊」
+●000533●「怎么了，为什么都不说话了」
 
 ○000534○nothing
 ●000534●nothing
@@ -1688,7 +1688,7 @@
 ●000562●？？
 
 ○000563○"No, no, that means someone who exposes themself for fun, right? If Yuri ordered me to do it as a diversion, I'd have no choice but to follow her command, right?"
-●000563●「不不不，这可不是暴露狂或者性癖的问题吧？如果由理命令我去佯攻的话，我也只能去执行吧？」
+●000563●「不不不，这可不能说明一个人喜欢暴露之类的事情吧？如果由理命令我去佯攻的话，我也只能执行吧？」
 
 ○000564○Otonashi
 ●000564●音无
@@ -1757,7 +1757,7 @@
 ●000585●？？
 
 ○000586○"Incidentally, my name's Ero-Samurai at the moment."
-●000586●「顺带一提，我现在的名字叫色批武士」
+●000586●「顺便提一下，我现在的名字叫色批武士」
 
 ○000587○Otonashi
 ●000587●音无
@@ -1826,7 +1826,7 @@
 ●000608●？？
 
 ○000609○"Incidentally, my name's  Ero-Ero Brigade No.1 at the moment."
-●000609●「顺带一提，我现在的名字叫老色批战队No.1」
+●000609●「顺便提一下，我现在的名字叫老色批战队No.1」
 
 ○000610○Otonashi
 ●000610●音无
@@ -1895,7 +1895,7 @@
 ●000631●？？
 
 ○000632○"Incidentally, my name's Just Another Pervy Teenager at the moment."
-●000632●「顺带一提，我现在的名字叫只是个色批少年」
+●000632●「顺便提一下，我现在的名字叫只是个色批少年」
 
 ○000633○nothing
 ●000633●nothing
@@ -1910,10 +1910,10 @@
 ●000636●「………」
 
 ○000637○Everyone went silent a second time.
-●000637●所有人再一次陷入了沉默。
+●000637●众人再次陷入了沉默。
 
 ○000638○A moment later, Hisako finally spoke up.
-●000638●然后，久子终于开口说话了。
+●000638●过了一会儿，久子终于开口说话了。
 
 ○000639○nothing
 ●000639●nothing
@@ -1934,7 +1934,7 @@
 ●000644●久子
 
 ○000645○"Between that name and the running around naked thing... You're way too eccentric, and it's creeping me the hell out..."
-●000645●「起了这个名字，而且还在操场上裸奔…你还真是个令人生畏的奇行种啊…」
+●000645●「拥有着这个名字，而且还在操场上裸奔…你还真是个令人生畏的奇行种啊…」
 
 ○000646○nothing
 ●000646●nothing
@@ -1955,7 +1955,7 @@
 ●000651●久子
 
 ○000652○"Even if it's an order, running around the field naked...? That's just way too eccentric, and it's creeping me the hell out..."
-●000652●「就算是按照命令在操场上裸奔…你还真是个令人生畏的奇行种啊…」
+●000652●「就算是服从命令，在操场上裸奔…你还真是个令人生畏的奇行种啊…」
 
 ○000653○Otonashi
 ●000653●音无
@@ -2045,7 +2045,7 @@
 ●000681●岩泽
 
 ○000682○"Yeah, for sure. It's creepy. Cut it out."
-●000682●「嗯，打住吧，太吓人了」
+●000682●「嗯。打住吧。太吓人了」
 
 ○000683○se_shock
 ●000683●se_shock
@@ -2117,7 +2117,7 @@
 ●000705●？？
 
 ○000706○(I even creeped out Iwasawa, noooooo!!)
-●000706●（居然误伤了岩泽啊——！！）
+●000706●（连岩泽都被误伤到了啊———！！）
 
 ○000707○nothing
 ●000707●nothing
@@ -2138,10 +2138,10 @@
 ●000712●nothing
 
 ○000713○I hung my head in shock.
-●000713●我因为过于震惊而垂头丧气。
+●000713●我大受打击，垂头丧气。
 
 ○000714○But, in any case...
-●000714●但是，不管怎样…
+●000714●但不管怎样…。
 
 ○000715○白
 ●000715●白
@@ -2207,10 +2207,10 @@
 ●000737●nothing
 
 ○000738○Yuri's words from yesterday kept running through my head.
-●000738●由理昨天说过的话仍然在我的脑海中回响。
+●000738●由理昨天说过的话，还在我的脑海里回响着。
 
 ○000739○Could it be that I...?
-●000739●难道说我…？
+●000739●我到底…？
 
 ○000740○Otonashi
 ●000740●音无
@@ -2279,22 +2279,22 @@
 ●000761●？？
 
 ○000762○(Did I save Iwasawa...? Or was I just getting in her way...?)
-●000762●（我是在帮助岩泽吗…？还是说只是在阻碍她…？）
+●000762●（是在帮助岩泽…？还是说只是在阻碍她…？）
 
 ○000763○I couldn't judge whether or not I'd done the right thing...
-●000763●我无法对自己的行为的合理性做出判断。
+●000763●我无法对自己行为的合理性做出判断。
 
 ○000764○As a result of my interference, the concert had come to an end.
-●000764●由于我的阻拦，演唱会中途结束了。
+●000764●由于我的阻碍，演唱会中途结束了。
 
 ○000765○And the strange sense of anxiety I'd had back then was gone now.
-●000765●当时不安的感觉现在也已经消失了。
+●000765●但当时那种不安的感觉，现在也已经消失了。
 
 ○000766○Judging by the results alone, I made the right call, didn't I?
-●000766●单从结果来看的话，我应该做对了吧？
+●000766●单从结果来看，我应该是正确的吧？
 
 ○000767○As I watched over the GirlDeMo members, I had a feeling I that was right.
-●000767●我注视着其他的GDM成员，心中产生了一种做对了事的感觉。
+●000767●我看着GDM的成员们，心里产生了这样的感觉。
 
 ○000768○dummy
 ●000768●dummy

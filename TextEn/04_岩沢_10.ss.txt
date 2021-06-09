@@ -14,10 +14,10 @@
 ●000004●nothing
 
 ○000005○Iwasawa was alone in an empty classroom, writing music as usual.
-●000005●岩泽和往常一样，在空教室里写着音乐。
+●000005●岩泽一个人坐在空教室里，似乎是正在作曲的样子。
 
 ○000006○But today, I wanted to ask her about what I'd heard from Yuri last night.
-●000006●但是，这次我想向她询问一下昨天从由理那里听到的事情。
+●000006●但这次我想问问她，关于昨天晚上从由理那里听到的事情。
 
 ○000007○nothing
 ●000007●nothing
@@ -44,7 +44,7 @@
 ●000014●se_wooddoor_open2
 
 ○000015○I knocked, slipped through the door, and stood in front of Iwasawa, who was totally absorbed in her songwriting.
-●000015●我敲了敲门，然后打开了门，站在了沉醉于音乐创作之中的岩泽面前。
+●000015●我敲了敲门，然后推开门，站在了正沉醉于作曲的岩泽的面前。
 
 ○000016○Otonashi
 ●000016●音无
@@ -134,7 +134,7 @@
 ●000044●岩泽
 
 ○000045○"Woah... You showed up out of nowhere, there... Don't surprise me like that."
-●000045●「诶…突然出现…别吓唬我啊」
+●000045●「哇啊…。突然就出现了…别吓唬我啊」
 
 ○000046○nothing
 ●000046●nothing
@@ -155,7 +155,7 @@
 ●000051●岩泽
 
 ○000052○"So, what's got you so serious?"
-●000052●「所以，你好像一脸严肃的样子」
+●000052●「所以，怎么回事啊，一脸严肃的」
 
 ○000053○Otonashi
 ●000053●音无
@@ -224,7 +224,7 @@
 ●000074●？？
 
 ○000075○"I think it's a kinda important conversation for us to have."
-●000075●「我觉得这件事相当重要」
+●000075●「是相当重要的事情」
 
 ○000076○nothing
 ●000076●nothing
@@ -245,7 +245,7 @@
 ●000081●岩泽
 
 ○000082○"Oooh? Let's hear it, then."
-●000082●「诶。那么，就说来听听吧」
+●000082●「诶。那，就说来听听吧」
 
 ○000083○nothing
 ●000083●nothing
@@ -266,7 +266,7 @@
 ●000088●nothing
 
 ○000089○She set her guitar aside, and turned to face me.
-●000089●她将吉他放到了一边，转过来面对了我。
+●000089●她把吉他放到了一边，转过来面对着我。
 
 ○000090○nothing
 ●000090●nothing
@@ -350,7 +350,7 @@
 ●000116●？？
 
 ○000117○"Iwasawa, if you'd finished singing that song... you'd have disappeared. Isn't that right?"
-●000117●「岩泽…如果你之前唱完了那首歌的话…就会从这个世界上消失的吧？」
+●000117●「岩泽…如果你唱完了那首歌的话…就会从这个世界上，消失的吧？」
 
 ○000118○nothing
 ●000118●nothing
@@ -371,7 +371,7 @@
 ●000123●岩泽
 
 ○000124○"Eh? Really? Was my body going all see-through, or something?"
-●000124●「诶？这样吗？我的身体被透视了吗？」
+●000124●「诶？是这样吗？我的身体变得透明了吗？」
 
 ○000125○nothing
 ●000125●nothing
@@ -455,7 +455,7 @@
 ●000151●？？
 
 ○000152○"No, I heard about it from Yuri... She said that you'd disappear if you found fulfillment..."
-●000152●「不，之前我从由理那里听说了…如果得到了满足的话，就会从这个世界上消失」
+●000152●「不，我是从由理那里听说的…。只要内心得到了满足，就会从这个世界上消失」
 
 ○000153○Otonashi
 ●000153●音无
@@ -524,7 +524,7 @@
 ●000174●？？
 
 ○000175○"Back then, did you feel like you could forget about all your regrets from your lifetime, or feel really satisfied or something?"
-●000175●「当时，你是不是感觉像是忘记了生前的遗憾一样，或者说感到了相当的满足？」
+●000175●「当时的你，是不是有种忘记了生前所有的遗憾，只剩下相当的满足的感觉？」
 
 ○000176○nothing
 ●000176●nothing
@@ -545,7 +545,7 @@
 ●000181●岩泽
 
 ○000182○"It felt nice, yeah. But is that enough to make you disappear?"
-●000182●「当时的感觉确实很棒。但是这就会让我消失了吗？」
+●000182●「当时的感觉确实很棒。但这就能让我消失了吗？」
 
 ○000183○nothing
 ●000183●nothing
@@ -629,7 +629,7 @@
 ●000209●？？
 
 ○000210○"According to Yuri, yeah."
-●000210●「按照由理的说法是会的」
+●000210●「按照由理的说法，会的」
 
 ○000211○Otonashi
 ●000211●音无
@@ -698,7 +698,7 @@
 ●000232●？？
 
 ○000233○"How was it for the members who've disappeared up until now? Did all of them go to classes and clubs and take school life seriously first? Were there any exceptions to that?"
-●000233●「至今为止消失了的成员们呢？他们所有人都去上课，参加社团活动，认真地度过了校园生活吗？有没有例外呢？」
+●000233●「至今为止的，那些消失的成员们呢？他们所有人，都是认真地去上课，参加了社团活动，然后消失的吗？有没有例外呢？」
 
 ○000234○nothing
 ●000234●nothing
@@ -719,7 +719,7 @@
 ●000239●岩泽
 
 ○000240○"Hard to say. There's no advance warning when people disappear. They're gone before you know it."
-●000240●「很难说，消失之前是不会有征兆的，只有消失之后才会意识到」
+●000240●「很难说。消失这种事毫无征兆。等注意到的时候就已经消失了」
 
 ○000241○nothing
 ●000241●nothing
@@ -740,7 +740,7 @@
 ●000246●岩泽
 
 ○000247○"A person who'd been here like everything was fine and normal suddenly vanishes the next day. It just happens, sometimes."
-●000247●「昨天还好好的人突然就消失了，这种情况偶尔也是存在的」
+●000247●「昨天还好好的人，第二天突然就消失了。这种情况也是发生过的」
 
 ○000248○nothing
 ●000248●nothing
@@ -899,13 +899,13 @@
 ●000299●？？
 
 ○000300○"Hey, from your perspective..."
-●000300●「那么，从岩泽的角度来看…」
+●000300●「那，从岩泽的角度来看…」
 
 ○000301○Did I do the right thing?
 ●000301●我做的对吗？
 
 ○000302○Did I make a mistake?
-●000302●我是不是做的不对？
+●000302●我做错了吗？
 
 ○000303○selbtn : 
 ●000303●selbtn : 
@@ -998,7 +998,7 @@
 ●000332●岩泽
 
 ○000333○"Eh? If it looked like I was gonna disappear, of course it was right, wasn't it?"
-●000333●「诶？如果我马上就要消失了的话，这么做肯定是正确的啊？」
+●000333●「诶？如果我马上就要消失了的话，这么做肯定是对的啊？」
 
 ○000334○nothing
 ●000334●nothing
@@ -1019,13 +1019,13 @@
 ●000339●岩泽
 
 ○000340○"If I disappeared, Hisako and the rest of the band couldn't carry on, and all."
-●000340●「如果我消失了的话，只靠久子她们，根本撑不起这个乐队」
+●000340●「要是我消失了的话，只靠久子她们，根本撑不起这个乐队」
 
 ○000341○That struck me as a really perfunctory answer...
-●000341●如此敷衍的回答…
+●000341●相当随意的回答…。
 
 ○000342○I guess that means she hasn't really thought deeply about it...?
-●000342●看来她根本就没有深入地考虑过这件事…
+●000342●她根本就没有深入地考虑过这件事吗…。
 
 ○000343○Otonashi
 ●000343●音无
@@ -1115,7 +1115,7 @@
 ●000371●岩泽
 
 ○000372○"Hmm? How's that?"
-●000372●「诶？怎么了？」
+●000372●「嗯？何出此言？」
 
 ○000373○Otonashi
 ●000373●音无
@@ -1184,7 +1184,7 @@
 ●000394●？？
 
 ○000395○"You should've disappeared, but thanks to me, you're still stuck in this world."
-●000395●「本来应该消失的你，被我强行留在了这个世界上…」
+●000395●「本来应该消失的你，被我强行地留在了这个世界上…」
 
 ○000396○nothing
 ●000396●nothing
@@ -1226,7 +1226,7 @@
 ●000408●岩泽
 
 ○000409○"But if I'd disappeared, Hisako and the band wouldn't be able to carry on, right?"
-●000409●「但如果我消失了的话，只靠久子她们，不是根本撑不起这个乐队吗？」
+●000409●「但我要是消失了的话，只靠久子她们，根本撑不起这个乐队的吧？」
 
 ○000410○Otonashi
 ●000410●音无
@@ -1295,7 +1295,7 @@
 ●000431●？？
 
 ○000432○"Yeah."
-●000432●「嗯」
+●000432●「是的」
 
 ○000433○nothing
 ●000433●nothing
@@ -1316,7 +1316,7 @@
 ●000438●岩泽
 
 ○000439○"In that case, it wasn't a mistake. If anything, you saved me."
-●000439●「也就是说，你并没有做错。倒不如说，是你救了我」
+●000439●「所以，你并没有做错。倒不如说，是救了我」
 
 ○000440○nothing
 ●000440●nothing
@@ -1334,7 +1334,7 @@
 ●000444●nothing
 
 ○000445○Is that how it is...?
-●000445●是这个样子吗…
+●000445●是这样的吗…。
 
 ○000446○nothing
 ●000446●nothing
@@ -1355,7 +1355,7 @@
 ●000451●岩泽
 
 ○000452○"Forget that gloomy stuff, though. Don't you have something more upbeat to talk about?"
-●000452●「这种消极的事情就先放到一边吧。有没有什么积极一点的话题？」
+●000452●「这种扫兴的事情就先放到一边吧，有没有什么积极点的话题？」
 
 ○000453○Otonashi
 ●000453●音无
@@ -1424,7 +1424,7 @@
 ●000474●？？
 
 ○000475○"Yeah, fair... Well, apparently the operation was a success."
-●000475●「是啊…这次的行动，似乎很成功的样子」
+●000475●「是啊…。这次的作战似乎很成功」
 
 ○000476○nothing
 ●000476●nothing
@@ -1445,7 +1445,7 @@
 ●000481●岩泽
 
 ○000482○"That so? Glad to hear it. Means getting knocked out by a certain someone wasn't a waste after all."
-●000482●「这样啊。那就太好了。被某人撞到昏迷也值得了」
+●000482●「是吗。那可真是太好了。被某某撞昏也可算是有点意义了啊」
 
 ○000483○nothing
 ●000483●nothing
@@ -1532,7 +1532,7 @@
 ●000510●「别这么说嘛」
 
 ○000511○I think that's the first time Iwasawa got cheeky with me like that.
-●000511●这还是岩泽第一次用这种口气和我说话吧。
+●000511●这还是岩泽第一次用这种挖苦的语气和我说话吧。
 
 ○000512○nothing
 ●000512●nothing
@@ -1553,7 +1553,7 @@
 ●000517●岩泽
 
 ○000518○"You're the first person to make me faint like that, you know?"
-●000518●「你还是第一个能够让我昏倒的人哦」
+●000518●「你可是第一个让我昏倒的人哦」
 
 ○000519○Otonashi
 ●000519●音无
@@ -1622,7 +1622,7 @@
 ●000540●？？
 
 ○000541○"I'd hope so."
-●000541●「希望如此」
+●000541●「应该是吧」
 
 ○000542○nothing
 ●000542●nothing
@@ -1712,7 +1712,7 @@
 ●000570●？？
 
 ○000571○"I still don't have my memories back, though..."
-●000571●「虽然我的记忆还没有恢复…」
+●000571●「我的记忆还没恢复呢…」
 
 ○000572○nothing
 ●000572●nothing
@@ -1895,7 +1895,7 @@
 ●000631●「插头的末端，是像这样的菱形吧？」
 
 ○000632○I traced the shape in the air with my finger.
-●000632●我用手指比划了一下。
+●000632●我用手指比划出了形状。
 
 ○000633○nothing
 ●000633●nothing
@@ -1985,7 +1985,7 @@
 ●000661●？？
 
 ○000662○"Electricity flows between the base of that diamond and the deepest point in the guitar's jack."
-●000662●「电流就在那个菱形的根部以及吉他的插口的根部之间流动」
+●000662●「电流就在那个菱形的根部，还有吉他线插头的最深处之间流动」
 
 ○000663○nothing
 ●000663●nothing
@@ -2006,7 +2006,7 @@
 ●000668●岩泽
 
 ○000669○"Ooooh?"
-●000669●「诶——」
+●000669●「诶—」
 
 ○000670○Otonashi
 ●000670●音无
@@ -2075,7 +2075,7 @@
 ●000691●？？
 
 ○000692○"If you hook a light bulb up to the cable between the guitar and the amp, it'll glow in response to the music you play."
-●000692●「如果在吉他和放大器中间的电线上接上一个灯泡的话，就会随着你的音乐的节奏发出光芒哦」
+●000692●「在吉他和放大器中间的电线上接上一个灯泡的话，就会随着音乐的节奏发出光芒哦」
 
 ○000693○Otonashi
 ●000693●音无
@@ -2144,7 +2144,7 @@
 ●000714●？？
 
 ○000715○"If you play loudly it'll light up at full strength, if you play softly it'll be dim, and if you don't play at all it'll go out."
-●000715●「大声弹奏的话就会发出强光，轻声弹奏的话就会发出弱光，而如果不弹奏的话就不会发光」
+●000715●「大声弹奏的话就会发出强光，轻声弹奏的话就会发出弱光，不弹奏的话则不会发光」
 
 ○000716○nothing
 ●000716●nothing
@@ -2165,10 +2165,10 @@
 ●000721●岩泽
 
 ○000722○"Oooh? That sounds kinda fun. I'd like to try it."
-●000722●「哦——？感觉很有意思的样子。好想试试看啊」
+●000722●「哦—？感觉很有意思的样子。好想试试看啊」
 
 ○000723○Why do I know this stuff, anyway...?
-●000723●为什么我会知道这种东西呢…
+●000723●我为什么，会知道这些事情呢…。
 
 ○000724○Otonashi
 ●000724●音无
@@ -2264,7 +2264,7 @@
 ●000754●se_wooddoor_open2
 
 ○000755○I left the room and made my way down the hallway, but then...
-●000755●我离开教室，在走廊上走了一会儿。
+●000755●我离开教室，走了一段时间。
 
 ○000756○Voice
 ●000756●声音
@@ -2354,7 +2354,7 @@
 ●000784●se_fall_human
 
 ○000785○Something abruptly slammed into me from behind, sending me crashing to the ground.
-●000785●身后突然出现了什么东西，将我撞倒在了地上。
+●000785●突然有什么东西从身后撞了我一下，把我撞倒在了地上。
 
 ○000786○Otonashi
 ●000786●音无
@@ -2423,16 +2423,16 @@
 ●000807●？？
 
 ○000808○"The crap...?"
-●000808●「怎么回事…」
+●000808●「怎么回事啊…」
 
 ○000809○Voice
 ●000809●声音
 
 ○000810○"C'moooon, Shioriiiiin!!"
-●000810●「喂，诗——诗！！」
+●000810●「真是的，诗诗—————！！」
 
 ○000811○I heard a voice that sounded half angry and half on the verge of tears beside me.
-●000811●一个在愤怒之中夹杂着抽泣声的声音。
+●000811●身旁响起了一阵半分抽泣，半分愤怒的声音。
 
 ○000812○nothing
 ●000812●nothing
@@ -2456,7 +2456,7 @@
 ●000820●nothing
 
 ○000821○I looked over to find GirlDeMo's drummer, Irie, sitting on the ground, tears in her eyes.
-●000821●转过身来一看，GDM的鼓手，入江正坐在地上，眼眶里充满了泪水。
+●000821●往声音的来源一看，GDM的鼓手，入江摔坐到了地上，眼眶里充满了泪水。
 
 ○000822○nothing
 ●000822●nothing
@@ -2498,13 +2498,13 @@
 ●000836●关根
 
 ○000837○"I was trying to raise a romance flag between the two of you!"
-●000837●「我正试着在你们之间竖起恋爱的旗帜哦！」
+●000837●「我正试着在你们之间强插上恋爱的旗帜哦！」
 
 ○000838○Sekine the bassist was here, too.
 ●000838●贝斯手关根也在旁边。
 
 ○000839○I don't really get why, but apparently she'd shoved Irie into me.
-●000839●虽然不知道为什么，但是这家伙推着入江撞到了我。
+●000839●虽然不知道是为什么，但应该就是这家伙推着入江，朝我撞了过来。
 
 ○000840○nothing
 ●000840●nothing
@@ -2546,7 +2546,7 @@
 ●000854●入江
 
 ○000855○"That flag's not gonna go up, seriously!"
-●000855●「不可能竖起来的吧——！！」
+●000855●「插不起来的吧啊啊——！！」
 
 ○000856○nothing
 ●000856●nothing
@@ -2588,7 +2588,7 @@
 ●000870●关根
 
 ○000871○"Eeeeeh, but you said he was your type, didn't you?"
-●000871●「诶—，但美雪亲不是说自己喜欢这种类型的吗？」
+●000871●「诶—，可是，美雪亲不是说自己喜欢他这种类型的吗？」
 
 ○000872○nothing
 ●000872●nothing
@@ -2630,7 +2630,7 @@
 ●000886●入江
 
 ○000887○"No I didn't! No I didn't!!"
-●000887●「没有！没有啊—！！」
+●000887●「没说过！没说过啊—！！」
 
 ○000888○nothing
 ●000888●nothing
@@ -2672,7 +2672,7 @@
 ●000902●关根
 
 ○000903○"But at this rate he's gonna snatch Iwasawa-senpai away from us, y'know?"
-●000903●「但是，这样下去的话，他可是会把岩泽前辈带走的哦？」
+●000903●「但是，再这样下去的话，他可是会把岩泽前辈带走的哦？」
 
 ○000904○nothing
 ●000904●nothing
@@ -2714,7 +2714,7 @@
 ●000918●入江
 
 ○000919○"That's fine by me!!"
-●000919●「带走了也可以啊——！！」
+●000919●「带走了也无所谓啊——！！」
 
 ○000920○Otonashi
 ●000920●音无
@@ -2783,7 +2783,7 @@
 ●000941●？？
 
 ○000942○"No, I won't, regardless..."
-●000942●「不，我不会这么做的…」
+●000942●「不，我不会这么干的…」
 
 ○000943○nothing
 ●000943●nothing
@@ -2825,7 +2825,7 @@
 ●000957●关根
 
 ○000958○"Eeeeeh, you've come this far, just snatch her already!!"
-●000958●「诶—，都到这个地步了，却不把她带走吗——！！」
+●000958●「诶—，都走到这一步了，却不把她带走吗——！！」
 
 ○000959○nothing
 ●000959●nothing
@@ -2864,7 +2864,7 @@
 ●000972●nothing
 
 ○000973○She was talking complete nonsense.
-●000973●她的言语十分的支离破碎。
+●000973●她的话没头没脑的。
 
 ○000974○nothing
 ●000974●nothing
@@ -2885,10 +2885,10 @@
 ●000979●入江
 
 ○000980○"Shiorin, you need to be punished. Do something."
-●000980●「那么，要惩罚诗诗」
+●000980●「那么，要惩罚诗诗。请做点什么」
 
 ○000981○Irie finally stood up, and scolded Sekine.
-●000981●入江终于站了起来，责怪起了关根。
+●000981●入江终于站了起来，责备起了关根。
 
 ○000982○nothing
 ●000982●nothing
@@ -2909,7 +2909,7 @@
 ●000987●关根
 
 ○000988○"Guess I can't help it. 'Kay, I'll treat you to something!"
-●000988●「没办法了，那么，我请客吧！」
+●000988●「没办法了啊—。那么，我请客吧」
 
 ○000989○nothing
 ●000989●nothing
@@ -2945,7 +2945,7 @@
 ●000999●「对了，那边的先生要加入吗？」
 
 ○001000○She looked at me as she spoke.
-●001000●她这么说的同时望向了我。
+●001000●她看着我，这么说道。
 
 ○001001○Let her treat you
 ●001001●让她请客
@@ -3023,7 +3023,7 @@
 ●001025●？？
 
 ○001026○"Okay, I'll take you up on that."
-●001026●「那么，就按你说的来吧」
+●001026●「那，我就恭敬不如从命了」
 
 ○001027○nothing
 ●001027●nothing
@@ -3086,7 +3086,7 @@
 ●001046●入江
 
 ○001047○"You're using money again!? That's against the Battlefront's moral code, you know!?"
-●001047●「你又要花钱了！？这可是违反了战线规定的啊！？」
+●001047●「你又要花钱了！？这可是违反战线规定的啊！？」
 
 ○001048○nothing
 ●001048●nothing
@@ -3107,10 +3107,10 @@
 ●001053●关根
 
 ○001054○"It's not like we're bothering the NPCs, so it's fine every once in a while, right?"
-●001054●「又没给NPC添麻烦，偶尔这么做也是没问题的吧？」
+●001054●「又没给NPC们添麻烦，偶尔花一下也没啥问题吧？」
 
 ○001055○We stood in front of a vending machine, and she put a couple of coins into its slot.
-●001055●我们来到了自动贩卖机前，她则向里面投进了几枚硬币。
+●001055●我们站在了自动贩卖机前。她则向投币口里投进了几枚硬币。
 
 ○001056○nothing
 ●001056●nothing
@@ -3131,7 +3131,7 @@
 ●001061●关根
 
 ○001062○"Now, choose whatever you wish!"
-●001062●「选一个喜欢喝的吧！」
+●001062●「选你喜欢喝的吧！」
 
 ○001063○nothing
 ●001063●nothing
@@ -3149,7 +3149,7 @@
 ●001067●入江
 
 ○001068○"Nobody's watching, right...? Eh!"
-●001068●「没有人在看吧…嚯！」
+●001068●「没有人在看吧—…欸！」
 
 ○001069○nothing
 ●001069●nothing
@@ -3167,7 +3167,7 @@
 ●001073●nothing
 
 ○001074○She timidly pressed a button.
-●001074●她提心吊胆地按下了按钮。
+●001074●她战战兢兢地按下了按钮。
 
 ○001075○se_atmachine
 ●001075●se_atmachine
@@ -3191,7 +3191,7 @@
 ●001081●入江
 
 ○001082○"Red bean soup, get!"
-●001082●「年糕小豆汤，Get！」
+●001082●「年糕小豆汤，Get！」（注：年糕小豆汤（お汁粉）是一种把小豆煮熟后，用糖调制而成的羹，有时里面放年糕一起煮，制作原料主要有年糕、小豆等）
 
 ○001083○nothing
 ●001083●nothing
@@ -3212,10 +3212,10 @@
 ●001088●关根
 
 ○001089○"I can't believe you're drinking something that sweet."
-●001089●「想不到你居然会去喝这么甜的东西啊」
+●001089●「这么甜的东西，得亏你能喝得下去啊…」
 
 ○001090○She turned to me next.
-●001090●然后她转向了我。
+●001090●然后，她转向了我。
 
 ○001091○nothing
 ●001091●nothing
@@ -3236,10 +3236,10 @@
 ●001096●关根
 
 ○001097○"The time has come for you to choose, as well!"
-●001097●「那么，接下来该你选择了！」
+●001097●「汝也来选择吧！」
 
 ○001098○What's with the self-important act she's putting on...?
-●001098●这种自负的感觉是怎么回事…？
+●001098●她这种自负的感觉是怎么回事…？
 
 ○001099○Otonashi
 ●001099●音无
@@ -3308,7 +3308,7 @@
 ●001120●？？
 
 ○001121○"Okay, I'll go with black coffee."
-●001121●「那么，我就要黑咖啡了」
+●001121●「那，我就要黑咖啡了」
 
 ○001122○nothing
 ●001122●nothing
@@ -3377,7 +3377,7 @@
 ●001143●当啷！
 
 ○001144○She's acting like it's beer or something, but it's just soda.
-●001144●她以一幅要喝啤酒的架势，拿出了一瓶苏打水。
+●001144●她摆出了一幅要喝啤酒的架势，但拿出来的只是苏打水而已。
 
 ○001145○Otonashi
 ●001145●音无
@@ -3446,7 +3446,7 @@
 ●001166●？？
 
 ○001167○"So, I'm kinda surprised to learn that money actually exists in this world."
-●001167●「诶，想不到这个世界上真的存在货币之类的东西啊」
+●001167●「诶，这个世界上居然真的存在货币啊，感觉挺惊讶的」
 
 ○001168○nothing
 ●001168●nothing
@@ -3467,7 +3467,7 @@
 ●001173●关根
 
 ○001174○"Well, of course it does! The NPCs would be in trouble, otherwise."
-●001174●「那当然了！要不然NPC们会陷入困境啊」
+●001174●「当然存在了啊！要不然NPC们会陷入困境的」
 
 ○001175○Otonashi
 ●001175●音无
@@ -3557,7 +3557,7 @@
 ●001203●关根
 
 ○001204○"No no, it's my own money, of course. All students at this school get a stipend."
-●001204●「没有没有，肯定是我自己的钱啦。所有的学生都是有奖学金的」
+●001204●「没有没有，肯定是我自己的钱啦。所有的学生都是有助学金的」
 
 ○001205○nothing
 ●001205●nothing
@@ -3578,7 +3578,7 @@
 ●001210●关根
 
 ○001211○"As such, if you go to the staff room there's money for you there, too!"
-●001211●「只要去办公室的话，就能领到你的那份钱啦！」
+●001211●「所以，只要去办公室，就能领到你的那份钱啦！」
 
 ○001212○Otonashi
 ●001212●音无
@@ -3647,7 +3647,7 @@
 ●001233●？？
 
 ○001234○"In that case, is there really any need for us to go through all the trouble of stealing meal tickets from the NPCs with Tornadoes and all that?"
-●001234●「这样的话，真的有必要去花那么大的力气，用龙卷风去卷走NPC们的饭票吗？」
+●001234●「既然这样，为什么还要费时费力地去搞龙卷风，卷走NPC们的饭票呢？」
 
 ○001235○nothing
 ●001235●nothing
@@ -3668,7 +3668,7 @@
 ●001240●关根
 
 ○001241○"That's where the Battlefront's morals come into play. It's a question of who put this money here for us in the first place."
-●001241●「这就涉及到战线的原则了。你觉得这些钱是谁放在那里的呢？」
+●001241●「这里就涉及到战线的原则问题了。你觉得，这些钱是谁准备的呢？」
 
 ○001242○Otonashi
 ●001242●音无
@@ -3737,7 +3737,7 @@
 ●001263●？？
 
 ○001264○"Well, who?"
-●001264●「是谁呢？」
+●001264●「是谁啊？」
 
 ○001265○nothing
 ●001265●nothing
@@ -3758,7 +3758,7 @@
 ●001270●关根
 
 ○001271○"That'd be God, of course!"
-●001271●「当然是神啦」
+●001271●「是神哟」
 
 ○001272○Otonashi
 ●001272●音无
@@ -3827,7 +3827,7 @@
 ●001293●？？
 
 ○001294○"Seriously...?"
-●001294●「不会吧…」
+●001294●「不会吧…？」
 
 ○001295○nothing
 ●001295●nothing
@@ -3848,7 +3848,7 @@
 ●001300●关根
 
 ○001301○"I mean, no way this world or this school would exist otherwise, right?"
-●001301●「要不然的话，也不会存在这样的世界或者学校吧？」
+●001301●「要不然的话，也不会存在这样的世界或学校吧？」
 
 ○001302○nothing
 ●001302●nothing
@@ -3869,7 +3869,7 @@
 ●001307●关根
 
 ○001308○"As such, we who lived such terrible lives rise up against the God who gave them to us, and go all 'as if we'd take your dirty-ass money, dirtbag!' and refuse it!"
-●001308●「也就是说，曾经经历了残酷的人生的我们，既然要反抗神明，怎么可能会接受对方施舍的烂钱！」
+●001308●「因此，像我们这些经历了残酷的人生，反抗着神明的人，肯定是以一种『谁稀罕你那两个臭钱啊—！！』一样的态度，拒绝接受这些钱！」
 
 ○001309○nothing
 ●001309●nothing
@@ -3968,7 +3968,7 @@
 ●001340●？？
 
 ○001341○"And that's why we steal our meal tickets...?"
-●001341●「这就是我们抢夺饭票的理由吗…」
+●001341●「所以，才要去抢饭票吗…」
 
 ○001342○nothing
 ●001342●nothing
@@ -3989,7 +3989,7 @@
 ●001347●关根
 
 ○001348○"That's right. So you'd better keep me treating you here a secret."
-●001348●「没错，所以说请客这件事一定要保密哦」
+●001348●「没错——的说。所以请客的事一定要保密哦」
 
 ○001349○nothing
 ●001349●nothing
@@ -4094,7 +4094,7 @@
 ●001382●nothing
 
 ○001383○I took a sip of the coffee. It was pretty tasty...
-●001383●我咕噜咕噜地喝着咖啡。味道挺不错的…
+●001383●我咕噜咕噜地喝下了咖啡。还挺好喝的…。
 
 ○001384○nothing
 ●001384●nothing
@@ -4112,7 +4112,7 @@
 ●001388●关根
 
 ○001389○"Now then, we've answered your question, so now we'll have you answer some of ours."
-●001389●「那么，我们已经回答了你的问题了，该你回答我们的问题了」
+●001389●「那么，我们已经回答了你的问题了，你也该回答我们的问题了吧？」
 
 ○001390○nothing
 ●001390●nothing
