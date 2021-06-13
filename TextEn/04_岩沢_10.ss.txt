@@ -4133,7 +4133,7 @@
 ●001395●入江
 
 ○001396○"Cut it out, Shiorin..."
-●001396●「可以了，诗诗…」
+●001396●「住口吧，诗诗…」
 
 ○001397○Otonashi
 ●001397●音无
@@ -4202,7 +4202,7 @@
 ●001418●？？
 
 ○001419○"What is it...?"
-●001419●「怎么了…」
+●001419●「什么啊…？」
 
 ○001420○nothing
 ●001420●nothing
@@ -4220,7 +4220,7 @@
 ●001424●关根
 
 ○001425○"Nothing like this has ever happened before, right, Miyukichi!? The music maniac Iwasawa-senpai, actually opening up to someone!?"
-●001425●「这种事情可从来没发生过啊，美雪亲！！岩泽前辈那个音乐狂魔，居然会对某个人敞开心扉！？」
+●001425●「这种事情可从来没有发生过啊，美雪亲！！岩泽前辈那个音乐狂魔，居然会对别人敞开心扉！？」
 
 ○001426○nothing
 ●001426●nothing
@@ -4241,7 +4241,7 @@
 ●001431●入江
 
 ○001432○"That's true, but..."
-●001432●「确实，但是…」
+●001432●「这一点确实，可是…」
 
 ○001433○Otonashi
 ●001433●音无
@@ -4310,7 +4310,7 @@
 ●001454●？？
 
 ○001455○"I'm not talking to her with an ulterior motive in mind, for the record."
-●001455●「我可没有带着那样的目的去和她交谈啊」
+●001455●「我可没有什么不可告人的动机啊」
 
 ○001456○nothing
 ●001456●nothing
@@ -4328,7 +4328,7 @@
 ●001460●关根
 
 ○001461○"C'mon, you can talk straight with us, bro!"
-●001461●「兄弟，在我们面前就别遮遮掩掩的了！」
+●001461●「兄弟啊—，咱们之间就别遮遮掩掩的了！」
 
 ○001462○nothing
 ●001462●nothing
@@ -4346,7 +4346,7 @@
 ●001466●nothing
 
 ○001467○Her personality really changes at the drop of a hat, huh...?
-●001467●真是个性格多变的家伙啊…
+●001467●真是个性格多变的家伙啊…。
 
 ○001468○nothing
 ●001468●nothing
@@ -4367,7 +4367,7 @@
 ●001473●关根
 
 ○001474○"We've been watching over her for years―no, decades―and nobody's ever been able to woo Iwasawa-senpai that successfully! You're the first one..."
-●001474●「我们已经和她在一起好几年，哦不对，好几十年了，你还是第一个能成功地向岩泽前辈求爱的男人呢…」
+●001474●「我们已经和她在一起好几年，不，好几十年了，但没有一个男人能够成功追求到岩泽前辈。你是第一个哦…」
 
 ○001475○nothing
 ●001475●nothing
@@ -4451,7 +4451,7 @@
 ●001501●？？
 
 ○001502○"Like I said, no ulterior motives here."
-●001502●「我已经说过自己没有不可告人的动机了吧」
+●001502●「我都说了吧，没有那种不可告人的动机」
 
 ○001503○nothing
 ●001503●nothing
@@ -4562,7 +4562,7 @@
 ●001538●关根
 
 ○001539○"That's right! Hop to it."
-●001539●「没错！赶紧的！」
+●001539●「没错。赶紧的」
 
 ○001540○nothing
 ●001540●nothing
@@ -4583,7 +4583,7 @@
 ●001545●关根
 
 ○001546○"Iwasawa-senpai's not just a beauty, she's also the frontman of the mega-popular band, GirlDeMo! No way she's not popular!!"
-●001546●「岩泽前辈不仅长得漂亮，而且还是人气乐队GDM的主要人物！肯定相当有人气啊！！」
+●001546●「岩泽前辈不仅长得漂亮，而且还是人气乐队GDM的排面人物！不可能没有人气的！！」
 
 ○001547○nothing
 ●001547●nothing
@@ -4619,7 +4619,7 @@
 ●001557●关根
 
 ○001558○"But nothing juicy ever comes up with her! I thought it was weird, so I did a bit of poking around..."
-●001558●「但从来没有过关于她的流言蜚语！我觉得很奇怪，于是就去调查了一下…」
+●001558●「然而从来没有过关于她的绯闻！我觉得很奇怪，于是就去调查了一下…」
 
 ○001559○nothing
 ●001559●nothing
@@ -4655,7 +4655,7 @@
 ●001569●关根
 
 ○001570○"Turns out none of the boys who tried to court her could even manage to have a proper conversation with her..."
-●001570●「就算是敢来找她搭话的男人，也没有一个能把对话进行下去的…」
+●001570●「敢搭讪的男人倒是有，但没有一个能把对话进行下去的…」
 
 ○001571○nothing
 ●001571●nothing
@@ -4676,7 +4676,7 @@
 ●001576●关根
 
 ○001577○"In other words: Iwasawa-senpai doesn't care about anything other than music!!"
-●001577●「也就是说：岩泽前辈对音乐以外的事情完全没有兴趣！」
+●001577●「也就是说：岩泽前辈，只对音乐感兴趣！！」
 
 ○001578○nothing
 ●001578●nothing
@@ -4760,7 +4760,7 @@
 ●001604●？？
 
 ○001605○"Yeah, that does fit my image of her, actually."
-●001605●「确实，很符合她的印象啊」
+●001605●「确实，很符合她的形象」
 
 ○001606○nothing
 ●001606●nothing
@@ -4781,7 +4781,7 @@
 ●001611●关根
 
 ○001612○"But not this tiiiiime! Otonashi, you're the boy who's changing the game!"
-●001612●「但是，现在不一样————！音无，你可是关键的破局人！」
+●001612●「但是，这次可不一样———！音无，你可是破了局的男人！」
 
 ○001613○nothing
 ●001613●nothing
@@ -4886,7 +4886,7 @@
 ●001646●关根
 
 ○001647○"How the hell did that happeeeeeen!?"
-●001647●「到底发生了什么啊——！！」
+●001647●「到底发生了什么啊—！！」
 
 ○001648○Otonashi
 ●001648●音无
@@ -4976,7 +4976,7 @@
 ●001676●关根
 
 ○001677○"Huuuuuuuuh!?"
-●001677●「哈啊——！？」
+●001677●「哈啊啊啊啊啊——！？」
 
 ○001678○Otonashi
 ●001678●音无
@@ -5072,7 +5072,7 @@
 ●001708●关根
 
 ○001709○"Huuuuuuuuh!?"
-●001709●「哈啊——！？」
+●001709●「哈啊啊啊啊啊——！？」
 
 ○001710○Otonashi
 ●001710●音无
@@ -5162,7 +5162,7 @@
 ●001738●关根
 
 ○001739○"Why're you accepting a humiliating nickname like thaaat!?"
-●001739●「为什么你会接受这么一个屈辱的称号啊——！！」
+●001739●「为什么你会接受这么个屈辱的称号啊——！！」
 
 ○001740○Otonashi
 ●001740●音无
@@ -5252,7 +5252,7 @@
 ●001768●关根
 
 ○001769○"Why're you accepting a humiliating nickname like thaaat!?"
-●001769●「为什么你会接受这么一个屈辱的称号啊——！！」
+●001769●「为什么你会接受这么个屈辱的称号啊——！！」
 
 ○001770○Otonashi
 ●001770●音无
@@ -5342,7 +5342,7 @@
 ●001798●关根
 
 ○001799○"Aaaah, right, it was, wasn't it!"
-●001799●「啊，对了，是这个名字啊！」
+●001799●「啊—对—，是这个名字啊—！」
 
 ○001800○Otonashi
 ●001800●音无
@@ -5411,7 +5411,7 @@
 ●001821●？？
 
 ○001822○"I'm what, now...?"
-●001822●「我现在的名字是啥来着…」
+●001822●「我现在的名字，是啥来着…？」
 
 ○001823○Otonashi
 ●001823●音无
@@ -5480,7 +5480,7 @@
 ●001844●？？
 
 ○001845○"I'm what, now...?"
-●001845●「我现在的名字是啥来着…」
+●001845●「我现在的名字，是啥来着…？」
 
 ○001846○nothing
 ●001846●nothing
@@ -5501,7 +5501,7 @@
 ●001851●关根
 
 ○001852○"Whoops, can't let myself get distracted like that..."
-●001852●「哎呀，可不能因为这种事情而动摇啊…」
+●001852●「哦淦，像我这种人，可不能被这种事情动摇啊…」
 
 ○001853○nothing
 ●001853●nothing
@@ -5522,7 +5522,7 @@
 ●001858●关根
 
 ○001859○"Back to the topic: but not this tiiiiime! Otonashi, you're the boy who's changing the game!"
-●001859●「回到正确的话题：但是，现在不一样————！音无，你可是关键的破局人！」
+●001859●「回到原来的话题上。但是，这次可不一样———！音无，你可是破了局的男人！」
 
 ○001860○nothing
 ●001860●nothing
@@ -5627,7 +5627,7 @@
 ●001893●关根
 
 ○001894○"You're talking to Iwasawa-senpai the music maniac like it's totally normal, aren't you!?"
-●001894●「你可是能和岩泽前辈那个音乐狂魔正常对话的存在啊！？」
+●001894●「你不都和岩泽前辈那个音乐狂魔正常对话了吗！？」
 
 ○001895○Otonashi
 ●001895●音无
@@ -5696,7 +5696,7 @@
 ●001916●？？
 
 ○001917○"Yeah... well, more or less."
-●001917●「嗯…好像是这样吧」
+●001917●「嗯…勉强算是吧」
 
 ○001918○nothing
 ●001918●nothing
@@ -5717,7 +5717,7 @@
 ●001923●关根
 
 ○001924○"Not even we can talk with her about anything other than music!"
-●001924●「就算是我们也搭不上音乐之外的任何话题啊！」
+●001924●「就算是我们，在音乐之外的话题上也没法和她聊下去啊！」
 
 ○001925○Otonashi
 ●001925●音无
@@ -5786,7 +5786,7 @@
 ●001946●？？
 
 ○001947○"Wait, really...?"
-●001947●「诶，是这样吗…」
+●001947●「诶，这样吗…？」
 
 ○001948○nothing
 ●001948●nothing
@@ -5807,7 +5807,7 @@
 ●001953●关根
 
 ○001954○"That's why you should keep going, and make her yours..."
-●001954●「所以你应该再接再厉，争取拿下她……」
+●001954●「所以你应该再接再厉，争取把她拿下…」
 
 ○001955○Otonashi
 ●001955●音无
@@ -5897,13 +5897,13 @@
 ●001983●关根
 
 ○001984○"I'm saying the incredible achievement of making Iwasawa-senpai the music maniac yours is within your grasp, boy!!"
-●001984●「也就是说，攻略岩泽前辈那个音乐狂魔，对你来说简直易如反掌！！」
+●001984●「想攻略岩泽前辈那个音乐狂魔，对你来说可是易如反掌啊，骚年！！」
 
 ○001985○Irie
 ●001985●入江
 
 ○001986○"You're calling her a maniac too much, Shiorin!"
-●001986●「不要再这么狂魔狂魔地喊啦，诗诗」
+●001986●「狂魔狂魔的，太过分了，诗诗」
 
 ○001987○nothing
 ●001987●nothing
@@ -5924,7 +5924,7 @@
 ●001992●关根
 
 ○001993○"But it's Iwasawa-senpai, you know?"
-●001993●「这可是那个岩泽前辈啊？」
+●001993●「但那可是岩泽前辈啊？」
 
 ○001994○nothing
 ●001994●nothing
@@ -5945,10 +5945,10 @@
 ●001999●入江
 
 ○002000○"Yeah, she is a music maniac, but..."
-●002000●「唔，她确实是音乐狂魔啊…」
+●002000●「唔，她确实是音乐狂魔，可是…」
 
 ○002001○So she's a maniac after all!
-●002001●所以她还真的是音乐狂魔啊！
+●002001●果然还是音乐狂魔吗！
 
 ○002002○nothing
 ●002002●nothing
@@ -5969,7 +5969,7 @@
 ●002007●关根
 
 ○002008○"As such, Otonashi-san: get yourself an ulterior motive and go on the offense against Iwasawa-senpai with all you've got!"
-●002008●「也就是说，音无同学，产生不可告人的动机，果断地攻略岩泽前辈吧！」
+●002008●「综上，音无同学，请从现在开始产生不可告人的动机，果断地攻略岩泽前辈吧！」
 
 ○002009○Otonashi
 ●002009●音无
@@ -6038,7 +6038,7 @@
 ●002030●？？
 
 ○002031○"Like I said, I'm Dung Beetle now."
-●002031●「我已经说过了，我现在叫屎壳郎」
+●002031●「所以说，我现在是屎壳郎」
 
 ○002032○nothing
 ●002032●nothing
@@ -6059,7 +6059,7 @@
 ●002037●关根
 
 ○002038○"You're really set on that, huh...?"
-●002038●「好厉害的执念啊…」
+●002038●「好强大的执念啊…」
 
 ○002039○nothing
 ●002039●nothing
@@ -6080,7 +6080,7 @@
 ●002044●关根
 
 ○002045○"Okay then, Dung Beetle-san: get yourself an ulterior motive and go on the offense against Iwasawa-senpai with all you've got!"
-●002045●「那么，屎壳郎同学，产生不可告人的动机，果断地攻略岩泽前辈吧！」
+●002045●「那么，综上，屎壳郎同学，请从现在开始产生不可告人的动机，果断地攻略岩泽前辈吧！」
 
 ○002046○Otonashi
 ●002046●音无
@@ -6149,7 +6149,7 @@
 ●002067●？？
 
 ○002068○"Like I said, I'm Consumer Model Hinata now."
-●002068●「我已经说过了，我现在叫量产型日向」
+●002068●「所以说，我现在是量产型日向」
 
 ○002069○nothing
 ●002069●nothing
@@ -6170,7 +6170,7 @@
 ●002074●关根
 
 ○002075○"I don't really know what you're going on about, but in that case, Consumer Model Hinata-san: get yourself an ulterior motive and go on the offense against Iwasawa-senpai with all you've got!"
-●002075●「虽然不知道是怎么回事，但是这样的话，量产型日向同学，产生不可告人的动机，果断地攻略岩泽前辈吧！」
+●002075●「虽然不知道是怎么回事，但综上，量产型日向同学，请从现在开始产生不可告人的动机，果断地攻略岩泽前辈吧！」
 
 ○002076○nothing
 ●002076●nothing
@@ -6254,7 +6254,7 @@
 ●002102●？？
 
 ○002103○"Like I said, I'm Hinata Mk. 2 now."
-●002103●「我已经说过了，我现在叫日向
+●002103●「所以说，我现在是日向
 
 ○002104○mark
 ●002104●mark
@@ -6281,13 +6281,13 @@
 ●002111●关根
 
 ○002112○"Okay then, Hinata Mk. 2-san: get yourself an ulterior motive and go on the offense against Iwasawa-senpai with all you've got!"
-●002112●「那么，日向
+●002112●「那么，综上，日向
 
 ○002113○mark
 ●002113●mark
 
 ○002114○Ⅱさん、これからは下心を持って、岩沢先輩に果敢に攻め入ってください」
-●002114●Ⅱ同学，产生不可告人的动机，果断地攻略岩泽前辈吧！」
+●002114●Ⅱ同学，请从现在开始产生不可告人的动机，果断地攻略岩泽前辈吧！」
 
 ○002115○Otonashi
 ●002115●音无
@@ -6356,13 +6356,13 @@
 ●002136●？？
 
 ○002137○"You're not gonna question why I'm Hinata Mk. 2, not Hinata Mk. 1?"
-●002137●「难道你不想知道为什么我是日向
+●002137●「你不想知道为什么是日向
 
 ○002138○mark
 ●002138●mark
 
 ○002139○Ⅱでいいのか？　日向
-●002139●Ⅱ，而不是日向
+●002139●Ⅱ，而不是
 
 ○002140○mark
 ●002140●mark
@@ -6650,7 +6650,7 @@
 ●002234●？？
 
 ○002235○"But if you don't call me that, I don't think I can carry on in this world..."
-●002235●「但是，如果不这么叫我的话，我都不知道自己能不能在这个世界上生存下去…」
+●002235●「但是，如果不这么称呼我的话，就感觉我无法再在这个世界上存续下去了…」
 
 ○002236○nothing
 ●002236●nothing
@@ -6671,7 +6671,7 @@
 ●002241●关根
 
 ○002242○"Aaaah, right, right. Hinata Mk. 2 then."
-●002242●「啊—啊，总之，日向
+●002242●「行—行—，知道了知道了，日向
 
 ○002243○mark
 ●002243●mark
@@ -6713,7 +6713,7 @@
 ●002255●关根
 
 ○002256○"Get yourself an ulterior motive and go on the offense against Iwasawa-senpai with all you've got!"
-●002256●「产生不可告人的动机，果断地攻略岩泽前辈吧！」
+●002256●「请从现在开始产生不可告人的动机，果断地攻略岩泽前辈吧！」
 
 ○002257○Otonashi
 ●002257●音无
@@ -6782,7 +6782,7 @@
 ●002278●？？
 
 ○002279○"Like I said, I'm Ero-Samurai now."
-●002279●「我已经说过了，我现在叫色批战士」
+●002279●「所以说，我现在是色批武士」
 
 ○002280○nothing
 ●002280●nothing
@@ -6803,7 +6803,7 @@
 ●002285●关根
 
 ○002286○"Aaaah, right, right. Ero-Samurai, then."
-●002286●「啊—啊，总之，色批武士同学」
+●002286●「行—行—，知道了知道了，色批武士同学」
 
 ○002287○nothing
 ●002287●nothing
@@ -6839,7 +6839,7 @@
 ●002297●关根
 
 ○002298○"Get yourself an ulterior motive and go on the offense against Iwasawa-senpai with all you've got!"
-●002298●「产生不可告人的动机，果断地攻略岩泽前辈吧！」
+●002298●「请从现在开始产生不可告人的动机，果断地攻略岩泽前辈吧！」
 
 ○002299○Otonashi
 ●002299●音无
@@ -6908,7 +6908,7 @@
 ●002320●？？
 
 ○002321○"Like I said, I'm  Ero-Ero Brigade No.1 now."
-●002321●「我已经说过了，我现在叫老色批战队No.1」
+●002321●「所以说，我现在是老色批战队No.1」
 
 ○002322○nothing
 ●002322●nothing
@@ -6929,7 +6929,7 @@
 ●002327●关根
 
 ○002328○"Aaaah, right, right.  Ero-Ero Brigade No.1, then."
-●002328●「啊——啊，总之，老色批战队No.1同学」
+●002328●「行—行—，知道了知道了，老色批战队No.1同学」
 
 ○002329○nothing
 ●002329●nothing
@@ -6965,7 +6965,7 @@
 ●002339●关根
 
 ○002340○"Get yourself an ulterior motive and go on the offense against Iwasawa-senpai with all you've got!"
-●002340●「产生不可告人的动机，果断地攻略岩泽前辈吧！」
+●002340●「请从现在开始产生不可告人的动机，果断地攻略岩泽前辈吧！」
 
 ○002341○Otonashi
 ●002341●音无
@@ -7034,7 +7034,7 @@
 ●002362●？？
 
 ○002363○"Like I said, I'm Just Another Pervy Teenager now."
-●002363●「我已经说过了，我现在叫只是个色批少年」
+●002363●「所以说，我现在是只是个色批少年」
 
 ○002364○nothing
 ●002364●nothing
@@ -7055,7 +7055,7 @@
 ●002369●关根
 
 ○002370○"Aaaah, right, right. Just Another Pervy Teenager, then."
-●002370●「啊—啊，总之，只是个色批少年同学」
+●002370●「行—行—，知道了知道了，只是个色批少年同学」
 
 ○002371○nothing
 ●002371●nothing
@@ -7091,13 +7091,13 @@
 ●002381●关根
 
 ○002382○"Get yourself an ulterior motive and go on the offense against Iwasawa-senpai with all you've got!"
-●002382●「产生不可告人的动机，果断地攻略岩泽前辈吧！」
+●002382●「请从现在开始产生不可告人的动机，果断地攻略岩泽前辈吧！」
 
 ○002383○I'll do that
 ●002383●我会照做的
 
 ○002384○I really don't want to
-●002384●完全没有这种想法
+●002384●完全没有那种想法
 
 ○002385○selbtn : 
 ●002385●selbtn : 
@@ -7187,7 +7187,7 @@
 ●002413●？？
 
 ○002414○"Well, it's not like I'm not interested in Iwasawa. I'll keep talking with her, but as for an ulterior motive... ah."
-●002414●「嘛，我对岩泽也不是没有想法。我会继续和她交流的，至于这种动机嘛…嗯」
+●002414●「嘛，我对岩泽也不是毫不在意。我会和她继续交流的，至于这种动机嘛…啊」
 
 ○002415○Otonashi
 ●002415●音无
@@ -7256,7 +7256,7 @@
 ●002436●？？
 
 ○002437○(Wait, I totally went for an indirect kiss back when she gave me that drink, didn't I!?)
-●002437●（喂，我之前不是用那瓶饮料和她进行了间接接吻吗——！！）
+●002437●（等下，我之前不是用她喝到一半的那瓶饮料，试着和她进行间接接吻了吗——！！）
 
 ○002438○nothing
 ●002438●nothing
@@ -7277,7 +7277,7 @@
 ●002443●关根
 
 ○002444○"What's that 'ah' supposed to mean!? You're got an ulterior motive after all, don't you!?"
-●002444●「那个『嗯』是什么意思啊！？你果然还是有不可告人的动机的吧！！」
+●002444●「那个『啊』是什么意思啊！？你果然还是有不可告人的动机的吧！！」
 
 ○002445○nothing
 ●002445●nothing
@@ -7361,10 +7361,10 @@
 ●002471●？？
 
 ○002472○"No, no, I don't, really!!"
-●002472●「不不不，绝对没有！！」
+●002472●「不不不，绝对没！！」
 
 ○002473○I tried to keep cool, but ended up just panicking further instead.
-●002473●我试图保持冷静，但结果却更加惊慌失措了。
+●002473●我试图掩饰自己，却反而变得更慌乱了。
 
 ○002474○Otonashi
 ●002474●音无
@@ -7433,7 +7433,7 @@
 ●002495●？？
 
 ○002496○"Well, it's not like I'm not interested in Iwasawa. I'll keep talking with her, but as for an ulterior motive, well..."
-●002496●「嘛，我对岩泽也不是没有想法。我会继续和她交流的，至于这种动机嘛…」
+●002496●「嘛，我对岩泽也不是毫不在意。我会和她继续交流的，至于这种动机嘛…」
 
 ○002497○nothing
 ●002497●nothing
@@ -7454,7 +7454,7 @@
 ●002502●关根
 
 ○002503○"We're talkin' about the cool beauty Iwasawa-senpai, you know!? Just try imagining the two of you getting all hot and heavy with each other!"
-●002503●「那可是冰山美人的岩泽前辈啊！？想象一下你们两个人一起亲亲热热的样子！」
+●002503●「那可是冰山美人般的岩泽前辈啊！？想象一下你们两个人一起亲亲热热的样子！」
 
 ○002504○nothing
 ●002504●nothing
@@ -7565,7 +7565,7 @@
 ●002539●？？
 
 ○002540○(Umm...)
-●002540●（嗯…）
+●002540●（呃…）
 
 ○002541○Otonashi
 ●002541●音无
@@ -7634,7 +7634,7 @@
 ●002562●？？
 
 ○002563○(First off, we'd kiss...)
-●002563●（首先是亲吻…）
+●002563●（首先，是亲吻…）
 
 ○002564○Otonashi
 ●002564●音无
@@ -7703,7 +7703,7 @@
 ●002585●？？
 
 ○002586○(And not indirectly, this time... full on, my lips pressed against... hers...)
-●002586●（而且不是间接的…我的嘴唇…和她的…重合在一起…）
+●002586●（而且不是间接的…我的嘴唇，直接地…和她的嘴唇…重合在一起…）
 
 ○002587○Otonashi
 ●002587●音无
@@ -7772,16 +7772,16 @@
 ●002608●？？
 
 ○002609○"Nnngaaaaahhhhhhhh!!"
-●002609●「呜哦哦哦哦哦哦——！！」
+●002609●「呜哦哦哦哦哦————！！」
 
 ○002610○The image was so stimulating, I ended up rolling around on the ground.
-●002610●过于兴奋的我，直接在地上打起了滚。
+●002610●兴奋爆表的我，在地上打起了滚。
 
 ○002611○Sekine
 ●002611●关根
 
 ○002612○"Just what were you imagining...? I bet it was crazy dirty..."
-●002612●「你这个色批都在想象些什么啊…」
+●002612●「你在想象些什么啊…好像超级色情的样子…」
 
 ○002613○Otonashi
 ●002613●音无
@@ -7871,7 +7871,7 @@
 ●002641●关根
 
 ○002642○"It was just a kiss!? Are you a friggin' grade schooler!?"
-●002642●「才只是接吻吗！？你是小学生吗——！！」
+●002642●「只是接吻而已吗！？你特么是小学生吗——！！」
 
 ○002643○Otonashi
 ●002643●音无
@@ -7940,7 +7940,7 @@
 ●002664●？？
 
 ○002665○"That's an awful thing to say about someone... You're the one who told me to imagine it..."
-●002665●「这么说也太过分了吧…是你让我去想象的啊…」
+●002665●「你这话也太过分了吧…是你让我去想象的啊」
 
 ○002666○nothing
 ●002666●nothing
@@ -7961,7 +7961,7 @@
 ●002671●关根
 
 ○002672○"Well, thank you very much! Now then, just leave the rest up to your trusted advisers, Shiorinko and Sekinecchi!"
-●002672●「非常感谢！剩下的事情，就交给参谋长诗诗子和关根亲吧！」
+●002672●「非常感谢！那么，之后的事情，就交给参谋长诗诗子和关根亲吧！」
 
 ○002673○nothing
 ●002673●nothing
@@ -7994,10 +7994,10 @@
 ●002682●nothing
 
 ○002683○She said to imagine getting 'hot and heavy' with her, but what does that mean? Something like when Hinata and I go into shouting-and-giggling mode...?
-●002683●她说的亲亲热热，是指像我和日向的唧唧我我一样的事情吗…？
+●002683●她说的亲亲热热，是像我和日向的唧唧我我一样的事情吗…？
 
 ○002684○I made an attempt, but...
-●002684●姑且尝试一下吧…
+●002684●姑且尝试一下吧…。
 
 ○002685○Otonashi
 ●002685●音无
@@ -8099,7 +8099,7 @@
 ●002717●「诶—」
 
 ○002718○Irie staggered, though she managed to catch herself. The absurdity of that exchange must've hit her hard.
-●002718●入江摔倒在了地上。如此荒谬的对话，对她的打击一定很大吧。
+●002718●入江差点摔倒在了地上。
 
 ○002719○Otonashi
 ●002719●音无
@@ -8168,7 +8168,7 @@
 ●002740●？？
 
 ○002741○"As if I'd imagine something like that."
-●002741●「想象不出来这种事情」
+●002741●「这种事情，想象不出来啊」
 
 ○002742○nothing
 ●002742●nothing
@@ -8189,7 +8189,7 @@
 ●002747●关根
 
 ○002748○"Okay, then try imagining Iwasawa-senpai right after a concert, drenched in sweat, fragrant with its odor and all around disheveled!"
-●002748●「那么，想象一下演唱会结束之后的岩泽前辈，全身被汗水湿透，散发出芳香的气味，全身凌乱的样子吧！」
+●002748●「那，想象一下在演唱会结束之后和岩泽前辈一起激烈地运动，全身凌乱的样子吧！」
 
 ○002749○nothing
 ●002749●nothing
@@ -8282,7 +8282,7 @@
 ●002778●？？
 
 ○002779○"I told you, I'm not imagining that crap."
-●002779●「所以说，我是不会去想象的」
+●002779●「我都说了，不会去想象的」
 
 ○002780○nothing
 ●002780●nothing
@@ -8303,13 +8303,13 @@
 ●002785●关根
 
 ○002786○"She hasn't even showered yet, you know!? The smell of her sweat, her rough, labored breathing―all of that could be yours, you know!?"
-●002786●「她甚至还没有去淋浴哦！？岩泽前辈的气味，还有那粗犷的呼吸，全部都会属于你哦！？」
+●002786●「她甚至还没有去淋浴哦！？刚刚结束了演唱会的岩泽前辈，她的体液她的气息她粗犷的呼吸，全都是属于你的哦！？」
 
 ○002787○Imagine that one
-●002787●想象一下
+●002787●想象一下这种场景
 
 ○002788○Deal with her calmly
-●002788●冷静应对
+●002788●冷静地应对
 
 ○002789○selbtn : 
 ●002789●selbtn : 
@@ -8381,7 +8381,7 @@
 ●002811●？？
 
 ○002812○"Quit conjuring up images like that. There's absolutely no way that'd ever happen."
-●002812●「不要随便想象啊。这种事情绝对不会发生的」
+●002812●「不要擅自地把场景具体化啊。这种事情绝对不会发生的」
 
 ○002813○nothing
 ●002813●nothing
@@ -8402,7 +8402,7 @@
 ●002818●关根
 
 ○002819○"You just don't have an imagination, do you?"
-●002819●「你根本就没有去想象吧？」
+●002819●「你的想象力真差啊—」
 
 ○002820○Otonashi
 ●002820●音无
@@ -8477,7 +8477,7 @@
 ●002843●入江
 
 ○002844○"Shiorin, if he's still saying no after all that, don't you think you should just give up?"
-●002844●「诗诗，如果他一直拒绝的话，为什么还不放弃呢？」
+●002844●「诗诗，鼓动到这种地步还不行的话，差不多只能放弃了吧？」
 
 ○002845○nothing
 ●002845●nothing
@@ -8498,7 +8498,7 @@
 ●002850●关根
 
 ○002851○"Eeeeeeeh!! Even when a dude's appeared who could get this close to Miss I'm-only-interested-in-music, the music maniac herself, Iwasawa-senpai!?"
-●002851●「诶——！！即使出现了一个能够如此接近那个只对音乐感兴趣的岩泽前辈这种音乐狂魔的男人——！？」
+●002851●「诶———！！明明出现了一个能够接近那个音乐狂魔，接近那个对音乐以外的事情毫无兴趣的岩泽前辈的男人———！？」
 
 ○002852○Otonashi
 ●002852●音无
@@ -8567,10 +8567,10 @@
 ●002873●？？
 
 ○002874○"I might be in the top brass, but I've barely been in this world for long at all, and I'd rather avoid making any big waves."
-●002874●「虽然我是干部层的人，但是我在这个世界里待的时间并不长，还是不要掀起大风大浪比较好」
+●002874●「虽然我是干部，但也才刚刚来到这个世界不久，不想卷进奇怪的风波之中」
 
 ○002875○I went ahead and imagined it...
-●002875●姑且尝试了一下…
+●002875●姑且尝试一下吧…。
 
 ○002876○nothing
 ●002876●nothing
@@ -8657,7 +8657,7 @@
 ●002903●？？
 
 ○002904○(Iwasawa, fragrant with sweat and disheveled...)
-●002904●（全身被汗水浸湿，衣冠不整的岩泽…）
+●002904●（和大汗淋漓的岩泽，一起激烈地运动…）
 
 ○002905○Otonashi
 ●002905●音无
@@ -8726,7 +8726,7 @@
 ●002926●？？
 
 ○002927○(Oh crap... Right after the concert, when she's totally drenched... That's way too stimulating...!!)
-●002927●（不妙…演唱会刚刚结束，全身湿透的样子…这也太刺激了吧…！！）
+●002927●（不妙…在她刚刚结束演唱会，大汗淋漓的时候，立刻就…这也，太刺激了吧…！！）
 
 ○002928○Otonashi
 ●002928●音无
@@ -8795,7 +8795,7 @@
 ●002949●？？
 
 ○002950○(At this rate... Ugh... Gah... I'm gonna pitch a tent...!!)
-●002950●（这种时候…呜…啊啊…要顶起『帐篷』了…！！）
+●002950●（照这样下去…呜…啊啊…帐篷要撑起来了…！！）
 
 ○002951○Otonashi
 ●002951●音无
@@ -8864,7 +8864,7 @@
 ●002972●？？
 
 ○002973○"Uwaaaaahhhhhhh!!"
-●002973●「呜哦哦哦——！！」
+●002973●「呜哦哦哦哦哦哦————！！」
 
 ○002974○Otonashi
 ●002974●音无
@@ -8933,7 +8933,7 @@
 ●002995●？？
 
 ○002996○"Out, worldly desires!! Out with thee!!"
-●002996●「欲望走开！！欲望走开啊——！！」
+●002996●「妖魔鬼怪快离开！！妖魔鬼怪快离开——！！」
 
 ○002997○nothing
 ●002997●nothing
@@ -8975,7 +8975,7 @@
 ●003009●关根
 
 ○003010○"Just leave the rest up to your trusted advisers, Shiorinko and Sekinecchi!"
-●003010●「剩下的事情，就交给参谋长诗织子和关根亲吧！」
+●003010●「之后的事情，就交给参谋长诗诗子和关根亲吧！」
 
 ○003011○Otonashi
 ●003011●音无
@@ -9077,7 +9077,7 @@
 ●003043●「诶—」
 
 ○003044○Irie staggered once again.
-●003044●入江再一次摔倒了。
+●003044●入江又差点摔倒了。
 
 ○003045○nothing
 ●003045●nothing
@@ -9098,7 +9098,7 @@
 ●003050●关根
 
 ○003051○"Well, whatever. Just leave the rest up to your trusted advisers, Shiorinko and Sekinecchi!"
-●003051●「那么，剩下的事情，就交给参谋长诗织子和关根亲吧！」
+●003051●「嘛算了。之后的事情，就交给参谋长诗织子和关根亲吧！」
 
 ○003052○nothing
 ●003052●nothing
@@ -9116,7 +9116,7 @@
 ●003056●入江
 
 ○003057○"That sounds like it would just make the situation more chaotic."
-●003057●「感觉只会让事情变得更加混乱啊」
+●003057●「感觉，只会让状况变得更混乱吧」
 
 ○003058○nothing
 ●003058●nothing
@@ -9137,7 +9137,7 @@
 ●003063●关根
 
 ○003064○"What're you saying!? You know you're talking to a literal cupid, right, Miyukichi!?"
-●003064●「你在对恋爱的丘比特说什么啊，美雪亲——！！」
+●003064●「你在对恋爱的丘比特说些什么啊，美雪亲——！！」
 
 ○003065○nothing
 ●003065●nothing
@@ -9158,7 +9158,7 @@
 ●003070●入江
 
 ○003071○"Shiorin, you're not cut out for this at all!"
-●003071●「诗诗一点也不适合啊！」
+●003071●「诗诗，根本就不适合啊！」
 
 ○003072○nothing
 ●003072●nothing
@@ -9179,7 +9179,7 @@
 ●003077●关根
 
 ○003078○"That's because I've never had the chance to show off my skills before... I swear that I'll use this dude to turn Iwasawa-senpai from a plain old music maniac into a true woman!!"
-●003078●「那是因为之前没有施展拳脚的机会…我，绝对会让岩泽前辈从一个音乐狂魔进化为真正的女人！！」
+●003078●「那是因为我在此之前，从没有过施展拳脚的机会…我，绝对会让岩泽前辈从一个音乐狂魔，变成一个真正的女人！！」
 
 ○003079○nothing
 ●003079●nothing
@@ -9278,7 +9278,7 @@
 ●003110●？？
 
 ○003111○"A-A-A-And, does t-t-that mean... doing stuff even more d-d-d-dirty than k-k-kissing!?"
-●003111●「所，所所所，所以说…是比…亲亲亲…亲吻…还色色色…色情的事情！？」
+●003111●「所，所所所，所以说…是比…亲亲亲…亲吻…还要色色色…色情的事情！？」
 
 ○003112○nothing
 ●003112●nothing
@@ -9299,7 +9299,7 @@
 ●003117●关根
 
 ○003118○"Seriously, are you a friggin' grade schooler!? And what's with all the stammering!?"
-●003118●「你绝对就是小学生吧——！！为什么突然结巴了啊——！！」
+●003118●「你绝对就是给小学生吧——！！怎么结巴起来了啊——！！」
 
 ○003119○Otonashi
 ●003119●音无
@@ -9452,7 +9452,7 @@
 ●003168●？？
 
 ○003169○"Are you kidding me...?"
-●003169●「不会吧…」
+●003169●「开啥玩笑…」
 
 ○003170○Otonashi
 ●003170●音无
@@ -9521,7 +9521,7 @@
 ●003191●？？
 
 ○003192○"Quit saying all that weird crap..."
-●003192●「不要说奇怪的话啊…」
+●003192●「不要说些奇怪的话啊…」
 
 ○003193○Otonashi
 ●003193●音无
@@ -9590,7 +9590,7 @@
 ●003214●？？
 
 ○003215○"So, what would you be getting out of that?"
-●003215●「所以，你自己又能得到什么呢？」
+●003215●「所以，你自己又能从中得到什么呢？」
 
 ○003216○nothing
 ●003216●nothing
@@ -9611,7 +9611,7 @@
 ●003221●关根
 
 ○003222○"If the two of you can find happiness together, that's more than enough for me."
-●003222●「如果你们两个能够得到幸福的话，对我来说就已经完全足够了」
+●003222●「只要你们两个人能够幸福，对我来说就已经足够了」
 
 ○003223○Otonashi
 ●003223●音无
@@ -9680,7 +9680,7 @@
 ●003244●？？
 
 ○003245○"Eeeeeh!? T-T-That's... m-m-more than enough...!?"
-●003245●「诶诶诶！？这就完完完…完全足够了！？」
+●003245●「诶诶诶！？这就已已已…已经足够了！？」
 
 ○003246○nothing
 ●003246●nothing
@@ -9701,7 +9701,7 @@
 ●003251●关根
 
 ○003252○"Yup."
-●003252●「嗯」
+●003252●「对」
 
 ○003253○nothing
 ●003253●nothing
@@ -9722,7 +9722,7 @@
 ●003258●入江
 
 ○003259○"But, you know, Shiorin... What would happen if you found happiness in this world?"
-●003259●「但是，诗诗。在这个世界上得到了幸福的后果呢？」
+●003259●「但是啊—，诗诗。在这个世界上得到了幸福的话，会发生什么呢？」
 
 ○003260○nothing
 ●003260●nothing
@@ -9743,7 +9743,7 @@
 ●003265●关根
 
 ○003266○"You'd be happy forever, obviously!"
-●003266●「当然是永远地幸福下去啊！」
+●003266●「那必然是永远地幸福下去啊！」
 
 ○003267○nothing
 ●003267●nothing
@@ -9764,10 +9764,10 @@
 ●003272●入江
 
 ○003273○"But, there's never been anyone like that here up until now."
-●003273●「但是，到现在为止，都还没有出现过那样的人吧」
+●003273●「但到现在为止，都还没出现过那样的人吧」
 
 ○003274○Now that she mentions it. The prospect of eternal happiness feels like it's at odds with this world's existence on a fundamental level.
-●003274●确实。永远的幸福，和这个世界本身的存在就是矛盾的。
+●003274●的确如此。永远的幸福，和这个世界的存在本身就是矛盾的。
 
 ○003275○nothing
 ●003275●nothing
@@ -9809,7 +9809,7 @@
 ●003287●关根
 
 ○003288○"Honestly, I'm so starved for some spicy gossip that's all I'm in this for!"
-●003288●「只要单纯地听着流言蜚语不就好了吗！」
+●003288●「直说吧，我只想听些绯闻之类的东西，仅此而已！」
 
 ○003289○nothing
 ●003289●nothing
@@ -9830,7 +9830,7 @@
 ●003294●入江
 
 ○003295○"We never get to talk about stuff like that at all."
-●003295●「我们从来就没有过那种东西吧」
+●003295●「我们根本就没有讨论过那种东西吧—」
 
 ○003296○Otonashi
 ●003296●音无
@@ -9899,7 +9899,7 @@
 ●003317●？？
 
 ○003318○(That's kind of a surprise... The two of them seem so sweet most of the time, too...)
-●003318●（挺意外的啊…明明两个人都很可爱…）
+●003318●（有点出乎意料…这两个家伙明明也挺讨人喜欢…）
 
 ○003319○Otonashi
 ●003319●音无
@@ -9968,7 +9968,7 @@
 ●003340●？？
 
 ○003341○(But, Iwasawa's not like the rest of them...!!)
-●003341●（但是…岩泽和她们并不一样…！！）
+●003341●（但，只有岩泽是特别的…！！）
 
 ○003342○nothing
 ●003342●nothing
@@ -10010,7 +10010,7 @@
 ●003354●入江
 
 ○003355○"Shiorin, it really just looks like you're having fun with this..."
-●003355●「诗诗只是单纯地觉得有趣吧…」
+●003355●「诗诗只是单纯地在从中找乐子吧…」
 
 ○003356○nothing
 ●003356●nothing
@@ -10031,7 +10031,7 @@
 ●003361●关根
 
 ○003362○"Why can't it be both? Heh heh heh!"
-●003362●「为什么不能是二者兼有呢？嘿嘿嘿！」
+●003362●「两种说法都差不多吧，呵呵呵！」
 
 ○003363○Otonashi
 ●003363●音无
@@ -10100,7 +10100,7 @@
 ●003384●？？
 
 ○003385○(For some reason, that creepy way she's laughing actually feels weirdly reliable right now!)
-●003385●（不知道怎么回事，这可怕的笑声听起来却很可靠！）
+●003385●（不知道怎么回事，这可怕的笑声，听起来却很可靠！）
 
 ○003386○Otonashi
 ●003386●音无
@@ -10169,7 +10169,7 @@
 ●003407●？？
 
 ○003408○"Wow, you sure laugh like a creeper."
-●003408●「这笑声真可怕」
+●003408●「这笑声好可怕啊」
 
 ○003409○nothing
 ●003409●nothing
@@ -10256,7 +10256,7 @@
 ●003436●？？
 
 ○003437○"I'm really not even a little bit interested, so I'm just gonna leave now."
-●003437●「完全没有那种想法，所以我现在要走了」
+●003437●「完全没有那种想法，所以请容我在此立刻离开」
 
 ○003438○Sekine
 ●003438●关根
@@ -10331,7 +10331,7 @@
 ●003461●？？
 
 ○003462○"I already told you, I don't have that sort of ulterior motive... ah."
-●003462●「我已经说过了吧，我并没有那种不可告人的动机…嗯」
+●003462●「我都说了吧，没有那种不可告人的动机…啊」
 
 ○003463○nothing
 ●003463●nothing
@@ -10415,7 +10415,7 @@
 ●003489●？？
 
 ○003490○already told you I don't have that sort of ulterior motive, didn't I?"
-●003490●「我已经说过了吧，我并没有那种不可告人的动机」
+●003490●「我都说了吧，没有那种不可告人的动机」
 
 ○003491○nothing
 ●003491●nothing
@@ -10433,7 +10433,7 @@
 ●003495●关根
 
 ○003496○"Uwaaaaaaa... Our source of steamy gossip's coming to an eeeeend..."
-●003496●「呜啊啊啊…流言的来源中断了啊…」
+●003496●「呜啊啊啊…绯闻到此为止了啊…」
 
 ○003497○Otonashi
 ●003497●音无
@@ -10502,7 +10502,7 @@
 ●003518●？？
 
 ○003519○"So you two were just enjoying this in the end, after all."
-●003519●「所以，你们两个只是在寻找乐趣罢了」
+●003519●「结果，你们只是在从中找乐子而已吧」
 
 ○003520○nothing
 ●003520●nothing
@@ -10523,7 +10523,7 @@
 ●003525●入江
 
 ○003526○"At the very least, I'm not enjoying it the way Shiorin is."
-●003526●「至少我并没有和诗诗一样享受啦」
+●003526●「至少，我并没有和诗诗一样，从中感到乐趣」
 
 ○003527○nothing
 ●003527●nothing
@@ -10544,7 +10544,7 @@
 ●003532●关根
 
 ○003533○"Uwaaaaah, et tu, Miyukichiiii...?"
-●003533●「呜啊啊啊，连美雪亲都要背叛我吗…？」
+●003533●「呜啊啊啊，连美雪亲都要背叛我啊—…」
 
 ○003534○Otonashi
 ●003534●音无
@@ -10616,7 +10616,7 @@
 ●003556●「下次换个人试试吧」
 
 ○003557○I left it at that, and went on my way.
-●003557●我留下了这句话，离开了现场。
+●003557●我留下这句话，便转身离开了。
 
 ○003558○Otonashi
 ●003558●音无
@@ -10685,7 +10685,7 @@
 ●003579●？？
 
 ○003580○"Nah, I'm good. I'll pass."
-●003580●「那么，我就算了」
+●003580●「没什么。我就算了」
 
 ○003581○nothing
 ●003581●nothing
@@ -10703,7 +10703,7 @@
 ●003585●关根
 
 ○003586○"Eeeeeeeh!! C'mon, talk to us at least a little bit!"
-●003586●「诶诶诶诶——！！至少来和我们说几句话吧！」
+●003586●「诶诶诶诶——！！至少来和我们说几句话啊——！」
 
 ○003587○Otonashi
 ●003587●音无
@@ -10793,7 +10793,7 @@
 ●003615●入江
 
 ○003616○"No, no, I wasn't planning anything like that at all!"
-●003616●「没有没有，我完全没有这种想法！」
+●003616●「没没，我根本没有这种打算！」
 
 ○003617○nothing
 ●003617●nothing
@@ -10814,7 +10814,7 @@
 ●003622●关根
 
 ○003623○"Honestly, yeah, that's what I was going for!"
-●003623●「没错，这就是我的目的！」
+●003623●「没错，这正是我的目的！」
 
 ○003624○nothing
 ●003624●nothing
@@ -10835,7 +10835,7 @@
 ●003629●入江
 
 ○003630○"Aaaaaaaah! Why'd you have to be honest!?"
-●003630●「啊啊啊啊——！为什么要说出来啊——！？」
+●003630●「啊啊啊啊——！不要直接说出来啊——！」
 
 ○003631○Okay, what to do about this?
 ●003631●那么，该怎么办呢？
@@ -10850,7 +10850,7 @@
 ●003634●selbtn : 
 
 ○003635○No reason not to. I'll go along with them...
-●003635●没有拒绝的理由。还是跟她们去吧…
+●003635●没理由拒绝。还是跟她们去吧…
 
 ○003636○Otonashi
 ●003636●音无
@@ -10937,7 +10937,7 @@
 ●003663●关根
 
 ○003664○"All riiiiight!!"
-●003664●「太好了——！！」
+●003664●「太好了———！！」
 
 ○003665○nothing
 ●003665●nothing
@@ -11027,10 +11027,10 @@
 ●003693●？？
 
 ○003694○"Later."
-●003694●「下次吧。」
+●003694●「再加」
 
 ○003695○I left it at that, and went on my way.
-●003695●我留下了这句话，离开了这里。
+●003695●我留下这么一句话，转身离开了。
 
 ○003696○Sekine
 ●003696●关根
@@ -11039,7 +11039,7 @@
 ●003697●「你这个冷漠的家伙——！！」
 
 ○003698○I heard what sounded like an agonized death wail, but I ignored it.
-●003698●我无视了这段临终呼喊般的声音。
+●003698●传来了临终呼喊般的声音，但我选择了无视。
 
 ○003699○dummy
 ●003699●dummy
