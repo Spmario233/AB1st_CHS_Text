@@ -14,10 +14,10 @@
 ●000004●nothing
 
 ○000005○Looks like Iwasawa and the band are mid-practice.
-●000005●岩泽好像正在和乐队一起练习，
+●000005●岩泽似乎在和乐队一起练习。
 
 ○000006○I peeked in through a window.
-●000006●我向窗户里望了进去。
+●000006●我透过窗户，看了看里面。
 
 ○000007○nothing
 ●000007●nothing
@@ -35,10 +35,10 @@
 ●000011●nothing
 
 ○000012○I was in the Operations Team and Iwasawa was in the Diversion Team.
-●000012●我在作战执行部队里，而她属于佯攻部队。
+●000012●我属于作战执行部队，而岩泽属于佯攻部队。
 
 ○000013○I'd never actually seen her perform in a concert.
-●000013●还没有实际见到过她在演唱会上的样子。
+●000013●从来没有实际见到过她在演唱会上的样子。
 
 ○000014○nothing
 ●000014●nothing
@@ -56,10 +56,10 @@
 ●000018●nothing
 
 ○000019○I imagined her dripping with sweat as she sang with everything she had. I'm sure she'd be beautiful in that state.
-●000019●流淌着汗水，在舞台上拼命地歌唱着的样子，一定很美吧。
+●000019●在舞台上流淌着汗水，拼命地歌唱着的样子，一定很美吧。
 
 ○000020○I'd love to see her as part of the audience, some day.
-●000020●要是有机会能以观众的身份看到就好了。
+●000020●要是能有机会，作为观众去看的话就好了。
 
 ○000021○nothing
 ●000021●nothing
@@ -86,16 +86,16 @@
 ●000028●岩泽往外面走了过来。
 
 ○000029○Did she decide to take a break because she noticed me?
-●000029●是因为看到了我，还是说想要休息一下呢？
+●000029●难道是因为看到了我，所以才停止演奏了吗？
 
 ○000030○And if so, why?
-●000030●并且，原因呢？
+●000030●要是这样的话，原因是？
 
 ○000031○She wants to talk with me
 ●000031●她想和我说话
 
 ○000032○She just wants a break
-●000032●她只是想休息一下
+●000032●她单纯只是想休息一下
 
 ○000033○selbtn : 
 ●000033●selbtn : 
@@ -167,7 +167,7 @@
 ●000055●？？
 
 ○000056○(Seriously...? Has Iwasawa really started thinking of me as, y'know... someone that special...?)
-●000056●（不会吧…难道说我对岩泽而言…已经成为了…特别的存在…？）
+●000056●（不会吧…难道我…对于岩泽而言…已经成了特别的存在…？）
 
 ○000057○se_wooddoor_open2
 ●000057●se_wooddoor_open2
@@ -194,7 +194,7 @@
 ●000064●岩泽
 
 ○000065○"Hey, Yusa. Already that time, huh?"
-●000065●「哟，游佐。已经到这个时候了吗？」
+●000065●「哟，游佐。已经这时候了吗？」
 
 ○000066○Otonashi
 ●000066●音无
@@ -266,7 +266,7 @@
 ●000088●（诶诶诶诶————！？）
 
 ○000089○I turned around to find Yusa standing behind me.
-●000089●我转过身来，发现了站在身后的游佐。
+●000089●我转过身，发现游佐正站在身后。
 
 ○000090○nothing
 ●000090●nothing
@@ -287,7 +287,7 @@
 ●000095●游佐
 
 ○000096○"Correct. It's time for the daily meeting."
-●000096●「是，到了例行会议的时间了」
+●000096●「是的。到了例行会议的时间了」
 
 ○000097○nothing
 ●000097●nothing
@@ -371,7 +371,7 @@
 ●000123●？？
 
 ○000124○(Holy crap, I'm never going to live this misunderstanding down!!)
-●000124●（为什么会误会啊——！！）
+●000124●（我是怎么误会成这样的啊——！！）
 
 ○000125○nothing
 ●000125●nothing
@@ -395,7 +395,7 @@
 ●000131●「怎么了，音无？」
 
 ○000132○Lacking my teeth I couldn't talk properly, so I just shook my head.
-●000132●缺少牙齿的我说不出话来，只能摇了摇头。
+●000132●我的牙齿已经飞了，说不了话，只好摇了摇头。
 
 ○000133○Otonashi
 ●000133●音无
@@ -485,10 +485,10 @@
 ●000161●nothing
 
 ○000162○I was unspeakably embarrassed...
-●000162●无法言表的尴尬…
+●000162●真的非常羞耻…。
 
 ○000163○But still, it'd have been nice if she'd said hi to me, first...
-●000163●不过，她能对我打招呼，已经很欣慰了…
+●000163●她要是能先和我打招呼的话就好了…。
 
 ○000164○Otonashi
 ●000164●音无
@@ -764,7 +764,13 @@
 ●000254●？？
 
 ○000255○ "Also, my name's Hinata Mk. 2 now."
-●000255●「还有，我现在叫日向Mk.2」
+●000255●「还有，我现在叫日向
+
+○000256○mark
+●000256●mark
+
+○000257○Ⅱな」
+●000257●Ⅱ」
 
 ○000258○Otonashi
 ●000258●音无
@@ -1043,7 +1049,7 @@
 ●000349●「还有，我现在叫只是个色批少年」
 
 ○000350○She's just taking a break. No way Iwasawa would disrupt her practice for my sake.
-●000350●她应该只是想休息一下吧，不可能因为我而终止练习的。
+●000350●她单纯只是想休息一下而已。岩泽不可能因为我就终止练习的。
 
 ○000351○se_wooddoor_open2
 ●000351●se_wooddoor_open2
@@ -1073,10 +1079,10 @@
 ●000359●岩泽
 
 ○000360○"Hey, Yusa. Already that time, huh?"
-●000360●「哟，游佐。已经到这个时候了吗？」
+●000360●「哟，游佐。已经这时候了吗？」
 
 ○000361○I turned around to find Yusa standing behind me.
-●000361●我转过身来，发现了站在身后的游佐。
+●000361●我转过身，发现游佐正站在身后。
 
 ○000362○nothing
 ●000362●nothing
@@ -1097,7 +1103,7 @@
 ●000367●游佐
 
 ○000368○"Correct. It's time for the daily meeting."
-●000368●「是，到了例行会议的时间了」
+●000368●「是的。到了例行会议的时间了」
 
 ○000369○nothing
 ●000369●nothing
@@ -1139,10 +1145,10 @@
 ●000381●游佐
 
 ○000382○"Correct. It's time for the daily meeting."
-●000382●「是，到了例行会议的时间了」
+●000382●「是的。到了例行会议的时间了」
 
 ○000383○I was missing a tooth and couldn't really speak, so I didn't reply.
-●000383●由于我的牙齿不在，无法出声回应。
+●000383●我的牙齿已经飞了，说不了话，所以我没有出声。
 
 ○000384○Otonashi
 ●000384●音无
@@ -1211,7 +1217,7 @@
 ●000405●？？
 
 ○000406○"From out of nowhere? Again?"
-●000406●「又是突然出现吗？」
+●000406●「又突然出现了？」
 
 ○000407○nothing
 ●000407●nothing
@@ -1232,7 +1238,7 @@
 ●000412●游佐
 
 ○000413○"As I've said, you're just too dull to notice."
-●000413●「所以说，只是你太迟钝了」
+●000413●「所以说，只是你太迟钝了而已」
 
 ○000414○Otonashi
 ●000414●音无
@@ -1301,7 +1307,7 @@
 ●000435●？？
 
 ○000436○"That definitely doesn't sound right to me..."
-●000436●「我觉得并不是这样…」
+●000436●「我可不这么觉得…」
 
 ○000437○nothing
 ●000437●nothing
@@ -1322,7 +1328,7 @@
 ●000442●nothing
 
 ○000443○But then again, lacking my memories, I couldn't deny it super confidently.
-●000443●但是，由于没有记忆，所以我也无法进行反驳。
+●000443●但不管怎样，我还没有记忆，所以无法进行有效的反驳。
 
 ○000444○nothing
 ●000444●nothing
@@ -1436,10 +1442,10 @@
 ●000480●nothing
 
 ○000481○But still, to think a day would come when I'd walk side by side with Iwasawa like this...
-●000481●但是，没想到真的能有和岩泽走在一起的一天…
+●000481●然而，我从没想到，真的有一天，能和岩泽走在一起…。
 
 ○000482○Her hair was just a little bit damp with sweat... How nice...
-●000482●她的发梢被汗水浸湿了…好棒…
+●000482●她的发梢被汗水浸湿了，好棒…。
 
 ○000483○nothing
 ●000483●nothing
@@ -1526,7 +1532,7 @@
 ●000510●？？
 
 ○000511○(...Wait, what am I doing after I just embarrassed myself with that sort of crazy delusion a minute ago...?)
-●000511●（…话说，我刚才是不是也在尴尬地强忍着这种妄想…）
+●000511●（…喂，刚刚尴尬完，就开始胡思乱想了吗…）
 
 ○000512○Otonashi
 ●000512●音无
@@ -1595,7 +1601,7 @@
 ●000533●？？
 
 ○000534○(Out, worldly desires!! Out, I say!!)
-●000534●（欲望走开！！欲望走开啊——！！）
+●000534●（妖魔鬼怪快离开！！妖魔鬼怪快离开——！！）
 
 ○000535○Otonashi
 ●000535●音无
@@ -1664,10 +1670,10 @@
 ●000556●？？
 
 ○000557○(Wait, no, no worldly desires!! Out, I say!!)
-●000557●（欲望走开——！！欲望走开啊——！！）
+●000557●（妖魔鬼怪快离开！！妖魔鬼怪快离开——！！）
 
 ○000558○Her hair was just a little bit damp with sweat, and I couldn't help but stare...
-●000558●她的发梢被汗水浸湿了，导致我一直目不转睛地盯着她…
+●000558●她的发梢被汗水浸湿，勾住了我的视线…。
 
 ○000559○Otonashi
 ●000559●音无
@@ -1736,7 +1742,7 @@
 ●000580●？？
 
 ○000581○(I can't remember anything, but I'm pretty sure that Iwasawa's exactly my type...)
-●000581●（虽然什么都想不起来，但岩泽绝对是我中意的类型…）
+●000581●（虽然没有相关的记忆，但岩泽应该是我喜欢的类型…）
 
 ○000582○nothing
 ●000582●nothing
@@ -1757,25 +1763,25 @@
 ●000587●岩泽
 
 ○000588○"Eh? What's wrong? Do I stink of sweat, or something?"
-●000588●「怎么了？是我身上的汗味太重了吗？」
+●000588●「诶？怎么了？我身上的汗味太重了吗？」
 
 ○000589○I'd been lagging a bit behind her as we walked, and Iwasawa turned around to ask me why.
-●000589●岩泽转过身来，向被落在了后面的我问道。
+●000589●岩泽发现我正和她保持着一定的距离，于是突然回过头来问我。
 
 ○000590○If I say yes, she's going to treat me like a pervert.
-●000590●如果承认的话，就会被她当成变态了。
+●000590●要是在这里承认的话，就会被她当成变态了罢。
 
 ○000591○I shook my head.
 ●000591●我摇了摇头。
 
 ○000592○But, as far as sweat's concerned...
-●000592●但那可是汗味啊…
+●000592●但是，关于汗味的事…
 
 ○000593○You don't smell
 ●000593●没有味道
 
 ○000594○You smell, but it's fine
-●000594●有味道但是没关系
+●000594●有味道，但是没关系
 
 ○000595○selbtn : 
 ●000595●selbtn : 
