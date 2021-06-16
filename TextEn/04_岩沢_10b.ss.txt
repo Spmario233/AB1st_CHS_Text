@@ -1787,7 +1787,7 @@
 ●000595●selbtn : 
 
 ○000596○She really didn't smell much at all.
-●000596●她并没有什么特别的味道。
+●000596●她的身上并没有什么明显的味道。
 
 ○000597○Otonashi
 ●000597●音无
@@ -1856,10 +1856,10 @@
 ●000618●？？
 
 ○000619○(Yeah, she smells, but that's the opposite of a problem!)
-●000619●（没错，确实有味道，但这完全不是问题！）
+●000619●（确实有味道，但这不是问题！）
 
 ○000620○I pitched a tent, making it hard to walk.
-●000620●我的『帐篷』顶了起来，导致行走变得相当困难。
+●000620●我的帐篷顶了起来，导致行走变得相当困难。
 
 ○000621○Otonashi
 ●000621●音无
@@ -1928,10 +1928,10 @@
 ●000642●？？
 
 ○000643○(In my lifetime... was I always this much of a degenerate...?)
-●000643●（原来我在生前…是这么变态的吗…）
+●000643●（生前的我…是这么变态的人吗…）
 
 ○000644○That thought process was making me start to question my own self-worth.
-●000644●我不禁思考起了自己存在的价值。
+●000644●一想到这里，不禁觉得自己相当可悲。
 
 ○000645○You smell
 ●000645●有味道
@@ -2033,7 +2033,7 @@
 ●000677●岩泽
 
 ○000678○"Eh...? Seriously...? My armpits must be pretty nasty..."
-●000678●「诶…该不会…腋下出了很多汗吧…」
+●000678●「诶…？不会吧…？腋下出了很多汗吧…」
 
 ○000679○Iwasawa lifted her arm and checked her uniform for discoloration.
 ●000679●岩泽抬起了胳膊，确认制服有没有因为汗水而变色。
@@ -2042,7 +2042,7 @@
 ●000680●安慰她
 
 ○000681○Get excited watching her
-●000681●兴奋地看着她
+●000681●对此感到兴奋
 
 ○000682○selbtn : 
 ●000682●selbtn : 
@@ -2114,7 +2114,7 @@
 ●000704●？？
 
 ○000705○"No, I don't mean you stink, or anything. It's, like... a really youthful sort of odor, y'know?"
-●000705●「不，并不是说有臭味。怎么说呢…是青春的气息吧」
+●000705●「不，并不是说有臭味。怎么说呢…是能让人感受到青春的香味哦」
 
 ○000706○nothing
 ●000706●nothing
@@ -2135,7 +2135,7 @@
 ●000711●岩泽
 
 ○000712○"Oh? You sure have a way with words. You'd tell me if I actually stank, right?"
-●000712●「哦？你还挺会说话的啊。如果真的有臭味的话，麻烦告诉我好吧？」
+●000712●「是吗？你还挺会说话的啊。如果真的很臭的话，可以麻烦你告诉我吗？」
 
 ○000713○Otonashi
 ●000713●音无
@@ -2291,10 +2291,10 @@
 ●000763●？？
 
 ○000764○(I wanna sniff it straight from the source...!)
-●000764●（好想直接从源头去闻这个味道！）
+●000764●（好想直接凑上去闻…！）
 
 ○000765○I pitched a tent, making it hard to walk.
-●000765●我的『帐篷』顶了起来，导致行走变得相当困难。
+●000765●我的帐篷顶了起来，导致行走变得相当困难。
 
 ○000766○Otonashi
 ●000766●音无
@@ -2363,10 +2363,10 @@
 ●000787●？？
 
 ○000788○(In my lifetime... was I always this much of a degenerate...?)
-●000788●（原来我在生前…是这么变态的吗…）
+●000788●（生前的我…是这么变态的人吗…）
 
 ○000789○That thought process was making me start to question my own self-worth.
-●000789●我不禁思考起了自己存在的价值。
+●000789●一想到这里，不禁觉得自己相当可悲。
 
 ○000790○nothing
 ●000790●nothing
@@ -2387,7 +2387,7 @@
 ●000795●岩泽
 
 ○000796○"Hey, what? Say something..."
-●000796●「喂，你倒是说点什么啊…」
+●000796●「那个，你倒是，说点什么啊…」
 
 ○000797○Otonashi
 ●000797●音无
@@ -2567,7 +2567,7 @@
 ●000855●岩泽
 
 ○000856○"Then don't walk behind me like that... It's making me think something's wrong..."
-●000856●「所以，不要走在那个位置啊…很容易让人误会的吧…」
+●000856●「那就别走得那么靠后啊…会让我产生奇怪的想法的…」
 
 ○000857○Otonashi
 ●000857●音无
@@ -2657,13 +2657,13 @@
 ●000885●岩泽
 
 ○000886○"No, it's not like it's a problem, exactly..."
-●000886●「不，这样没什么不好的…」
+●000886●「不，倒也不是说不好…」
 
 ○000887○Huh? Was it just me, or did that response seem kind of embarrassed...?
-●000887●诶？怎么回事，这个害羞的反应…
+●000887●诶？怎么回事啊，这种害羞的反应…。
 
 ○000888○Now I'm curious...
-●000888●好在意…
+●000888●开始在意起来了…。
 
 ○000889○Otonashi
 ●000889●音无
@@ -2753,7 +2753,7 @@
 ●000917●岩泽
 
 ○000918○"You go on without me."
-●000918●「那么，你先走吧」
+●000918●「那你先走吧」
 
 ○000919○Otonashi
 ●000919●音无
@@ -2843,7 +2843,7 @@
 ●000947●岩泽
 
 ○000948○"I am a girl, you know? I'd rather not walk around with someone following after me sniffing me the whole time."
-●000948●「作为女性，我可不想被一个对别人的汗味感兴趣的男人一直跟踪着」
+●000948●「我也是女孩子啊。我可不想被一个对别人的汗味感兴趣的男人一直跟踪着」
 
 ○000949○Otonashi
 ●000949●音无
@@ -2933,7 +2933,7 @@
 ●000977●nothing
 
 ○000978○I think I creeped her out a bit...?
-●000978●是不是吓到她了…？
+●000978●是不是有点吓到她了…？
 
 ○000979○You smell
 ●000979●有味道
@@ -2945,7 +2945,7 @@
 ●000981●selbtn : 
 
 ○000982○Otonashi + Iwasawa
-●000982●音无 + 岩泽
+●000982●音无+岩泽
 
 ○000983○"No God, no Buddha, no Angels."
 ●000983●「既无神佛，亦无天使」
@@ -2954,10 +2954,10 @@
 ●000984●se_key_open
 
 ○000985○I heard the clacking sound of the trap disarming itself.
-●000985●陷阱解除的咔嚓声。
+●000985●陷阱解除的咔嚓声响起。
 
 ○000986○I followed Iwasawa into headquarters, where everyone else was already gathered.
-●000986●我和岩泽进入了作战总部，其他人早就已经等着了。
+●000986●我跟在岩泽后面，走进了作战总部。其他人早就已经到齐了。
 
 ○000987○nothing
 ●000987●nothing
@@ -2996,7 +2996,7 @@
 ●000998●大山
 
 ○000999○"More importantly, is anyone else reading something into them showing up together!?"
-●000999●「比起这个，就没人吐槽他们在一起的事情吗！？」
+●000999●「比起这个，就没人在意一下他们在一起的事情吗！？」
 
 ○001000○nothing
 ●001000●nothing
@@ -3017,7 +3017,7 @@
 ●001005●？？
 
 ○001006○"Plus, they were totally said the password in unison and all."
-●001006●「而且，他们念密码的时候也很一致」
+●001006●「而且，他们念密码的时候也很同步」
 
 ○001007○nothing
 ●001007●nothing
@@ -3032,10 +3032,10 @@
 ●001010●松下
 
 ○001011○"Indeed, and they said the password perfectly in sync, too."
-●001011●「嗯，气息也很同步呢」
+●001011●「唔姆，念密码时的气息也很同步」
 
 ○001012○What're you people saying all of a sudden!?
-●001012●这些人突然在说什么呢！？
+●001012●这些人，突然在说些什么啊！？
 
 ○001013○nothing
 ●001013●nothing
@@ -3098,7 +3098,7 @@
 ●001032●岩泽
 
 ○001033○"It's just a coincidence. There's nothing to read into."
-●001033●「只是巧合而已。不要过度解读了」
+●001033●「只是巧合而已，没什么好解读的」
 
 ○001034○nothing
 ●001034●nothing
@@ -3212,7 +3212,7 @@
 ●001070●？？
 
 ○001071○(Why're you looking relieved about that...!?)
-●001071●（为什么你看起来一脸解脱的样子啊…！？）
+●001071●（为什么你看起来一幅松了口气的样子啊…！？）
 
 ○001072○nothing
 ●001072●nothing
@@ -3299,7 +3299,7 @@
 ●001099●？？
 
 ○001100○(But, for some reason when she denied it, I felt a sort of ache in my chest... What is this pain...?)
-●001100●（但是，为什么岩泽否定的话语，会刺痛我的内心呢…？）
+●001100●（但是，为什么在岩泽否定的时候，胸口会一阵刺痛？这种痛感是什么…？）
 
 ○001101○nothing
 ●001101●nothing
@@ -3320,7 +3320,7 @@
 ●001106●岩泽
 
 ○001107○"It's just a coincidence. There's nothing to read into."
-●001107●「只是巧合而已。不要过度解读了」
+●001107●「只是巧合而已，没什么好解读的」
 
 ○001108○nothing
 ●001108●nothing
@@ -3407,7 +3407,7 @@
 ●001135●？？
 
 ○001136○(Huh? For some reason when she denied it, I felt a sort of ache in my chest... What is this pain...?)
-●001136●（诶，为什么岩泽否定的话语，会刺痛我的内心呢…？）
+●001136●（诶？为什么在岩泽否定的时候，胸口会一阵刺痛？这种痛感是什么…？）
 
 ○001137○nothing
 ●001137●nothing
@@ -3428,7 +3428,7 @@
 ●001142●高松
 
 ○001143○"So, now that everyone's gathered, what sort of operation will we be running next?"
-●001143●「那么，所有人都到齐了，下一次的行动是什么呢？」
+●001143●「那么，所有人都到齐了，接下来要开展怎样的作战呢？」
 
 ○001144○dummy
 ●001144●dummy
