@@ -4502,7 +4502,7 @@
 ●001522●nothing
 
 ○001523○She flopped down and sat on the floor.
-●001523●她猛地坐下，瘫倒在了地板上。
+●001523●她猛地坐下，瘫倒在了地板上。（猛地？应该是晃晃悠悠地倒下去的吧）
 
 ○001524○nothing
 ●001524●nothing
@@ -4874,7 +4874,7 @@
 ●001646●？？
 
 ○001647○"You didn't, like, politely ask to borrow it or anything, right?"
-●001647●「你没有，呃，非常礼貌地借过来吧？」
+●001647●「你不是，呃，非常礼貌地借过来的吧？」
 
 ○001648○nothing
 ●001648●nothing
@@ -5162,7 +5162,7 @@
 ●001742●「咕…」
 
 ○001743○Hisako's face turned red with indignation, and she was just starting to advance upon Yui when Sekine and Irie jumped in to hold her back.
-●001743●久子的脸因愤怒而变得通红，正准备靠近由依的时候，被关根和入江阻止住了。
+●001743●久子气得脸通红，正准备靠近由依的时候，被关根和入江阻止住了。
 
 ○001744○nothing
 ●001744●nothing
@@ -6851,7 +6851,7 @@
 ●002305●由依
 
 ○002306○"But, mom would always be there for me with a smile, anyway... Looking back now, she must've been doing everything she possibly could to put me at ease..."
-●002306●「但是，妈妈的脸上总是带着笑容…现在想起来的话，她应该是在最大限度地为我着想吧…」
+●002306●「但是，妈妈的脸上总是挂着笑容…现在想起来的话，她应该是在尽最大努力为我着想吧…」
 
 ○002307○Otonashi
 ●002307●音无
@@ -8363,7 +8363,7 @@
 ●002809●？？
 
 ○002810○"Don't talk about dangerous stuff like that so casually."
-●002810●「不要把这么危险的东西说的这么随意」
+●002810●「可别把这么危险的东西说的这么随意」
 
 ○002811○But if she says that's what she wants to do, it's my job to make it happen... no matter how crazy it might be.
 ●002811●但是，既然她说想做的话，那么我的任务就是将其实现…。不管是多么荒唐的事情。
