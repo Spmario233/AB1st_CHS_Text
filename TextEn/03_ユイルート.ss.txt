@@ -1013,7 +1013,7 @@
 ●000337●决定了。
 
 ○000338○Our long, long battle... begins with Yui.
-●000338●从由依开始的漫长的…漫长的战斗开始了。
+●000338●就从由依开始这漫长的…漫长的战斗吧。
 
 ○000339○The next day, I met up with Kanade in front of the incinerator and told her about the conclusion I'd reached.
 ●000339●第二天，我在焚化炉前面和奏碰了头，告诉她自己已经决定了。
@@ -1199,7 +1199,7 @@
 ●000399●？？
 
 ○000400○"Y'know, the girl who did the vocals for the guerrilla concert in the cafeteria the other day. Remember her?"
-●000400●「就是上次在食堂的游击演唱会上担任主唱的家伙，还记得吧？」
+●000400●「就是上次在食堂的佯攻演唱会上担任主唱的家伙，还记得吧？」
 
 ○000401○nothing
 ●000401●nothing
@@ -1286,7 +1286,7 @@
 ●000428●？？
 
 ○000429○"She's always full of energy, smiling away while she's tormenting Hinata... She got to be the vocalist in a band, too, which she always wanted to do... so... I think she's probably pretty fulfilled already."
-●000429●「她总是很有精神，笑着欺负日向…也成为了乐队的主唱，做了自己满足的事情…所以我觉得她应该已经很满足了」
+●000429●「她总是很有精神，嬉皮笑脸欺负日向…也当上了一直很向往的乐队的主唱…所以我觉得她应该已经很满足了」
 
 ○000430○Otonashi
 ●000430●音无
@@ -1454,7 +1454,7 @@
 ●000484●？？
 
 ○000485○"I guess that means you approve? All right, let's do it, then."
-●000485●「赞成吗。好，那么，开始吧」
+●000485●「赞成吗？好，那么，开始吧」
 
 ○000486○Otonashi
 ●000486●音无
@@ -1937,7 +1937,7 @@
 ●000653●？？
 
 ○000654○"Also, do you think you could make wings?"
-●000654●「然后，翅膀，能做得出来吗」
+●000654●「然后，翅膀，能做得出来吗？」
 
 ○000655○nothing
 ●000655●nothing
@@ -2246,7 +2246,7 @@
 ●000764●？？
 
 ○000765○"Thanks to the Naoi incident, GirlDeMo'll have a guard posted on them for a while. Everyone in the top brass rotates through guard duty."
-●000765●「多亏了直井的那件事，GDM现在暂时由专人保护着，所有的干部轮流负责」
+●000765●「自从直井的那件事，GDM现在暂时由专人保护着，所有的干部轮流负责」
 
 ○000766○Otonashi
 ●000766●音无
@@ -4502,7 +4502,7 @@
 ●001522●nothing
 
 ○001523○She flopped down and sat on the floor.
-●001523●她猛地坐下，瘫倒在了地板上。
+●001523●她猛地坐下，瘫倒在了地板上。（猛地？应该是晃晃悠悠地倒下去的吧）
 
 ○001524○nothing
 ●001524●nothing
@@ -4874,7 +4874,7 @@
 ●001646●？？
 
 ○001647○"You didn't, like, politely ask to borrow it or anything, right?"
-●001647●「你没有，呃，非常礼貌地借过来吧？」
+●001647●「你不是，呃，非常礼貌地借过来的吧？」
 
 ○001648○nothing
 ●001648●nothing
@@ -5162,7 +5162,7 @@
 ●001742●「咕…」
 
 ○001743○Hisako's face turned red with indignation, and she was just starting to advance upon Yui when Sekine and Irie jumped in to hold her back.
-●001743●久子的脸因愤怒而变得通红，正准备靠近由依的时候，被关根和入江阻止住了。
+●001743●久子气得脸通红，正准备靠近由依的时候，被关根和入江阻止住了。
 
 ○001744○nothing
 ●001744●nothing
@@ -6851,7 +6851,7 @@
 ●002305●由依
 
 ○002306○"But, mom would always be there for me with a smile, anyway... Looking back now, she must've been doing everything she possibly could to put me at ease..."
-●002306●「但是，妈妈的脸上总是带着笑容…现在想起来的话，她应该是在最大限度地为我着想吧…」
+●002306●「但是，妈妈的脸上总是挂着笑容…现在想起来的话，她应该是在尽最大努力为我着想吧…」
 
 ○002307○Otonashi
 ●002307●音无
@@ -8363,7 +8363,7 @@
 ●002809●？？
 
 ○002810○"Don't talk about dangerous stuff like that so casually."
-●002810●「不要把这么危险的东西说的这么随意」
+●002810●「可别把这么危险的东西说的这么随意」
 
 ○002811○But if she says that's what she wants to do, it's my job to make it happen... no matter how crazy it might be.
 ●002811●但是，既然她说想做的话，那么我的任务就是将其实现…。不管是多么荒唐的事情。
@@ -26433,7 +26433,7 @@
 ●008874●我拿着球棒来回挥动了好几次。
 
 ○008875○I tried to drive in the image of me rotating my waist to help carry my lower body's power all the way into the swing of the bat.
-●008875●尝试着表现出先转动腰部，从而击中下半身的力量，用力挥棒的形象。
+●008875●尝试着表现出先转动腰部，从而集中下半身的力量，用力挥棒的形象。
 
 ○008876○nothing
 ●008876●nothing
@@ -35253,7 +35253,7 @@
 ●011832●诊断结果是『无法治疗』。
 
 ○011833○The whole baseball club was called together for a meeting about what we would do with the dog. Once again, I couldn't even begin to see the point.
-●011833●同样完全无法理解的是，棒球部为了讨论如何处理这条狗而展开了回忆。
+●011833●同样完全无法理解的是，棒球部为了讨论如何处理这条狗，甚至还开了个会。
 
 ○011834○Who gives a crap, right? Why can't we just practice? Our careers and futures are on the line here, you know?
 ●011834●这种事怎样都无所谓吧？练习呢？那可是关系到我们的前途和未来的吧？
