@@ -3428,7 +3428,7 @@
 ●001142●高松
 
 ○001143○"So, now that everyone's gathered, what sort of operation will we be running next?"
-●001143●「那么，所有人都到齐了，接下来要开展怎样的作战呢？」
+●001143●「那么，所有人都到齐了，这次要开展怎样的作战呢？」
 
 ○001144○dummy
 ●001144●dummy

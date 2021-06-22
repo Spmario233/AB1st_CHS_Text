@@ -1,5 +1,5 @@
 ○000000○I left headquarters without a backwards glance and chased after Iwasawa.
-●000000●我离开了作战总部，头也不回地追上了岩泽。
+●000000●我头也不回地跑出作战总部，追赶上了岩泽。
 
 ○000001○Otonashi
 ●000001●音无
@@ -68,7 +68,7 @@
 ●000022●？？
 
 ○000023○"Hey, how're we gonna go about picking the rest of the members for the GirlDeMo team? What are our standards?"
-●000023●「呐，GDM队剩下的成员该怎么办呢？有什么选择的标准吗？」
+●000023●「那个，GDM队剩下的成员要怎么选，标准是什么？」
 
 ○000024○nothing
 ●000024●nothing
@@ -86,7 +86,7 @@
 ●000028●nothing
 
 ○000029○Iwasawa stopped and turned to face me. She looked almost a bit too calm.
-●000029●岩泽停下了脚步，转过身来，显得相当的冷静。
+●000029●岩泽转过身来，停下了脚步。她的表情十分冷静。
 
 ○000030○nothing
 ●000030●nothing
@@ -107,7 +107,7 @@
 ●000035●岩泽
 
 ○000036○"No need to think about it that seriously. When all's said and done, we're still the Diversion Team. Meaning winning the tournament's totally hopeless."
-●000036●「没必要这么认真地去考虑。我们毕竟是佯攻部队，根本没有获胜的可能」
+●000036●「没必要认真去想。我们只是佯攻部队而已。也就是说，根本没有获胜的可能」
 
 ○000037○nothing
 ●000037●nothing
@@ -128,7 +128,7 @@
 ●000042●岩泽
 
 ○000043○"We'll just gather up nine people, participate, and if we manage to win even a single match we'll call it a lucky win overall."
-●000043●「总之凑够九个人，然后参战，哪怕能赢一局都算是走运了」
+●000043●「总之凑够九个人，然后参战，哪怕能赢一局都算走运了」
 
 ○000044○Otonashi
 ●000044●音无
@@ -197,7 +197,7 @@
 ●000065●？？
 
 ○000066○"Are you saying that the GirlDeMo team hasn't won any matches during these guerrilla operations in the past?"
-●000066●「也就是说，整个GDM队在游击行动中一局都没有赢过吗？」
+●000066●「难道是，整个GDM队，在游击作战中一次都没赢过吗？」
 
 ○000067○nothing
 ●000067●nothing
@@ -218,7 +218,7 @@
 ●000072●岩泽
 
 ○000073○"Nope. Not even once."
-●000073●「嗯，一局都没有」
+●000073●「嗯。一次都没有」
 
 ○000074○nothing
 ●000074●nothing
@@ -239,19 +239,19 @@
 ●000079●岩泽
 
 ○000080○"But we've been in this world for ages and we've played in tournament after tournament as a result, so the four of us have gotten gradually better as time's gone on."
-●000080●「但是，我们四个人在这个世界里已经参加了无数次球技大赛了，所以水平也在一点点地提高。」
+●000080●「但是，我们四个人已经在这个永恒的世界里重复参加了无数次球技大赛了，水平应该有在一点点地提高」
 
 ○000081○I see... They've been here for a crazy long time, huh?
-●000081●是吗…她们已经在这里待了这么长时间啊。
+●000081●这样啊…她们已经在这里待了这么久，一直到现在吗。
 
 ○000082○It seemed the GirlDeMo members might be a lot more reliable than an amnesiac like me.
-●000082●看来GDM成员们比我这个失忆症患者要靠谱得多了。
+●000082●看来GDM的成员们会比我这个失忆症患者靠谱得多。
 
 ○000083○se_wooddoor_open2
 ●000083●se_wooddoor_open2
 
 ○000084○I accompanied Iwasawa to their club room, and followed her inside.
-●000084●我跟着岩泽一起进入了社团活动室。
+●000084●我跟着岩泽，来到了社团活动室。然后跟着她走了进去。
 
 ○000085○nothing
 ●000085●nothing
@@ -266,13 +266,13 @@
 ●000088●久子
 
 ○000089○"What's going on?"
-●000089●「有什么事吗？」
+●000089●「怎么回事？」
 
 ○000090○Iwasawa
 ●000090●岩泽
 
 ○000091○"Just the usual, gearing up for the tournament."
-●000091●「按照惯例参加球技大赛，就是这样」
+●000091●「老惯例，参加球技大赛」
 
 ○000092○nothing
 ●000092●nothing
@@ -293,7 +293,7 @@
 ●000097●入江
 
 ○000098○"It's already that time of year, is it?"
-●000098●「又到了每年的这个时候了啊」
+●000098●「又到了每年的这个时候了呢」
 
 ○000099○nothing
 ●000099●nothing
@@ -314,7 +314,7 @@
 ●000104●久子
 
 ○000105○"So, if that guy's here, does that mean he's on our team?"
-●000105●「所以，既然那家伙也在这里，他也会加入我们的吧？」
+●000105●「所以，既然那家伙在这里，他也会加入我们队的吧？」
 
 ○000106○Otonashi
 ●000106●音无
@@ -404,7 +404,7 @@
 ●000134●久子
 
 ○000135○"This is just a rumor I heard, but... didn't you die halfway through the Guild Descent Operation?"
-●000135●「虽然只是道听途说…你好像在Guild空降行动的半路上死掉了吧？」
+●000135●「虽然只是道听途说…但你好像在Guild空降行动的中途死掉了吧？」
 
 ○000136○Otonashi
 ●000136●音无
@@ -473,7 +473,7 @@
 ●000157●？？
 
 ○000158○"You probably only know how that ended, right? I worked a lot harder than the rest of the top brass back then, y'know?"
-●000158●「你只知道最后的结果吧？比起其他的干部，我活的要久的多了哦？」
+●000158●「你所知道的，只是最后的结果而已吧。我存活的时间，比其他的干部长的多哦？」
 
 ○000159○Otonashi
 ●000159●音无
@@ -542,10 +542,10 @@
 ●000180●？？
 
 ○000181○"Umm, about that... You probably only know how that ended, right? I worked a lot harder than the rest of the top brass back then, y'know?"
-●000181●「呃，关于这个…你只知道最后的结果吧？比起其他的干部，我活的要久的多了哦？」
+●000181●「呃那个…你只知道最后的结果而已吧？我存活的时间，比其他的干部长的多哦？」
 
 ○000182○In actuality I'd died on the first trap, so I couldn't keep my voice from wavering a little...
-●000182●其实我在第一个陷阱上就死了，因此声音有点颤抖…
+●000182●其实我在第一个陷阱上就死了，所以声音稍微有点颤抖…。
 
 ○000183○Otonashi
 ●000183●音无
@@ -614,10 +614,10 @@
 ●000204●？？
 
 ○000205○"A-About that... You probably only know how that ended, right? I worked a lot harder than the rest of the top brass back then, y'know?"
-●000205●「关于这个…你只知道最后的结果吧？比起其他的干部，我活的要久的多了哦？」
+●000205●「关于这件事…你只知道最后的结果而已吧？我存活的时间，比其他的干部长的多哦？」
 
 ○000206○Since I'd been killed by a trap halfway though, I couldn't keep my voice from wavering a little...
-●000206●由于我死在了中途的陷阱上，因此声音有点颤抖…
+●000206●我死在了中途的陷阱上，所以声音稍微有点颤抖…。
 
 ○000207○Otonashi
 ●000207●音无
@@ -686,10 +686,10 @@
 ●000228●？？
 
 ○000229○"A-About that... You probably only know how that ended, right? I worked a lot harder than the rest of the top brass back then, y'know?"
-●000229●「关于这个…你只知道最后的结果吧？比起其他的干部，我活的要久的多了哦？」
+●000229●「关于这件事…你只知道最后的结果而已吧？我存活的时间，比其他的干部长的多哦？」
 
 ○000230○Since gotten myself killed recklessly trying to take on a trap halfway though, I couldn't keep my voice from wavering a little...
-●000230●由于我在中途作死挑战了陷阱而死，因此声音有点颤抖…
+●000230●我因为盲目挑战而死在了中途的陷阱上，所以声音稍微有点颤抖…。
 
 ○000231○Otonashi
 ●000231●音无
